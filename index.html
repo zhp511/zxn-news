@@ -7,9 +7,12 @@
 <meta name="description" content="ZXN news: stories from @zxnbluehandus on X. Bluehand ZXN and Patriot One Network.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,700&family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/leaflet.css">
 <link rel="stylesheet" href="assets/styles.css">
+<link rel="stylesheet" href="assets/weather.css">
 </head>
 <body>
+<div id="alert-banner" class="alert-banner" role="region" aria-label="Severe weather alerts" hidden></div>
 <div class="flagbar"><span></span><span></span><span></span></div>
 <header class="masthead">
   <div class="wrap mast-inner">
@@ -23,6 +26,8 @@
   <nav class="nav">
     <div class="wrap nav-inner">
       <a href="#top-story">Top Story</a>
+      <a href="#weather">Weather</a>
+      <a href="#wx-alerts-anchor">Alerts</a>
       <a href="#latest">Latest</a>
       <a href="#about">About</a>
       <a href="https://x.com/zxnbluehandus" target="_blank" rel="noopener">@zxnbluehandus</a>
@@ -37,6 +42,53 @@
       <h2 class="section-label">Just In</h2>
       <ol id="justin" class="justin"></ol>
     </aside>
+  </section>
+
+
+  <section id="weather" class="wx">
+    <div class="wx-head">
+      <h2 class="section-label big">ZXN Weather Center</h2>
+      <form id="wx-search" class="wx-search" autocomplete="off" role="search">
+        <input id="wx-q" type="search" placeholder="Search a city (e.g. Pensacola, Nashville)…" aria-label="Search a city">
+        <button class="wx-btn" type="submit">Search</button>
+        <button class="wx-btn red" type="button" id="wx-locate">📍 Use my location</button>
+        <ul id="wx-results" class="wx-results" hidden></ul>
+      </form>
+    </div>
+    <div id="wx-storms" class="wx-storms"></div>
+    <div class="wx-grid">
+      <div class="wx-mapcol">
+        <div id="wx-map" class="wx-map" aria-label="Weather radar map"></div>
+        <div class="wx-controls">
+          <button id="rv-play" type="button" aria-pressed="false">▶ Play</button>
+          <button id="rv-prev" type="button" aria-label="Previous frame">◀</button>
+          <button id="rv-next" type="button" aria-label="Next frame">▶</button>
+          <input id="rv-slider" type="range" min="0" max="0" value="0" aria-label="Radar frame">
+          <span id="rv-time">Loading radar…</span>
+          <label title="Radar opacity">Opacity <input id="rv-opacity" type="range" min="10" max="100" value="70"></label>
+          <label><input id="lyr-radar" type="checkbox" checked> Radar</label>
+          <label><input id="lyr-alerts" type="checkbox" checked> Alerts</label>
+          <label><input id="lyr-storms" type="checkbox" checked> Hurricane track</label>
+        </div>
+        <div id="wx-legend" class="wx-legend">Loading NWS alerts…</div>
+      </div>
+      <aside class="wx-side">
+        <div id="wx-now" class="wx-now">Loading conditions…</div>
+        <div class="wx-alerts-box" id="wx-alerts-anchor">
+          <h3>⚠ Alerts for <span id="wx-alerts-place">…</span></h3>
+          <div id="wx-alerts"><p class="muted">Loading…</p></div>
+        </div>
+      </aside>
+    </div>
+    <h3 class="sub">Next 24 hours</h3>
+    <div id="wx-hourly" class="wx-hourly"></div>
+    <h3 class="sub">7-day forecast</h3>
+    <div id="wx-daily" class="wx-days"></div>
+    <p class="wx-attrib">Click anywhere on the map to get the forecast and alerts for that spot. Radar &copy; <a href="https://www.rainviewer.com/" target="_blank" rel="noopener">RainViewer</a> ·
+      Forecast: <a href="https://open-meteo.com/" target="_blank" rel="noopener">Open-Meteo</a> (CC BY 4.0) ·
+      Alerts: <a href="https://www.weather.gov/" target="_blank" rel="noopener">National Weather Service</a> · Hurricane track: <a href="https://www.nhc.noaa.gov/" target="_blank" rel="noopener">NOAA National Hurricane Center</a> ·
+      Map data &copy; <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a> contributors.
+      For life-safety decisions, always follow official NWS and local emergency guidance.</p>
   </section>
 
   <section id="latest">
@@ -55,5 +107,8 @@
   </div>
 </footer>
 <script src="assets/app.js"></script>
+<script src="assets/leaflet.js"></script>
+<script src="assets/alerts.js"></script>
+<script src="assets/weather.js"></script>
 </body>
 </html>

@@ -124,3 +124,7 @@ img{max-width:100%;display:block}
   .about{grid-template-columns:1fr;text-align:left}
   .featured .body{padding:18px}
 }
+/* keep long single-line chips from widening grid columns on phones */
+.top > *, .grid > *, .wx-grid > *{min-width:0}
+.linkchip{min-width:0}
+.linkchip span{min-width:0}
