@@ -77,7 +77,9 @@
     const posts = data.posts.filter((p) => !p.hidden).sort((a, b) => b.created_at.localeCompare(a.created_at));
     // Top story = most-viewed post that has its own photo/video.
     const withMedia = posts.filter((p) => p.image_source === "post");
-    const featured = (withMedia.length ? withMedia : posts).slice().sort((a, b) => (b.metrics.impression_count || 0) - (a.metrics.impression_count || 0))[0];
+    // A pin set by the site owner (data.pinned_top) wins; otherwise pick automatically.
+    const pinned = data.pinned_top && posts.find((p) => p.id === data.pinned_top);
+    const featured = pinned || (withMedia.length ? withMedia : posts).slice().sort((a, b) => (b.metrics.impression_count || 0) - (a.metrics.impression_count || 0))[0];
     const rest = posts.filter((p) => p !== featured);
 
     $("featured").innerHTML = `${media(featured, true)}<div class="body">${kickerLabel(featured)} <span class="kicker">Top Story</span>

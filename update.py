@@ -9,7 +9,7 @@ HOW TO REFRESH
    using these parameters:
        max_results=25
        exclude=retweets,replies
-       post.fields=created_at,public_metrics,attachments,entities,note_tweet
+       post.fields=created_at,public_metrics,attachments,entities,note_tweet,referenced_tweets
        expansions=attachments.media_keys
        media.fields=url,preview_image_url,type,width,height,alt_text
    Repeat with pagination_token=<meta.next_token> for more pages (2-4 pages is plenty).
@@ -21,6 +21,10 @@ HOW TO REFRESH
    If you have a bearer token you can let this script do step 1+2:   X_BEARER_TOKEN=... python3 update.py --fetch 3
 3. Run:   python3 update.py
    -> writes data/posts.json and downloads post/link-card images into images/.
+   The Top Story pin lives in data/site_config.json ("pinned_top": "<post id>" or null).
+   This script only READS that file and copies the pin into posts.json; it never changes it.
+   Only the site owner (in chat) changes the pin. Posts on X never change it, including
+   "make this top story" quote-posts, which are hidden as editorial notes.
 4. Reload index.html (served over http, e.g.  python3 -m http.server 8080).
 
 Nothing is invented: headlines come from the first line of each post (or, for link-only
@@ -47,7 +51,7 @@ def fetch_from_api(pages):
     user = get(f"https://api.x.com/2/users/{USER_ID}?user.fields=description,profile_image_url,"
                "profile_banner_url,public_metrics,name,username,location,created_at")["data"]
     params = {"max_results": 25, "exclude": "retweets,replies",
-              "post.fields": "created_at,public_metrics,attachments,entities,note_tweet",
+              "post.fields": "created_at,public_metrics,attachments,entities,note_tweet,referenced_tweets",
               "expansions": "attachments.media_keys",
               "media.fields": "url,preview_image_url,type,width,height,alt_text"}
     out, token_ = [], None
@@ -90,6 +94,9 @@ def kicker(url):
     return "Link"
 
 
+CONFIG = os.path.join(ROOT, "data", "site_config.json")
+# Short notes like "Make this top story" / "pin this" / "put this on the front page".
+EDITORIAL_RE = re.compile(r"\b(top story|lead story|main story|front ?page|pin (this|it)|feature (this|it)|headline (this|it))\b", re.I)
 TEST_RE = re.compile(r"^(test|testing)(\s+(in|\d+))?(\s+youtube live)?$", re.I)
 
 
@@ -103,6 +110,13 @@ def build():
     posts, seen = [], set()
     allp = [t for p in raw["pages"] for t in p.get("data", [])]
     allp.sort(key=lambda t: t["created_at"], reverse=True)
+    # de-duplicate by id (refresh pages can overlap)
+    _seen_ids, _uniq = set(), []
+    for t in allp:
+        if t["id"] not in _seen_ids:
+            _seen_ids.add(t["id"]); _uniq.append(t)
+    allp = _uniq
+    own_ids = set(_seen_ids)
     for t in allp:
         note = t.get("note_tweet") or {}
         text = html.unescape(note.get("text") or t["text"])
@@ -158,7 +172,13 @@ def build():
             images.append({"src": local, "type": "link_card"})
             img_src = "link_card"
         hidden, reason = False, None
-        if TEST_RE.match(bare) or (card_title or "").lower().startswith("happening now: test"):
+        quoted_ids = [r["id"] for r in (t.get("referenced_tweets") or []) if r.get("type") == "quoted"]
+        quotes_own = any(q in own_ids for q in quoted_ids) or any(
+            "/zxnbluehandus/status/" in (u.get("expanded_url") or "") for u in urls)
+        if len(bare) <= 80 and EDITORIAL_RE.search(bare) and (quotes_own or quoted_ids or not urls or len(bare) <= 40):
+            # editorial note to the site owner, not a story. Never changes the pin.
+            hidden, reason = True, "editorial note (quote-post)" if quoted_ids else "editorial note"
+        elif TEST_RE.match(bare) or (card_title or "").lower().startswith("happening now: test"):
             hidden, reason = True, "test post"
         elif bare.startswith("@") or (len(bare) < 10 and not card):
             hidden, reason = True, "reply-style / too short"
@@ -189,10 +209,15 @@ def build():
         user["avatar_local"] = download(user["profile_image_url"].replace("_normal", "_400x400"), "avatar.jpg")
     if user.get("profile_banner_url"):
         user["banner_local"] = download(user["profile_banner_url"] + "/1500x500", "banner.jpg")
-    out = {"generated_from": "data/raw_pages.json", "fetched_at": raw.get("fetched_at"), "user": user, "posts": posts}
+    config = json.load(open(CONFIG)) if os.path.exists(CONFIG) else {}
+    pinned = config.get("pinned_top")
+    if pinned and not any(p["id"] == pinned and not p["hidden"] for p in posts):
+        print(f"  ! pinned_top {pinned} is not among the visible posts; the page will fall back to the automatic Top Story")
+    out = {"generated_from": "data/raw_pages.json", "fetched_at": raw.get("fetched_at"),
+           "pinned_top": pinned, "user": user, "posts": posts}
     json.dump(out, open(OUT, "w"), ensure_ascii=False, indent=1)
     vis = [p for p in posts if not p["hidden"]]
-    print(f"wrote {OUT}: {len(posts)} posts, {len(vis)} visible, {len(posts)-len(vis)} hidden")
+    print(f"wrote {OUT}: {len(posts)} posts, {len(vis)} visible, {len(posts)-len(vis)} hidden, pinned_top={pinned}")
     for p in posts:
         if p["hidden"]:
             print(f"  hidden ({p['hidden_reason']}): {p['original_text'][:60]!r}")
