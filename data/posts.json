@@ -1,6 +1,6 @@
 {
  "generated_from": "data/raw_pages.json",
- "fetched_at": "2026-10-09T18:15:40Z",
+ "fetched_at": "2026-10-09T19:07:36Z",
  "user": {
   "id": "2011476148178599939",
   "username": "zxnbluehandus",
@@ -22,6 +22,39 @@
   "banner_local": "images/banner.jpg"
  },
  "posts": [
+  {
+   "id": "2108635147318784214",
+   "url": "https://x.com/zxnbluehandus/status/2108635147318784214",
+   "created_at": "2026-10-09T19:06:10.000Z",
+   "headline": "🔴 LIVE - CAT 3 HURRICANE ISAIAS LANDFALL - STORM CHASERS & SURGE CAMS DE...",
+   "headline_source": "post",
+   "text": "🔴 LIVE - CAT 3 HURRICANE ISAIAS LANDFALL - STORM CHASERS & SURGE CAMS DE...  via @YouTube",
+   "original_text": "🔴 LIVE - CAT 3 HURRICANE ISAIAS LANDFALL - STORM CHASERS & SURGE CAMS DE... https://t.co/k1wknCFEM7 via @YouTube",
+   "metrics": {
+    "bookmark_count": 0,
+    "impression_count": 59,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "images": [
+    {
+     "src": "images/2108635147318784214_card.jpg",
+     "type": "link_card"
+    }
+   ],
+   "image_source": "link_card",
+   "link": {
+    "url": "https://www.youtube.com/live/naxJDOglaNs?si=9CbTBKM0oUkxe3Vr",
+    "display": "youtube.com/live/naxJDOgla…",
+    "title": "🔴 LIVE - CAT 3 HURRICANE ISAIAS LANDFALL - STORM CHASERS & SURGE CAMS DEPLOYED",
+    "kicker": "Video"
+   },
+   "has_video": false,
+   "hidden": false,
+   "hidden_reason": null
+  },
   {
    "id": "2108616807942652225",
    "url": "https://x.com/zxnbluehandus/status/2108616807942652225",
