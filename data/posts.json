@@ -1,6 +1,6 @@
 {
  "generated_from": "data/raw_pages.json",
- "fetched_at": "2026-10-09T19:07:36Z",
+ "fetched_at": "2026-10-10T03:41:30Z",
  "pinned_top": "2108635147318784214",
  "user": {
   "id": "2011476148178599939",
@@ -23,6 +23,34 @@
   "banner_local": "images/banner.jpg"
  },
  "posts": [
+  {
+   "id": "2108764626473439467",
+   "url": "https://x.com/zxnbluehandus/status/2108764626473439467",
+   "created_at": "2026-10-10T03:40:40.000Z",
+   "headline": "#ZXN #xlive #wearethepeople #bluehand #PON #tellmeyourstory #ZXNWEATHER",
+   "headline_source": "post",
+   "text": "#ZXN #xlive #wearethepeople #bluehand  #PON #tellmeyourstory   #ZXNWEATHER",
+   "original_text": "#ZXN #xlive #wearethepeople #bluehand  #PON #tellmeyourstory   #ZXNWEATHER https://t.co/9Rgf37JMaA",
+   "metrics": {
+    "bookmark_count": 0,
+    "impression_count": 7,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "images": [],
+   "image_source": null,
+   "link": {
+    "url": "https://x.com/i/broadcasts/1pKkOXzazoyKj",
+    "display": "x.com/i/broadcasts/1…",
+    "title": "ZXN “ we are bluehand ” AND patriot one network",
+    "kicker": "Live"
+   },
+   "has_video": false,
+   "hidden": false,
+   "hidden_reason": null
+  },
   {
    "id": "2108661052846322072",
    "url": "https://x.com/zxnbluehandus/status/2108661052846322072",
