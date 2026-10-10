@@ -1,13 +1,15 @@
 {
- "live": true,
- "checked_at": "2026-10-10T23:16:40.631993Z",
+ "live": false,
+ "checked_at": "2026-10-10T23:48:47.905138Z",
  "detection": "A post linking to an X broadcast counts as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
- "post_id": "2109022471496290569",
- "post_url": "https://x.com/zxnbluehandus/status/2109022471496290569",
- "broadcast_id": "1pKkOXzWAbmKj",
- "broadcast_url": "https://x.com/i/broadcasts/1pKkOXzWAbmKj",
- "title": "#ZXN #xlive #wearethepeople #bluehand #PON #tellmeyourstory",
- "post_text": "#ZXN #xlive #wearethepeople #bluehand  #PON #tellmeyourstory https://x.com/i/broadcasts/1pKkOXzWAbmKj",
- "started_at": "2026-10-10T20:45:15.000Z",
- "assumed_live_until": "2026-10-10T23:45:15Z"
+ "recent": {
+  "post_id": "2109022471496290569",
+  "post_url": "https://x.com/zxnbluehandus/status/2109022471496290569",
+  "broadcast_id": "1pKkOXzWAbmKj",
+  "broadcast_url": "https://x.com/i/broadcasts/1pKkOXzWAbmKj",
+  "title": "#ZXN #xlive #wearethepeople #bluehand #PON #tellmeyourstory",
+  "post_text": "#ZXN #xlive #wearethepeople #bluehand  #PON #tellmeyourstory https://x.com/i/broadcasts/1pKkOXzWAbmKj",
+  "started_at": "2026-10-10T20:45:15.000Z",
+  "assumed_live_until": "2026-10-10T23:45:15Z"
+ }
 }
