@@ -1,9 +1,25 @@
 {
- "built_at": "2026-10-10T19:02:23Z",
- "news_fetched_at": "2026-10-10T19:01:40Z",
- "trends_fetched_at": "2026-10-10T19:01:40Z",
+ "built_at": "2026-10-10T20:06:49Z",
+ "news_fetched_at": "2026-10-10T20:05:40Z",
+ "trends_fetched_at": "2026-10-10T20:05:40Z",
  "source": "X News (x.search_news) and US trends (x.get_trends_by_woeid 23424977). Story summaries are written by X/Grok from posts on X and may evolve.",
  "stories": [
+  {
+   "id": "2109002089414152255",
+   "headline": "Debate Revives Over U.S. as Republic or Democracy",
+   "hook": "Entrepreneur Blake Scholl called democracy a 'mind virus' that favors popularity over leadership, sparking a wave of replies unpacking America's true government form.",
+   "summary": "Scholl argued the U.S. is appropriately a republic, not a democracy, and needs opinion-makers instead of mob followers. Critics pushed back, calling it elitist and sharing graphics showing the U.S. as both a constitutional republic and representative democracy, per official civics materials. The thread highlights how founders blended representation to manage a large nation while keeping power accountable through elections, reviving timeless questions about the Pledge's 'republic' reference and overlapping terms.",
+   "updated_at": "2026-10-10T19:30:18.000Z",
+   "url": "https://x.com/i/trending/2109002089414152255",
+   "topics": [
+    "Politics"
+   ],
+   "post_urls": [
+    "https://x.com/i/status/2108973509720625493",
+    "https://x.com/i/status/2108991714824269951",
+    "https://x.com/i/status/2108989175928381863"
+   ]
+  },
   {
    "id": "2108989862233903133",
    "headline": "Trump's Russian Diesel Deal Sparks Ukraine Backlash Debate",
@@ -38,19 +54,19 @@
    ]
   },
   {
-   "id": "2108397108785012887",
-   "headline": "Whatley and Cooper Exchange Sharp Attacks in Tight North Carolina Senate Race",
-   "hook": "In the final days before North Carolina's November 3 Senate election, Michael Whatley and Roy Cooper are hitting hard on records, vetoes, and visions for bipartisanship.",
-   "summary": "Republican Michael Whatley, former state party chair and Trump-endorsed, faces off against Democrat Roy Cooper, the outgoing governor with a long public service record. Whatley supporters spotlight Cooper's 104 vetoes—nearly triple prior governors' totals—plus his stances on immigration, abortion, crime, and more, while Cooper highlights his work with Republican majorities to pass lasting bipartisan laws on health care and small businesses. Republicans accuse Cooper of flip-flopping on energy costs amid rising bills; polls show him leading by 7-15 points, but Whatley ramps up grassroots efforts across all 100 counties as both sides boost voter outreach.",
-   "updated_at": "2026-10-10T17:06:37.000Z",
-   "url": "https://x.com/i/trending/2108397108785012887",
+   "id": "2108938902983819486",
+   "headline": "Some Republicans Plan to Skip Midterms Over Party Inaction",
+   "hook": "After years of voting Republican down the ballot, one longtime supporter drew a line: no more rewards for doing nothing.",
+   "summary": "Longtime Republican voters are posting on X about sitting out the November 3, 2026, midterm elections to protest perceived party inaction, with messages spreading as others echo the exact wording. This reflects broader reports of an enthusiasm gap among 2024 Trump voters, fueled by concerns over the economy and inflation, while Democrats show stronger turnout interest. Critics warn that abstaining could hand wins to Democrats and suggest using primaries to challenge weak candidates instead, highlighting the tension between accountability and electoral risks.",
+   "updated_at": "2026-10-10T17:42:51.000Z",
+   "url": "https://x.com/i/trending/2108938902983819486",
    "topics": [
-    "Politics"
+    "Elections"
    ],
    "post_urls": [
-    "https://x.com/i/status/2108344915411325328",
-    "https://x.com/i/status/2108948955627483345",
-    "https://x.com/i/status/2108934473504981125"
+    "https://x.com/i/status/2108854941548761495",
+    "https://x.com/i/status/2108711609044799671",
+    "https://x.com/i/status/2108929324715737322"
    ]
   },
   {
@@ -117,32 +133,16 @@
     "https://x.com/i/status/2108729912635035951",
     "https://x.com/i/status/2108641685425267184"
    ]
-  },
-  {
-   "id": "2108542442127679528",
-   "headline": "Cook Political Report Shifts Ratings for 18 House Races Toward Democrats Including Four GOP Incumbents from Toss Up to Lean Democratic",
-   "hook": null,
-   "summary": "The Cook Political Report updated its ratings for 18 House races, shifting them toward Democrats, with four races held by GOP incumbents moving from Toss Up to Lean Democratic. This adjustment results in a projected Democratic pickup range of 9 to 19 seats, potentially giving Democrats 224 to 234 seats in the House. Specific changes include races in districts such as PA-7, WA-03, NC-01, NC-11, IA-02, IA-03, and several in Texas and Ohio.",
-   "updated_at": "2026-10-09T19:57:48.000Z",
-   "url": "https://x.com/i/trending/2108542442127679528",
-   "topics": [
-    "Politics"
-   ],
-   "post_urls": [
-    "https://x.com/i/status/2108527819513016686",
-    "https://x.com/i/status/2108516575112212723",
-    "https://x.com/i/status/2108593785261478298"
-   ]
   }
  ],
  "trends": [
   {
-   "name": "Ukraine",
-   "url": "https://x.com/search?q=Ukraine"
-  },
-  {
    "name": "Nebraska",
    "url": "https://x.com/search?q=Nebraska"
+  },
+  {
+   "name": "Ukraine",
+   "url": "https://x.com/search?q=Ukraine"
   },
   {
    "name": "Zelensky",
@@ -153,48 +153,48 @@
    "url": "https://x.com/search?q=Indiana"
   },
   {
-   "name": "Carrick",
-   "url": "https://x.com/search?q=Carrick"
-  },
-  {
    "name": "Russia",
    "url": "https://x.com/search?q=Russia"
-  },
-  {
-   "name": "Marcel Reed",
-   "url": "https://x.com/search?q=Marcel%20Reed"
-  },
-  {
-   "name": "Putin",
-   "url": "https://x.com/search?q=Putin"
-  },
-  {
-   "name": "Pope",
-   "url": "https://x.com/search?q=Pope"
   },
   {
    "name": "#iufb",
    "url": "https://x.com/search?q=%23iufb"
   },
   {
-   "name": "Solanke",
-   "url": "https://x.com/search?q=Solanke"
-  },
-  {
-   "name": "Marv",
-   "url": "https://x.com/search?q=Marv"
-  },
-  {
-   "name": "Tottenham",
-   "url": "https://x.com/search?q=Tottenham"
+   "name": "Putin",
+   "url": "https://x.com/search?q=Putin"
   },
   {
    "name": "Nick Marsh",
    "url": "https://x.com/search?q=Nick%20Marsh"
   },
   {
-   "name": "Spurs",
-   "url": "https://x.com/search?q=Spurs"
+   "name": "Pope",
+   "url": "https://x.com/search?q=Pope"
+  },
+  {
+   "name": "Colin Simmons",
+   "url": "https://x.com/search?q=Colin%20Simmons"
+  },
+  {
+   "name": "Matt Rhule",
+   "url": "https://x.com/search?q=Matt%20Rhule"
+  },
+  {
+   "name": "Marcel Reed",
+   "url": "https://x.com/search?q=Marcel%20Reed"
+  },
+  {
+   "name": "Carrick",
+   "url": "https://x.com/search?q=Carrick"
+  },
+  {
+   "name": "Gators",
+   "url": "https://x.com/search?q=Gators"
+  },
+  {
+   "name": "Philo",
+   "url": "https://x.com/search?q=Philo"
   }
  ]
 }
