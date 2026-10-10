@@ -42,6 +42,12 @@ import html, json, os, re, sys, urllib.request, urllib.parse
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 RAW = os.path.join(ROOT, "data", "raw_pages.json")
+ARCHIVE = os.path.join(ROOT, "data", "raw_archive.json")  # older backfilled posts (backfill.py); never rewritten by refresh
+# Image policy (keeps the repo small): the newest RECENT_FULL posts get "medium" images,
+# older posts get "small" ones, and posts older than IMAGE_MAX_AGE_DAYS get no local image
+# (the page draws a branded tile / link preview instead).
+RECENT_FULL = 60
+IMAGE_MAX_AGE_DAYS = 60
 OUT = os.path.join(ROOT, "data", "posts.json")
 IMG = os.path.join(ROOT, "images")
 USER_ID = "2011476148178599939"
@@ -75,6 +81,21 @@ def fetch_from_api(pages):
     print(f"saved {sum(len(p.get('data', [])) for p in out)} posts to {RAW}")
 
 
+def shrink(data, max_w=720):
+    """Re-encode a downloaded image as a <=720px-wide JPEG (keeps the repo small). No-op without Pillow."""
+    try:
+        from PIL import Image
+        import io
+        im = Image.open(io.BytesIO(data))
+        im = im.convert("RGB")
+        if im.width > max_w:
+            im = im.resize((max_w, round(im.height * max_w / im.width)), Image.LANCZOS)
+        buf = io.BytesIO(); im.save(buf, "JPEG", quality=78, optimize=True, progressive=True)
+        return buf.getvalue() if buf.tell() < len(data) else data
+    except Exception:
+        return data
+
+
 def download(url, name):
     """Download url into images/<name> once; return the site-relative path (or None)."""
     if not url:
@@ -84,10 +105,10 @@ def download(url, name):
         try:
             req = urllib.request.Request(url, headers=UA)
             data = urllib.request.urlopen(req, timeout=30).read()
-            open(path, "wb").write(data)
-        except Exception as e:  # keep going; fall back to hotlink
+            open(path, "wb").write(shrink(data))
+        except Exception as e:  # keep going; fall back to hotlink (or no image if it's gone)
             print(f"  ! image failed {url}: {e}")
-            return url
+            return None if getattr(e, "code", None) in (403, 404, 410) else url
     return f"images/{name}"
 
 
@@ -150,14 +171,18 @@ def detect_live(posts, config):
 
 
 def build():
+    import datetime
     raw = json.load(open(RAW))
+    arch = json.load(open(ARCHIVE)) if os.path.exists(ARCHIVE) else {"pages": []}
+    pages = raw["pages"] + arch.get("pages", [])
     os.makedirs(IMG, exist_ok=True)
+    now = datetime.datetime.now(datetime.timezone.utc)
     media = {}
-    for p in raw["pages"]:
+    for p in pages:
         for m in p.get("includes", {}).get("media", []):
             media[m["media_key"]] = m
     posts, seen = [], set()
-    allp = [t for p in raw["pages"] for t in p.get("data", [])]
+    allp = [t for p in pages for t in p.get("data", [])]
     allp.sort(key=lambda t: t["created_at"], reverse=True)
     # de-duplicate by id (refresh pages can overlap)
     _seen_ids, _uniq = set(), []
@@ -166,7 +191,12 @@ def build():
             _seen_ids.add(t["id"]); _uniq.append(t)
     allp = _uniq
     own_ids = set(_seen_ids)
-    for t in allp:
+    for rank, t in enumerate(allp):
+        age_days = (now - datetime.datetime.fromisoformat(t["created_at"].replace("Z", "+00:00"))).days
+        img_ok = age_days <= IMAGE_MAX_AGE_DAYS
+        size = "medium" if rank < RECENT_FULL else "small"
+        no_ent = bool(t.get("_no_entities"))
+        has_media = bool((t.get("attachments") or {}).get("media_keys"))
         note = t.get("note_tweet") or {}
         text = html.unescape(note.get("text") or t["text"])
         urls = (t.get("entities") or {}).get("urls", []) + (note.get("entities") or {}).get("urls", [])
@@ -176,6 +206,8 @@ def build():
         def repl(m):
             u = by_tco.get(m.group(0))
             if not u:
+                if no_ent and not (has_media and m.end() >= len(text.rstrip())):
+                    return m.group(0)  # page came back without entities: keep the real t.co link
                 return ""  # unknown t.co (usually the trailing media link of a truncated post)
             if u.get("media_key") or "pic.x.com" in u.get("display_url", ""):
                 return ""
@@ -186,8 +218,19 @@ def build():
         clean = re.sub(r"[ \t]+\n", "\n", clean).strip()
         bare = re.sub(r"\[([^\]]+)\]\([^)]*\)", r"\1", clean)  # markdown [label](url) -> label
         bare = re.sub(r"https?://\S+", "", bare).strip()
+        pseudo = None
+        if no_ent and not card:
+            tcos = re.findall(r"https://t\.co/\w+", clean)
+            if tcos:
+                k = ("Video" if re.search(r"via @YouTube\b", text) else "Music" if "@YouTubeMusic" in text
+                     else "X Space" if re.search(r"upcoming Space", text) else "Link")
+                pseudo = {"url": tcos[0], "display": "t.co link", "kicker": k,
+                          "title": {"Video": "Watch on YouTube", "Music": "Listen on YouTube Music",
+                                    "X Space": "Open the X Space"}.get(k, "Open link")}
+                if len(tcos) == 1 and k != "Link":
+                    clean = re.sub(r"\s*https://t\.co/\w+", "", clean, count=1).strip()
         first = next((l.strip() for l in bare.split("\n") if l.strip()), "")
-        first = re.sub(r"\s+via @YouTube\s*", " ", first).strip()
+        first = re.sub(r"\s+via @YouTube(Music)?\b\s*", " ", first).strip()
         first = re.sub(r"\[([^\]]+)\]\(\s*\)", r"\1", first)  # markdown link whose URL was stripped
         first = re.sub(r"[*`]", "", first)
         headline_src = "post"
@@ -211,15 +254,22 @@ def build():
             src = m.get("url") or m.get("preview_image_url")
             if src:
                 ext = ".jpg"
-                local = download(src + ("?name=medium" if "/media/" in src else ""), f"{t['id']}_{len(images)}{ext}")
+                if not img_ok:
+                    continue
+                local = download(src + f"?name={size}", f"{t['id']}_{len(images)}{ext}")
+                if not local:
+                    continue
                 images.append({"src": local, "type": m["type"], "width": m.get("width"), "height": m.get("height")})
         if images:
             img_src = "post"
         elif card and card.get("images") and "/i/spaces/" not in card["expanded_url"]:
             # (X Spaces cards only carry X's generic microphone graphic, so the page draws a branded tile instead)
-            local = download(card["images"][0]["url"], f"{t['id']}_card.jpg")
-            images.append({"src": local, "type": "link_card"})
-            img_src = "link_card"
+            if img_ok:
+                cu = card["images"][0]["url"]
+                local = download(cu, f"{t['id']}_card.jpg")
+                if local:
+                    images.append({"src": local, "type": "link_card"})
+                    img_src = "link_card"
         hidden, reason = False, None
         quoted_ids = [r["id"] for r in (t.get("referenced_tweets") or []) if r.get("type") == "quoted"]
         quotes_own = any(q in own_ids for q in quoted_ids) or any(
@@ -231,7 +281,7 @@ def build():
             hidden, reason = True, "test post"
         elif bare.startswith("@") or (len(bare) < 10 and not card):
             hidden, reason = True, "reply-style / too short"
-        key = (headline.lower(), (card or {}).get("expanded_url") or bare[:80].lower())
+        key = (headline.lower(), (card or {}).get("expanded_url") or (pseudo or {}).get("url") or bare[:80].lower())
         if not hidden and key in seen:
             hidden, reason = True, "duplicate"
         if not hidden:
@@ -248,8 +298,9 @@ def build():
             "images": images,
             "image_source": img_src,
             "link": ({"url": card.get("unwound_url") or card["expanded_url"], "display": card.get("display_url"),
-                      "title": card_title, "kicker": kicker(card["expanded_url"])} if card else None),
-            "has_video": any(i["type"] == "video" for i in images),
+                      "title": card_title, "kicker": kicker(card["expanded_url"])} if card else pseudo),
+            "has_video": any(i["type"] == "video" for i in images) or any(
+                (media.get(k) or {}).get("type") == "video" for k in (t.get("attachments") or {}).get("media_keys", [])),
             "hidden": hidden,
             "hidden_reason": reason,
             "_expanded_urls": [u.get("unwound_url") or u.get("expanded_url") or "" for u in urls],
@@ -266,7 +317,7 @@ def build():
     detect_live(posts, config)
     for p in posts:
         p.pop("_expanded_urls", None)
-    out = {"generated_from": "data/raw_pages.json", "fetched_at": raw.get("fetched_at"),
+    out = {"generated_from": "data/raw_pages.json + data/raw_archive.json", "fetched_at": raw.get("fetched_at"),
            "pinned_top": pinned, "user": user, "posts": posts}
     json.dump(out, open(OUT, "w"), ensure_ascii=False, indent=1)
     vis = [p for p in posts if not p["hidden"]]

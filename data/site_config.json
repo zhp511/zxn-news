@@ -1,4 +1,6 @@
 {
  "pinned_top": "2108635147318784214",
- "_note": "Top Story pin. Set by the site owner in chat on 2026-10-09 3:53 PM CT; stays until they say otherwise. update.py only reads this file. Set to null to return to the automatic pick (most-viewed post with its own photo)."
+ "_note": "Top Story pin. Set by the site owner in chat on 2026-10-09 3:53 PM CT; stays until they say otherwise. update.py only reads this file. Set to null to return to the automatic pick (most-viewed post with its own photo).",
+ "featured_accounts": [],
+ "_featured_accounts_note": "X handles (without @) for the 'Accounts We Follow' section, in display order. Empty = section hidden. Filled by the site owner in chat; following.py builds data/following.json from saved x-tool output in data/following_raw/."
 }

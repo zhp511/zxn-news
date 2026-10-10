@@ -73,6 +73,35 @@
       ${linkChip(p)}${metaRow(p, true)}</div></article>`;
   }
 
+  // Archive: every visible story, grouped by month, then by day (America/Chicago).
+  const fmtMonth = new Intl.DateTimeFormat("en-US", { timeZone: TZ, month: "long", year: "numeric" });
+  const fmtDay = new Intl.DateTimeFormat("en-US", { timeZone: TZ, weekday: "short", month: "short", day: "numeric" });
+  const fmtTime = new Intl.DateTimeFormat("en-US", { timeZone: TZ, hour: "numeric", minute: "2-digit" });
+  function renderArchive(posts) {
+    const box = $("archive-list");
+    if (!box) return;
+    const months = new Map();
+    for (const p of posts) {
+      const d = new Date(p.created_at), m = fmtMonth.format(d), day = fmtDay.format(d);
+      if (!months.has(m)) months.set(m, new Map());
+      const days = months.get(m);
+      if (!days.has(day)) days.set(day, []);
+      days.get(day).push(p);
+    }
+    let i = 0;
+    box.innerHTML = [...months].map(([m, days]) => {
+      const n = [...days.values()].reduce((a, l) => a + l.length, 0);
+      return `<details class="arc-month"${i++ === 0 ? " open" : ""}><summary><span>${esc(m)}</span><span class="arc-n">${n} stories</span></summary>
+        ${[...days].map(([day, list]) => `<div class="arc-day"><h4>${esc(day)}</h4><ul>${list.map((p) => `<li>
+          <time datetime="${p.created_at}">${fmtTime.format(new Date(p.created_at))}</time>
+          <span class="arc-k">${esc(p.has_video ? "Video" : p.link ? p.link.kicker : "ZXN")}</span>
+          <a href="${p.url}" target="_blank" rel="noopener">${esc(p.headline)}</a></li>`).join("")}</ul></div>`).join("")}
+      </details>`;
+    }).join("");
+    const c = $("archive-count");
+    if (c) c.textContent = `${posts.length} stories since ${fmtDay.format(new Date(posts[posts.length - 1].created_at))}`;
+  }
+
   function render(data) {
     const posts = data.posts.filter((p) => !p.hidden).sort((a, b) => b.created_at.localeCompare(a.created_at));
     // Top story = most-viewed post that has its own photo/video.
@@ -87,7 +116,24 @@
       <div class="text">${richText(bodyText(featured))}</div>${linkChip(featured)}${metaRow(featured)}</div>`;
 
     $("justin").innerHTML = rest.slice(0, 6).map((p) => `<li><div><a href="${p.url}" target="_blank" rel="noopener">${esc(p.headline)}</a><time>${ct(p.created_at, true)}</time></div></li>`).join("");
-    $("grid").innerHTML = rest.map(card).join("");
+    // Latest grid: newest PAGE stories, then "Load more" adds PAGE at a time.
+    const PAGE = 24;
+    let shown = 0;
+    const grid = $("grid"), more = $("load-more");
+    function showMore() {
+      grid.insertAdjacentHTML("beforeend", rest.slice(shown, shown + PAGE).map(card).join(""));
+      shown = Math.min(rest.length, shown + PAGE);
+      if (more) {
+        more.hidden = shown >= rest.length;
+        more.textContent = `Load more stories (${rest.length - shown} more)`;
+      }
+      const c = $("latest-count");
+      if (c) c.textContent = `Showing ${shown} of ${rest.length}`;
+    }
+    grid.innerHTML = "";
+    showMore();
+    if (more) more.onclick = showMore;
+    renderArchive(posts);
 
     const u = data.user || {};
     const pm = u.public_metrics || {};
