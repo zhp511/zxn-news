@@ -1,9 +1,25 @@
 {
- "built_at": "2026-10-10T15:11:48Z",
- "news_fetched_at": "2026-10-10T15:07:30Z",
- "trends_fetched_at": "2026-10-10T15:07:45Z",
+ "built_at": "2026-10-10T16:16:21Z",
+ "news_fetched_at": "2026-10-10T16:16:21Z",
+ "trends_fetched_at": "2026-10-10T16:16:21Z",
  "source": "X News (x.search_news) and US trends (x.get_trends_by_woeid 23424977). Story summaries are written by X/Grok from posts on X and may evolve.",
  "stories": [
+  {
+   "id": "2108946546460893231",
+   "headline": "Mike Johnson Jokes About Starting Lawn Business If GOP Loses House",
+   "hook": "House Speaker Mike Johnson shared a lighthearted vision of his future: mowing lawns back home in Shreveport if Republicans lose their slim majority.",
+   "summary": "In a Fox News interview, Johnson said he'd return to Louisiana for a lawn business if the GOP falls short in the November midterms, where polls show Democrats ahead by about eight points. Social media lit up with memes and jokes, with some users cheering the idea as motivation to vote blue and others questioning if he'd really step away. His spokesman called the buzz overblown, as Johnson stays focused on keeping the speakership amid the tight race and early voting already underway.",
+   "updated_at": "2026-10-10T15:48:45.000Z",
+   "url": "https://x.com/i/trending/2108946546460893231",
+   "topics": [
+    "Politics"
+   ],
+   "post_urls": [
+    "https://x.com/i/status/2108913690049462709",
+    "https://x.com/i/status/2108899205989187816",
+    "https://x.com/i/status/2108920849567043738"
+   ]
+  },
   {
    "id": "2108933912076677384",
    "headline": "Republicans Hold 53-47 Senate Majority Yet Face Frustration Over Inaction",
@@ -22,19 +38,19 @@
    ]
   },
   {
-   "id": "2108922099809083888",
-   "headline": "Mike Johnson Jokes About Starting Lawn Business If GOP Loses House",
-   "hook": "House Speaker Mike Johnson pictured himself trading Capitol Hill for a mower in Shreveport, should Republicans lose their narrow House majority.",
-   "summary": "In a Fox News interview, Johnson said that if God calls him home after a potential midterm loss, he would start a lawn business in Louisiana with the same passion he brings to Congress. His spokesman later clarified it was a joke, amid polling showing Democrats ahead by eight points on the generic ballot. Reactions ranged from laughing nicknames like 'Lawn Boy' to calls for competent leadership or rallying GOP voters, as the November 3 midterms decide House control.",
+   "id": "2108922099939069957",
+   "headline": "List of Trump Grievances Divides Opinions on X",
+   "hook": "A widely shared post tallies up actions like January 6 pardons and East Wing demolition, urging people to speak out. Replies range from full embrace to outright dismissal.",
+   "summary": "The post lists moves such as Trump's blanket clemency for nearly 1,600 January 6 defendants on his first day back, the late 2025 bulldozing of the White House East Wing for a ballroom, acceptance of a $400 million jet from Qatar, the Kennedy Center rename, broad 2025 tariffs raising prices, threats to countries like Greenland and Canada, and a February 2026 Iran conflict strike killing 175 mostly children at a school. Supporters cheer them as promised changes, with one saying 'He's doing what I wanted,' while commentator Kurt Schlichter calls Trump among the top five greatest presidents. Critics see silence as loyalty over accountability, fueling sharp back-and-forth that underscores deep divides.",
    "updated_at": "2026-10-10T14:12:02.000Z",
-   "url": "https://x.com/i/trending/2108922099809083888",
+   "url": "https://x.com/i/trending/2108922099939069957",
    "topics": [
     "Politics"
    ],
    "post_urls": [
-    "https://x.com/i/status/2108594505725198688",
-    "https://x.com/i/status/2108879042447556999",
-    "https://x.com/i/status/2108906447149105232"
+    "https://x.com/i/status/2108774794132902092",
+    "https://x.com/i/status/2108897483686604962",
+    "https://x.com/i/status/2108889627675517069"
    ]
   },
   {
@@ -51,22 +67,6 @@
     "https://x.com/i/status/2108699709959221446",
     "https://x.com/i/status/2108729912635035951",
     "https://x.com/i/status/2108641685425267184"
-   ]
-  },
-  {
-   "id": "2108649978898059535",
-   "headline": "Democratic congressional candidate faces backlash over leaked photos from Mr. S Leather photoshoot",
-   "hook": null,
-   "summary": "Photos emerged showing a Democratic candidate for Congress in leather attire from a Mr. S Leather photoshoot. The photos sparked online backlash and discussion.",
-   "updated_at": "2026-10-10T03:15:32.000Z",
-   "url": "https://x.com/i/trending/2108649978898059535",
-   "topics": [
-    "Politics"
-   ],
-   "post_urls": [
-    "https://x.com/i/status/2108610817939906603",
-    "https://x.com/i/status/2108603882293297645",
-    "https://x.com/i/status/2108702324554391728"
    ]
   },
   {
@@ -102,6 +102,22 @@
    ]
   },
   {
+   "id": "2108590719153942593",
+   "headline": "Debate on X over high US gas prices linked to Republican-led war with Iran and midterm elections",
+   "hook": null,
+   "summary": "Users on X discuss soaring US gas prices, attributing them to a war with Iran initiated under Republican control of the White House, House, and Senate. Bill Mitchell claims Republican midterm victories will force Iran to surrender and lower gas prices, prompting partisan arguments comparing prices under past administrations. Some users report local prices like $3.77/gallon or higher in California amid calls to vote Republican.",
+   "updated_at": "2026-10-09T16:56:38.000Z",
+   "url": "https://x.com/i/trending/2108590719153942593",
+   "topics": [
+    "Politics"
+   ],
+   "post_urls": [
+    "https://x.com/i/status/2108518871514673192",
+    "https://x.com/i/status/2108516795086983377",
+    "https://x.com/i/status/2108552225408549034"
+   ]
+  },
+  {
    "id": "2108366423722778729",
    "headline": "Debate Erupts Over US Collapse Wish and Global Fallout",
    "hook": "A simple post hoping to see the US collapse drew thousands of likes, but replies quickly turned to warnings of worldwide chaos from broken supply chains and trade routes.",
@@ -116,26 +132,13 @@
     "https://x.com/i/status/2108235678391943571",
     "https://x.com/i/status/2108345572952605042"
    ]
-  },
-  {
-   "id": "2108268608136597620",
-   "headline": "Turning Point USA Reveals Star-Studded AmericaFest 2026 Speakers",
-   "hook": "Turning Point USA dropped the first lineup for its big December conference, featuring heavy hitters like JD Vance and Don Trump Jr. – a mix that's got conservatives cheering and others weighing in.",
-   "summary": "The four-day AmericaFest 2026 event runs December 17–20 at the Phoenix Convention Center, aiming to restore culture and reclaim America in the spirit of founder Charlie Kirk. Tickets start at $100 for adults and $50 for students, with speakers including Karoline Leavitt, Jesse Watters, Tulsi Gabbard, Riley Gaines, Steve Bannon, Matt Gaetz, and more like Franklin Graham and Ben Carson. Fans called the roster stacked, though some lamented missing names like Tucker Carlson and questioned picks like Bannon or Gaetz, while sports fans puzzled over athlete Matt Shaw's spot.",
-   "updated_at": "2026-10-09T05:23:42.000Z",
-   "url": "https://x.com/i/trending/2108268608136597620",
-   "topics": [
-    "News",
-    "Politics"
-   ],
-   "post_urls": [
-    "https://x.com/i/status/2108256133593104463",
-    "https://x.com/i/status/2108390985420173620",
-    "https://x.com/i/status/2108283452835442790"
-   ]
   }
  ],
  "trends": [
+  {
+   "name": "Marv",
+   "url": "https://x.com/search?q=Marv"
+  },
   {
    "name": "Ukraine",
    "url": "https://x.com/search?q=Ukraine"
@@ -145,56 +148,52 @@
    "url": "https://x.com/search?q=Russia"
   },
   {
-   "name": "Saka",
-   "url": "https://x.com/search?q=Saka"
+   "name": "Podz",
+   "url": "https://x.com/search?q=Podz"
   },
   {
-   "name": "Arsenal",
-   "url": "https://x.com/search?q=Arsenal"
+   "name": "Jordan Henderson",
+   "url": "https://x.com/search?q=Jordan%20Henderson"
+  },
+  {
+   "name": "Schefter",
+   "url": "https://x.com/search?q=Schefter"
   },
   {
    "name": "Zelensky",
    "url": "https://x.com/search?q=Zelensky"
   },
   {
-   "name": "Good Saturday",
-   "url": "https://x.com/search?q=Good%20Saturday"
-  },
-  {
-   "name": "#WorldMentalHealthDay",
-   "url": "https://x.com/search?q=%23WorldMentalHealthDay"
-  },
-  {
    "name": "Chelsea",
    "url": "https://x.com/search?q=Chelsea"
+  },
+  {
+   "name": "#MrFanboyEP7",
+   "url": "https://x.com/search?q=%23MrFanboyEP7"
   },
   {
    "name": "Putin",
    "url": "https://x.com/search?q=Putin"
   },
   {
-   "name": "Leeds",
-   "url": "https://x.com/search?q=Leeds"
+   "name": "Hendo",
+   "url": "https://x.com/search?q=Hendo"
   },
   {
-   "name": "TO WHERE",
-   "url": "https://x.com/search?q=TO%20WHERE"
+   "name": "MR FANBOY CHAPTER 7",
+   "url": "https://x.com/search?q=MR%20FANBOY%20CHAPTER%207"
   },
   {
-   "name": "#Caturday",
-   "url": "https://x.com/search?q=%23Caturday"
+   "name": "#WorldMentalHealthDay",
+   "url": "https://x.com/search?q=%23WorldMentalHealthDay"
   },
   {
-   "name": "Neuer",
-   "url": "https://x.com/search?q=Neuer"
+   "name": "Good Saturday",
+   "url": "https://x.com/search?q=Good%20Saturday"
   },
   {
-   "name": "Bayern",
-   "url": "https://x.com/search?q=Bayern"
-  },
-  {
-   "name": "TO WHO",
-   "url": "https://x.com/search?q=TO%20WHO"
+   "name": "Pat McAfee",
+   "url": "https://x.com/search?q=Pat%20McAfee"
   }
  ]
 }
