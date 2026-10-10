@@ -1,0 +1,44 @@
+/* ===== ZXN TV floating player ===== */
+.ztv{position:fixed;right:18px;bottom:18px;z-index:1500;font-family:var(--sans,system-ui,sans-serif)}
+.ztv[hidden]{display:none}
+.ztv-pill{display:flex;align-items:center;gap:8px;background:var(--navy,#071d3b);color:#fff;border:2px solid #fff;border-radius:999px;
+  padding:10px 18px;font:800 .95rem var(--sans,system-ui);letter-spacing:.04em;cursor:pointer;box-shadow:0 6px 20px rgba(0,0,0,.35);border-bottom:4px solid var(--red,#B22234)}
+.ztv-pill:hover{background:var(--blue,#0A3161)}
+.ztv-pill[hidden],.ztv-panel[hidden],.ztv-over[hidden],.ztv-yt[hidden],.ztv-live[hidden]{display:none}
+.ztv-dot{width:9px;height:9px;border-radius:50%;background:#ff3b3b;box-shadow:0 0 0 0 rgba(255,59,59,.7);animation:ztvPulse 1.6s infinite}
+@keyframes ztvPulse{70%{box-shadow:0 0 0 8px rgba(255,59,59,0)}100%{box-shadow:0 0 0 0 rgba(255,59,59,0)}}
+.ztv-panel{width:360px;background:var(--navy,#071d3b);color:#fff;border:2px solid #fff;box-shadow:0 10px 34px rgba(0,0,0,.45);border-top:4px solid var(--red,#B22234)}
+.ztv.big .ztv-panel{width:min(640px,calc(100vw - 36px))}
+.ztv-bar{display:flex;align-items:center;gap:8px;padding:6px 6px 6px 10px;cursor:move;user-select:none;touch-action:none;min-width:0}
+.ztv.dragging .ztv-bar{cursor:grabbing}
+.ztv-brand{font-family:var(--head,Oswald,sans-serif);letter-spacing:.08em;font-size:1rem;white-space:nowrap}
+.ztv-brand b{color:#ff4d5e}
+.ztv-live{background:var(--red,#B22234);font-size:.62rem;font-weight:800;letter-spacing:.1em;padding:2px 6px;border-radius:2px}
+.ztv-ch{flex:1;min-width:0;font-size:.82rem;opacity:.9;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.ztv-btns{display:flex;gap:2px}
+.ztv-btns button{background:transparent;border:0;color:#fff;font-size:1.05rem;width:30px;height:28px;cursor:pointer;line-height:1;border-radius:3px}
+.ztv-btns button:hover,.ztv-btns button:focus-visible{background:rgba(255,255,255,.16)}
+.ztv-screen{position:relative;aspect-ratio:16/9;background:#000}
+.ztv-frame,.ztv-frame>div,.ztv-frame iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+.ztv-over{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;text-align:center;padding:14px;
+  background:linear-gradient(135deg,#0A3161 0%,#071d3b 60%,#2a0d14 100%)}
+.ztv-over p{margin:6px 0 10px;font-size:.85rem;opacity:.9}
+.ztv-cta{display:inline-block;background:var(--red,#B22234);color:#fff;text-decoration:none;font-weight:800;padding:9px 16px;border-radius:3px;margin-top:6px}
+.ztv-cta:hover{background:#8c1a28}
+.ztv-dtv-name{font-family:var(--head,Oswald,sans-serif);font-size:2rem;letter-spacing:.12em;font-weight:700}
+.ztv-note{font-size:.78rem!important;opacity:.85}
+.ztv-chans{display:flex;gap:6px;overflow-x:auto;padding:8px;scrollbar-width:thin;background:#0b2447}
+.ztv-chans button{flex:0 0 auto;background:rgba(255,255,255,.1);color:#fff;border:1px solid rgba(255,255,255,.25);border-radius:999px;
+  padding:5px 11px;font:600 .76rem var(--sans,system-ui);cursor:pointer;white-space:nowrap}
+.ztv-chans button[aria-selected="true"]{background:#fff;color:var(--navy,#071d3b);border-color:#fff}
+.ztv-chans button.dtv{border-style:dashed}
+.ztv-foot{display:flex;justify-content:space-between;gap:8px;padding:6px 10px 8px;font-size:.72rem;opacity:.85;flex-wrap:wrap}
+.ztv-foot a{color:#fff;font-weight:700}
+@media (max-width:700px){
+  .ztv{right:10px;bottom:10px}
+  .ztv:has(.ztv-panel:not([hidden])){left:8px;right:8px;bottom:8px}
+  .ztv-panel{width:100%}
+  .ztv-big{display:none}
+  .ztv-bar{cursor:default}
+}
+@media (prefers-reduced-motion:reduce){.ztv-dot{animation:none}}

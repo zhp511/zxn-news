@@ -1,0 +1,89 @@
+{
+ "checked_at": "2026-10-10T15:27:56Z",
+ "channels": [
+  {
+   "key": "foxweather",
+   "name": "FOX Weather",
+   "type": "youtube",
+   "channel_id": "UC1FbPiXx59_ltnFVx7IxWow",
+   "handle": "FOXWeather",
+   "watch_url": "https://www.youtube.com/@FOXWeather/live",
+   "video_id": "mBwgGwy0bnw",
+   "ok": true,
+   "title": "LIVESTREAM: Post-Tropical Isaias Spreads Flooding Rain Inland After Vicious Florida Landfall"
+  },
+  {
+   "key": "livenow",
+   "name": "LiveNOW from FOX",
+   "type": "youtube",
+   "channel_id": "UCJg9wBPyKMNA5sRDnvzmkdg",
+   "handle": "LiveNOWFOX",
+   "watch_url": "https://www.youtube.com/@LiveNOWFOX/live",
+   "video_id": "YPkbu-ELE0M",
+   "ok": true,
+   "title": "LIVE NEWS: Tracking Isaias, Trump heads to Tennessee, US-Iran war talks, College football kickoff"
+  },
+  {
+   "key": "cbs",
+   "name": "CBS News 24/7",
+   "type": "youtube",
+   "channel_id": "UC8p1vwvWtl6T73JiExfWs1g",
+   "handle": "CBSNews",
+   "watch_url": "https://www.youtube.com/@CBSNews/live",
+   "video_id": "yCmYjE_7iSs",
+   "ok": true,
+   "title": "LIVE: Breaking News and Top Stories on CBS News 24/7"
+  },
+  {
+   "key": "abc",
+   "name": "ABC News Live",
+   "type": "youtube",
+   "channel_id": "UCBi2mrWuNuyYy4gbM6fU18Q",
+   "handle": "ABCNews",
+   "watch_url": "https://www.youtube.com/@ABCNews/live",
+   "video_id": "Qek9Hh5_2zQ",
+   "ok": true,
+   "title": "LIVE: ABC News Live - Saturday, October 10"
+  },
+  {
+   "key": "nbc",
+   "name": "NBC News NOW",
+   "type": "youtube",
+   "channel_id": "UCeY0bbntWzzVIaj2z3QigXg",
+   "handle": "NBCNews",
+   "watch_url": "https://www.youtube.com/@NBCNews/live",
+   "video_id": "a0I_VkZHHIU",
+   "ok": true,
+   "title": "LIVE: NBC News NOW"
+  },
+  {
+   "key": "bloomberg",
+   "name": "Bloomberg TV",
+   "type": "youtube",
+   "channel_id": "UCIALMKvObZNtJ6AmdCLP7Lg",
+   "handle": "markets",
+   "watch_url": "https://www.youtube.com/@markets/live",
+   "video_id": "QB5BNdBFujE",
+   "ok": true,
+   "title": "Bloomberg Business News Live"
+  },
+  {
+   "key": "sky",
+   "name": "Sky News",
+   "type": "youtube",
+   "channel_id": "UCoMdktPbSTixAyNGwb-UYkQ",
+   "handle": "SkyNews",
+   "watch_url": "https://www.youtube.com/@SkyNews/live",
+   "video_id": "xDWQ3LkccY8",
+   "ok": true,
+   "title": "Watch Sky News"
+  },
+  {
+   "key": "directv",
+   "name": "DIRECTV",
+   "type": "link",
+   "url": "https://stream.directv.com/",
+   "note": "DIRECTV subscribers: sign in on DIRECTV to watch"
+  }
+ ]
+}
