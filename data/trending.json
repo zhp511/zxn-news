@@ -1,9 +1,57 @@
 {
- "built_at": "2026-10-10T16:53:55Z",
- "news_fetched_at": "2026-10-10T16:16:21Z",
- "trends_fetched_at": "2026-10-10T16:16:21Z",
+ "built_at": "2026-10-10T17:57:31Z",
+ "news_fetched_at": "2026-10-10T17:56:40Z",
+ "trends_fetched_at": "2026-10-10T17:56:40Z",
  "source": "X News (x.search_news) and US trends (x.get_trends_by_woeid 23424977). Story summaries are written by X/Grok from posts on X and may evolve.",
  "stories": [
+  {
+   "id": "2108397108785012887",
+   "headline": "Whatley and Cooper Exchange Sharp Attacks in Tight North Carolina Senate Race",
+   "hook": "In the final days before North Carolina's November 3 Senate election, Michael Whatley and Roy Cooper are hitting hard on records, vetoes, and visions for bipartisanship.",
+   "summary": "Republican Michael Whatley, former state party chair and Trump-endorsed, faces off against Democrat Roy Cooper, the outgoing governor with a long public service record. Whatley supporters spotlight Cooper's 104 vetoes—nearly triple prior governors' totals—plus his stances on immigration, abortion, crime, and more, while Cooper highlights his work with Republican majorities to pass lasting bipartisan laws on health care and small businesses. Republicans accuse Cooper of flip-flopping on energy costs amid rising bills; polls show him leading by 7-15 points, but Whatley ramps up grassroots efforts across all 100 counties as both sides boost voter outreach.",
+   "updated_at": "2026-10-10T17:06:37.000Z",
+   "url": "https://x.com/i/trending/2108397108785012887",
+   "topics": [
+    "Politics"
+   ],
+   "post_urls": [
+    "https://x.com/i/status/2108344915411325328",
+    "https://x.com/i/status/2108948955627483345",
+    "https://x.com/i/status/2108934473504981125"
+   ]
+  },
+  {
+   "id": "2108590719153942593",
+   "headline": "Trump Supporters Struggle to Name Improvements Amid Record Gas Prices",
+   "hook": "A man beams that life feels better than a year and a half ago, but falters when asked for specifics—finally landing on gas prices, only to learn they're higher now.",
+   "summary": "Videos shared by Marco Foster show Trump supporters hesitating to list concrete gains under the current administration, often citing gas prices that have climbed to a record autumn average of $4.37 per gallon from $3.10 a year ago, per AAA data. High crude oil costs stem from tensions in the Strait of Hormuz, with President Trump holding off on major Iran strikes before the November 3 midterms. Republicans claim midterm wins will drop prices by pressuring Iran, while critics note the party's current control of the White House and Congress amid the conflict.",
+   "updated_at": "2026-10-10T16:56:38.000Z",
+   "url": "https://x.com/i/trending/2108590719153942593",
+   "topics": [
+    "Politics"
+   ],
+   "post_urls": [
+    "https://x.com/i/status/2108516795086983377",
+    "https://x.com/i/status/2108518871514673192",
+    "https://x.com/i/status/2108560270352077282"
+   ]
+  },
+  {
+   "id": "2108922099939069957",
+   "headline": "Trump Divides Nation with Bold Pardons, Tariffs, and Trade Gifts",
+   "hook": "A widely shared list of President Trump's actions—from mass pardons to a Qatari jet gift—drew cheers from fans and sharp rebukes from critics, laying bare America's deep divide.",
+   "summary": "Critics highlighted claims like pardoning nearly 1,600 January 6 defendants, accepting a $400 million Boeing 747 from Qatar for Air Force One, pushing to rename the Kennedy Center after himself, imposing broad 2026 tariffs, and more. Supporters fired back, celebrating these as part of an America First push on immigration, trade, and security, with one saying, 'He’s doing what I wanted him to do.' While the White House points to trade deals and military restorations, polls show Trump's approval at 34-37 percent amid the ongoing national split.",
+   "updated_at": "2026-10-10T16:44:07.000Z",
+   "url": "https://x.com/i/trending/2108922099939069957",
+   "topics": [
+    "Politics"
+   ],
+   "post_urls": [
+    "https://x.com/i/status/2108889627675517069",
+    "https://x.com/i/status/2108774794132902092",
+    "https://x.com/i/status/2108897483686604962"
+   ]
+  },
   {
    "id": "2108946546460893231",
    "headline": "Mike Johnson Jokes About Starting Lawn Business If GOP Loses House",
@@ -16,8 +64,8 @@
    ],
    "post_urls": [
     "https://x.com/i/status/2108913690049462709",
-    "https://x.com/i/status/2108899205989187816",
-    "https://x.com/i/status/2108920849567043738"
+    "https://x.com/i/status/2108964179998830772",
+    "https://x.com/i/status/2108899205989187816"
    ]
   },
   {
@@ -35,22 +83,6 @@
     "https://x.com/i/status/2108711733724688659",
     "https://x.com/i/status/2108886611408679031",
     "https://x.com/i/status/2108926141902008789"
-   ]
-  },
-  {
-   "id": "2108922099939069957",
-   "headline": "List of Trump Grievances Divides Opinions on X",
-   "hook": "A widely shared post tallies up actions like January 6 pardons and East Wing demolition, urging people to speak out. Replies range from full embrace to outright dismissal.",
-   "summary": "The post lists moves such as Trump's blanket clemency for nearly 1,600 January 6 defendants on his first day back, the late 2025 bulldozing of the White House East Wing for a ballroom, acceptance of a $400 million jet from Qatar, the Kennedy Center rename, broad 2025 tariffs raising prices, threats to countries like Greenland and Canada, and a February 2026 Iran conflict strike killing 175 mostly children at a school. Supporters cheer them as promised changes, with one saying 'He's doing what I wanted,' while commentator Kurt Schlichter calls Trump among the top five greatest presidents. Critics see silence as loyalty over accountability, fueling sharp back-and-forth that underscores deep divides.",
-   "updated_at": "2026-10-10T14:12:02.000Z",
-   "url": "https://x.com/i/trending/2108922099939069957",
-   "topics": [
-    "Politics"
-   ],
-   "post_urls": [
-    "https://x.com/i/status/2108774794132902092",
-    "https://x.com/i/status/2108897483686604962",
-    "https://x.com/i/status/2108889627675517069"
    ]
   },
   {
@@ -86,38 +118,6 @@
    ]
   },
   {
-   "id": "2108604229254369396",
-   "headline": "Social media debate over U.S. gas and diesel prices under Obama, Trump, and current administrations",
-   "hook": null,
-   "summary": "Social media users argue about historical U.S. gas and diesel prices, sharing charts comparing prices during Barack Obama's, Donald Trump's, and the current administration. Discussions highlight record-high diesel prices, pump prices versus crude oil prices, and time period comparisons including the COVID-19 era. Posts criticize politicians for misleading presentations of data.",
-   "updated_at": "2026-10-09T17:52:10.000Z",
-   "url": "https://x.com/i/trending/2108604229254369396",
-   "topics": [
-    "Politics"
-   ],
-   "post_urls": [
-    "https://x.com/i/status/2108518871514673192",
-    "https://x.com/i/status/2108589808079806864",
-    "https://x.com/i/status/2108571567537971383"
-   ]
-  },
-  {
-   "id": "2108590719153942593",
-   "headline": "Debate on X over high US gas prices linked to Republican-led war with Iran and midterm elections",
-   "hook": null,
-   "summary": "Users on X discuss soaring US gas prices, attributing them to a war with Iran initiated under Republican control of the White House, House, and Senate. Bill Mitchell claims Republican midterm victories will force Iran to surrender and lower gas prices, prompting partisan arguments comparing prices under past administrations. Some users report local prices like $3.77/gallon or higher in California amid calls to vote Republican.",
-   "updated_at": "2026-10-09T16:56:38.000Z",
-   "url": "https://x.com/i/trending/2108590719153942593",
-   "topics": [
-    "Politics"
-   ],
-   "post_urls": [
-    "https://x.com/i/status/2108518871514673192",
-    "https://x.com/i/status/2108516795086983377",
-    "https://x.com/i/status/2108552225408549034"
-   ]
-  },
-  {
    "id": "2108366423722778729",
    "headline": "Debate Erupts Over US Collapse Wish and Global Fallout",
    "hook": "A simple post hoping to see the US collapse drew thousands of likes, but replies quickly turned to warnings of worldwide chaos from broken supply chains and trade routes.",
@@ -136,64 +136,64 @@
  ],
  "trends": [
   {
-   "name": "Marv",
-   "url": "https://x.com/search?q=Marv"
-  },
-  {
    "name": "Ukraine",
    "url": "https://x.com/search?q=Ukraine"
   },
   {
-   "name": "Russia",
-   "url": "https://x.com/search?q=Russia"
-  },
-  {
-   "name": "Podz",
-   "url": "https://x.com/search?q=Podz"
-  },
-  {
-   "name": "Jordan Henderson",
-   "url": "https://x.com/search?q=Jordan%20Henderson"
-  },
-  {
-   "name": "Schefter",
-   "url": "https://x.com/search?q=Schefter"
+   "name": "Nebraska",
+   "url": "https://x.com/search?q=Nebraska"
   },
   {
    "name": "Zelensky",
    "url": "https://x.com/search?q=Zelensky"
   },
   {
-   "name": "Chelsea",
-   "url": "https://x.com/search?q=Chelsea"
+   "name": "Marcel Reed",
+   "url": "https://x.com/search?q=Marcel%20Reed"
+  },
+  {
+   "name": "Marv",
+   "url": "https://x.com/search?q=Marv"
+  },
+  {
+   "name": "Pope",
+   "url": "https://x.com/search?q=Pope"
+  },
+  {
+   "name": "Indiana",
+   "url": "https://x.com/search?q=Indiana"
+  },
+  {
+   "name": "Russia",
+   "url": "https://x.com/search?q=Russia"
+  },
+  {
+   "name": "Solanke",
+   "url": "https://x.com/search?q=Solanke"
+  },
+  {
+   "name": "Carrick",
+   "url": "https://x.com/search?q=Carrick"
   },
   {
    "name": "Putin",
    "url": "https://x.com/search?q=Putin"
   },
   {
-   "name": "Hendo",
-   "url": "https://x.com/search?q=Hendo"
+   "name": "Tielemans",
+   "url": "https://x.com/search?q=Tielemans"
   },
   {
-   "name": "#WorldMentalHealthDay",
-   "url": "https://x.com/search?q=%23WorldMentalHealthDay"
+   "name": "Podz",
+   "url": "https://x.com/search?q=Podz"
   },
   {
-   "name": "Good Saturday",
-   "url": "https://x.com/search?q=Good%20Saturday"
+   "name": "#iufb",
+   "url": "https://x.com/search?q=%23iufb"
   },
   {
-   "name": "Pat McAfee",
-   "url": "https://x.com/search?q=Pat%20McAfee"
-  },
-  {
-   "name": "Saka",
-   "url": "https://x.com/search?q=Saka"
-  },
-  {
-   "name": "College Gameday",
-   "url": "https://x.com/search?q=College%20Gameday"
+   "name": "Texas A&M",
+   "url": "https://x.com/search?q=Texas%20A%26M"
   }
  ]
 }
