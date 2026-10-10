@@ -1,6 +1,6 @@
 {
  "live": true,
- "checked_at": "2026-10-10T22:13:53.179898Z",
+ "checked_at": "2026-10-10T23:16:40.631993Z",
  "detection": "A post linking to an X broadcast counts as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "post_id": "2109022471496290569",
  "post_url": "https://x.com/zxnbluehandus/status/2109022471496290569",

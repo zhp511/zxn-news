@@ -1,7 +1,7 @@
 {
- "built_at": "2026-10-10T22:13:49Z",
- "news_fetched_at": "2026-10-10T22:13:49Z",
- "trends_fetched_at": "2026-10-10T22:13:49Z",
+ "built_at": "2026-10-10T23:16:38Z",
+ "news_fetched_at": "2026-10-10T23:16:38Z",
+ "trends_fetched_at": "2026-10-10T23:16:38Z",
  "source": "X News (x.search_news) and US trends (x.get_trends_by_woeid 23424977). Story summaries are written by X/Grok from posts on X and may evolve.",
  "stories": [
   {
@@ -14,7 +14,11 @@
    "topics": [
     "Politics"
    ],
-   "post_urls": []
+   "post_urls": [
+    "https://x.com/i/status/2108938134029496541",
+    "https://x.com/i/status/2108957270210179189",
+    "https://x.com/i/status/2108951696046981613"
+   ]
   },
   {
    "id": "2108922099939069957",
@@ -138,8 +142,12 @@
    "url": "https://x.com/search?q=%23MITB"
   },
   {
-   "name": "Ukraine",
-   "url": "https://x.com/search?q=Ukraine"
+   "name": "Arch Manning",
+   "url": "https://x.com/search?q=Arch%20Manning"
+  },
+  {
+   "name": "LA Knight",
+   "url": "https://x.com/search?q=LA%20Knight"
   },
   {
    "name": "UCLA",
@@ -150,48 +158,44 @@
    "url": "https://x.com/search?q=Oregon"
   },
   {
-   "name": "Zelensky",
-   "url": "https://x.com/search?q=Zelensky"
-  },
-  {
-   "name": "Nebraska",
-   "url": "https://x.com/search?q=Nebraska"
+   "name": "Ukraine",
+   "url": "https://x.com/search?q=Ukraine"
   },
   {
    "name": "Raiola",
    "url": "https://x.com/search?q=Raiola"
   },
   {
-   "name": "Vini",
-   "url": "https://x.com/search?q=Vini"
+   "name": "Sark",
+   "url": "https://x.com/search?q=Sark"
   },
   {
-   "name": "Mateer",
-   "url": "https://x.com/search?q=Mateer"
+   "name": "Oklahoma",
+   "url": "https://x.com/search?q=Oklahoma"
   },
   {
-   "name": "Putin",
-   "url": "https://x.com/search?q=Putin"
+   "name": "Roman",
+   "url": "https://x.com/search?q=Roman"
   },
   {
-   "name": "Nico",
-   "url": "https://x.com/search?q=Nico"
+   "name": "#UFCVegas122",
+   "url": "https://x.com/search?q=%23UFCVegas122"
   },
   {
-   "name": "Max Gilbert",
-   "url": "https://x.com/search?q=Max%20Gilbert"
+   "name": "Zelensky",
+   "url": "https://x.com/search?q=Zelensky"
   },
   {
-   "name": "Elko",
-   "url": "https://x.com/search?q=Elko"
+   "name": "Texas",
+   "url": "https://x.com/search?q=Texas"
   },
   {
-   "name": "Russia",
-   "url": "https://x.com/search?q=Russia"
+   "name": "Heupel",
+   "url": "https://x.com/search?q=Heupel"
   },
   {
-   "name": "South Carolina",
-   "url": "https://x.com/search?q=South%20Carolina"
+   "name": "Tiffany",
+   "url": "https://x.com/search?q=Tiffany"
   }
  ]
 }
