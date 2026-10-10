@@ -1,0 +1,28 @@
+/* ===== LIVE NOW ===== */
+.live-now{margin-top:24px;background:#0b0f17;border:3px solid var(--red);box-shadow:0 0 0 0 rgba(178,34,52,.6);animation:liveglow 2s infinite}
+@keyframes liveglow{0%{box-shadow:0 0 0 0 rgba(178,34,52,.55)}70%{box-shadow:0 0 0 14px rgba(178,34,52,0)}100%{box-shadow:0 0 0 0 rgba(178,34,52,0)}}
+.live-bar{display:flex;flex-wrap:wrap;align-items:center;gap:10px 14px;background:var(--red);color:#fff;padding:10px 16px}
+.live-dot{width:14px;height:14px;border-radius:50%;background:#fff;flex:none;animation:livepulse 1.1s infinite}
+@keyframes livepulse{0%{transform:scale(.8);opacity:1}50%{transform:scale(1.25);opacity:.45}100%{transform:scale(.8);opacity:1}}
+.live-word{font-family:var(--head);font-weight:700;letter-spacing:.16em;font-size:1.35rem}
+.live-title{font-family:var(--serif);font-weight:700;font-size:1.05rem;flex:1;min-width:180px}
+.live-since{font-size:.8rem;opacity:.9}
+.live-btn{background:#fff;color:var(--red);font-weight:800;text-decoration:none;padding:8px 14px;border-radius:999px;white-space:nowrap}
+.live-btn:hover{background:var(--navy);color:#fff}
+.live-btn.big{display:inline-block;background:var(--red);color:#fff;font-size:1.05rem;padding:12px 20px;margin:6px 0 10px}
+.live-btn.big:hover{background:#8c1a28}
+.live-body{display:grid;grid-template-columns:minmax(0,560px) minmax(0,1fr);gap:24px;padding:20px;align-items:start}
+.live-embed{min-height:220px;display:flex;justify-content:center}
+.live-embed .twitter-tweet{margin:0 auto !important}
+.live-loading{color:#9aa4b5;align-self:center}
+.live-side{color:#fff}
+.live-side h2{font-family:var(--head);text-transform:uppercase;letter-spacing:.08em;margin:0 0 8px}
+.live-text{font-family:var(--serif);font-size:1.05rem;color:#dde3ee;margin:0 0 6px}
+.live-link{display:block;color:#cfd8e6;font-weight:700;margin-bottom:10px}
+.live-note{font-size:.78rem;color:#9aa4b5}
+.live-fallback{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:8px;width:100%;min-height:260px;text-decoration:none;color:#fff;
+  background:linear-gradient(135deg,var(--navy),#000);border:2px solid var(--red);text-align:center;padding:20px}
+.live-fallback b{font-family:var(--head);letter-spacing:.2em;font-size:1.6rem;color:var(--red)}
+.live-fallback em{font-style:normal;background:var(--red);padding:6px 14px;border-radius:999px;font-weight:800}
+@media (max-width:860px){.live-body{grid-template-columns:1fr;padding:14px}}
+@media (prefers-reduced-motion:reduce){.live-now,.live-dot{animation:none}}

@@ -25,6 +25,13 @@ HOW TO REFRESH
    This script only READS that file and copies the pin into posts.json; it never changes it.
    Only the site owner (in chat) changes the pin. Posts on X never change it, including
    "make this top story" quote-posts, which are hidden as editorial notes.
+   LIVE NOW: every run also writes data/live.json (see detect_live below). When one of the
+   newest posts links to an X live broadcast (x.com/i/broadcasts/<id>) posted within the last
+   3 hours, live.json says {"live": true, ...} and the page shows the LIVE NOW player.
+   X's API doesn't say when a broadcast has ended, so "live" means "posted in the last
+   3 hours" (change with "live_window_hours" in site_config.json). To end it early, add the
+   post id to "live_ended_post_ids" in site_config.json. data/live.json must be published
+   along with data/posts.json.
 4. Reload index.html (served over http, e.g.  python3 -m http.server 8080).
 
 Nothing is invented: headlines come from the first line of each post (or, for link-only
@@ -98,6 +105,48 @@ CONFIG = os.path.join(ROOT, "data", "site_config.json")
 # Short notes like "Make this top story" / "pin this" / "put this on the front page".
 EDITORIAL_RE = re.compile(r"\b(top story|lead story|main story|front ?page|pin (this|it)|feature (this|it)|headline (this|it))\b", re.I)
 TEST_RE = re.compile(r"^(test|testing)(\s+(in|\d+))?(\s+youtube live)?$", re.I)
+
+
+LIVE_OUT = os.environ.get("ZXN_LIVE_OUT") or os.path.join(ROOT, "data", "live.json")
+BROADCAST_RE = re.compile(r"https?://(?:www\.)?(?:x|twitter)\.com/i/broadcasts/([A-Za-z0-9]+)")
+
+
+def detect_live(posts, config):
+    """Write data/live.json from the newest broadcast-link post. Only real post data is used."""
+    import datetime
+    now = os.environ.get("ZXN_NOW")  # testing only: pretend the current time is this ISO time
+    now = datetime.datetime.fromisoformat(now.replace("Z", "+00:00")) if now else datetime.datetime.now(datetime.timezone.utc)
+    window = float(config.get("live_window_hours", 3))
+    ended = set(config.get("live_ended_post_ids") or [])
+    newest = None
+    for p in sorted(posts, key=lambda p: p["created_at"], reverse=True):
+        if p["hidden"] and (p["hidden_reason"] == "test post" or str(p["hidden_reason"]).startswith("editorial")):
+            continue
+        hay = " ".join([p["original_text"], (p.get("link") or {}).get("url") or ""] + p.get("_expanded_urls", []))
+        m = BROADCAST_RE.search(hay)
+        if m:
+            newest = (p, m.group(0), m.group(1)); break
+    out = {"live": False, "checked_at": now.isoformat().replace("+00:00", "Z"),
+           "detection": f"A post linking to an X broadcast counts as live for {window:g} h after posting "
+                        "(X's API doesn't report when a broadcast ends)."}
+    if newest:
+        p, url, bid = newest
+        started = datetime.datetime.fromisoformat(p["created_at"].replace("Z", "+00:00"))
+        age_h = (now - started).total_seconds() / 3600
+        info = {"post_id": p["id"], "post_url": p["url"], "broadcast_id": bid,
+                "broadcast_url": f"https://x.com/i/broadcasts/{bid}",
+                "title": ((p.get("link") or {}).get("title") or p["headline"]),
+                "post_text": p["text"], "started_at": p["created_at"],
+                "assumed_live_until": (started + datetime.timedelta(hours=window)).isoformat().replace("+00:00", "Z")}
+        if 0 <= age_h <= window and p["id"] not in ended:
+            out.update(live=True, **info)
+        elif age_h <= 24 * 7:
+            out["recent"] = info
+    os.makedirs(os.path.dirname(LIVE_OUT), exist_ok=True)
+    json.dump(out, open(LIVE_OUT, "w"), ensure_ascii=False, indent=1)
+    print(f"wrote {LIVE_OUT}: live={out['live']}" + (f" post {out['post_id']} ({out['title']})" if out["live"] else
+          (f" (most recent broadcast post {out['recent']['post_id']}, {out['recent']['started_at']})" if out.get("recent") else "")))
+    return out
 
 
 def build():
@@ -203,6 +252,7 @@ def build():
             "has_video": any(i["type"] == "video" for i in images),
             "hidden": hidden,
             "hidden_reason": reason,
+            "_expanded_urls": [u.get("unwound_url") or u.get("expanded_url") or "" for u in urls],
         })
     user = raw.get("user", {})
     if user.get("profile_image_url"):
@@ -213,6 +263,9 @@ def build():
     pinned = config.get("pinned_top")
     if pinned and not any(p["id"] == pinned and not p["hidden"] for p in posts):
         print(f"  ! pinned_top {pinned} is not among the visible posts; the page will fall back to the automatic Top Story")
+    detect_live(posts, config)
+    for p in posts:
+        p.pop("_expanded_urls", None)
     out = {"generated_from": "data/raw_pages.json", "fetched_at": raw.get("fetched_at"),
            "pinned_top": pinned, "user": user, "posts": posts}
     json.dump(out, open(OUT, "w"), ensure_ascii=False, indent=1)

@@ -11,6 +11,7 @@
 <link rel="stylesheet" href="assets/styles.css">
 <link rel="stylesheet" href="assets/weather.css">
 <link rel="stylesheet" href="assets/ticker.css">
+<link rel="stylesheet" href="assets/live.css">
 </head>
 <body>
 <div class="zxn-ticker" role="region" aria-label="Stock market ticker">
@@ -42,6 +43,7 @@
 </header>
 
 <main id="top" class="wrap">
+  <section id="live-now" class="live-now" aria-live="polite" hidden></section>
   <section id="top-story" class="top">
     <div id="featured" class="featured"></div>
     <aside class="rail">
@@ -114,6 +116,7 @@
 </footer>
 <script src="assets/ticker.js"></script>
 <script src="assets/app.js"></script>
+<script src="assets/live.js"></script>
 <script src="assets/leaflet.js"></script>
 <script src="assets/alerts.js"></script>
 <script src="assets/weather.js"></script>
