@@ -10,8 +10,14 @@
 <link rel="stylesheet" href="assets/leaflet.css">
 <link rel="stylesheet" href="assets/styles.css">
 <link rel="stylesheet" href="assets/weather.css">
+<link rel="stylesheet" href="assets/ticker.css">
 </head>
 <body>
+<div class="zxn-ticker" role="region" aria-label="Stock market ticker">
+  <div class="ticker-label"><span class="star">★</span> ZXN Markets</div>
+  <div class="ticker-track tradingview-widget-container"><div id="zxn-ticker-widget" class="tradingview-widget-container__widget"></div></div>
+  <div class="ticker-note">Quotes delayed · <a href="https://www.tradingview.com/" target="_blank" rel="noopener nofollow">TradingView</a></div>
+</div>
 <div id="alert-banner" class="alert-banner" role="region" aria-label="Severe weather alerts" hidden></div>
 <div class="flagbar"><span></span><span></span><span></span></div>
 <header class="masthead">
@@ -106,6 +112,7 @@
     <div>Every story on this page is a post by <a href="https://x.com/zxnbluehandus" target="_blank" rel="noopener">@zxnbluehandus</a> on X. <span id="updated"></span></div>
   </div>
 </footer>
+<script src="assets/ticker.js"></script>
 <script src="assets/app.js"></script>
 <script src="assets/leaflet.js"></script>
 <script src="assets/alerts.js"></script>

@@ -1,0 +1,17 @@
+/* ===== ZXN Markets ticker (top strip) ===== */
+.zxn-ticker{display:flex;align-items:stretch;background:#050f22;color:#fff;height:46px;border-bottom:2px solid var(--red);overflow:hidden;position:relative;z-index:1001}
+.ticker-label{flex:none;display:flex;align-items:center;gap:6px;padding:0 14px;background:var(--red);font-family:var(--head);text-transform:uppercase;letter-spacing:.12em;font-size:.85rem;white-space:nowrap;
+  clip-path:polygon(0 0,100% 0,calc(100% - 12px) 100%,0 100%);padding-right:22px}
+.ticker-label .star{color:#fff}
+.ticker-track{flex:1;min-width:0;height:46px;overflow:hidden}
+.ticker-track .tradingview-widget-container__widget,.ticker-track iframe{height:46px !important;width:100% !important;display:block}
+.ticker-track .tradingview-widget-copyright{display:none}
+.ticker-note{flex:none;display:flex;align-items:center;padding:0 12px;font-size:.68rem;color:#aab4c5;white-space:nowrap;border-left:1px solid rgba(255,255,255,.12)}
+.ticker-note a{color:#cfd8e6}
+.ticker-fallback{display:flex;align-items:center;height:46px;padding:0 14px;font-size:.85rem;color:#cfd8e6}
+.ticker-fallback a{color:#fff;margin-left:6px}
+@media (max-width:640px){
+  .ticker-label{font-size:0;padding:0 18px 0 10px;gap:0}
+  .ticker-label .star{font-size:1rem}
+  .ticker-note{display:none}
+}
