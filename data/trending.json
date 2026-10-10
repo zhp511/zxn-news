@@ -1,9 +1,42 @@
 {
- "built_at": "2026-10-10T17:57:31Z",
- "news_fetched_at": "2026-10-10T17:56:40Z",
- "trends_fetched_at": "2026-10-10T17:56:40Z",
+ "built_at": "2026-10-10T19:02:23Z",
+ "news_fetched_at": "2026-10-10T19:01:40Z",
+ "trends_fetched_at": "2026-10-10T19:01:40Z",
  "source": "X News (x.search_news) and US trends (x.get_trends_by_woeid 23424977). Story summaries are written by X/Grok from posts on X and may evolve.",
  "stories": [
+  {
+   "id": "2108989862233903133",
+   "headline": "Trump's Russian Diesel Deal Sparks Ukraine Backlash Debate",
+   "hook": "A post questioning why the U.S. can't remove President Trump amid his controversial Russian diesel deal drew sharp replies from all sides. It laid bare the raw partisan split over his Ukraine policy.",
+   "summary": "President Trump, who took office in January 2025 after the 2024 election, announced a deal to buy large quantities of Russian diesel fuel, waiving U.S. sanctions temporarily. Ukrainian officials, including President Zelenskyy, condemned it as a betrayal that aids Russia during peace talks, especially as U.S. envoys met in Miami and Russian strikes followed. Supporters hailed Trump as the best president ever and pointed to his election win, while critics called him incompetent and blamed his party's protection; constitutional removal paths like impeachment or the 25th Amendment face high hurdles.",
+   "updated_at": "2026-10-10T18:42:59.000Z",
+   "url": "https://x.com/i/trending/2108989862233903133",
+   "topics": [
+    "Politics"
+   ],
+   "post_urls": [
+    "https://x.com/i/status/2108769373532172325",
+    "https://x.com/i/status/2108952887766466691",
+    "https://x.com/i/status/2108978267579695423"
+   ]
+  },
+  {
+   "id": "2108986865349280033",
+   "headline": "Conservatives Frustrated with Republican Senate Majority's Direction",
+   "hook": "A widely shared image of Senate proceedings has conservatives asking why the GOP's 53-47 edge feels like a Democratic lead.",
+   "summary": "Conservative voices express sharp frustration that the Republican-controlled Senate, led by John Thune, acts more like it's run by Democrats despite its 53-47 majority. Critics blame moderate Republicans like Lisa Murkowski and what they call RINOs for not pushing harder on priorities such as voter ID and spending restraint, amid Senate rules requiring 60 votes for many measures. The online debate intensifies as prediction markets give Democrats 60-62% odds of flipping the Senate and near 90% for the House in the November 2026 midterms, with Thune calling the chamber a potential firewall.",
+   "updated_at": "2026-10-10T18:30:10.000Z",
+   "url": "https://x.com/i/trending/2108986865349280033",
+   "topics": [
+    "News",
+    "Politics"
+   ],
+   "post_urls": [
+    "https://x.com/i/status/2108711733724688659",
+    "https://x.com/i/status/2108949532205777011",
+    "https://x.com/i/status/2108914448953962902"
+   ]
+  },
   {
    "id": "2108397108785012887",
    "headline": "Whatley and Cooper Exchange Sharp Attacks in Tight North Carolina Senate Race",
@@ -50,22 +83,6 @@
     "https://x.com/i/status/2108889627675517069",
     "https://x.com/i/status/2108774794132902092",
     "https://x.com/i/status/2108897483686604962"
-   ]
-  },
-  {
-   "id": "2108946546460893231",
-   "headline": "Mike Johnson Jokes About Starting Lawn Business If GOP Loses House",
-   "hook": "House Speaker Mike Johnson shared a lighthearted vision of his future: mowing lawns back home in Shreveport if Republicans lose their slim majority.",
-   "summary": "In a Fox News interview, Johnson said he'd return to Louisiana for a lawn business if the GOP falls short in the November midterms, where polls show Democrats ahead by about eight points. Social media lit up with memes and jokes, with some users cheering the idea as motivation to vote blue and others questioning if he'd really step away. His spokesman called the buzz overblown, as Johnson stays focused on keeping the speakership amid the tight race and early voting already underway.",
-   "updated_at": "2026-10-10T15:48:45.000Z",
-   "url": "https://x.com/i/trending/2108946546460893231",
-   "topics": [
-    "Politics"
-   ],
-   "post_urls": [
-    "https://x.com/i/status/2108913690049462709",
-    "https://x.com/i/status/2108964179998830772",
-    "https://x.com/i/status/2108899205989187816"
    ]
   },
   {
@@ -116,22 +133,6 @@
     "https://x.com/i/status/2108516575112212723",
     "https://x.com/i/status/2108593785261478298"
    ]
-  },
-  {
-   "id": "2108366423722778729",
-   "headline": "Debate Erupts Over US Collapse Wish and Global Fallout",
-   "hook": "A simple post hoping to see the US collapse drew thousands of likes, but replies quickly turned to warnings of worldwide chaos from broken supply chains and trade routes.",
-   "summary": "User @tricky2386's message, 'I hope I live to see the US collapse,' prompted sharp pushback highlighting America's role in stabilizing global shipping lanes for food and oil that feed billions. One detailed response from @drunkelections warned of a 20- to 30-year downturn worse than the Great Depression, with hundreds of millions at risk from disruptions, comparing it to the Dark Ages. Others noted historical examples like the USSR's fall bringing hardship, while some mocked the idea and questioned daily life without US economic ties, underscoring deep global interdependence.",
-   "updated_at": "2026-10-09T06:46:54.000Z",
-   "url": "https://x.com/i/trending/2108366423722778729",
-   "topics": [
-    "Politics"
-   ],
-   "post_urls": [
-    "https://x.com/i/status/2108059761996615808",
-    "https://x.com/i/status/2108235678391943571",
-    "https://x.com/i/status/2108345572952605042"
-   ]
   }
  ],
  "trends": [
@@ -148,52 +149,52 @@
    "url": "https://x.com/search?q=Zelensky"
   },
   {
-   "name": "Marcel Reed",
-   "url": "https://x.com/search?q=Marcel%20Reed"
-  },
-  {
-   "name": "Marv",
-   "url": "https://x.com/search?q=Marv"
-  },
-  {
-   "name": "Pope",
-   "url": "https://x.com/search?q=Pope"
-  },
-  {
    "name": "Indiana",
    "url": "https://x.com/search?q=Indiana"
-  },
-  {
-   "name": "Russia",
-   "url": "https://x.com/search?q=Russia"
-  },
-  {
-   "name": "Solanke",
-   "url": "https://x.com/search?q=Solanke"
   },
   {
    "name": "Carrick",
    "url": "https://x.com/search?q=Carrick"
   },
   {
+   "name": "Russia",
+   "url": "https://x.com/search?q=Russia"
+  },
+  {
+   "name": "Marcel Reed",
+   "url": "https://x.com/search?q=Marcel%20Reed"
+  },
+  {
    "name": "Putin",
    "url": "https://x.com/search?q=Putin"
   },
   {
-   "name": "Tielemans",
-   "url": "https://x.com/search?q=Tielemans"
-  },
-  {
-   "name": "Podz",
-   "url": "https://x.com/search?q=Podz"
+   "name": "Pope",
+   "url": "https://x.com/search?q=Pope"
   },
   {
    "name": "#iufb",
    "url": "https://x.com/search?q=%23iufb"
   },
   {
-   "name": "Texas A&M",
-   "url": "https://x.com/search?q=Texas%20A%26M"
+   "name": "Solanke",
+   "url": "https://x.com/search?q=Solanke"
+  },
+  {
+   "name": "Marv",
+   "url": "https://x.com/search?q=Marv"
+  },
+  {
+   "name": "Tottenham",
+   "url": "https://x.com/search?q=Tottenham"
+  },
+  {
+   "name": "Nick Marsh",
+   "url": "https://x.com/search?q=Nick%20Marsh"
+  },
+  {
+   "name": "Spurs",
+   "url": "https://x.com/search?q=Spurs"
   }
  ]
 }
