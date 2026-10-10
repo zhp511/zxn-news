@@ -1,9 +1,21 @@
 {
- "built_at": "2026-10-10T21:11:20Z",
- "news_fetched_at": "2026-10-10T21:11:20Z",
- "trends_fetched_at": "2026-10-10T21:11:20Z",
+ "built_at": "2026-10-10T22:13:49Z",
+ "news_fetched_at": "2026-10-10T22:13:49Z",
+ "trends_fetched_at": "2026-10-10T22:13:49Z",
  "source": "X News (x.search_news) and US trends (x.get_trends_by_woeid 23424977). Story summaries are written by X/Grok from posts on X and may evolve.",
  "stories": [
+  {
+   "id": "2109023195668054078",
+   "headline": "Trump's Net Approval Hits -23.9% in Second Term Amid Steady Decline",
+   "hook": "Donald Trump's net approval rating has slid to -23.9%, a persistent drop from early 2025 that observers say feels different from his first term.",
+   "summary": "Silver Bulletin's polling average shows Trump's approval in the mid-30s with disapproval over 60%, marking all-time lows for his second term. The decline persists despite brief rebounds, tied by analysts to tangible policy effects, economic pressures, and ongoing conflicts that keep pulling people back into politics. Meanwhile, California voters passed Proposition 50 by 64.4% in November 2025 to redraw congressional maps through 2030, and Democrat Abigail Spanberger leads Virginia's governor race by about 10 points.",
+   "updated_at": "2026-10-10T20:55:47.000Z",
+   "url": "https://x.com/i/trending/2109023195668054078",
+   "topics": [
+    "Politics"
+   ],
+   "post_urls": []
+  },
   {
    "id": "2108922099939069957",
    "headline": "Post Lists Trump Actions, Draws Sharp Partisan Replies",
@@ -118,36 +130,36 @@
     "https://x.com/i/status/2108594505725198688",
     "https://x.com/i/status/2108420128576573897"
    ]
-  },
-  {
-   "id": "2108791929857323177",
-   "headline": "Public frustration over lack of arrests following U.S. congressional hearings",
-   "hook": null,
-   "summary": "Social media users express outrage at the absence of arrests despite multiple U.S. congressional hearings. Posts highlight a perceived pattern of congressional inaction and lack of accountability for powerful figures.",
-   "updated_at": "2026-10-10T05:32:51.000Z",
-   "url": "https://x.com/i/trending/2108791929857323177",
-   "topics": [
-    "Politics"
-   ],
-   "post_urls": [
-    "https://x.com/i/status/2108699709959221446",
-    "https://x.com/i/status/2108729912635035951",
-    "https://x.com/i/status/2108641685425267184"
-   ]
   }
  ],
  "trends": [
   {
+   "name": "#MITB",
+   "url": "https://x.com/search?q=%23MITB"
+  },
+  {
    "name": "Ukraine",
    "url": "https://x.com/search?q=Ukraine"
+  },
+  {
+   "name": "UCLA",
+   "url": "https://x.com/search?q=UCLA"
+  },
+  {
+   "name": "Oregon",
+   "url": "https://x.com/search?q=Oregon"
+  },
+  {
+   "name": "Zelensky",
+   "url": "https://x.com/search?q=Zelensky"
   },
   {
    "name": "Nebraska",
    "url": "https://x.com/search?q=Nebraska"
   },
   {
-   "name": "Zelensky",
-   "url": "https://x.com/search?q=Zelensky"
+   "name": "Raiola",
+   "url": "https://x.com/search?q=Raiola"
   },
   {
    "name": "Vini",
@@ -158,44 +170,28 @@
    "url": "https://x.com/search?q=Mateer"
   },
   {
-   "name": "South Carolina",
-   "url": "https://x.com/search?q=South%20Carolina"
+   "name": "Putin",
+   "url": "https://x.com/search?q=Putin"
   },
   {
-   "name": "Indiana",
-   "url": "https://x.com/search?q=Indiana"
+   "name": "Nico",
+   "url": "https://x.com/search?q=Nico"
+  },
+  {
+   "name": "Max Gilbert",
+   "url": "https://x.com/search?q=Max%20Gilbert"
+  },
+  {
+   "name": "Elko",
+   "url": "https://x.com/search?q=Elko"
   },
   {
    "name": "Russia",
    "url": "https://x.com/search?q=Russia"
   },
   {
-   "name": "Putin",
-   "url": "https://x.com/search?q=Putin"
-  },
-  {
-   "name": "Oregon",
-   "url": "https://x.com/search?q=Oregon"
-  },
-  {
-   "name": "UCLA",
-   "url": "https://x.com/search?q=UCLA"
-  },
-  {
-   "name": "Raiola",
-   "url": "https://x.com/search?q=Raiola"
-  },
-  {
-   "name": "Gators",
-   "url": "https://x.com/search?q=Gators"
-  },
-  {
-   "name": "Oklahoma",
-   "url": "https://x.com/search?q=Oklahoma"
-  },
-  {
-   "name": "Sumrall",
-   "url": "https://x.com/search?q=Sumrall"
+   "name": "South Carolina",
+   "url": "https://x.com/search?q=South%20Carolina"
   }
  ]
 }
