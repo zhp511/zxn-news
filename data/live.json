@@ -1,13 +1,15 @@
 {
- "live": true,
- "checked_at": "2026-10-10T03:41:10.709797Z",
+ "live": false,
+ "checked_at": "2026-10-10T06:43:32.696968Z",
  "detection": "A post linking to an X broadcast counts as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
- "post_id": "2108764626473439467",
- "post_url": "https://x.com/zxnbluehandus/status/2108764626473439467",
- "broadcast_id": "1pKkOXzazoyKj",
- "broadcast_url": "https://x.com/i/broadcasts/1pKkOXzazoyKj",
- "title": "ZXN “ we are bluehand ” AND patriot one network",
- "post_text": "#ZXN #xlive #wearethepeople #bluehand  #PON #tellmeyourstory   #ZXNWEATHER",
- "started_at": "2026-10-10T03:40:40.000Z",
- "assumed_live_until": "2026-10-10T06:40:40Z"
+ "recent": {
+  "post_id": "2108764626473439467",
+  "post_url": "https://x.com/zxnbluehandus/status/2108764626473439467",
+  "broadcast_id": "1pKkOXzazoyKj",
+  "broadcast_url": "https://x.com/i/broadcasts/1pKkOXzazoyKj",
+  "title": "ZXN “ we are bluehand ” AND patriot one network",
+  "post_text": "#ZXN #xlive #wearethepeople #bluehand  #PON #tellmeyourstory   #ZXNWEATHER",
+  "started_at": "2026-10-10T03:40:40.000Z",
+  "assumed_live_until": "2026-10-10T06:40:40Z"
+ }
 }
