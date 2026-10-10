@@ -1,9 +1,26 @@
 {
- "built_at": "2026-10-10T20:06:49Z",
- "news_fetched_at": "2026-10-10T20:05:40Z",
- "trends_fetched_at": "2026-10-10T20:05:40Z",
+ "built_at": "2026-10-10T21:11:20Z",
+ "news_fetched_at": "2026-10-10T21:11:20Z",
+ "trends_fetched_at": "2026-10-10T21:11:20Z",
  "source": "X News (x.search_news) and US trends (x.get_trends_by_woeid 23424977). Story summaries are written by X/Grok from posts on X and may evolve.",
  "stories": [
+  {
+   "id": "2108922099939069957",
+   "headline": "Post Lists Trump Actions, Draws Sharp Partisan Replies",
+   "hook": "Janice Gindel's post called out Republicans for silence on a list of Trump moves, from pardons to a Qatar jet gift, urging everyone to finally speak up.",
+   "summary": "Gindel's message accused Trump of pardoning 1,600 violent criminals, demolishing the White House East Wing for a ballroom, interfering with Epstein files, renaming the Kennedy Center after himself, accepting a $400 million plane from Qatar, threatening countries, and imposing tariffs that harmed allies. Some claims align with reported events, like clemency for about 1,500 January 6 participants, the 2025 East Wing demolition, and the Kennedy Center name addition by Trump allies. Replies split sharply, with critics stunned at ongoing Republican support and defenders praising his leadership or countering with Democratic grievances amid midterm tensions.",
+   "updated_at": "2026-10-10T20:18:02.000Z",
+   "url": "https://x.com/i/trending/2108922099939069957",
+   "topics": [
+    "News",
+    "Politics"
+   ],
+   "post_urls": [
+    "https://x.com/i/status/2108774794132902092",
+    "https://x.com/i/status/2108955752282919090",
+    "https://x.com/i/status/2108889627675517069"
+   ]
+  },
   {
    "id": "2109002089414152255",
    "headline": "Debate Revives Over U.S. as Republic or Democracy",
@@ -18,22 +35,6 @@
     "https://x.com/i/status/2108973509720625493",
     "https://x.com/i/status/2108991714824269951",
     "https://x.com/i/status/2108989175928381863"
-   ]
-  },
-  {
-   "id": "2108989862233903133",
-   "headline": "Trump's Russian Diesel Deal Sparks Ukraine Backlash Debate",
-   "hook": "A post questioning why the U.S. can't remove President Trump amid his controversial Russian diesel deal drew sharp replies from all sides. It laid bare the raw partisan split over his Ukraine policy.",
-   "summary": "President Trump, who took office in January 2025 after the 2024 election, announced a deal to buy large quantities of Russian diesel fuel, waiving U.S. sanctions temporarily. Ukrainian officials, including President Zelenskyy, condemned it as a betrayal that aids Russia during peace talks, especially as U.S. envoys met in Miami and Russian strikes followed. Supporters hailed Trump as the best president ever and pointed to his election win, while critics called him incompetent and blamed his party's protection; constitutional removal paths like impeachment or the 25th Amendment face high hurdles.",
-   "updated_at": "2026-10-10T18:42:59.000Z",
-   "url": "https://x.com/i/trending/2108989862233903133",
-   "topics": [
-    "Politics"
-   ],
-   "post_urls": [
-    "https://x.com/i/status/2108769373532172325",
-    "https://x.com/i/status/2108952887766466691",
-    "https://x.com/i/status/2108978267579695423"
    ]
   },
   {
@@ -86,22 +87,6 @@
    ]
   },
   {
-   "id": "2108922099939069957",
-   "headline": "Trump Divides Nation with Bold Pardons, Tariffs, and Trade Gifts",
-   "hook": "A widely shared list of President Trump's actions—from mass pardons to a Qatari jet gift—drew cheers from fans and sharp rebukes from critics, laying bare America's deep divide.",
-   "summary": "Critics highlighted claims like pardoning nearly 1,600 January 6 defendants, accepting a $400 million Boeing 747 from Qatar for Air Force One, pushing to rename the Kennedy Center after himself, imposing broad 2026 tariffs, and more. Supporters fired back, celebrating these as part of an America First push on immigration, trade, and security, with one saying, 'He’s doing what I wanted him to do.' While the White House points to trade deals and military restorations, polls show Trump's approval at 34-37 percent amid the ongoing national split.",
-   "updated_at": "2026-10-10T16:44:07.000Z",
-   "url": "https://x.com/i/trending/2108922099939069957",
-   "topics": [
-    "Politics"
-   ],
-   "post_urls": [
-    "https://x.com/i/status/2108889627675517069",
-    "https://x.com/i/status/2108774794132902092",
-    "https://x.com/i/status/2108897483686604962"
-   ]
-  },
-  {
    "id": "2108933912076677384",
    "headline": "Republicans Hold 53-47 Senate Majority Yet Face Frustration Over Inaction",
    "hook": "With a clear 53-47 edge, Republicans control the Senate—yet many wonder why it feels like Democrats are still calling the shots.",
@@ -116,6 +101,22 @@
     "https://x.com/i/status/2108711733724688659",
     "https://x.com/i/status/2108886611408679031",
     "https://x.com/i/status/2108926141902008789"
+   ]
+  },
+  {
+   "id": "2108209318508318765",
+   "headline": "Mike Johnson Floats Lawn Business if GOP Loses House Majority",
+   "hook": "House Speaker Mike Johnson shared a candid thought in a Fox News interview: if Republicans lose their slim majority next month, he might head back to Shreveport for a lawn business.",
+   "summary": "In the exclusive chat with Aishah Hasnie, Johnson said he'd pursue whatever path feels right, like starting that lawn venture, with the same passion he brings to Congress. He stressed his focus on winning, planning to stay as speaker, and blamed any potential loss on voters being misled rather than his leadership. Republicans hold a razor-thin 218-214 edge, but polls show Democrats ahead by 7 to 12 points on the generic ballot. A spokesperson later called the lawn talk overblown amid Johnson's nonstop fundraising and travel.",
+   "updated_at": "2026-10-10T06:40:49.000Z",
+   "url": "https://x.com/i/trending/2108209318508318765",
+   "topics": [
+    "Politics"
+   ],
+   "post_urls": [
+    "https://x.com/i/status/2108185190832980088",
+    "https://x.com/i/status/2108594505725198688",
+    "https://x.com/i/status/2108420128576573897"
    ]
   },
   {
@@ -137,16 +138,28 @@
  ],
  "trends": [
   {
-   "name": "Nebraska",
-   "url": "https://x.com/search?q=Nebraska"
-  },
-  {
    "name": "Ukraine",
    "url": "https://x.com/search?q=Ukraine"
   },
   {
+   "name": "Nebraska",
+   "url": "https://x.com/search?q=Nebraska"
+  },
+  {
    "name": "Zelensky",
    "url": "https://x.com/search?q=Zelensky"
+  },
+  {
+   "name": "Vini",
+   "url": "https://x.com/search?q=Vini"
+  },
+  {
+   "name": "Mateer",
+   "url": "https://x.com/search?q=Mateer"
+  },
+  {
+   "name": "South Carolina",
+   "url": "https://x.com/search?q=South%20Carolina"
   },
   {
    "name": "Indiana",
@@ -157,44 +170,32 @@
    "url": "https://x.com/search?q=Russia"
   },
   {
-   "name": "#iufb",
-   "url": "https://x.com/search?q=%23iufb"
-  },
-  {
    "name": "Putin",
    "url": "https://x.com/search?q=Putin"
   },
   {
-   "name": "Nick Marsh",
-   "url": "https://x.com/search?q=Nick%20Marsh"
+   "name": "Oregon",
+   "url": "https://x.com/search?q=Oregon"
   },
   {
-   "name": "Pope",
-   "url": "https://x.com/search?q=Pope"
+   "name": "UCLA",
+   "url": "https://x.com/search?q=UCLA"
   },
   {
-   "name": "Colin Simmons",
-   "url": "https://x.com/search?q=Colin%20Simmons"
-  },
-  {
-   "name": "Matt Rhule",
-   "url": "https://x.com/search?q=Matt%20Rhule"
-  },
-  {
-   "name": "Marcel Reed",
-   "url": "https://x.com/search?q=Marcel%20Reed"
-  },
-  {
-   "name": "Carrick",
-   "url": "https://x.com/search?q=Carrick"
+   "name": "Raiola",
+   "url": "https://x.com/search?q=Raiola"
   },
   {
    "name": "Gators",
    "url": "https://x.com/search?q=Gators"
   },
   {
-   "name": "Philo",
-   "url": "https://x.com/search?q=Philo"
+   "name": "Oklahoma",
+   "url": "https://x.com/search?q=Oklahoma"
+  },
+  {
+   "name": "Sumrall",
+   "url": "https://x.com/search?q=Sumrall"
   }
  ]
 }
