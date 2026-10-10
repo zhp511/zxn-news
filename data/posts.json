@@ -1,6 +1,6 @@
 {
  "generated_from": "data/raw_pages.json",
- "fetched_at": "2026-10-10T03:41:30Z",
+ "fetched_at": "2026-10-10T07:55:00Z",
  "pinned_top": "2108635147318784214",
  "user": {
   "id": "2011476148178599939",
@@ -23,6 +23,52 @@
   "banner_local": "images/banner.jpg"
  },
  "posts": [
+  {
+   "id": "2108828417919484017",
+   "url": "https://x.com/zxnbluehandus/status/2108828417919484017",
+   "created_at": "2026-10-10T07:54:09.000Z",
+   "headline": "test 9",
+   "headline_source": "post",
+   "text": "test 9",
+   "original_text": "test 9 https://t.co/32PrmJYYMZ",
+   "metrics": {
+    "bookmark_count": 0,
+    "impression_count": 5,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "images": [],
+   "image_source": null,
+   "link": null,
+   "has_video": false,
+   "hidden": true,
+   "hidden_reason": "test post"
+  },
+  {
+   "id": "2108827871640699177",
+   "url": "https://x.com/zxnbluehandus/status/2108827871640699177",
+   "created_at": "2026-10-10T07:51:59.000Z",
+   "headline": "test 8",
+   "headline_source": "post",
+   "text": "test 8",
+   "original_text": "test 8 https://t.co/hUBdW1MgwV",
+   "metrics": {
+    "bookmark_count": 0,
+    "impression_count": 1,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "images": [],
+   "image_source": null,
+   "link": null,
+   "has_video": false,
+   "hidden": true,
+   "hidden_reason": "test post"
+  },
   {
    "id": "2108764626473439467",
    "url": "https://x.com/zxnbluehandus/status/2108764626473439467",
