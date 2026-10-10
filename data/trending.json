@@ -1,5 +1,5 @@
 {
- "built_at": "2026-10-10T16:16:21Z",
+ "built_at": "2026-10-10T16:53:55Z",
  "news_fetched_at": "2026-10-10T16:16:21Z",
  "trends_fetched_at": "2026-10-10T16:16:21Z",
  "source": "X News (x.search_news) and US trends (x.get_trends_by_woeid 23424977). Story summaries are written by X/Grok from posts on X and may evolve.",
@@ -168,20 +168,12 @@
    "url": "https://x.com/search?q=Chelsea"
   },
   {
-   "name": "#MrFanboyEP7",
-   "url": "https://x.com/search?q=%23MrFanboyEP7"
-  },
-  {
    "name": "Putin",
    "url": "https://x.com/search?q=Putin"
   },
   {
    "name": "Hendo",
    "url": "https://x.com/search?q=Hendo"
-  },
-  {
-   "name": "MR FANBOY CHAPTER 7",
-   "url": "https://x.com/search?q=MR%20FANBOY%20CHAPTER%207"
   },
   {
    "name": "#WorldMentalHealthDay",
@@ -194,6 +186,14 @@
   {
    "name": "Pat McAfee",
    "url": "https://x.com/search?q=Pat%20McAfee"
+  },
+  {
+   "name": "Saka",
+   "url": "https://x.com/search?q=Saka"
+  },
+  {
+   "name": "College Gameday",
+   "url": "https://x.com/search?q=College%20Gameday"
   }
  ]
 }
