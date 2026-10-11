@@ -1,23 +1,21 @@
 {
- "built_at": "2026-10-11T14:02:58Z",
- "news_fetched_at": "2026-10-11T14:02:58Z",
- "trends_fetched_at": "2026-10-11T14:02:58Z",
+ "built_at": "2026-10-11T15:05:42Z",
+ "news_fetched_at": "2026-10-11T15:05:42Z",
+ "trends_fetched_at": "2026-10-11T15:05:42Z",
  "source": "X News (x.search_news) and US trends (x.get_trends_by_woeid 23424977). Story summaries are written by X/Grok from posts on X and may evolve.",
  "stories": [
   {
-   "id": "2109282449876562344",
-   "headline": "Mike Johnson's Lawn Business Remark Draws Online Mockery",
-   "hook": "House Speaker Mike Johnson casually mused about starting a lawn business back home in Shreveport if Republicans lose the House. Critics seized on the offhand comment, turning it into a rallying cry for Democrats.",
-   "summary": "During a Fox News interview, Johnson said that if the GOP loses its narrow majority in the November 3 midterms, he might return to Shreveport for a lawn-mowing venture with equal passion. The clip spread quickly, prompting posts urging votes for Democrats to send him packing, jokes about his lawn skills, and even darker quips about jail time. His spokesperson dismissed the buzz as hilarious, pointing to Johnson's busy fundraising efforts to hold the majority amid polls favoring Democrats.",
-   "updated_at": "2026-10-11T14:02:36.000Z",
-   "url": "https://x.com/i/trending/2109282449876562344",
-   "topics": [
-    "Politics"
-   ],
+   "id": "2109297108927025354",
+   "headline": "Old Democratic Warnings on Iran Resurface After Trump Strikes",
+   "hook": "Videos from 2021 to 2025 capture Democratic officials repeatedly calling Iran a nuclear threat and regional danger, right up until Trump's military action changed everything.",
+   "summary": "Social media compilations highlight consistent Democratic cautions about Iran's nuclear advances and threats during the Biden years, paired with captions noting inaction until Trump struck in 2026. The clips fuel accusations of hypocrisy, with some users pointing to Trump's own past tweets criticizing Obama's Iran plans as evidence of shifting stances on both sides. Supporters praise Trump for acting on long-standing warnings, while critics defend past emphasis on diplomacy to avoid deeper U.S. involvement. The exchanges underscore deep divides in how Americans view Iran policy.",
+   "updated_at": "2026-10-11T15:02:22.000Z",
+   "url": "https://x.com/i/trending/2109297108927025354",
+   "topics": [],
    "post_urls": [
-    "https://x.com/i/status/2109072456417779887",
-    "https://x.com/i/status/2108928592122187899",
-    "https://x.com/i/status/2109230694350156031"
+    "https://x.com/i/status/2109252926426505677",
+    "https://x.com/i/status/2109277193062724019",
+    "https://x.com/i/status/2109272776032809290"
    ]
   },
   {
@@ -34,6 +32,22 @@
     "https://x.com/i/status/2109039731984282090",
     "https://x.com/i/status/2109135340711641350",
     "https://x.com/i/status/2109134396838269194"
+   ]
+  },
+  {
+   "id": "2109159345363517496",
+   "headline": "Meme Mocks Trump Supporters' Prison Threats with Sarcastic Goodbyes",
+   "hook": "A meme picturing a stern Donald Trump claims his fans threaten to flee the U.S. if he goes to prison. Replies pour in with cheeky farewells like 'Don't let the door hit you on the way out!'",
+   "summary": "The post asks what people would say to departing supporters, sparking responses that celebrate the idea, from 'Goodbye and thanks for all the fish!' to offers like 'Can I help you pack?' alongside images of waving figures and dancing crowds. In reality, Trump's New York hush money conviction resulted in an unconditional discharge in early 2025 with no jail time, and other cases were resolved after his return to office. These exaggerated emigration threats pop up in partisan spats but rarely lead to actual moves, as data on citizenship renunciations remains low.",
+   "updated_at": "2026-10-11T05:52:47.000Z",
+   "url": "https://x.com/i/trending/2109159345363517496",
+   "topics": [
+    "Politics"
+   ],
+   "post_urls": [
+    "https://x.com/i/status/2109053582796361871",
+    "https://x.com/i/status/2109090887716200753",
+    "https://x.com/i/status/2109089909265097194"
    ]
   },
   {
@@ -67,22 +81,6 @@
     "https://x.com/i/status/2108769373532172325",
     "https://x.com/i/status/2109036490449649902",
     "https://x.com/i/status/2109028613303800208"
-   ]
-  },
-  {
-   "id": "2109074411709968860",
-   "headline": "X Post Questions Removing Trump in Second Term",
-   "hook": "A simple question hit a nerve: why can't the U.S. remove an 'insane and incompetent' president? Posted October 10 amid Trump's second term, it drew tens of thousands of likes and heated replies.",
-   "summary": "James's post on October 10 revived frustrations from critics viewing Trump as unfit after his 2024 win and 2026 second term. Replies pushed back, citing the 2024 election of Biden, GOP majorities in Congress, and party loyalty as reasons removal isn't feasible. Under the Constitution, impeachment needs a House majority and two-thirds Senate vote, while the 25th Amendment targets incapacity—not popularity—and has never ousted a president. The exchange highlights how elections and voter support drive accountability, especially with midterms nearing.",
-   "updated_at": "2026-10-11T00:16:25.000Z",
-   "url": "https://x.com/i/trending/2109074411709968860",
-   "topics": [
-    "Politics"
-   ],
-   "post_urls": [
-    "https://x.com/i/status/2108769373532172325",
-    "https://x.com/i/status/2109028613303800208",
-    "https://x.com/i/status/2108999346658402412"
    ]
   },
   {
@@ -142,6 +140,34 @@
    "url": "https://x.com/search?q=Jalen%20Carter"
   },
   {
+   "name": "Shipley",
+   "url": "https://x.com/search?q=Shipley"
+  },
+  {
+   "name": "Darius Cooper",
+   "url": "https://x.com/search?q=Darius%20Cooper"
+  },
+  {
+   "name": "Jags",
+   "url": "https://x.com/search?q=Jags"
+  },
+  {
+   "name": "#FlyEaglesFly",
+   "url": "https://x.com/search?q=%23FlyEaglesFly"
+  },
+  {
+   "name": "Parker Washington",
+   "url": "https://x.com/search?q=Parker%20Washington"
+  },
+  {
+   "name": "Jason Kelce",
+   "url": "https://x.com/search?q=Jason%20Kelce"
+  },
+  {
+   "name": "Jaguars",
+   "url": "https://x.com/search?q=Jaguars"
+  },
+  {
    "name": "Go Birds",
    "url": "https://x.com/search?q=Go%20Birds"
   },
@@ -150,52 +176,24 @@
    "url": "https://x.com/search?q=Trotter"
   },
   {
-   "name": "Shipley",
-   "url": "https://x.com/search?q=Shipley"
-  },
-  {
    "name": "Good Sunday",
    "url": "https://x.com/search?q=Good%20Sunday"
   },
   {
-   "name": "Ferrari",
-   "url": "https://x.com/search?q=Ferrari"
-  },
-  {
-   "name": "Jaguars",
-   "url": "https://x.com/search?q=Jaguars"
-  },
-  {
-   "name": "Jason Kelce",
-   "url": "https://x.com/search?q=Jason%20Kelce"
-  },
-  {
-   "name": "Lewis",
-   "url": "https://x.com/search?q=Lewis"
-  },
-  {
-   "name": "Parker Washington",
-   "url": "https://x.com/search?q=Parker%20Washington"
+   "name": "Willie Lampkin",
+   "url": "https://x.com/search?q=Willie%20Lampkin"
   },
   {
    "name": "#PHIvsJAX",
    "url": "https://x.com/search?q=%23PHIvsJAX"
   },
   {
-   "name": "#叠纸破坏中国文化出海",
-   "url": "https://x.com/search?q=%23%E5%8F%A0%E7%BA%B8%E7%A0%B4%E5%9D%8F%E4%B8%AD%E5%9B%BD%E6%96%87%E5%8C%96%E5%87%BA%E6%B5%B7"
+   "name": "Tuten",
+   "url": "https://x.com/search?q=Tuten"
   },
   {
-   "name": "Kimi",
-   "url": "https://x.com/search?q=Kimi"
-  },
-  {
-   "name": "#PapergamesRuinsCulturalExport",
-   "url": "https://x.com/search?q=%23PapergamesRuinsCulturalExport"
-  },
-  {
-   "name": "#PPGFailsAsAmbassador",
-   "url": "https://x.com/search?q=%23PPGFailsAsAmbassador"
+   "name": "Travis Hunter",
+   "url": "https://x.com/search?q=Travis%20Hunter"
   }
  ]
 }
