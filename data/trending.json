@@ -1,18 +1,24 @@
 {
- "built_at": "2026-10-11T03:30:23Z",
- "news_fetched_at": "2026-10-11T03:30:23Z",
- "trends_fetched_at": "2026-10-11T03:30:23Z",
+ "built_at": "2026-10-11T04:32:43Z",
+ "news_fetched_at": "2026-10-11T04:32:25Z",
+ "trends_fetched_at": "2026-10-11T04:32:25Z",
  "source": "X News (x.search_news) and US trends (x.get_trends_by_woeid 23424977). Story summaries are written by X/Grok from posts on X and may evolve.",
  "stories": [
   {
-   "id": "2108989862233903133",
-   "headline": "Online Debate Erupts Over Removing Trump from Office",
-   "hook": "A blunt question about President Trump's fitness for office drew tens of thousands of likes and heated replies on October 10, 2026, splitting users along partisan lines.",
-   "summary": "User @Realcoinforge asked why the U.S. can't remove an 'obviously insane and incompetent' president, amid Trump's approval ratings stuck at 30-35 percent. Supporters pointed to his 2024 election win and past constitutional successes, while critics blamed Republican congressional majorities and gerrymandering for blocking accountability like impeachment or the 25th Amendment. The back-and-forth highlighted deep divisions over elections, party loyalty, and the nation's removal processes.",
-   "updated_at": "2026-10-11T02:04:21.000Z",
-   "url": "https://x.com/i/trending/2108989862233903133",
-   "topics": [],
-   "post_urls": []
+   "id": "2109097642525405313",
+   "headline": "Trump's Rally Clip Draws Online Scrutiny Over GOP Remark",
+   "hook": "At a rainy rally in Tennessee, Trump warned of depression under Republicans, a line that quickly fueled online buzz amid his pro-GOP pitch.",
+   "summary": "During a campaign event in Clarksville to boost Republican midterm candidates, President Trump said, 'If Republicans get in power, you're going to end up in a depression. These people are incompetent.' The clip spread widely, with critics like the Lincoln Project and Tea Pain framing it as a slip revealing party flaws, while others noted he wasn't wrong on governance issues. In full context, Trump contrasted that with promises of prosperity under GOP control, like $5,000 annual payments from tariffs, against fears of a 1929-style crash if Democrats won.",
+   "updated_at": "2026-10-11T04:24:49.000Z",
+   "url": "https://x.com/i/trending/2109097642525405313",
+   "topics": [
+    "Politics"
+   ],
+   "post_urls": [
+    "https://x.com/i/status/2109028464997130681",
+    "https://x.com/i/status/2109040245832368156",
+    "https://x.com/i/status/2109040617049215420"
+   ]
   },
   {
    "id": "2109095512729063700",
@@ -21,8 +27,15 @@
    "summary": "Amid Trump's approval rating stuck around 37 percent or lower, critics blame him alone for the GOP's struggles, predicting lasting damage after the November midterms. Some highlight persistent support from his base, noting 37 percent approval shows voters' expectations may be too high. Others push back, arguing MAGA remains resilient and X's right-leaning users amplify certain views, as discussions turn to the party's post-Trump future and figures like JD Vance.",
    "updated_at": "2026-10-11T01:40:06.000Z",
    "url": "https://x.com/i/trending/2109095512729063700",
-   "topics": [],
-   "post_urls": []
+   "topics": [
+    "News",
+    "Politics"
+   ],
+   "post_urls": [
+    "https://x.com/i/status/2108992439889310088",
+    "https://x.com/i/status/2109039325979832526",
+    "https://x.com/i/status/2109029339731988737"
+   ]
   },
   {
    "id": "2109083124886044772",
@@ -31,8 +44,14 @@
    "summary": "The post questions barriers to ousting President Donald Trump, who began his second term on January 20, 2025, after winning in 2024. Replies explain impeachment needs a House majority and 67 Senate votes for conviction and removal. Some note Biden's 2024 defeat settled it, while others blame GOP support or call the system undemocratic—echoing a tabled impeachment push and 25th Amendment talks from earlier this year.",
    "updated_at": "2026-10-11T00:50:40.000Z",
    "url": "https://x.com/i/trending/2109083124886044772",
-   "topics": [],
-   "post_urls": []
+   "topics": [
+    "Politics"
+   ],
+   "post_urls": [
+    "https://x.com/i/status/2108769373532172325",
+    "https://x.com/i/status/2109036490449649902",
+    "https://x.com/i/status/2109028613303800208"
+   ]
   },
   {
    "id": "2109074411709968860",
@@ -41,8 +60,14 @@
    "summary": "James's post on October 10 revived frustrations from critics viewing Trump as unfit after his 2024 win and 2026 second term. Replies pushed back, citing the 2024 election of Biden, GOP majorities in Congress, and party loyalty as reasons removal isn't feasible. Under the Constitution, impeachment needs a House majority and two-thirds Senate vote, while the 25th Amendment targets incapacity—not popularity—and has never ousted a president. The exchange highlights how elections and voter support drive accountability, especially with midterms nearing.",
    "updated_at": "2026-10-11T00:16:25.000Z",
    "url": "https://x.com/i/trending/2109074411709968860",
-   "topics": [],
-   "post_urls": []
+   "topics": [
+    "Politics"
+   ],
+   "post_urls": [
+    "https://x.com/i/status/2108769373532172325",
+    "https://x.com/i/status/2109028613303800208",
+    "https://x.com/i/status/2108999346658402412"
+   ]
   },
   {
    "id": "2108938902983819486",
@@ -51,8 +76,15 @@
    "summary": "Frustrated conservatives say they'll sit out the November 3 midterms, citing failures on issues like the Iran conflict, economy, and party leadership under figures like Senate Majority Leader John Thune. Republican leaders warn that abstaining means higher taxes, open borders, and less freedom, urging votes to block Democratic gains. While some plan to vote down the ballot and push changes through primaries, the divide highlights a Republican enthusiasm gap in competitive races where many candidates distance from Trump.",
    "updated_at": "2026-10-10T23:30:46.000Z",
    "url": "https://x.com/i/trending/2108938902983819486",
-   "topics": [],
-   "post_urls": []
+   "topics": [
+    "News",
+    "Elections"
+   ],
+   "post_urls": [
+    "https://x.com/i/status/2108854941548761495",
+    "https://x.com/i/status/2108997138034360534",
+    "https://x.com/i/status/2109039731984282090"
+   ]
   },
   {
    "id": "2108922099939069957",
@@ -61,8 +93,31 @@
    "summary": "Gindel's message accused Trump of pardoning 1,600 violent criminals, demolishing the White House East Wing for a ballroom, interfering with Epstein files, renaming the Kennedy Center after himself, accepting a $400 million plane from Qatar, threatening countries, and imposing tariffs that harmed allies. Some claims align with reported events, like clemency for about 1,500 January 6 participants, the 2025 East Wing demolition, and the Kennedy Center name addition by Trump allies. Replies split sharply, with critics stunned at ongoing Republican support and defenders praising his leadership or countering with Democratic grievances amid midterm tensions.",
    "updated_at": "2026-10-10T20:18:02.000Z",
    "url": "https://x.com/i/trending/2108922099939069957",
-   "topics": [],
-   "post_urls": []
+   "topics": [
+    "News",
+    "Politics"
+   ],
+   "post_urls": [
+    "https://x.com/i/status/2108774794132902092",
+    "https://x.com/i/status/2108955752282919090",
+    "https://x.com/i/status/2108889627675517069"
+   ]
+  },
+  {
+   "id": "2109002089414152255",
+   "headline": "Debate Revives Over U.S. as Republic or Democracy",
+   "hook": "Entrepreneur Blake Scholl called democracy a 'mind virus' that favors popularity over leadership, sparking a wave of replies unpacking America's true government form.",
+   "summary": "Scholl argued the U.S. is appropriately a republic, not a democracy, and needs opinion-makers instead of mob followers. Critics pushed back, calling it elitist and sharing graphics showing the U.S. as both a constitutional republic and representative democracy, per official civics materials. The thread highlights how founders blended representation to manage a large nation while keeping power accountable through elections, reviving timeless questions about the Pledge's 'republic' reference and overlapping terms.",
+   "updated_at": "2026-10-10T19:30:18.000Z",
+   "url": "https://x.com/i/trending/2109002089414152255",
+   "topics": [
+    "Politics"
+   ],
+   "post_urls": [
+    "https://x.com/i/status/2108973509720625493",
+    "https://x.com/i/status/2108991714824269951",
+    "https://x.com/i/status/2108989175928381863"
+   ]
   },
   {
    "id": "2108590719153942593",
@@ -71,18 +126,14 @@
    "summary": "Videos shared by Marco Foster show Trump supporters hesitating to list concrete gains under the current administration, often citing gas prices that have climbed to a record autumn average of $4.37 per gallon from $3.10 a year ago, per AAA data. High crude oil costs stem from tensions in the Strait of Hormuz, with President Trump holding off on major Iran strikes before the November 3 midterms. Republicans claim midterm wins will drop prices by pressuring Iran, while critics note the party's current control of the White House and Congress amid the conflict.",
    "updated_at": "2026-10-10T16:56:38.000Z",
    "url": "https://x.com/i/trending/2108590719153942593",
-   "topics": [],
-   "post_urls": []
-  },
-  {
-   "id": "2108933912076677384",
-   "headline": "Republicans Hold 53-47 Senate Majority Yet Face Frustration Over Inaction",
-   "hook": "With a clear 53-47 edge, Republicans control the Senate—yet many wonder why it feels like Democrats are still calling the shots.",
-   "summary": "Users express growing frustration that the GOP's Senate majority under Leader John Thune hasn't delivered expected wins, blaming internal holdouts, RINOs, and procedural blocks like the Senate Parliamentarian. Posts accuse Thune of weakness or worse, while a popular GIF of a woman yelling 'YOU BOTH SUCK!' captures disillusionment with both parties amid ongoing gridlock. President Trump remains upbeat about midterm gains to expand Republican control, though forecasts show Democrats gaining momentum in the House and Senate races.",
-   "updated_at": "2026-10-10T14:59:01.000Z",
-   "url": "https://x.com/i/trending/2108933912076677384",
-   "topics": [],
-   "post_urls": []
+   "topics": [
+    "Politics"
+   ],
+   "post_urls": [
+    "https://x.com/i/status/2108516795086983377",
+    "https://x.com/i/status/2108518871514673192",
+    "https://x.com/i/status/2108560270352077282"
+   ]
   }
  ],
  "trends": [
@@ -107,16 +158,24 @@
    "url": "https://x.com/search?q=Dijon%20Lee"
   },
   {
-   "name": "#MITB",
-   "url": "https://x.com/search?q=%23MITB"
-  },
-  {
    "name": "Lane Kiffin",
    "url": "https://x.com/search?q=Lane%20Kiffin"
   },
   {
    "name": "Dawgs",
    "url": "https://x.com/search?q=Dawgs"
+  },
+  {
+   "name": "#MITB",
+   "url": "https://x.com/search?q=%23MITB"
+  },
+  {
+   "name": "Tyler Simmons",
+   "url": "https://x.com/search?q=Tyler%20Simmons"
+  },
+  {
+   "name": "Shane Gillis",
+   "url": "https://x.com/search?q=Shane%20Gillis"
   },
   {
    "name": "Penta",
@@ -131,20 +190,12 @@
    "url": "https://x.com/search?q=Arch"
   },
   {
-   "name": "Gavin Williams",
-   "url": "https://x.com/search?q=Gavin%20Williams"
-  },
-  {
-   "name": "Sam Leavitt",
-   "url": "https://x.com/search?q=Sam%20Leavitt"
+   "name": "Blake Baker",
+   "url": "https://x.com/search?q=Blake%20Baker"
   },
   {
    "name": "Gunner Stockton",
    "url": "https://x.com/search?q=Gunner%20Stockton"
-  },
-  {
-   "name": "Sark",
-   "url": "https://x.com/search?q=Sark"
   }
  ]
 }
