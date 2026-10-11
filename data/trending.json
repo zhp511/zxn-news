@@ -1,9 +1,19 @@
 {
- "built_at": "2026-10-11T01:24:01Z",
- "news_fetched_at": "2026-10-11T01:23:30Z",
- "trends_fetched_at": "2026-10-11T01:23:30Z",
+ "built_at": "2026-10-11T02:24:35Z",
+ "news_fetched_at": "2026-10-11T02:24:35Z",
+ "trends_fetched_at": "2026-10-11T02:24:35Z",
  "source": "X News (x.search_news) and US trends (x.get_trends_by_woeid 23424977). Story summaries are written by X/Grok from posts on X and may evolve.",
  "stories": [
+  {
+   "id": "2109095512729063700",
+   "headline": "Online Backlash Against Trump Tests GOP Ahead of Midterms",
+   "hook": "Users on X describe a wave of intense anger toward President Trump, with some warning it could doom the Republican Party for generations.",
+   "summary": "Amid Trump's approval rating stuck around 37 percent or lower, critics blame him alone for the GOP's struggles, predicting lasting damage after the November midterms. Some highlight persistent support from his base, noting 37 percent approval shows voters' expectations may be too high. Others push back, arguing MAGA remains resilient and X's right-leaning users amplify certain views, as discussions turn to the party's post-Trump future and figures like JD Vance.",
+   "updated_at": "2026-10-11T01:40:06.000Z",
+   "url": "https://x.com/i/trending/2109095512729063700",
+   "topics": [],
+   "post_urls": []
+  },
   {
    "id": "2109083124886044772",
    "headline": "X Post Sparks Debate on Removing a President",
@@ -45,16 +55,6 @@
    "post_urls": []
   },
   {
-   "id": "2108986865349280033",
-   "headline": "Conservatives Frustrated with Republican Senate Majority's Direction",
-   "hook": "A widely shared image of Senate proceedings has conservatives asking why the GOP's 53-47 edge feels like a Democratic lead.",
-   "summary": "Conservative voices express sharp frustration that the Republican-controlled Senate, led by John Thune, acts more like it's run by Democrats despite its 53-47 majority. Critics blame moderate Republicans like Lisa Murkowski and what they call RINOs for not pushing harder on priorities such as voter ID and spending restraint, amid Senate rules requiring 60 votes for many measures. The online debate intensifies as prediction markets give Democrats 60-62% odds of flipping the Senate and near 90% for the House in the November 2026 midterms, with Thune calling the chamber a potential firewall.",
-   "updated_at": "2026-10-10T18:30:10.000Z",
-   "url": "https://x.com/i/trending/2108986865349280033",
-   "topics": [],
-   "post_urls": []
-  },
-  {
    "id": "2108590719153942593",
    "headline": "Trump Supporters Struggle to Name Improvements Amid Record Gas Prices",
    "hook": "A man beams that life feels better than a year and a half ago, but falters when asked for specifics—finally landing on gas prices, only to learn they're higher now.",
@@ -91,60 +91,60 @@
    "url": "https://x.com/search?q=%23MITB"
   },
   {
-   "name": "Arch",
-   "url": "https://x.com/search?q=Arch"
+   "name": "Bama",
+   "url": "https://x.com/search?q=Bama"
   },
   {
    "name": "Penta",
    "url": "https://x.com/search?q=Penta"
   },
   {
-   "name": "Roxanne",
-   "url": "https://x.com/search?q=Roxanne"
-  },
-  {
-   "name": "Sark",
-   "url": "https://x.com/search?q=Sark"
-  },
-  {
-   "name": "Bama",
-   "url": "https://x.com/search?q=Bama"
+   "name": "Arch",
+   "url": "https://x.com/search?q=Arch"
   },
   {
    "name": "Gavin Williams",
    "url": "https://x.com/search?q=Gavin%20Williams"
   },
   {
+   "name": "Sark",
+   "url": "https://x.com/search?q=Sark"
+  },
+  {
+   "name": "Roxanne",
+   "url": "https://x.com/search?q=Roxanne"
+  },
+  {
+   "name": "Georgia",
+   "url": "https://x.com/search?q=Georgia"
+  },
+  {
+   "name": "Kentucky",
+   "url": "https://x.com/search?q=Kentucky"
+  },
+  {
+   "name": "Sam Leavitt",
+   "url": "https://x.com/search?q=Sam%20Leavitt"
+  },
+  {
+   "name": "Dijon Lee",
+   "url": "https://x.com/search?q=Dijon%20Lee"
+  },
+  {
    "name": "Oklahoma",
    "url": "https://x.com/search?q=Oklahoma"
-  },
-  {
-   "name": "UCLA",
-   "url": "https://x.com/search?q=UCLA"
-  },
-  {
-   "name": "Oregon",
-   "url": "https://x.com/search?q=Oregon"
   },
   {
    "name": "Tiffany",
    "url": "https://x.com/search?q=Tiffany"
   },
   {
-   "name": "Texas",
-   "url": "https://x.com/search?q=Texas"
+   "name": "Oregon",
+   "url": "https://x.com/search?q=Oregon"
   },
   {
-   "name": "LA Knight",
-   "url": "https://x.com/search?q=LA%20Knight"
-  },
-  {
-   "name": "Jose Ramirez",
-   "url": "https://x.com/search?q=Jose%20Ramirez"
-  },
-  {
-   "name": "Georgia",
-   "url": "https://x.com/search?q=Georgia"
+   "name": "#UFCVegas122",
+   "url": "https://x.com/search?q=%23UFCVegas122"
   }
  ]
 }
