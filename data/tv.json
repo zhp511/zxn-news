@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-10-11T09:43:52Z",
+ "checked_at": "2026-10-11T12:44:57Z",
  "channels": [
   {
    "key": "foxweather",
@@ -10,7 +10,7 @@
    "watch_url": "https://www.youtube.com/@FOXWeather/live",
    "video_id": "mBwgGwy0bnw",
    "ok": true,
-   "title": "LIVESTREAM: Post-Tropical Isaias Spreads Flooding Rain Inland After Vicious Florida Landfall"
+   "title": "LIVESTREAM: Post-Tropical Isaias Marches Up East Coast After Storm&#39;s Deadly Destruction In Southeast"
   },
   {
    "key": "livenow",
@@ -41,9 +41,9 @@
    "channel_id": "UCBi2mrWuNuyYy4gbM6fU18Q",
    "handle": "ABCNews",
    "watch_url": "https://www.youtube.com/@ABCNews/live",
-   "video_id": "iipR5yUp36o",
+   "video_id": "dNIvmhbEK4Y",
    "ok": true,
-   "title": "LIVE: ABC News Live - 24/7 news, context and analysis"
+   "title": "LIVE: ABC News Live - Sunday, October 11"
   },
   {
    "key": "nbc",
@@ -63,9 +63,9 @@
    "channel_id": "UCIALMKvObZNtJ6AmdCLP7Lg",
    "handle": "markets",
    "watch_url": "https://www.youtube.com/@markets/live",
-   "video_id": "QB5BNdBFujE",
+   "video_id": "gVWRmVHzKXc",
    "ok": true,
-   "title": "Bloomberg Business News Live"
+   "title": "Trump Says Ukraine Needs New Leader | Bloomberg This Weekend: Oct 11th, 2026"
   },
   {
    "key": "sky",
