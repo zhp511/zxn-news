@@ -1,6 +1,6 @@
 {
  "generated_from": "data/raw_pages.json + data/raw_archive.json",
- "fetched_at": "2026-10-11T15:38:30Z",
+ "fetched_at": "2026-10-11T16:06:37Z",
  "pinned_top": "2108635147318784214",
  "user": {
   "id": "2011476148178599939",
@@ -23,6 +23,29 @@
   "banner_local": "images/banner.jpg"
  },
  "posts": [
+  {
+   "id": "2109312898145099777",
+   "url": "https://x.com/zxnbluehandus/status/2109312898145099777",
+   "created_at": "2026-10-11T15:59:18.000Z",
+   "headline": "@BodhiAnneCole How r u doing",
+   "headline_source": "post",
+   "text": "@BodhiAnneCole How r u doing",
+   "original_text": "@BodhiAnneCole How r u doing",
+   "metrics": {
+    "bookmark_count": 0,
+    "impression_count": 7,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "images": [],
+   "image_source": null,
+   "link": null,
+   "has_video": false,
+   "hidden": true,
+   "hidden_reason": "reply-style / too short"
+  },
   {
    "id": "2109295252876271688",
    "url": "https://x.com/zxnbluehandus/status/2109295252876271688",

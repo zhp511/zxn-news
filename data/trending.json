@@ -1,37 +1,39 @@
 {
- "built_at": "2026-10-11T15:05:42Z",
- "news_fetched_at": "2026-10-11T15:05:42Z",
- "trends_fetched_at": "2026-10-11T15:05:42Z",
+ "built_at": "2026-10-11T16:06:37Z",
+ "news_fetched_at": "2026-10-11T16:06:37Z",
+ "trends_fetched_at": "2026-10-11T16:06:37Z",
  "source": "X News (x.search_news) and US trends (x.get_trends_by_woeid 23424977). Story summaries are written by X/Grok from posts on X and may evolve.",
  "stories": [
   {
-   "id": "2109297108927025354",
-   "headline": "Old Democratic Warnings on Iran Resurface After Trump Strikes",
-   "hook": "Videos from 2021 to 2025 capture Democratic officials repeatedly calling Iran a nuclear threat and regional danger, right up until Trump's military action changed everything.",
-   "summary": "Social media compilations highlight consistent Democratic cautions about Iran's nuclear advances and threats during the Biden years, paired with captions noting inaction until Trump struck in 2026. The clips fuel accusations of hypocrisy, with some users pointing to Trump's own past tweets criticizing Obama's Iran plans as evidence of shifting stances on both sides. Supporters praise Trump for acting on long-standing warnings, while critics defend past emphasis on diplomacy to avoid deeper U.S. involvement. The exchanges underscore deep divides in how Americans view Iran policy.",
-   "updated_at": "2026-10-11T15:02:22.000Z",
-   "url": "https://x.com/i/trending/2109297108927025354",
-   "topics": [],
-   "post_urls": [
-    "https://x.com/i/status/2109252926426505677",
-    "https://x.com/i/status/2109277193062724019",
-    "https://x.com/i/status/2109272776032809290"
-   ]
-  },
-  {
-   "id": "2109205510222209230",
-   "headline": "Sen. Mike Lee Links Democrats to Socialism Ahead of Midterms",
-   "hook": "Sen. Mike Lee posted a stark choice for voters: Democrats mean socialism, Republicans mean freedom and prosperity. Replies poured in fast, challenging him to define the term.",
-   "summary": "The Utah Republican shared a video message urging votes for Republicans to avoid socialism, part of a broader push framing the November midterms as a battle over government overreach. Critics like Damin Toell and Robert Elisberg pressed Lee for a definition, pointing to programs such as Social Security, Medicare, and Republican-backed equity stakes in companies like Intel as counterexamples. Britannica describes socialism as state or collective control of major production means, fueling debate on both sides' views of government intervention with Congress control on the line.",
-   "updated_at": "2026-10-11T08:55:26.000Z",
-   "url": "https://x.com/i/trending/2109205510222209230",
+   "id": "2108938902983819486",
+   "headline": "Conservatives Urge Republicans to Vote Red Ahead of 2026 Midterms",
+   "hook": "With Election Day on November 3 just weeks away, voices on X are rallying Republicans to turn out in force to hold narrow majorities in Congress.",
+   "summary": "Conservative accounts flood the platform with calls to 'Vote Red,' warning that low turnout could hand Democrats control of the House and Senate, along with policies like higher taxes and open borders. Senator Bernie Moreno and others stress that staying home equals electing the opposition, while images of flags and anti-communism slogans amplify the message. Though some Republicans express frustration and plan to sit out, supporters counter that every vote matters in these competitive races, with early voting already underway in battleground states.",
+   "updated_at": "2026-10-11T15:19:46.000Z",
+   "url": "https://x.com/i/trending/2108938902983819486",
    "topics": [
     "Politics"
    ],
    "post_urls": [
     "https://x.com/i/status/2109039731984282090",
-    "https://x.com/i/status/2109135340711641350",
-    "https://x.com/i/status/2109134396838269194"
+    "https://x.com/i/status/2108997138034360534",
+    "https://x.com/i/status/2108993240145748104"
+   ]
+  },
+  {
+   "id": "2109162726547145178",
+   "headline": "Trump's Rally Remark Sparks Clash Over Political Double Standards",
+   "hook": "At a Tennessee rally, Donald Trump quipped he could say the stupidest things and still get applause from the crowd. That line ignited a heated online exchange about loyalty and scrutiny in politics.",
+   "summary": "Trump made the comment on October 10 in Clarksville while praising the energy in the room and highlighting policies like border security, low taxes, and a strong military. Hasan Piker called out what he saw as a double standard, saying Democrats face perfection demands while Republicans get a pass; Mehdi Hasan noted how people dish out criticism but struggle to take it. Critics pushed back, accusing both of hypocrisy and pointing to behaviors like locking replies, with memes and posts revealing frustrations over accountability that cut across ideological lines.",
+   "updated_at": "2026-10-11T06:05:59.000Z",
+   "url": "https://x.com/i/trending/2109162726547145178",
+   "topics": [
+    "Politics"
+   ],
+   "post_urls": [
+    "https://x.com/i/status/2109083554823164209",
+    "https://x.com/i/status/2109113608764563583",
+    "https://x.com/i/status/2109089770961842567"
    ]
   },
   {
@@ -48,6 +50,22 @@
     "https://x.com/i/status/2109053582796361871",
     "https://x.com/i/status/2109090887716200753",
     "https://x.com/i/status/2109089909265097194"
+   ]
+  },
+  {
+   "id": "2109097642525405313",
+   "headline": "Trump's Rally Clip Draws Online Scrutiny Over GOP Remark",
+   "hook": "At a rainy rally in Tennessee, Trump warned of depression under Republicans, a line that quickly fueled online buzz amid his pro-GOP pitch.",
+   "summary": "During a campaign event in Clarksville to boost Republican midterm candidates, President Trump said, 'If Republicans get in power, you're going to end up in a depression. These people are incompetent.' The clip spread widely, with critics like the Lincoln Project and Tea Pain framing it as a slip revealing party flaws, while others noted he wasn't wrong on governance issues. In full context, Trump contrasted that with promises of prosperity under GOP control, like $5,000 annual payments from tariffs, against fears of a 1929-style crash if Democrats won.",
+   "updated_at": "2026-10-11T04:24:49.000Z",
+   "url": "https://x.com/i/trending/2109097642525405313",
+   "topics": [
+    "Politics"
+   ],
+   "post_urls": [
+    "https://x.com/i/status/2109028464997130681",
+    "https://x.com/i/status/2109040245832368156",
+    "https://x.com/i/status/2109040617049215420"
    ]
   },
   {
@@ -81,23 +99,6 @@
     "https://x.com/i/status/2108769373532172325",
     "https://x.com/i/status/2109036490449649902",
     "https://x.com/i/status/2109028613303800208"
-   ]
-  },
-  {
-   "id": "2108938902983819486",
-   "headline": "Conservative Voters Threaten to Skip November Elections Over GOP Frustrations",
-   "hook": "One fed-up conservative declared they've voted Republican three times but won't reward inaction anymore. Now, leaders like Senators Moreno and Lee are pleading for turnout to avoid handing wins to Democrats.",
-   "summary": "Frustrated conservatives say they'll sit out the November 3 midterms, citing failures on issues like the Iran conflict, economy, and party leadership under figures like Senate Majority Leader John Thune. Republican leaders warn that abstaining means higher taxes, open borders, and less freedom, urging votes to block Democratic gains. While some plan to vote down the ballot and push changes through primaries, the divide highlights a Republican enthusiasm gap in competitive races where many candidates distance from Trump.",
-   "updated_at": "2026-10-10T23:30:46.000Z",
-   "url": "https://x.com/i/trending/2108938902983819486",
-   "topics": [
-    "News",
-    "Elections"
-   ],
-   "post_urls": [
-    "https://x.com/i/status/2108854941548761495",
-    "https://x.com/i/status/2108997138034360534",
-    "https://x.com/i/status/2109039731984282090"
    ]
   },
   {
@@ -136,8 +137,24 @@
  ],
  "trends": [
   {
+   "name": "Jags",
+   "url": "https://x.com/search?q=Jags"
+  },
+  {
    "name": "Jalen Carter",
    "url": "https://x.com/search?q=Jalen%20Carter"
+  },
+  {
+   "name": "Jaguars",
+   "url": "https://x.com/search?q=Jaguars"
+  },
+  {
+   "name": "Jason Kelce",
+   "url": "https://x.com/search?q=Jason%20Kelce"
+  },
+  {
+   "name": "#FlyEaglesFly",
+   "url": "https://x.com/search?q=%23FlyEaglesFly"
   },
   {
    "name": "Shipley",
@@ -148,52 +165,36 @@
    "url": "https://x.com/search?q=Darius%20Cooper"
   },
   {
-   "name": "Jags",
-   "url": "https://x.com/search?q=Jags"
-  },
-  {
-   "name": "#FlyEaglesFly",
-   "url": "https://x.com/search?q=%23FlyEaglesFly"
-  },
-  {
-   "name": "Parker Washington",
-   "url": "https://x.com/search?q=Parker%20Washington"
-  },
-  {
-   "name": "Jason Kelce",
-   "url": "https://x.com/search?q=Jason%20Kelce"
-  },
-  {
-   "name": "Jaguars",
-   "url": "https://x.com/search?q=Jaguars"
-  },
-  {
-   "name": "Go Birds",
-   "url": "https://x.com/search?q=Go%20Birds"
-  },
-  {
-   "name": "Trotter",
-   "url": "https://x.com/search?q=Trotter"
-  },
-  {
-   "name": "Good Sunday",
-   "url": "https://x.com/search?q=Good%20Sunday"
-  },
-  {
-   "name": "Willie Lampkin",
-   "url": "https://x.com/search?q=Willie%20Lampkin"
-  },
-  {
-   "name": "#PHIvsJAX",
-   "url": "https://x.com/search?q=%23PHIvsJAX"
+   "name": "Travis Hunter",
+   "url": "https://x.com/search?q=Travis%20Hunter"
   },
   {
    "name": "Tuten",
    "url": "https://x.com/search?q=Tuten"
   },
   {
-   "name": "Travis Hunter",
-   "url": "https://x.com/search?q=Travis%20Hunter"
+   "name": "Liam Coen",
+   "url": "https://x.com/search?q=Liam%20Coen"
+  },
+  {
+   "name": "Parker Washington",
+   "url": "https://x.com/search?q=Parker%20Washington"
+  },
+  {
+   "name": "#PHIvsJAX",
+   "url": "https://x.com/search?q=%23PHIvsJAX"
+  },
+  {
+   "name": "Go Birds",
+   "url": "https://x.com/search?q=Go%20Birds"
+  },
+  {
+   "name": "Jacksonville",
+   "url": "https://x.com/search?q=Jacksonville"
+  },
+  {
+   "name": "Trevor Lawrence",
+   "url": "https://x.com/search?q=Trevor%20Lawrence"
   }
  ]
 }
