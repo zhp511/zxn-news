@@ -1,7 +1,7 @@
 {
- "built_at": "2026-10-11T06:39:04Z",
- "news_fetched_at": "2026-10-11T06:39:04Z",
- "trends_fetched_at": "2026-10-11T06:39:04Z",
+ "built_at": "2026-10-11T07:39:45Z",
+ "news_fetched_at": "2026-10-11T07:39:45Z",
+ "trends_fetched_at": "2026-10-11T07:39:45Z",
  "source": "X News (x.search_news) and US trends (x.get_trends_by_woeid 23424977). Story summaries are written by X/Grok from posts on X and may evolve.",
  "stories": [
   {
@@ -162,16 +162,16 @@
    "url": "https://x.com/search?q=Dijon%20Lee"
   },
   {
+   "name": "Shane Gillis",
+   "url": "https://x.com/search?q=Shane%20Gillis"
+  },
+  {
    "name": "Tyler Simmons",
    "url": "https://x.com/search?q=Tyler%20Simmons"
   },
   {
    "name": "Dawgs",
    "url": "https://x.com/search?q=Dawgs"
-  },
-  {
-   "name": "Shane Gillis",
-   "url": "https://x.com/search?q=Shane%20Gillis"
   },
   {
    "name": "Penta",
@@ -186,16 +186,16 @@
    "url": "https://x.com/search?q=Saban"
   },
   {
-   "name": "DeBoer",
-   "url": "https://x.com/search?q=DeBoer"
+   "name": "#Toonami",
+   "url": "https://x.com/search?q=%23Toonami"
+  },
+  {
+   "name": "Boise State",
+   "url": "https://x.com/search?q=Boise%20State"
   },
   {
    "name": "Kirby",
    "url": "https://x.com/search?q=Kirby"
-  },
-  {
-   "name": "Penn State",
-   "url": "https://x.com/search?q=Penn%20State"
   }
  ]
 }
