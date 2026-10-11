@@ -1,9 +1,25 @@
 {
- "built_at": "2026-10-11T19:13:54Z",
- "news_fetched_at": "2026-10-11T19:13:54Z",
- "trends_fetched_at": "2026-10-11T19:13:54Z",
+ "built_at": "2026-10-11T20:16:13Z",
+ "news_fetched_at": "2026-10-11T20:16:13Z",
+ "trends_fetched_at": "2026-10-11T20:16:13Z",
  "source": "X News (x.search_news) and US trends (x.get_trends_by_woeid 23424977). Story summaries are written by X/Grok from posts on X and may evolve.",
  "stories": [
+  {
+   "id": "2109369074845409606",
+   "headline": "Poll Shows Young Men Shifting Back to Democrats for 2026 Midterms",
+   "hook": "Young men ages 18 to 30 now lean toward Democrats 52% to 42% in a new poll, with cost of living topping their worries just as it did two years ago.",
+   "summary": "A Cygnal survey of 800 registered male voters in that age group, taken in mid-September, finds Democrats leading on the generic ballot, expanding to 57% to 40% among the most determined voters. The shift follows Republican gains with young men in 2024, amid concerns that 43% say the rules are stacked against them. Fox News discussed the trend with Gen Z men across the spectrum, while online views mix skepticism of the poll, gripes over unkept promises like lower inflation, and debates on economic pressures versus cultural factors like workforce dropouts.",
+   "updated_at": "2026-10-11T19:48:21.000Z",
+   "url": "https://x.com/i/trending/2109369074845409606",
+   "topics": [
+    "Elections"
+   ],
+   "post_urls": [
+    "https://x.com/i/status/2109328423671693452",
+    "https://x.com/i/status/2109344550015947037",
+    "https://x.com/i/status/2109329579437408356"
+   ]
+  },
   {
    "id": "2109357778384941486",
    "headline": "Meme Questions Why U.S. Can't Remove 'Insane' President, Sparks Cross-Atlantic Debate",
@@ -50,6 +66,22 @@
     "https://x.com/i/status/2109039731984282090",
     "https://x.com/i/status/2108997138034360534",
     "https://x.com/i/status/2108993240145748104"
+   ]
+  },
+  {
+   "id": "2109162726547145178",
+   "headline": "Trump's Rally Remark Sparks Clash Over Political Double Standards",
+   "hook": "At a Tennessee rally, Donald Trump quipped he could say the stupidest things and still get applause from the crowd. That line ignited a heated online exchange about loyalty and scrutiny in politics.",
+   "summary": "Trump made the comment on October 10 in Clarksville while praising the energy in the room and highlighting policies like border security, low taxes, and a strong military. Hasan Piker called out what he saw as a double standard, saying Democrats face perfection demands while Republicans get a pass; Mehdi Hasan noted how people dish out criticism but struggle to take it. Critics pushed back, accusing both of hypocrisy and pointing to behaviors like locking replies, with memes and posts revealing frustrations over accountability that cut across ideological lines.",
+   "updated_at": "2026-10-11T06:05:59.000Z",
+   "url": "https://x.com/i/trending/2109162726547145178",
+   "topics": [
+    "Politics"
+   ],
+   "post_urls": [
+    "https://x.com/i/status/2109083554823164209",
+    "https://x.com/i/status/2109113608764563583",
+    "https://x.com/i/status/2109089770961842567"
    ]
   },
   {
@@ -100,101 +132,68 @@
     "https://x.com/i/status/2109039325979832526",
     "https://x.com/i/status/2109029339731988737"
    ]
-  },
-  {
-   "id": "2109083124886044772",
-   "headline": "X Post Sparks Debate on Removing a President",
-   "hook": "A simple question hit hard: why can't the U.S. remove an 'obviously insane and incompetent' president? Posted by James on October 10, it drew thousands of replies unpacking the Constitution's tough rules.",
-   "summary": "The post questions barriers to ousting President Donald Trump, who began his second term on January 20, 2025, after winning in 2024. Replies explain impeachment needs a House majority and 67 Senate votes for conviction and removal. Some note Biden's 2024 defeat settled it, while others blame GOP support or call the system undemocratic—echoing a tabled impeachment push and 25th Amendment talks from earlier this year.",
-   "updated_at": "2026-10-11T00:50:40.000Z",
-   "url": "https://x.com/i/trending/2109083124886044772",
-   "topics": [
-    "Politics"
-   ],
-   "post_urls": [
-    "https://x.com/i/status/2108769373532172325",
-    "https://x.com/i/status/2109036490449649902",
-    "https://x.com/i/status/2109028613303800208"
-   ]
-  },
-  {
-   "id": "2108922099939069957",
-   "headline": "Post Lists Trump Actions, Draws Sharp Partisan Replies",
-   "hook": "Janice Gindel's post called out Republicans for silence on a list of Trump moves, from pardons to a Qatar jet gift, urging everyone to finally speak up.",
-   "summary": "Gindel's message accused Trump of pardoning 1,600 violent criminals, demolishing the White House East Wing for a ballroom, interfering with Epstein files, renaming the Kennedy Center after himself, accepting a $400 million plane from Qatar, threatening countries, and imposing tariffs that harmed allies. Some claims align with reported events, like clemency for about 1,500 January 6 participants, the 2025 East Wing demolition, and the Kennedy Center name addition by Trump allies. Replies split sharply, with critics stunned at ongoing Republican support and defenders praising his leadership or countering with Democratic grievances amid midterm tensions.",
-   "updated_at": "2026-10-10T20:18:02.000Z",
-   "url": "https://x.com/i/trending/2108922099939069957",
-   "topics": [
-    "News",
-    "Politics"
-   ],
-   "post_urls": [
-    "https://x.com/i/status/2108774794132902092",
-    "https://x.com/i/status/2108955752282919090",
-    "https://x.com/i/status/2108889627675517069"
-   ]
   }
  ],
  "trends": [
-  {
-   "name": "Eagles",
-   "url": "https://x.com/search?q=Eagles"
-  },
-  {
-   "name": "Jags",
-   "url": "https://x.com/search?q=Jags"
-  },
   {
    "name": "Bagent",
    "url": "https://x.com/search?q=Bagent"
   },
   {
-   "name": "Malik Willis",
-   "url": "https://x.com/search?q=Malik%20Willis"
+   "name": "Ben Johnson",
+   "url": "https://x.com/search?q=Ben%20Johnson"
   },
   {
    "name": "Packers",
    "url": "https://x.com/search?q=Packers"
   },
   {
-   "name": "Christian Watson",
-   "url": "https://x.com/search?q=Christian%20Watson"
+   "name": "Bears",
+   "url": "https://x.com/search?q=Bears"
   },
   {
-   "name": "Jaylon Johnson",
-   "url": "https://x.com/search?q=Jaylon%20Johnson"
+   "name": "Drake Maye",
+   "url": "https://x.com/search?q=Drake%20Maye"
   },
   {
-   "name": "Jaguars",
-   "url": "https://x.com/search?q=Jaguars"
+   "name": "Eagles",
+   "url": "https://x.com/search?q=Eagles"
   },
   {
-   "name": "Jaylen Warren",
-   "url": "https://x.com/search?q=Jaylen%20Warren"
+   "name": "#GoPackGo",
+   "url": "https://x.com/search?q=%23GoPackGo"
+  },
+  {
+   "name": "Jets",
+   "url": "https://x.com/search?q=Jets"
   },
   {
    "name": "Keenum",
    "url": "https://x.com/search?q=Keenum"
   },
   {
+   "name": "Raiders",
+   "url": "https://x.com/search?q=Raiders"
+  },
+  {
+   "name": "Malik Willis",
+   "url": "https://x.com/search?q=Malik%20Willis"
+  },
+  {
+   "name": "Jaylon Johnson",
+   "url": "https://x.com/search?q=Jaylon%20Johnson"
+  },
+  {
+   "name": "Watson",
+   "url": "https://x.com/search?q=Watson"
+  },
+  {
    "name": "Jameis",
    "url": "https://x.com/search?q=Jameis"
   },
   {
-   "name": "Sirianni",
-   "url": "https://x.com/search?q=Sirianni"
-  },
-  {
-   "name": "Justin Jefferson",
-   "url": "https://x.com/search?q=Justin%20Jefferson"
-  },
-  {
-   "name": "HIPAA",
-   "url": "https://x.com/search?q=HIPAA"
-  },
-  {
-   "name": "#GoPackGo",
-   "url": "https://x.com/search?q=%23GoPackGo"
+   "name": "David Bailey",
+   "url": "https://x.com/search?q=David%20Bailey"
   }
  ]
 }
