@@ -1,6 +1,6 @@
 {
  "generated_from": "data/raw_pages.json + data/raw_archive.json",
- "fetched_at": "2026-10-10T22:38:37Z",
+ "fetched_at": "2026-10-11T01:09:44Z",
  "pinned_top": "2108635147318784214",
  "user": {
   "id": "2011476148178599939",
@@ -23,6 +23,52 @@
   "banner_local": "images/banner.jpg"
  },
  "posts": [
+  {
+   "id": "2109066372567486706",
+   "url": "https://x.com/zxnbluehandus/status/2109066372567486706",
+   "created_at": "2026-10-10T23:39:42.000Z",
+   "headline": "@FREDMERC65 @ElizabetheBarr U r welcome",
+   "headline_source": "post",
+   "text": "@FREDMERC65 @ElizabetheBarr U r welcome",
+   "original_text": "@FREDMERC65 @ElizabetheBarr U r welcome",
+   "metrics": {
+    "bookmark_count": 0,
+    "impression_count": 11,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "images": [],
+   "image_source": null,
+   "link": null,
+   "has_video": false,
+   "hidden": true,
+   "hidden_reason": "reply-style / too short"
+  },
+  {
+   "id": "2109024124328722692",
+   "url": "https://x.com/zxnbluehandus/status/2109024124328722692",
+   "created_at": "2026-10-10T20:51:49.000Z",
+   "headline": "RT @FoxNews: WATCH LIVE: President Trump delivers remarks at rally in Clarksville, Tennessee",
+   "headline_source": "post",
+   "text": "RT @FoxNews: WATCH LIVE: President Trump delivers remarks at rally in Clarksville, Tennessee https://x.com/i/broadcasts/1XGygwRyAqZxM",
+   "original_text": "RT @FoxNews: WATCH LIVE: President Trump delivers remarks at rally in Clarksville, Tennessee https://t.co/TNz9hYUpOC",
+   "metrics": {
+    "bookmark_count": 0,
+    "impression_count": 5,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 121
+   },
+   "images": [],
+   "image_source": null,
+   "link": null,
+   "has_video": false,
+   "hidden": false,
+   "hidden_reason": null
+  },
   {
    "id": "2109022471496290569",
    "url": "https://x.com/zxnbluehandus/status/2109022471496290569",
