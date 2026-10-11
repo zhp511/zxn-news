@@ -1,23 +1,23 @@
 {
- "built_at": "2026-10-11T07:39:45Z",
- "news_fetched_at": "2026-10-11T07:39:45Z",
- "trends_fetched_at": "2026-10-11T07:39:45Z",
+ "built_at": "2026-10-11T08:47:43Z",
+ "news_fetched_at": "2026-10-11T08:47:43Z",
+ "trends_fetched_at": "2026-10-11T08:47:43Z",
  "source": "X News (x.search_news) and US trends (x.get_trends_by_woeid 23424977). Story summaries are written by X/Grok from posts on X and may evolve.",
  "stories": [
   {
-   "id": "2109162726547145178",
-   "headline": "Trump's Rally Remark Sparks Clash Over Political Double Standards",
-   "hook": "At a Tennessee rally, Donald Trump quipped he could say the stupidest things and still get applause from the crowd. That line ignited a heated online exchange about loyalty and scrutiny in politics.",
-   "summary": "Trump made the comment on October 10 in Clarksville while praising the energy in the room and highlighting policies like border security, low taxes, and a strong military. Hasan Piker called out what he saw as a double standard, saying Democrats face perfection demands while Republicans get a pass; Mehdi Hasan noted how people dish out criticism but struggle to take it. Critics pushed back, accusing both of hypocrisy and pointing to behaviors like locking replies, with memes and posts revealing frustrations over accountability that cut across ideological lines.",
-   "updated_at": "2026-10-11T06:05:59.000Z",
-   "url": "https://x.com/i/trending/2109162726547145178",
+   "id": "2109159345363517496",
+   "headline": "Meme Mocks Trump Supporters' Prison Threats with Sarcastic Goodbyes",
+   "hook": "A meme picturing a stern Donald Trump claims his fans threaten to flee the U.S. if he goes to prison. Replies pour in with cheeky farewells like 'Don't let the door hit you on the way out!'",
+   "summary": "The post asks what people would say to departing supporters, sparking responses that celebrate the idea, from 'Goodbye and thanks for all the fish!' to offers like 'Can I help you pack?' alongside images of waving figures and dancing crowds. In reality, Trump's New York hush money conviction resulted in an unconditional discharge in early 2025 with no jail time, and other cases were resolved after his return to office. These exaggerated emigration threats pop up in partisan spats but rarely lead to actual moves, as data on citizenship renunciations remains low.",
+   "updated_at": "2026-10-11T05:52:47.000Z",
+   "url": "https://x.com/i/trending/2109159345363517496",
    "topics": [
     "Politics"
    ],
    "post_urls": [
-    "https://x.com/i/status/2109083554823164209",
-    "https://x.com/i/status/2109113608764563583",
-    "https://x.com/i/status/2109089770961842567"
+    "https://x.com/i/status/2109053582796361871",
+    "https://x.com/i/status/2109090887716200753",
+    "https://x.com/i/status/2109089909265097194"
    ]
   },
   {
@@ -158,12 +158,12 @@
    "url": "https://x.com/search?q=Lane%20Kiffin"
   },
   {
-   "name": "Dijon Lee",
-   "url": "https://x.com/search?q=Dijon%20Lee"
-  },
-  {
    "name": "Shane Gillis",
    "url": "https://x.com/search?q=Shane%20Gillis"
+  },
+  {
+   "name": "Dijon Lee",
+   "url": "https://x.com/search?q=Dijon%20Lee"
   },
   {
    "name": "Tyler Simmons",
@@ -178,10 +178,6 @@
    "url": "https://x.com/search?q=Penta"
   },
   {
-   "name": "#MITB",
-   "url": "https://x.com/search?q=%23MITB"
-  },
-  {
    "name": "Saban",
    "url": "https://x.com/search?q=Saban"
   },
@@ -194,8 +190,12 @@
    "url": "https://x.com/search?q=Boise%20State"
   },
   {
-   "name": "Kirby",
-   "url": "https://x.com/search?q=Kirby"
+   "name": "Cardae Mack",
+   "url": "https://x.com/search?q=Cardae%20Mack"
+  },
+  {
+   "name": "Blake Baker",
+   "url": "https://x.com/search?q=Blake%20Baker"
   }
  ]
 }
