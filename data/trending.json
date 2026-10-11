@@ -1,23 +1,37 @@
 {
- "built_at": "2026-10-10T23:16:38Z",
- "news_fetched_at": "2026-10-10T23:16:38Z",
- "trends_fetched_at": "2026-10-10T23:16:38Z",
+ "built_at": "2026-10-11T00:22:16Z",
+ "news_fetched_at": "2026-10-11T00:22:16Z",
+ "trends_fetched_at": "2026-10-11T00:22:16Z",
  "source": "X News (x.search_news) and US trends (x.get_trends_by_woeid 23424977). Story summaries are written by X/Grok from posts on X and may evolve.",
  "stories": [
   {
-   "id": "2109023195668054078",
-   "headline": "Trump's Net Approval Hits -23.9% in Second Term Amid Steady Decline",
-   "hook": "Donald Trump's net approval rating has slid to -23.9%, a persistent drop from early 2025 that observers say feels different from his first term.",
-   "summary": "Silver Bulletin's polling average shows Trump's approval in the mid-30s with disapproval over 60%, marking all-time lows for his second term. The decline persists despite brief rebounds, tied by analysts to tangible policy effects, economic pressures, and ongoing conflicts that keep pulling people back into politics. Meanwhile, California voters passed Proposition 50 by 64.4% in November 2025 to redraw congressional maps through 2030, and Democrat Abigail Spanberger leads Virginia's governor race by about 10 points.",
-   "updated_at": "2026-10-10T20:55:47.000Z",
-   "url": "https://x.com/i/trending/2109023195668054078",
+   "id": "2109074411709968860",
+   "headline": "X Post Questions Removing Trump in Second Term",
+   "hook": "A simple question hit a nerve: why can't the U.S. remove an 'insane and incompetent' president? Posted October 10 amid Trump's second term, it drew tens of thousands of likes and heated replies.",
+   "summary": "James's post on October 10 revived frustrations from critics viewing Trump as unfit after his 2024 win and 2026 second term. Replies pushed back, citing the 2024 election of Biden, GOP majorities in Congress, and party loyalty as reasons removal isn't feasible. Under the Constitution, impeachment needs a House majority and two-thirds Senate vote, while the 25th Amendment targets incapacity—not popularity—and has never ousted a president. The exchange highlights how elections and voter support drive accountability, especially with midterms nearing.",
+   "updated_at": "2026-10-11T00:16:25.000Z",
+   "url": "https://x.com/i/trending/2109074411709968860",
+   "topics": [],
+   "post_urls": [
+    "https://x.com/i/status/2108769373532172325",
+    "https://x.com/i/status/2109028613303800208",
+    "https://x.com/i/status/2108999346658402412"
+   ]
+  },
+  {
+   "id": "2108938902983819486",
+   "headline": "Conservative Voters Threaten to Skip November Elections Over GOP Frustrations",
+   "hook": "One fed-up conservative declared they've voted Republican three times but won't reward inaction anymore. Now, leaders like Senators Moreno and Lee are pleading for turnout to avoid handing wins to Democrats.",
+   "summary": "Frustrated conservatives say they'll sit out the November 3 midterms, citing failures on issues like the Iran conflict, economy, and party leadership under figures like Senate Majority Leader John Thune. Republican leaders warn that abstaining means higher taxes, open borders, and less freedom, urging votes to block Democratic gains. While some plan to vote down the ballot and push changes through primaries, the divide highlights a Republican enthusiasm gap in competitive races where many candidates distance from Trump.",
+   "updated_at": "2026-10-10T23:30:46.000Z",
+   "url": "https://x.com/i/trending/2108938902983819486",
    "topics": [
-    "Politics"
+    "Elections"
    ],
    "post_urls": [
-    "https://x.com/i/status/2108938134029496541",
-    "https://x.com/i/status/2108957270210179189",
-    "https://x.com/i/status/2108951696046981613"
+    "https://x.com/i/status/2108854941548761495",
+    "https://x.com/i/status/2108997138034360534",
+    "https://x.com/i/status/2109039731984282090"
    ]
   },
   {
@@ -71,22 +85,6 @@
    ]
   },
   {
-   "id": "2108938902983819486",
-   "headline": "Some Republicans Plan to Skip Midterms Over Party Inaction",
-   "hook": "After years of voting Republican down the ballot, one longtime supporter drew a line: no more rewards for doing nothing.",
-   "summary": "Longtime Republican voters are posting on X about sitting out the November 3, 2026, midterm elections to protest perceived party inaction, with messages spreading as others echo the exact wording. This reflects broader reports of an enthusiasm gap among 2024 Trump voters, fueled by concerns over the economy and inflation, while Democrats show stronger turnout interest. Critics warn that abstaining could hand wins to Democrats and suggest using primaries to challenge weak candidates instead, highlighting the tension between accountability and electoral risks.",
-   "updated_at": "2026-10-10T17:42:51.000Z",
-   "url": "https://x.com/i/trending/2108938902983819486",
-   "topics": [
-    "Elections"
-   ],
-   "post_urls": [
-    "https://x.com/i/status/2108854941548761495",
-    "https://x.com/i/status/2108711609044799671",
-    "https://x.com/i/status/2108929324715737322"
-   ]
-  },
-  {
    "id": "2108590719153942593",
    "headline": "Trump Supporters Struggle to Name Improvements Amid Record Gas Prices",
    "hook": "A man beams that life feels better than a year and a half ago, but falters when asked for specifics—finally landing on gas prices, only to learn they're higher now.",
@@ -120,19 +118,19 @@
    ]
   },
   {
-   "id": "2108209318508318765",
-   "headline": "Mike Johnson Floats Lawn Business if GOP Loses House Majority",
-   "hook": "House Speaker Mike Johnson shared a candid thought in a Fox News interview: if Republicans lose their slim majority next month, he might head back to Shreveport for a lawn business.",
-   "summary": "In the exclusive chat with Aishah Hasnie, Johnson said he'd pursue whatever path feels right, like starting that lawn venture, with the same passion he brings to Congress. He stressed his focus on winning, planning to stay as speaker, and blamed any potential loss on voters being misled rather than his leadership. Republicans hold a razor-thin 218-214 edge, but polls show Democrats ahead by 7 to 12 points on the generic ballot. A spokesperson later called the lawn talk overblown amid Johnson's nonstop fundraising and travel.",
-   "updated_at": "2026-10-10T06:40:49.000Z",
-   "url": "https://x.com/i/trending/2108209318508318765",
+   "id": "2108791929857323177",
+   "headline": "Public frustration over lack of arrests following U.S. congressional hearings",
+   "hook": null,
+   "summary": "Social media users express outrage at the absence of arrests despite multiple U.S. congressional hearings. Posts highlight a perceived pattern of congressional inaction and lack of accountability for powerful figures.",
+   "updated_at": "2026-10-10T05:32:51.000Z",
+   "url": "https://x.com/i/trending/2108791929857323177",
    "topics": [
     "Politics"
    ],
    "post_urls": [
-    "https://x.com/i/status/2108185190832980088",
-    "https://x.com/i/status/2108594505725198688",
-    "https://x.com/i/status/2108420128576573897"
+    "https://x.com/i/status/2108699709959221446",
+    "https://x.com/i/status/2108729912635035951",
+    "https://x.com/i/status/2108641685425267184"
    ]
   }
  ],
@@ -146,56 +144,56 @@
    "url": "https://x.com/search?q=Arch%20Manning"
   },
   {
-   "name": "LA Knight",
-   "url": "https://x.com/search?q=LA%20Knight"
+   "name": "Sark",
+   "url": "https://x.com/search?q=Sark"
+  },
+  {
+   "name": "Roxanne",
+   "url": "https://x.com/search?q=Roxanne"
   },
   {
    "name": "UCLA",
    "url": "https://x.com/search?q=UCLA"
   },
   {
-   "name": "Oregon",
-   "url": "https://x.com/search?q=Oregon"
-  },
-  {
-   "name": "Ukraine",
-   "url": "https://x.com/search?q=Ukraine"
-  },
-  {
-   "name": "Raiola",
-   "url": "https://x.com/search?q=Raiola"
-  },
-  {
-   "name": "Sark",
-   "url": "https://x.com/search?q=Sark"
-  },
-  {
    "name": "Oklahoma",
    "url": "https://x.com/search?q=Oklahoma"
   },
   {
-   "name": "Roman",
-   "url": "https://x.com/search?q=Roman"
+   "name": "Oregon",
+   "url": "https://x.com/search?q=Oregon"
   },
   {
-   "name": "#UFCVegas122",
-   "url": "https://x.com/search?q=%23UFCVegas122"
-  },
-  {
-   "name": "Zelensky",
-   "url": "https://x.com/search?q=Zelensky"
+   "name": "Tiffany",
+   "url": "https://x.com/search?q=Tiffany"
   },
   {
    "name": "Texas",
    "url": "https://x.com/search?q=Texas"
   },
   {
-   "name": "Heupel",
-   "url": "https://x.com/search?q=Heupel"
+   "name": "LA Knight",
+   "url": "https://x.com/search?q=LA%20Knight"
   },
   {
-   "name": "Tiffany",
-   "url": "https://x.com/search?q=Tiffany"
+   "name": "Boomer Sooner",
+   "url": "https://x.com/search?q=Boomer%20Sooner"
+  },
+  {
+   "name": "Ukraine",
+   "url": "https://x.com/search?q=Ukraine"
+  },
+  {
+   "name": "Triple H",
+   "url": "https://x.com/search?q=Triple%20H"
+  },
+  {
+   "name": "Tiffy",
+   "url": "https://x.com/search?q=Tiffy"
+  },
+  {
+   "name": "Liv Morgan",
+   "url": "https://x.com/search?q=Liv%20Morgan"
   }
  ]
 }
