@@ -1,54 +1,55 @@
 {
- "built_at": "2026-10-11T21:16:49Z",
- "news_fetched_at": "2026-10-11T21:16:49Z",
- "trends_fetched_at": "2026-10-11T21:16:49Z",
+ "built_at": "2026-10-11T22:19:28Z",
+ "news_fetched_at": "2026-10-11T22:19:28Z",
+ "trends_fetched_at": "2026-10-11T22:19:28Z",
  "source": "X News (x.search_news) and US trends (x.get_trends_by_woeid 23424977). Story summaries are written by X/Grok from posts on X and may evolve.",
  "stories": [
   {
-   "id": "2109391612984070535",
-   "headline": "Senator Elissa Slotkin warns Democrats not to misinterpret midterm results as public approval and to offer a positive agenda",
-   "hook": null,
-   "summary": "Senator Elissa Slotkin (D-MI), quoted by the Washington Post, warned that Democrats should not view midterm victories as renewed public love for the party, describing midterms as protest votes against the party in power. She emphasized the need for Democrats to provide a positive, affirmative agenda to the public.",
-   "updated_at": "2026-10-11T21:16:32.000Z",
-   "url": "https://x.com/i/trending/2109391612984070535",
-   "topics": [],
+   "id": "2109369074845409606",
+   "headline": "Poll Shows Young Men Shifting Toward Democrats Before Midterms",
+   "hook": "Young men ages 18-30 are voicing real worries about rising costs and uneven rules as they eye the 2026 midterms.",
+   "summary": "A Cygnal survey from September 15-18 of 800 registered men in that age group found Democrats leading Republicans 52% to 42% on the generic congressional ballot, widening to 57%-40% among the most likely voters. Cost of living topped their concerns, with 43% feeling the system is stacked against them—the same issues that pulled many toward Republicans in 2024. Reactions ranged from doubts about the poll's sample to views that economic frustrations are driving disillusionment with both parties, as Fox News panels of Gen Z men discussed inflation, housing, and foreign policy.",
+   "updated_at": "2026-10-11T22:11:08.000Z",
+   "url": "https://x.com/i/trending/2109369074845409606",
+   "topics": [
+    "Elections"
+   ],
    "post_urls": [
-    "https://x.com/i/status/2109316524380995805",
-    "https://x.com/i/status/2109330751858831669",
-    "https://x.com/i/status/2109361763649003850"
+    "https://x.com/i/status/2109328423671693452",
+    "https://x.com/i/status/2109371044515480001",
+    "https://x.com/i/status/2109344550015947037"
    ]
   },
   {
-   "id": "2108989862233903133",
-   "headline": "Social Media Debates Removing Trump from Office",
-   "hook": "A bold post questions why the U.S. can't remove President Trump, capturing frustrations amid his second term and tensions with Iran.",
-   "summary": "On October 10, user @Realcoinforge posted an image of Trump asking why America can't remove an 'insane and incompetent' president, drawing tens of thousands of likes and heated replies. Supporters pointed to his 2024 election win and the Constitution's high bars for impeachment or the 25th Amendment, while critics blamed gerrymandering, court stacking, and congressional enablers. The exchange highlights partisan divides as midterms near in November.",
-   "updated_at": "2026-10-11T20:33:25.000Z",
-   "url": "https://x.com/i/trending/2108989862233903133",
+   "id": "2109394358055395794",
+   "headline": "Europeans Question U.S. Ability to Remove Trump Before Midterms",
+   "hook": "A pointed X post asking why America can't remove its 'insane and incompetent' president sparked heated replies from both sides of the Atlantic. Europeans piled on, while Americans pushed back on the premise.",
+   "summary": "James's post drew quick agreement from users like Lars Christensen, who wondered if all of Europe shared the frustration. American responders like Adam Hartig expressed hope for change in the November 3, 2026, midterms, while Mitzi Pepall reminded everyone Trump won his election fair and square, with his term ending naturally. The debate unfolded amid rising U.S.-Europe tensions over Trump's call for Ukraine to pick a new leader, countered by European backing of Zelenskyy. It underscores clashing views on accountability as voters prepare to decide House seats, Senate races, and governorships.",
+   "updated_at": "2026-10-11T21:29:07.000Z",
+   "url": "https://x.com/i/trending/2109394358055395794",
    "topics": [
     "Politics"
    ],
    "post_urls": [
     "https://x.com/i/status/2108769373532172325",
-    "https://x.com/i/status/2109230550317982131",
-    "https://x.com/i/status/2108976048138555429"
+    "https://x.com/i/status/2109203948582126015",
+    "https://x.com/i/status/2109349323549057318"
    ]
   },
   {
-   "id": "2109369074845409606",
-   "headline": "Poll Shows Young Men Shifting Back to Democrats for 2026 Midterms",
-   "hook": "Young men ages 18 to 30 now lean toward Democrats 52% to 42% in a new poll, with cost of living topping their worries just as it did two years ago.",
-   "summary": "A Cygnal survey of 800 registered male voters in that age group, taken in mid-September, finds Democrats leading on the generic ballot, expanding to 57% to 40% among the most determined voters. The shift follows Republican gains with young men in 2024, amid concerns that 43% say the rules are stacked against them. Fox News discussed the trend with Gen Z men across the spectrum, while online views mix skepticism of the poll, gripes over unkept promises like lower inflation, and debates on economic pressures versus cultural factors like workforce dropouts.",
-   "updated_at": "2026-10-11T19:48:21.000Z",
-   "url": "https://x.com/i/trending/2109369074845409606",
+   "id": "2109391612984070535",
+   "headline": "Slotkin Warns Democrats Against Misreading Midterm Wins",
+   "hook": "Senator Elissa Slotkin urged her party not to celebrate midterm gains as a full public endorsement. She stressed the need for a clear, positive agenda beyond protest votes.",
+   "summary": "In remarks shared on X and analyzed by the Washington Post, Michigan Senator Elissa Slotkin cautioned Democrats against viewing potential 2026 midterm victories—like retaking the House and possibly the Senate—as broad love for the party. She described midterms as protest votes against the party in power and called for an affirmative agenda, noting current Democratic plans focus more on investigations and reversing Trump actions than detailed economic solutions. Online reactions ranged from agreement by a leftist Oklahoman and a Michigan resident to notes on the historical role of midterms, highlighting party debates on substance over opposition.",
+   "updated_at": "2026-10-11T21:17:17.000Z",
+   "url": "https://x.com/i/trending/2109391612984070535",
    "topics": [
-    "News",
-    "Elections"
+    "Politics"
    ],
    "post_urls": [
-    "https://x.com/i/status/2109328423671693452",
-    "https://x.com/i/status/2109344550015947037",
-    "https://x.com/i/status/2109329579437408356"
+    "https://x.com/i/status/2109316524380995805",
+    "https://x.com/i/status/2109330751858831669",
+    "https://x.com/i/status/2109361763649003850"
    ]
   },
   {
@@ -142,6 +143,14 @@
    "url": "https://x.com/search?q=Dan%20Quinn"
   },
   {
+   "name": "Seahawks",
+   "url": "https://x.com/search?q=Seahawks"
+  },
+  {
+   "name": "49ers",
+   "url": "https://x.com/search?q=49ers"
+  },
+  {
    "name": "Jayden Daniels",
    "url": "https://x.com/search?q=Jayden%20Daniels"
   },
@@ -150,48 +159,40 @@
    "url": "https://x.com/search?q=NFC%20East"
   },
   {
-   "name": "Packers",
-   "url": "https://x.com/search?q=Packers"
+   "name": "Dre Greenlaw",
+   "url": "https://x.com/search?q=Dre%20Greenlaw"
+  },
+  {
+   "name": "Niners",
+   "url": "https://x.com/search?q=Niners"
   },
   {
    "name": "Bears",
    "url": "https://x.com/search?q=Bears"
   },
   {
+   "name": "Darnold",
+   "url": "https://x.com/search?q=Darnold"
+  },
+  {
+   "name": "Packers",
+   "url": "https://x.com/search?q=Packers"
+  },
+  {
    "name": "Ben Johnson",
    "url": "https://x.com/search?q=Ben%20Johnson"
   },
   {
-   "name": "Bagent",
-   "url": "https://x.com/search?q=Bagent"
+   "name": "Mike Evans",
+   "url": "https://x.com/search?q=Mike%20Evans"
   },
   {
-   "name": "Jets",
-   "url": "https://x.com/search?q=Jets"
+   "name": "Gracen Halton",
+   "url": "https://x.com/search?q=Gracen%20Halton"
   },
   {
-   "name": "Jameis",
-   "url": "https://x.com/search?q=Jameis"
-  },
-  {
-   "name": "Drake Maye",
-   "url": "https://x.com/search?q=Drake%20Maye"
-  },
-  {
-   "name": "#GoPackGo",
-   "url": "https://x.com/search?q=%23GoPackGo"
-  },
-  {
-   "name": "Raiders",
-   "url": "https://x.com/search?q=Raiders"
-  },
-  {
-   "name": "#RaiseHail",
-   "url": "https://x.com/search?q=%23RaiseHail"
-  },
-  {
-   "name": "Eagles",
-   "url": "https://x.com/search?q=Eagles"
+   "name": "Holani",
+   "url": "https://x.com/search?q=Holani"
   }
  ]
 }
