@@ -1,9 +1,25 @@
 {
- "built_at": "2026-10-11T13:01:29Z",
- "news_fetched_at": "2026-10-11T13:01:29Z",
- "trends_fetched_at": "2026-10-11T13:01:29Z",
+ "built_at": "2026-10-11T14:02:58Z",
+ "news_fetched_at": "2026-10-11T14:02:58Z",
+ "trends_fetched_at": "2026-10-11T14:02:58Z",
  "source": "X News (x.search_news) and US trends (x.get_trends_by_woeid 23424977). Story summaries are written by X/Grok from posts on X and may evolve.",
  "stories": [
+  {
+   "id": "2109282449876562344",
+   "headline": "Mike Johnson's Lawn Business Remark Draws Online Mockery",
+   "hook": "House Speaker Mike Johnson casually mused about starting a lawn business back home in Shreveport if Republicans lose the House. Critics seized on the offhand comment, turning it into a rallying cry for Democrats.",
+   "summary": "During a Fox News interview, Johnson said that if the GOP loses its narrow majority in the November 3 midterms, he might return to Shreveport for a lawn-mowing venture with equal passion. The clip spread quickly, prompting posts urging votes for Democrats to send him packing, jokes about his lawn skills, and even darker quips about jail time. His spokesperson dismissed the buzz as hilarious, pointing to Johnson's busy fundraising efforts to hold the majority amid polls favoring Democrats.",
+   "updated_at": "2026-10-11T14:02:36.000Z",
+   "url": "https://x.com/i/trending/2109282449876562344",
+   "topics": [
+    "Politics"
+   ],
+   "post_urls": [
+    "https://x.com/i/status/2109072456417779887",
+    "https://x.com/i/status/2108928592122187899",
+    "https://x.com/i/status/2109230694350156031"
+   ]
+  },
   {
    "id": "2109205510222209230",
    "headline": "Sen. Mike Lee Links Democrats to Socialism Ahead of Midterms",
@@ -18,22 +34,6 @@
     "https://x.com/i/status/2109039731984282090",
     "https://x.com/i/status/2109135340711641350",
     "https://x.com/i/status/2109134396838269194"
-   ]
-  },
-  {
-   "id": "2109159345363517496",
-   "headline": "Meme Mocks Trump Supporters' Prison Threats with Sarcastic Goodbyes",
-   "hook": "A meme picturing a stern Donald Trump claims his fans threaten to flee the U.S. if he goes to prison. Replies pour in with cheeky farewells like 'Don't let the door hit you on the way out!'",
-   "summary": "The post asks what people would say to departing supporters, sparking responses that celebrate the idea, from 'Goodbye and thanks for all the fish!' to offers like 'Can I help you pack?' alongside images of waving figures and dancing crowds. In reality, Trump's New York hush money conviction resulted in an unconditional discharge in early 2025 with no jail time, and other cases were resolved after his return to office. These exaggerated emigration threats pop up in partisan spats but rarely lead to actual moves, as data on citizenship renunciations remains low.",
-   "updated_at": "2026-10-11T05:52:47.000Z",
-   "url": "https://x.com/i/trending/2109159345363517496",
-   "topics": [
-    "Politics"
-   ],
-   "post_urls": [
-    "https://x.com/i/status/2109053582796361871",
-    "https://x.com/i/status/2109090887716200753",
-    "https://x.com/i/status/2109089909265097194"
    ]
   },
   {
@@ -138,16 +138,56 @@
  ],
  "trends": [
   {
-   "name": "Good Sunday",
-   "url": "https://x.com/search?q=Good%20Sunday"
+   "name": "Jalen Carter",
+   "url": "https://x.com/search?q=Jalen%20Carter"
   },
   {
    "name": "Go Birds",
    "url": "https://x.com/search?q=Go%20Birds"
   },
   {
+   "name": "Trotter",
+   "url": "https://x.com/search?q=Trotter"
+  },
+  {
+   "name": "Shipley",
+   "url": "https://x.com/search?q=Shipley"
+  },
+  {
+   "name": "Good Sunday",
+   "url": "https://x.com/search?q=Good%20Sunday"
+  },
+  {
+   "name": "Ferrari",
+   "url": "https://x.com/search?q=Ferrari"
+  },
+  {
+   "name": "Jaguars",
+   "url": "https://x.com/search?q=Jaguars"
+  },
+  {
+   "name": "Jason Kelce",
+   "url": "https://x.com/search?q=Jason%20Kelce"
+  },
+  {
+   "name": "Lewis",
+   "url": "https://x.com/search?q=Lewis"
+  },
+  {
+   "name": "Parker Washington",
+   "url": "https://x.com/search?q=Parker%20Washington"
+  },
+  {
+   "name": "#PHIvsJAX",
+   "url": "https://x.com/search?q=%23PHIvsJAX"
+  },
+  {
    "name": "#叠纸破坏中国文化出海",
    "url": "https://x.com/search?q=%23%E5%8F%A0%E7%BA%B8%E7%A0%B4%E5%9D%8F%E4%B8%AD%E5%9B%BD%E6%96%87%E5%8C%96%E5%87%BA%E6%B5%B7"
+  },
+  {
+   "name": "Kimi",
+   "url": "https://x.com/search?q=Kimi"
   },
   {
    "name": "#PapergamesRuinsCulturalExport",
@@ -156,46 +196,6 @@
   {
    "name": "#PPGFailsAsAmbassador",
    "url": "https://x.com/search?q=%23PPGFailsAsAmbassador"
-  },
-  {
-   "name": "PSD DEVILS LANDMARK 2026",
-   "url": "https://x.com/search?q=PSD%20DEVILS%20LANDMARK%202026"
-  },
-  {
-   "name": "#papertrade",
-   "url": "https://x.com/search?q=%23papertrade"
-  },
-  {
-   "name": "Kyrie",
-   "url": "https://x.com/search?q=Kyrie"
-  },
-  {
-   "name": "Bama",
-   "url": "https://x.com/search?q=Bama"
-  },
-  {
-   "name": "FELIX F1 SINGAPORE GRAND PRIX",
-   "url": "https://x.com/search?q=FELIX%20F1%20SINGAPORE%20GRAND%20PRIX"
-  },
-  {
-   "name": "#SingaporeGP",
-   "url": "https://x.com/search?q=%23SingaporeGP"
-  },
-  {
-   "name": "Jane Foster",
-   "url": "https://x.com/search?q=Jane%20Foster"
-  },
-  {
-   "name": "Blessed Sunday",
-   "url": "https://x.com/search?q=Blessed%20Sunday"
-  },
-  {
-   "name": "Shipley",
-   "url": "https://x.com/search?q=Shipley"
-  },
-  {
-   "name": "Greenard",
-   "url": "https://x.com/search?q=Greenard"
   }
  ]
 }
