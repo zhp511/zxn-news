@@ -1,6 +1,6 @@
 {
  "generated_from": "data/raw_pages.json + data/raw_archive.json",
- "fetched_at": "2026-10-11T18:07:23Z",
+ "fetched_at": "2026-10-11T23:49:32Z",
  "pinned_top": "2108635147318784214",
  "user": {
   "id": "2011476148178599939",
@@ -333,6 +333,98 @@
    "hidden_reason": null
   },
   {
+   "id": "2108941906843455822",
+   "url": "https://x.com/zxnbluehandus/status/2108941906843455822",
+   "created_at": "2026-10-10T15:25:07.000Z",
+   "headline": "@RightSideR3bel I’m going sit here got my coffee ☕️",
+   "headline_source": "post",
+   "text": "@RightSideR3bel I’m going sit here got my coffee ☕️",
+   "original_text": "@RightSideR3bel I’m going sit here got my coffee ☕️",
+   "metrics": {
+    "bookmark_count": 0,
+    "impression_count": 12,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "images": [],
+   "image_source": null,
+   "link": null,
+   "has_video": false,
+   "hidden": true,
+   "hidden_reason": "reply-style / too short"
+  },
+  {
+   "id": "2108941817161064571",
+   "url": "https://x.com/zxnbluehandus/status/2108941817161064571",
+   "created_at": "2026-10-10T15:24:46.000Z",
+   "headline": "@CHELLESHOCKEDTM Good morning",
+   "headline_source": "post",
+   "text": "@CHELLESHOCKEDTM Good morning",
+   "original_text": "@CHELLESHOCKEDTM Good morning",
+   "metrics": {
+    "bookmark_count": 0,
+    "impression_count": 10,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "images": [],
+   "image_source": null,
+   "link": null,
+   "has_video": false,
+   "hidden": true,
+   "hidden_reason": "reply-style / too short"
+  },
+  {
+   "id": "2108940036615860323",
+   "url": "https://x.com/zxnbluehandus/status/2108940036615860323",
+   "created_at": "2026-10-10T15:17:41.000Z",
+   "headline": "@RightSideR3bel How r u doing today",
+   "headline_source": "post",
+   "text": "@RightSideR3bel How r u doing today",
+   "original_text": "@RightSideR3bel How r u doing today",
+   "metrics": {
+    "bookmark_count": 0,
+    "impression_count": 38,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 2,
+    "retweet_count": 0
+   },
+   "images": [],
+   "image_source": null,
+   "link": null,
+   "has_video": false,
+   "hidden": true,
+   "hidden_reason": "reply-style / too short"
+  },
+  {
+   "id": "2108938003653722611",
+   "url": "https://x.com/zxnbluehandus/status/2108938003653722611",
+   "created_at": "2026-10-10T15:09:36.000Z",
+   "headline": "@RightSideR3bel good morning",
+   "headline_source": "post",
+   "text": "@RightSideR3bel good morning",
+   "original_text": "@RightSideR3bel good morning",
+   "metrics": {
+    "bookmark_count": 0,
+    "impression_count": 100,
+    "like_count": 2,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 0
+   },
+   "images": [],
+   "image_source": null,
+   "link": null,
+   "has_video": false,
+   "hidden": true,
+   "hidden_reason": "reply-style / too short"
+  },
+  {
    "id": "2108937712128405960",
    "url": "https://x.com/zxnbluehandus/status/2108937712128405960",
    "created_at": "2026-10-10T15:08:27.000Z",
@@ -361,6 +453,197 @@
    "has_video": false,
    "hidden": false,
    "hidden_reason": null
+  },
+  {
+   "id": "2108934664786239544",
+   "url": "https://x.com/zxnbluehandus/status/2108934664786239544",
+   "created_at": "2026-10-10T14:56:20.000Z",
+   "headline": "@justnemeth7",
+   "headline_source": "post",
+   "text": "@justnemeth7 https://twitter.com/zxnbluehandus/status/2108924092737106092",
+   "original_text": "@justnemeth7 https://t.co/81AEODsGrX",
+   "metrics": {
+    "bookmark_count": 0,
+    "impression_count": 56,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "images": [],
+   "image_source": null,
+   "link": null,
+   "has_video": false,
+   "hidden": true,
+   "hidden_reason": "reply-style / too short"
+  },
+  {
+   "id": "2108924092737106092",
+   "url": "https://x.com/zxnbluehandus/status/2108924092737106092",
+   "created_at": "2026-10-10T14:14:20.000Z",
+   "headline": "@ElizabetheBarr everyone please pray for Texas Elizabeth she may have cancer not sure quite yet that’s why…",
+   "headline_source": "post",
+   "text": "@ElizabetheBarr  everyone please pray for Texas Elizabeth she may have cancer not sure quite yet that’s why she ain’t been online here several days keep her in our prayers today love you guys",
+   "original_text": "@ElizabetheBarr  everyone please pray for Texas Elizabeth she may have cancer not sure quite yet that’s why she ain’t been online here several days keep her in our prayers today love you guys",
+   "metrics": {
+    "bookmark_count": 0,
+    "impression_count": 878,
+    "like_count": 30,
+    "quote_count": 2,
+    "reply_count": 16,
+    "retweet_count": 15
+   },
+   "images": [],
+   "image_source": null,
+   "link": null,
+   "has_video": false,
+   "hidden": true,
+   "hidden_reason": "reply-style / too short"
+  },
+  {
+   "id": "2108923711009202340",
+   "url": "https://x.com/zxnbluehandus/status/2108923711009202340",
+   "created_at": "2026-10-10T14:12:49.000Z",
+   "headline": "RT @WWE: \"A Milli\" by @LilTunechi is an Official Theme Song of #MITB!",
+   "headline_source": "post",
+   "text": "RT @WWE: \"A Milli\" by @LilTunechi is an Official Theme Song of #MITB!",
+   "original_text": "RT @WWE: \"A Milli\" by @LilTunechi is an Official Theme Song of #MITB! https://t.co/RlRzwARmPL",
+   "metrics": {
+    "bookmark_count": 0,
+    "impression_count": 8,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 459
+   },
+   "images": [
+    {
+     "src": "images/2108923711009202340_0.jpg",
+     "type": "video",
+     "width": 1920,
+     "height": 1080
+    }
+   ],
+   "image_source": "post",
+   "link": null,
+   "has_video": true,
+   "hidden": false,
+   "hidden_reason": null
+  },
+  {
+   "id": "2108923341906268388",
+   "url": "https://x.com/zxnbluehandus/status/2108923341906268388",
+   "created_at": "2026-10-10T14:11:21.000Z",
+   "headline": "@DobermanStrong Cool",
+   "headline_source": "post",
+   "text": "@DobermanStrong Cool",
+   "original_text": "@DobermanStrong Cool",
+   "metrics": {
+    "bookmark_count": 0,
+    "impression_count": 14,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "images": [],
+   "image_source": null,
+   "link": null,
+   "has_video": false,
+   "hidden": true,
+   "hidden_reason": "reply-style / too short"
+  },
+  {
+   "id": "2108922849390161959",
+   "url": "https://x.com/zxnbluehandus/status/2108922849390161959",
+   "created_at": "2026-10-10T14:09:23.000Z",
+   "headline": "@DobermanStrong How are you today?",
+   "headline_source": "post",
+   "text": "@DobermanStrong How are you today?",
+   "original_text": "@DobermanStrong How are you today?",
+   "metrics": {
+    "bookmark_count": 0,
+    "impression_count": 11,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 0
+   },
+   "images": [],
+   "image_source": null,
+   "link": null,
+   "has_video": false,
+   "hidden": true,
+   "hidden_reason": "reply-style / too short"
+  },
+  {
+   "id": "2108922575086592314",
+   "url": "https://x.com/zxnbluehandus/status/2108922575086592314",
+   "created_at": "2026-10-10T14:08:18.000Z",
+   "headline": "@DobermanStrong Good morning sir",
+   "headline_source": "post",
+   "text": "@DobermanStrong Good morning sir",
+   "original_text": "@DobermanStrong Good morning sir",
+   "metrics": {
+    "bookmark_count": 0,
+    "impression_count": 24,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 0
+   },
+   "images": [],
+   "image_source": null,
+   "link": null,
+   "has_video": false,
+   "hidden": true,
+   "hidden_reason": "reply-style / too short"
+  },
+  {
+   "id": "2108918723746861388",
+   "url": "https://x.com/zxnbluehandus/status/2108918723746861388",
+   "created_at": "2026-10-10T13:53:00.000Z",
+   "headline": "@BluehandRising @AutumnM95969 That is, sir 🫡",
+   "headline_source": "post",
+   "text": "@BluehandRising @AutumnM95969 That is, sir 🫡",
+   "original_text": "@BluehandRising @AutumnM95969 That is, sir 🫡",
+   "metrics": {
+    "bookmark_count": 0,
+    "impression_count": 25,
+    "like_count": 2,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 1
+   },
+   "images": [],
+   "image_source": null,
+   "link": null,
+   "has_video": false,
+   "hidden": true,
+   "hidden_reason": "reply-style / too short"
+  },
+  {
+   "id": "2108910640396153035",
+   "url": "https://x.com/zxnbluehandus/status/2108910640396153035",
+   "created_at": "2026-10-10T13:20:52.000Z",
+   "headline": "@GuerreroKaylie Your dad was a great guy",
+   "headline_source": "post",
+   "text": "@GuerreroKaylie Your dad was a great guy",
+   "original_text": "@GuerreroKaylie Your dad was a great guy",
+   "metrics": {
+    "bookmark_count": 0,
+    "impression_count": 78,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "images": [],
+   "image_source": null,
+   "link": null,
+   "has_video": false,
+   "hidden": true,
+   "hidden_reason": "reply-style / too short"
   },
   {
    "id": "2108828417919484017",

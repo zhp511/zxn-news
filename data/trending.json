@@ -1,9 +1,25 @@
 {
- "built_at": "2026-10-11T23:22:07Z",
- "news_fetched_at": "2026-10-11T23:22:07Z",
- "trends_fetched_at": "2026-10-11T23:22:07Z",
+ "built_at": "2026-10-11T23:49:35Z",
+ "news_fetched_at": "2026-10-11T23:49:32Z",
+ "trends_fetched_at": "2026-10-11T23:49:32Z",
  "source": "X News (x.search_news) and US trends (x.get_trends_by_woeid 23424977). Story summaries are written by X/Grok from posts on X and may evolve.",
  "stories": [
+  {
+   "id": "2109278451970855161",
+   "headline": "Leaked Audio Reveals Paxton Accusing Cornyn of Wanting His Senate Loss",
+   "hook": "At a Washington fundraiser, Ken Paxton vented about John Cornyn's alleged wish for his defeat to punish the GOP base. The recording has reopened old wounds from their primary battle.",
+   "summary": "In audio from a September 24 event obtained by CNN, Republican Senate nominee Ken Paxton claimed Cornyn told a friend at a Dallas restaurant that Paxton would lose to send a message to party voters who backed him in the primary. A Cornyn strategist denied the restaurant encounter and insisted Cornyn supports the ticket, while Paxton beat Cornyn earlier this year with Trump's endorsement and now leads a tight race against Democrat James Talarico on November 3. The leak highlights ongoing tensions between establishment figures and the MAGA wing as midterms approach.",
+   "updated_at": "2026-10-11T23:39:26.000Z",
+   "url": "https://x.com/i/trending/2109278451970855161",
+   "topics": [
+    "Politics"
+   ],
+   "post_urls": [
+    "https://x.com/i/status/2109240683135705410",
+    "https://x.com/i/status/2109241119267795355",
+    "https://x.com/i/status/2108642934316749189"
+   ]
+  },
   {
    "id": "2109369074845409606",
    "headline": "Poll Shows Young Men Shifting Toward Democrats Before Midterms",
@@ -85,22 +101,6 @@
    ]
   },
   {
-   "id": "2109162726547145178",
-   "headline": "Trump's Rally Remark Sparks Clash Over Political Double Standards",
-   "hook": "At a Tennessee rally, Donald Trump quipped he could say the stupidest things and still get applause from the crowd. That line ignited a heated online exchange about loyalty and scrutiny in politics.",
-   "summary": "Trump made the comment on October 10 in Clarksville while praising the energy in the room and highlighting policies like border security, low taxes, and a strong military. Hasan Piker called out what he saw as a double standard, saying Democrats face perfection demands while Republicans get a pass; Mehdi Hasan noted how people dish out criticism but struggle to take it. Critics pushed back, accusing both of hypocrisy and pointing to behaviors like locking replies, with memes and posts revealing frustrations over accountability that cut across ideological lines.",
-   "updated_at": "2026-10-11T06:05:59.000Z",
-   "url": "https://x.com/i/trending/2109162726547145178",
-   "topics": [
-    "Politics"
-   ],
-   "post_urls": [
-    "https://x.com/i/status/2109083554823164209",
-    "https://x.com/i/status/2109113608764563583",
-    "https://x.com/i/status/2109089770961842567"
-   ]
-  },
-  {
    "id": "2109159345363517496",
    "headline": "Meme Mocks Trump Supporters' Prison Threats with Sarcastic Goodbyes",
    "hook": "A meme picturing a stern Donald Trump claims his fans threaten to flee the U.S. if he goes to prison. Replies pour in with cheeky farewells like 'Don't let the door hit you on the way out!'",
@@ -139,14 +139,6 @@
    "url": "https://x.com/search?q=Mike%20Evans"
   },
   {
-   "name": "Justin Herbert",
-   "url": "https://x.com/search?q=Justin%20Herbert"
-  },
-  {
-   "name": "Chargers",
-   "url": "https://x.com/search?q=Chargers"
-  },
-  {
    "name": "Seahawks",
    "url": "https://x.com/search?q=Seahawks"
   },
@@ -155,44 +147,52 @@
    "url": "https://x.com/search?q=49ers"
   },
   {
-   "name": "Giants",
-   "url": "https://x.com/search?q=Giants"
+   "name": "Chargers",
+   "url": "https://x.com/search?q=Chargers"
   },
   {
-   "name": "Dan Quinn",
-   "url": "https://x.com/search?q=Dan%20Quinn"
-  },
-  {
-   "name": "Broncos",
-   "url": "https://x.com/search?q=Broncos"
-  },
-  {
-   "name": "Jobe",
-   "url": "https://x.com/search?q=Jobe"
+   "name": "Justin Herbert",
+   "url": "https://x.com/search?q=Justin%20Herbert"
   },
   {
    "name": "Niners",
    "url": "https://x.com/search?q=Niners"
   },
   {
-   "name": "Purdy",
-   "url": "https://x.com/search?q=Purdy"
+   "name": "Broncos",
+   "url": "https://x.com/search?q=Broncos"
   },
   {
-   "name": "Bo Nix",
-   "url": "https://x.com/search?q=Bo%20Nix"
+   "name": "Giants",
+   "url": "https://x.com/search?q=Giants"
   },
   {
    "name": "#FTTB",
    "url": "https://x.com/search?q=%23FTTB"
   },
   {
+   "name": "Dan Quinn",
+   "url": "https://x.com/search?q=Dan%20Quinn"
+  },
+  {
+   "name": "Jobe",
+   "url": "https://x.com/search?q=Jobe"
+  },
+  {
+   "name": "Bo Nix",
+   "url": "https://x.com/search?q=Bo%20Nix"
+  },
+  {
+   "name": "Purdy",
+   "url": "https://x.com/search?q=Purdy"
+  },
+  {
    "name": "Darnold",
    "url": "https://x.com/search?q=Darnold"
   },
   {
-   "name": "Jayden Daniels",
-   "url": "https://x.com/search?q=Jayden%20Daniels"
+   "name": "Commanders",
+   "url": "https://x.com/search?q=Commanders"
   }
  ]
 }

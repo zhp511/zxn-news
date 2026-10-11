@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-10-11T21:54:42Z",
+ "checked_at": "2026-10-11T23:49:48Z",
  "channels": [
   {
    "key": "foxweather",
@@ -21,7 +21,7 @@
    "watch_url": "https://www.youtube.com/@LiveNOWFOX/live",
    "video_id": "8ufvKsnGIFg",
    "ok": true,
-   "title": "TOP STORIES: Hurricane Isaias aftermath, Russia plague concerns, Gaza strikes"
+   "title": "LIVE: Trump White House latest, Russia-Ukraine war, Midterm elections, Iran war, more top stories"
   },
   {
    "key": "cbs",
@@ -41,9 +41,9 @@
    "channel_id": "UCBi2mrWuNuyYy4gbM6fU18Q",
    "handle": "ABCNews",
    "watch_url": "https://www.youtube.com/@ABCNews/live",
-   "video_id": "dNIvmhbEK4Y",
+   "video_id": "iipR5yUp36o",
    "ok": true,
-   "title": "LIVE: ABC News Live - Sunday, October 11"
+   "title": "LIVE: ABC News Live - 24/7 news, context and analysis"
   },
   {
    "key": "nbc",
@@ -74,9 +74,9 @@
    "channel_id": "UCoMdktPbSTixAyNGwb-UYkQ",
    "handle": "SkyNews",
    "watch_url": "https://www.youtube.com/@SkyNews/live",
-   "video_id": "RBmt8zC38FQ",
+   "video_id": "xDWQ3LkccY8",
    "ok": true,
-   "title": "Trump announces Russia-Ukraine &#39;energy ceasefire&#39; | The Wrap with Matt Barbet"
+   "title": "Watch Sky News"
   },
   {
    "key": "directv",
