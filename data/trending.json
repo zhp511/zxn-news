@@ -1,7 +1,7 @@
 {
- "built_at": "2026-10-11T11:58:24Z",
- "news_fetched_at": "2026-10-11T11:58:24Z",
- "trends_fetched_at": "2026-10-11T11:58:24Z",
+ "built_at": "2026-10-11T13:01:29Z",
+ "news_fetched_at": "2026-10-11T13:01:29Z",
+ "trends_fetched_at": "2026-10-11T13:01:29Z",
  "source": "X News (x.search_news) and US trends (x.get_trends_by_woeid 23424977). Story summaries are written by X/Grok from posts on X and may evolve.",
  "stories": [
   {
@@ -142,60 +142,60 @@
    "url": "https://x.com/search?q=Good%20Sunday"
   },
   {
-   "name": "Kyrie",
-   "url": "https://x.com/search?q=Kyrie"
+   "name": "Go Birds",
+   "url": "https://x.com/search?q=Go%20Birds"
+  },
+  {
+   "name": "#叠纸破坏中国文化出海",
+   "url": "https://x.com/search?q=%23%E5%8F%A0%E7%BA%B8%E7%A0%B4%E5%9D%8F%E4%B8%AD%E5%9B%BD%E6%96%87%E5%8C%96%E5%87%BA%E6%B5%B7"
+  },
+  {
+   "name": "#PapergamesRuinsCulturalExport",
+   "url": "https://x.com/search?q=%23PapergamesRuinsCulturalExport"
+  },
+  {
+   "name": "#PPGFailsAsAmbassador",
+   "url": "https://x.com/search?q=%23PPGFailsAsAmbassador"
+  },
+  {
+   "name": "PSD DEVILS LANDMARK 2026",
+   "url": "https://x.com/search?q=PSD%20DEVILS%20LANDMARK%202026"
   },
   {
    "name": "#papertrade",
    "url": "https://x.com/search?q=%23papertrade"
   },
   {
-   "name": "FELIX F1 SINGAPORE GRAND PRIX",
-   "url": "https://x.com/search?q=FELIX%20F1%20SINGAPORE%20GRAND%20PRIX"
+   "name": "Kyrie",
+   "url": "https://x.com/search?q=Kyrie"
   },
   {
    "name": "Bama",
    "url": "https://x.com/search?q=Bama"
   },
   {
+   "name": "FELIX F1 SINGAPORE GRAND PRIX",
+   "url": "https://x.com/search?q=FELIX%20F1%20SINGAPORE%20GRAND%20PRIX"
+  },
+  {
+   "name": "#SingaporeGP",
+   "url": "https://x.com/search?q=%23SingaporeGP"
+  },
+  {
+   "name": "Jane Foster",
+   "url": "https://x.com/search?q=Jane%20Foster"
+  },
+  {
    "name": "Blessed Sunday",
    "url": "https://x.com/search?q=Blessed%20Sunday"
   },
   {
-   "name": "#SundayVibes",
-   "url": "https://x.com/search?q=%23SundayVibes"
+   "name": "Shipley",
+   "url": "https://x.com/search?q=Shipley"
   },
   {
-   "name": "#FELIX_Formula1",
-   "url": "https://x.com/search?q=%23FELIX_Formula1"
-  },
-  {
-   "name": "Kentucky",
-   "url": "https://x.com/search?q=Kentucky"
-  },
-  {
-   "name": "Shane Gillis",
-   "url": "https://x.com/search?q=Shane%20Gillis"
-  },
-  {
-   "name": "#FELIXxFerrari",
-   "url": "https://x.com/search?q=%23FELIXxFerrari"
-  },
-  {
-   "name": "Kid Rock",
-   "url": "https://x.com/search?q=Kid%20Rock"
-  },
-  {
-   "name": "#Joong1stFMinKualaLumpur",
-   "url": "https://x.com/search?q=%23Joong1stFMinKualaLumpur"
-  },
-  {
-   "name": "JOONG LIGHTS UP KL",
-   "url": "https://x.com/search?q=JOONG%20LIGHTS%20UP%20KL"
-  },
-  {
-   "name": "Kiffin",
-   "url": "https://x.com/search?q=Kiffin"
+   "name": "Greenard",
+   "url": "https://x.com/search?q=Greenard"
   }
  ]
 }
