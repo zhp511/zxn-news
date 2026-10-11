@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-10-11T00:37:17Z",
+ "checked_at": "2026-10-11T03:41:17Z",
  "channels": [
   {
    "key": "foxweather",
@@ -31,8 +31,8 @@
    "handle": "CBSNews",
    "watch_url": "https://www.youtube.com/@CBSNews/live",
    "video_id": "yCmYjE_7iSs",
-   "ok": true,
-   "title": "LIVE: Breaking News and Top Stories on CBS News 24/7"
+   "ok": false,
+   "why": "not live right now"
   },
   {
    "key": "abc",
