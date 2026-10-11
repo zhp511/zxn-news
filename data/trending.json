@@ -1,7 +1,7 @@
 {
- "built_at": "2026-10-11T22:19:28Z",
- "news_fetched_at": "2026-10-11T22:19:28Z",
- "trends_fetched_at": "2026-10-11T22:19:28Z",
+ "built_at": "2026-10-11T23:22:07Z",
+ "news_fetched_at": "2026-10-11T23:22:07Z",
+ "trends_fetched_at": "2026-10-11T23:22:07Z",
  "source": "X News (x.search_news) and US trends (x.get_trends_by_woeid 23424977). Story summaries are written by X/Grok from posts on X and may evolve.",
  "stories": [
   {
@@ -135,12 +135,16 @@
  ],
  "trends": [
   {
-   "name": "Giants",
-   "url": "https://x.com/search?q=Giants"
+   "name": "Mike Evans",
+   "url": "https://x.com/search?q=Mike%20Evans"
   },
   {
-   "name": "Dan Quinn",
-   "url": "https://x.com/search?q=Dan%20Quinn"
+   "name": "Justin Herbert",
+   "url": "https://x.com/search?q=Justin%20Herbert"
+  },
+  {
+   "name": "Chargers",
+   "url": "https://x.com/search?q=Chargers"
   },
   {
    "name": "Seahawks",
@@ -151,48 +155,44 @@
    "url": "https://x.com/search?q=49ers"
   },
   {
-   "name": "Jayden Daniels",
-   "url": "https://x.com/search?q=Jayden%20Daniels"
+   "name": "Giants",
+   "url": "https://x.com/search?q=Giants"
   },
   {
-   "name": "NFC East",
-   "url": "https://x.com/search?q=NFC%20East"
+   "name": "Dan Quinn",
+   "url": "https://x.com/search?q=Dan%20Quinn"
   },
   {
-   "name": "Dre Greenlaw",
-   "url": "https://x.com/search?q=Dre%20Greenlaw"
+   "name": "Broncos",
+   "url": "https://x.com/search?q=Broncos"
+  },
+  {
+   "name": "Jobe",
+   "url": "https://x.com/search?q=Jobe"
   },
   {
    "name": "Niners",
    "url": "https://x.com/search?q=Niners"
   },
   {
-   "name": "Bears",
-   "url": "https://x.com/search?q=Bears"
+   "name": "Purdy",
+   "url": "https://x.com/search?q=Purdy"
+  },
+  {
+   "name": "Bo Nix",
+   "url": "https://x.com/search?q=Bo%20Nix"
+  },
+  {
+   "name": "#FTTB",
+   "url": "https://x.com/search?q=%23FTTB"
   },
   {
    "name": "Darnold",
    "url": "https://x.com/search?q=Darnold"
   },
   {
-   "name": "Packers",
-   "url": "https://x.com/search?q=Packers"
-  },
-  {
-   "name": "Ben Johnson",
-   "url": "https://x.com/search?q=Ben%20Johnson"
-  },
-  {
-   "name": "Mike Evans",
-   "url": "https://x.com/search?q=Mike%20Evans"
-  },
-  {
-   "name": "Gracen Halton",
-   "url": "https://x.com/search?q=Gracen%20Halton"
-  },
-  {
-   "name": "Holani",
-   "url": "https://x.com/search?q=Holani"
+   "name": "Jayden Daniels",
+   "url": "https://x.com/search?q=Jayden%20Daniels"
   }
  ]
 }
