@@ -1,9 +1,19 @@
 {
- "built_at": "2026-10-11T00:22:16Z",
- "news_fetched_at": "2026-10-11T00:22:16Z",
- "trends_fetched_at": "2026-10-11T00:22:16Z",
+ "built_at": "2026-10-11T01:24:01Z",
+ "news_fetched_at": "2026-10-11T01:23:30Z",
+ "trends_fetched_at": "2026-10-11T01:23:30Z",
  "source": "X News (x.search_news) and US trends (x.get_trends_by_woeid 23424977). Story summaries are written by X/Grok from posts on X and may evolve.",
  "stories": [
+  {
+   "id": "2109083124886044772",
+   "headline": "X Post Sparks Debate on Removing a President",
+   "hook": "A simple question hit hard: why can't the U.S. remove an 'obviously insane and incompetent' president? Posted by James on October 10, it drew thousands of replies unpacking the Constitution's tough rules.",
+   "summary": "The post questions barriers to ousting President Donald Trump, who began his second term on January 20, 2025, after winning in 2024. Replies explain impeachment needs a House majority and 67 Senate votes for conviction and removal. Some note Biden's 2024 defeat settled it, while others blame GOP support or call the system undemocratic—echoing a tabled impeachment push and 25th Amendment talks from earlier this year.",
+   "updated_at": "2026-10-11T00:50:40.000Z",
+   "url": "https://x.com/i/trending/2109083124886044772",
+   "topics": [],
+   "post_urls": []
+  },
   {
    "id": "2109074411709968860",
    "headline": "X Post Questions Removing Trump in Second Term",
@@ -12,11 +22,7 @@
    "updated_at": "2026-10-11T00:16:25.000Z",
    "url": "https://x.com/i/trending/2109074411709968860",
    "topics": [],
-   "post_urls": [
-    "https://x.com/i/status/2108769373532172325",
-    "https://x.com/i/status/2109028613303800208",
-    "https://x.com/i/status/2108999346658402412"
-   ]
+   "post_urls": []
   },
   {
    "id": "2108938902983819486",
@@ -25,14 +31,8 @@
    "summary": "Frustrated conservatives say they'll sit out the November 3 midterms, citing failures on issues like the Iran conflict, economy, and party leadership under figures like Senate Majority Leader John Thune. Republican leaders warn that abstaining means higher taxes, open borders, and less freedom, urging votes to block Democratic gains. While some plan to vote down the ballot and push changes through primaries, the divide highlights a Republican enthusiasm gap in competitive races where many candidates distance from Trump.",
    "updated_at": "2026-10-10T23:30:46.000Z",
    "url": "https://x.com/i/trending/2108938902983819486",
-   "topics": [
-    "Elections"
-   ],
-   "post_urls": [
-    "https://x.com/i/status/2108854941548761495",
-    "https://x.com/i/status/2108997138034360534",
-    "https://x.com/i/status/2109039731984282090"
-   ]
+   "topics": [],
+   "post_urls": []
   },
   {
    "id": "2108922099939069957",
@@ -41,31 +41,8 @@
    "summary": "Gindel's message accused Trump of pardoning 1,600 violent criminals, demolishing the White House East Wing for a ballroom, interfering with Epstein files, renaming the Kennedy Center after himself, accepting a $400 million plane from Qatar, threatening countries, and imposing tariffs that harmed allies. Some claims align with reported events, like clemency for about 1,500 January 6 participants, the 2025 East Wing demolition, and the Kennedy Center name addition by Trump allies. Replies split sharply, with critics stunned at ongoing Republican support and defenders praising his leadership or countering with Democratic grievances amid midterm tensions.",
    "updated_at": "2026-10-10T20:18:02.000Z",
    "url": "https://x.com/i/trending/2108922099939069957",
-   "topics": [
-    "News",
-    "Politics"
-   ],
-   "post_urls": [
-    "https://x.com/i/status/2108774794132902092",
-    "https://x.com/i/status/2108955752282919090",
-    "https://x.com/i/status/2108889627675517069"
-   ]
-  },
-  {
-   "id": "2109002089414152255",
-   "headline": "Debate Revives Over U.S. as Republic or Democracy",
-   "hook": "Entrepreneur Blake Scholl called democracy a 'mind virus' that favors popularity over leadership, sparking a wave of replies unpacking America's true government form.",
-   "summary": "Scholl argued the U.S. is appropriately a republic, not a democracy, and needs opinion-makers instead of mob followers. Critics pushed back, calling it elitist and sharing graphics showing the U.S. as both a constitutional republic and representative democracy, per official civics materials. The thread highlights how founders blended representation to manage a large nation while keeping power accountable through elections, reviving timeless questions about the Pledge's 'republic' reference and overlapping terms.",
-   "updated_at": "2026-10-10T19:30:18.000Z",
-   "url": "https://x.com/i/trending/2109002089414152255",
-   "topics": [
-    "Politics"
-   ],
-   "post_urls": [
-    "https://x.com/i/status/2108973509720625493",
-    "https://x.com/i/status/2108991714824269951",
-    "https://x.com/i/status/2108989175928381863"
-   ]
+   "topics": [],
+   "post_urls": []
   },
   {
    "id": "2108986865349280033",
@@ -74,15 +51,8 @@
    "summary": "Conservative voices express sharp frustration that the Republican-controlled Senate, led by John Thune, acts more like it's run by Democrats despite its 53-47 majority. Critics blame moderate Republicans like Lisa Murkowski and what they call RINOs for not pushing harder on priorities such as voter ID and spending restraint, amid Senate rules requiring 60 votes for many measures. The online debate intensifies as prediction markets give Democrats 60-62% odds of flipping the Senate and near 90% for the House in the November 2026 midterms, with Thune calling the chamber a potential firewall.",
    "updated_at": "2026-10-10T18:30:10.000Z",
    "url": "https://x.com/i/trending/2108986865349280033",
-   "topics": [
-    "News",
-    "Politics"
-   ],
-   "post_urls": [
-    "https://x.com/i/status/2108711733724688659",
-    "https://x.com/i/status/2108949532205777011",
-    "https://x.com/i/status/2108914448953962902"
-   ]
+   "topics": [],
+   "post_urls": []
   },
   {
    "id": "2108590719153942593",
@@ -91,14 +61,8 @@
    "summary": "Videos shared by Marco Foster show Trump supporters hesitating to list concrete gains under the current administration, often citing gas prices that have climbed to a record autumn average of $4.37 per gallon from $3.10 a year ago, per AAA data. High crude oil costs stem from tensions in the Strait of Hormuz, with President Trump holding off on major Iran strikes before the November 3 midterms. Republicans claim midterm wins will drop prices by pressuring Iran, while critics note the party's current control of the White House and Congress amid the conflict.",
    "updated_at": "2026-10-10T16:56:38.000Z",
    "url": "https://x.com/i/trending/2108590719153942593",
-   "topics": [
-    "Politics"
-   ],
-   "post_urls": [
-    "https://x.com/i/status/2108516795086983377",
-    "https://x.com/i/status/2108518871514673192",
-    "https://x.com/i/status/2108560270352077282"
-   ]
+   "topics": [],
+   "post_urls": []
   },
   {
    "id": "2108933912076677384",
@@ -107,15 +71,8 @@
    "summary": "Users express growing frustration that the GOP's Senate majority under Leader John Thune hasn't delivered expected wins, blaming internal holdouts, RINOs, and procedural blocks like the Senate Parliamentarian. Posts accuse Thune of weakness or worse, while a popular GIF of a woman yelling 'YOU BOTH SUCK!' captures disillusionment with both parties amid ongoing gridlock. President Trump remains upbeat about midterm gains to expand Republican control, though forecasts show Democrats gaining momentum in the House and Senate races.",
    "updated_at": "2026-10-10T14:59:01.000Z",
    "url": "https://x.com/i/trending/2108933912076677384",
-   "topics": [
-    "News",
-    "Politics"
-   ],
-   "post_urls": [
-    "https://x.com/i/status/2108711733724688659",
-    "https://x.com/i/status/2108886611408679031",
-    "https://x.com/i/status/2108926141902008789"
-   ]
+   "topics": [],
+   "post_urls": []
   },
   {
    "id": "2108791929857323177",
@@ -124,14 +81,8 @@
    "summary": "Social media users express outrage at the absence of arrests despite multiple U.S. congressional hearings. Posts highlight a perceived pattern of congressional inaction and lack of accountability for powerful figures.",
    "updated_at": "2026-10-10T05:32:51.000Z",
    "url": "https://x.com/i/trending/2108791929857323177",
-   "topics": [
-    "Politics"
-   ],
-   "post_urls": [
-    "https://x.com/i/status/2108699709959221446",
-    "https://x.com/i/status/2108729912635035951",
-    "https://x.com/i/status/2108641685425267184"
-   ]
+   "topics": [],
+   "post_urls": []
   }
  ],
  "trends": [
@@ -140,24 +91,36 @@
    "url": "https://x.com/search?q=%23MITB"
   },
   {
-   "name": "Arch Manning",
-   "url": "https://x.com/search?q=Arch%20Manning"
+   "name": "Arch",
+   "url": "https://x.com/search?q=Arch"
   },
   {
-   "name": "Sark",
-   "url": "https://x.com/search?q=Sark"
+   "name": "Penta",
+   "url": "https://x.com/search?q=Penta"
   },
   {
    "name": "Roxanne",
    "url": "https://x.com/search?q=Roxanne"
   },
   {
-   "name": "UCLA",
-   "url": "https://x.com/search?q=UCLA"
+   "name": "Sark",
+   "url": "https://x.com/search?q=Sark"
+  },
+  {
+   "name": "Bama",
+   "url": "https://x.com/search?q=Bama"
+  },
+  {
+   "name": "Gavin Williams",
+   "url": "https://x.com/search?q=Gavin%20Williams"
   },
   {
    "name": "Oklahoma",
    "url": "https://x.com/search?q=Oklahoma"
+  },
+  {
+   "name": "UCLA",
+   "url": "https://x.com/search?q=UCLA"
   },
   {
    "name": "Oregon",
@@ -176,24 +139,12 @@
    "url": "https://x.com/search?q=LA%20Knight"
   },
   {
-   "name": "Boomer Sooner",
-   "url": "https://x.com/search?q=Boomer%20Sooner"
+   "name": "Jose Ramirez",
+   "url": "https://x.com/search?q=Jose%20Ramirez"
   },
   {
-   "name": "Ukraine",
-   "url": "https://x.com/search?q=Ukraine"
-  },
-  {
-   "name": "Triple H",
-   "url": "https://x.com/search?q=Triple%20H"
-  },
-  {
-   "name": "Tiffy",
-   "url": "https://x.com/search?q=Tiffy"
-  },
-  {
-   "name": "Liv Morgan",
-   "url": "https://x.com/search?q=Liv%20Morgan"
+   "name": "Georgia",
+   "url": "https://x.com/search?q=Georgia"
   }
  ]
 }
