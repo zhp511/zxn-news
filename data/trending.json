@@ -1,7 +1,7 @@
 {
- "built_at": "2026-10-11T16:06:37Z",
- "news_fetched_at": "2026-10-11T16:06:37Z",
- "trends_fetched_at": "2026-10-11T16:06:37Z",
+ "built_at": "2026-10-11T17:11:14Z",
+ "news_fetched_at": "2026-10-11T17:11:14Z",
+ "trends_fetched_at": "2026-10-11T17:11:14Z",
  "source": "X News (x.search_news) and US trends (x.get_trends_by_woeid 23424977). Story summaries are written by X/Grok from posts on X and may evolve.",
  "stories": [
   {
@@ -69,6 +69,22 @@
    ]
   },
   {
+   "id": "2108989862233903133",
+   "headline": "Online Debate Erupts Over Removing Trump from Office",
+   "hook": "A blunt question about President Trump's fitness for office drew tens of thousands of likes and heated replies on October 10, 2026, splitting users along partisan lines.",
+   "summary": "User @Realcoinforge asked why the U.S. can't remove an 'obviously insane and incompetent' president, amid Trump's approval ratings stuck at 30-35 percent. Supporters pointed to his 2024 election win and past constitutional successes, while critics blamed Republican congressional majorities and gerrymandering for blocking accountability like impeachment or the 25th Amendment. The back-and-forth highlighted deep divisions over elections, party loyalty, and the nation's removal processes.",
+   "updated_at": "2026-10-11T02:04:21.000Z",
+   "url": "https://x.com/i/trending/2108989862233903133",
+   "topics": [
+    "Politics"
+   ],
+   "post_urls": [
+    "https://x.com/i/status/2108769373532172325",
+    "https://x.com/i/status/2108978267579695423",
+    "https://x.com/i/status/2108974101721186769"
+   ]
+  },
+  {
    "id": "2109095512729063700",
    "headline": "Online Backlash Against Trump Tests GOP Ahead of Midterms",
    "hook": "Users on X describe a wave of intense anger toward President Trump, with some warning it could doom the Republican Party for generations.",
@@ -117,22 +133,6 @@
     "https://x.com/i/status/2108955752282919090",
     "https://x.com/i/status/2108889627675517069"
    ]
-  },
-  {
-   "id": "2109002089414152255",
-   "headline": "Debate Revives Over U.S. as Republic or Democracy",
-   "hook": "Entrepreneur Blake Scholl called democracy a 'mind virus' that favors popularity over leadership, sparking a wave of replies unpacking America's true government form.",
-   "summary": "Scholl argued the U.S. is appropriately a republic, not a democracy, and needs opinion-makers instead of mob followers. Critics pushed back, calling it elitist and sharing graphics showing the U.S. as both a constitutional republic and representative democracy, per official civics materials. The thread highlights how founders blended representation to manage a large nation while keeping power accountable through elections, reviving timeless questions about the Pledge's 'republic' reference and overlapping terms.",
-   "updated_at": "2026-10-10T19:30:18.000Z",
-   "url": "https://x.com/i/trending/2109002089414152255",
-   "topics": [
-    "Politics"
-   ],
-   "post_urls": [
-    "https://x.com/i/status/2108973509720625493",
-    "https://x.com/i/status/2108991714824269951",
-    "https://x.com/i/status/2108989175928381863"
-   ]
   }
  ],
  "trends": [
@@ -141,60 +141,60 @@
    "url": "https://x.com/search?q=Jags"
   },
   {
-   "name": "Jalen Carter",
-   "url": "https://x.com/search?q=Jalen%20Carter"
-  },
-  {
-   "name": "Jaguars",
-   "url": "https://x.com/search?q=Jaguars"
-  },
-  {
-   "name": "Jason Kelce",
-   "url": "https://x.com/search?q=Jason%20Kelce"
-  },
-  {
-   "name": "#FlyEaglesFly",
-   "url": "https://x.com/search?q=%23FlyEaglesFly"
-  },
-  {
-   "name": "Shipley",
-   "url": "https://x.com/search?q=Shipley"
-  },
-  {
-   "name": "Darius Cooper",
-   "url": "https://x.com/search?q=Darius%20Cooper"
-  },
-  {
-   "name": "Travis Hunter",
-   "url": "https://x.com/search?q=Travis%20Hunter"
-  },
-  {
-   "name": "Tuten",
-   "url": "https://x.com/search?q=Tuten"
-  },
-  {
-   "name": "Liam Coen",
-   "url": "https://x.com/search?q=Liam%20Coen"
+   "name": "Eagles",
+   "url": "https://x.com/search?q=Eagles"
   },
   {
    "name": "Parker Washington",
    "url": "https://x.com/search?q=Parker%20Washington"
   },
   {
-   "name": "#PHIvsJAX",
-   "url": "https://x.com/search?q=%23PHIvsJAX"
+   "name": "Jaguars",
+   "url": "https://x.com/search?q=Jaguars"
   },
   {
-   "name": "Go Birds",
-   "url": "https://x.com/search?q=Go%20Birds"
-  },
-  {
-   "name": "Jacksonville",
-   "url": "https://x.com/search?q=Jacksonville"
+   "name": "Liam Coen",
+   "url": "https://x.com/search?q=Liam%20Coen"
   },
   {
    "name": "Trevor Lawrence",
    "url": "https://x.com/search?q=Trevor%20Lawrence"
+  },
+  {
+   "name": "Jalen Carter",
+   "url": "https://x.com/search?q=Jalen%20Carter"
+  },
+  {
+   "name": "Liverpool",
+   "url": "https://x.com/search?q=Liverpool"
+  },
+  {
+   "name": "Jason Kelce",
+   "url": "https://x.com/search?q=Jason%20Kelce"
+  },
+  {
+   "name": "London",
+   "url": "https://x.com/search?q=London"
+  },
+  {
+   "name": "Wicks",
+   "url": "https://x.com/search?q=Wicks"
+  },
+  {
+   "name": "Tuten",
+   "url": "https://x.com/search?q=Tuten"
+  },
+  {
+   "name": "Wirtz",
+   "url": "https://x.com/search?q=Wirtz"
+  },
+  {
+   "name": "#PHIvsJAX",
+   "url": "https://x.com/search?q=%23PHIvsJAX"
+  },
+  {
+   "name": "Gravenberch",
+   "url": "https://x.com/search?q=Gravenberch"
   }
  ]
 }
