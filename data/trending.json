@@ -1,9 +1,25 @@
 {
- "built_at": "2026-10-11T18:13:15Z",
- "news_fetched_at": "2026-10-11T18:13:15Z",
- "trends_fetched_at": "2026-10-11T18:13:15Z",
+ "built_at": "2026-10-11T19:13:54Z",
+ "news_fetched_at": "2026-10-11T19:13:54Z",
+ "trends_fetched_at": "2026-10-11T19:13:54Z",
  "source": "X News (x.search_news) and US trends (x.get_trends_by_woeid 23424977). Story summaries are written by X/Grok from posts on X and may evolve.",
  "stories": [
+  {
+   "id": "2109357778384941486",
+   "headline": "Meme Questions Why U.S. Can't Remove 'Insane' President, Sparks Cross-Atlantic Debate",
+   "hook": "A sharp meme shows Trump asking why America can't oust an 'obviously insane and incompetent' president. Europeans chime in with 'All of Europe wants to know,' while Americans fire back on constitutional hurdles.",
+   "summary": "The image revives debate on U.S. checks like impeachment, needing a House majority and two-thirds Senate vote, or the 25th Amendment for incapacity, which requires VP and Cabinet action but has never succeeded. Users blame party loyalty, financial incentives, and high bars set by the Constitution, with one noting removal is tough without the president's own party agreeing. Exchanges highlight partisan rifts and U.S.-Europe tensions as midterms near.",
+   "updated_at": "2026-10-11T19:03:40.000Z",
+   "url": "https://x.com/i/trending/2109357778384941486",
+   "topics": [
+    "Politics"
+   ],
+   "post_urls": [
+    "https://x.com/i/status/2109230550317982131",
+    "https://x.com/i/status/2108769373532172325",
+    "https://x.com/i/status/2109203948582126015"
+   ]
+  },
   {
    "id": "2108989862233903133",
    "headline": "X Post Questions Trump's Removal Amid Heated Debate",
@@ -34,22 +50,6 @@
     "https://x.com/i/status/2109039731984282090",
     "https://x.com/i/status/2108997138034360534",
     "https://x.com/i/status/2108993240145748104"
-   ]
-  },
-  {
-   "id": "2109162726547145178",
-   "headline": "Trump's Rally Remark Sparks Clash Over Political Double Standards",
-   "hook": "At a Tennessee rally, Donald Trump quipped he could say the stupidest things and still get applause from the crowd. That line ignited a heated online exchange about loyalty and scrutiny in politics.",
-   "summary": "Trump made the comment on October 10 in Clarksville while praising the energy in the room and highlighting policies like border security, low taxes, and a strong military. Hasan Piker called out what he saw as a double standard, saying Democrats face perfection demands while Republicans get a pass; Mehdi Hasan noted how people dish out criticism but struggle to take it. Critics pushed back, accusing both of hypocrisy and pointing to behaviors like locking replies, with memes and posts revealing frustrations over accountability that cut across ideological lines.",
-   "updated_at": "2026-10-11T06:05:59.000Z",
-   "url": "https://x.com/i/trending/2109162726547145178",
-   "topics": [
-    "Politics"
-   ],
-   "post_urls": [
-    "https://x.com/i/status/2109083554823164209",
-    "https://x.com/i/status/2109113608764563583",
-    "https://x.com/i/status/2109089770961842567"
    ]
   },
   {
@@ -145,56 +145,56 @@
    "url": "https://x.com/search?q=Jags"
   },
   {
-   "name": "Jaguars",
-   "url": "https://x.com/search?q=Jaguars"
-  },
-  {
    "name": "Bagent",
    "url": "https://x.com/search?q=Bagent"
   },
   {
-   "name": "Parker Washington",
-   "url": "https://x.com/search?q=Parker%20Washington"
+   "name": "Malik Willis",
+   "url": "https://x.com/search?q=Malik%20Willis"
   },
   {
-   "name": "Minkah Fitzpatrick",
-   "url": "https://x.com/search?q=Minkah%20Fitzpatrick"
+   "name": "Packers",
+   "url": "https://x.com/search?q=Packers"
   },
   {
-   "name": "Sirianni",
-   "url": "https://x.com/search?q=Sirianni"
-  },
-  {
-   "name": "Cam Little",
-   "url": "https://x.com/search?q=Cam%20Little"
-  },
-  {
-   "name": "Jalen",
-   "url": "https://x.com/search?q=Jalen"
-  },
-  {
-   "name": "Keenum",
-   "url": "https://x.com/search?q=Keenum"
-  },
-  {
-   "name": "London",
-   "url": "https://x.com/search?q=London"
-  },
-  {
-   "name": "Liverpool",
-   "url": "https://x.com/search?q=Liverpool"
-  },
-  {
-   "name": "Liam Coen",
-   "url": "https://x.com/search?q=Liam%20Coen"
+   "name": "Christian Watson",
+   "url": "https://x.com/search?q=Christian%20Watson"
   },
   {
    "name": "Jaylon Johnson",
    "url": "https://x.com/search?q=Jaylon%20Johnson"
   },
   {
-   "name": "Jacksonville",
-   "url": "https://x.com/search?q=Jacksonville"
+   "name": "Jaguars",
+   "url": "https://x.com/search?q=Jaguars"
+  },
+  {
+   "name": "Jaylen Warren",
+   "url": "https://x.com/search?q=Jaylen%20Warren"
+  },
+  {
+   "name": "Keenum",
+   "url": "https://x.com/search?q=Keenum"
+  },
+  {
+   "name": "Jameis",
+   "url": "https://x.com/search?q=Jameis"
+  },
+  {
+   "name": "Sirianni",
+   "url": "https://x.com/search?q=Sirianni"
+  },
+  {
+   "name": "Justin Jefferson",
+   "url": "https://x.com/search?q=Justin%20Jefferson"
+  },
+  {
+   "name": "HIPAA",
+   "url": "https://x.com/search?q=HIPAA"
+  },
+  {
+   "name": "#GoPackGo",
+   "url": "https://x.com/search?q=%23GoPackGo"
   }
  ]
 }
