@@ -1,9 +1,19 @@
 {
- "built_at": "2026-10-11T02:24:35Z",
- "news_fetched_at": "2026-10-11T02:24:35Z",
- "trends_fetched_at": "2026-10-11T02:24:35Z",
+ "built_at": "2026-10-11T03:30:23Z",
+ "news_fetched_at": "2026-10-11T03:30:23Z",
+ "trends_fetched_at": "2026-10-11T03:30:23Z",
  "source": "X News (x.search_news) and US trends (x.get_trends_by_woeid 23424977). Story summaries are written by X/Grok from posts on X and may evolve.",
  "stories": [
+  {
+   "id": "2108989862233903133",
+   "headline": "Online Debate Erupts Over Removing Trump from Office",
+   "hook": "A blunt question about President Trump's fitness for office drew tens of thousands of likes and heated replies on October 10, 2026, splitting users along partisan lines.",
+   "summary": "User @Realcoinforge asked why the U.S. can't remove an 'obviously insane and incompetent' president, amid Trump's approval ratings stuck at 30-35 percent. Supporters pointed to his 2024 election win and past constitutional successes, while critics blamed Republican congressional majorities and gerrymandering for blocking accountability like impeachment or the 25th Amendment. The back-and-forth highlighted deep divisions over elections, party loyalty, and the nation's removal processes.",
+   "updated_at": "2026-10-11T02:04:21.000Z",
+   "url": "https://x.com/i/trending/2108989862233903133",
+   "topics": [],
+   "post_urls": []
+  },
   {
    "id": "2109095512729063700",
    "headline": "Online Backlash Against Trump Tests GOP Ahead of Midterms",
@@ -73,30 +83,48 @@
    "url": "https://x.com/i/trending/2108933912076677384",
    "topics": [],
    "post_urls": []
-  },
-  {
-   "id": "2108791929857323177",
-   "headline": "Public frustration over lack of arrests following U.S. congressional hearings",
-   "hook": null,
-   "summary": "Social media users express outrage at the absence of arrests despite multiple U.S. congressional hearings. Posts highlight a perceived pattern of congressional inaction and lack of accountability for powerful figures.",
-   "updated_at": "2026-10-10T05:32:51.000Z",
-   "url": "https://x.com/i/trending/2108791929857323177",
-   "topics": [],
-   "post_urls": []
   }
  ],
  "trends": [
-  {
-   "name": "#MITB",
-   "url": "https://x.com/search?q=%23MITB"
-  },
   {
    "name": "Bama",
    "url": "https://x.com/search?q=Bama"
   },
   {
+   "name": "Kentucky",
+   "url": "https://x.com/search?q=Kentucky"
+  },
+  {
+   "name": "Stein",
+   "url": "https://x.com/search?q=Stein"
+  },
+  {
+   "name": "Georgia",
+   "url": "https://x.com/search?q=Georgia"
+  },
+  {
+   "name": "Dijon Lee",
+   "url": "https://x.com/search?q=Dijon%20Lee"
+  },
+  {
+   "name": "#MITB",
+   "url": "https://x.com/search?q=%23MITB"
+  },
+  {
+   "name": "Lane Kiffin",
+   "url": "https://x.com/search?q=Lane%20Kiffin"
+  },
+  {
+   "name": "Dawgs",
+   "url": "https://x.com/search?q=Dawgs"
+  },
+  {
    "name": "Penta",
    "url": "https://x.com/search?q=Penta"
+  },
+  {
+   "name": "#GuardsBall",
+   "url": "https://x.com/search?q=%23GuardsBall"
   },
   {
    "name": "Arch",
@@ -107,44 +135,16 @@
    "url": "https://x.com/search?q=Gavin%20Williams"
   },
   {
-   "name": "Sark",
-   "url": "https://x.com/search?q=Sark"
-  },
-  {
-   "name": "Roxanne",
-   "url": "https://x.com/search?q=Roxanne"
-  },
-  {
-   "name": "Georgia",
-   "url": "https://x.com/search?q=Georgia"
-  },
-  {
-   "name": "Kentucky",
-   "url": "https://x.com/search?q=Kentucky"
-  },
-  {
    "name": "Sam Leavitt",
    "url": "https://x.com/search?q=Sam%20Leavitt"
   },
   {
-   "name": "Dijon Lee",
-   "url": "https://x.com/search?q=Dijon%20Lee"
+   "name": "Gunner Stockton",
+   "url": "https://x.com/search?q=Gunner%20Stockton"
   },
   {
-   "name": "Oklahoma",
-   "url": "https://x.com/search?q=Oklahoma"
-  },
-  {
-   "name": "Tiffany",
-   "url": "https://x.com/search?q=Tiffany"
-  },
-  {
-   "name": "Oregon",
-   "url": "https://x.com/search?q=Oregon"
-  },
-  {
-   "name": "#UFCVegas122",
-   "url": "https://x.com/search?q=%23UFCVegas122"
+   "name": "Sark",
+   "url": "https://x.com/search?q=Sark"
   }
  ]
 }
