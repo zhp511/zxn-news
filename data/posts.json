@@ -1,6 +1,6 @@
 {
  "generated_from": "data/raw_pages.json + data/raw_archive.json",
- "fetched_at": "2026-10-11T13:35:07Z",
+ "fetched_at": "2026-10-11T14:54:30Z",
  "pinned_top": "2108635147318784214",
  "user": {
   "id": "2011476148178599939",
@@ -23,6 +23,29 @@
   "banner_local": "images/banner.jpg"
  },
  "posts": [
+  {
+   "id": "2109295252876271688",
+   "url": "https://x.com/zxnbluehandus/status/2109295252876271688",
+   "created_at": "2026-10-11T14:49:11.000Z",
+   "headline": "@CHELLESHOCKEDTM Cute",
+   "headline_source": "post",
+   "text": "@CHELLESHOCKEDTM Cute",
+   "original_text": "@CHELLESHOCKEDTM Cute",
+   "metrics": {
+    "bookmark_count": 0,
+    "impression_count": 1,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "images": [],
+   "image_source": null,
+   "link": null,
+   "has_video": false,
+   "hidden": true,
+   "hidden_reason": "reply-style / too short"
+  },
   {
    "id": "2109268608824304124",
    "url": "https://x.com/zxnbluehandus/status/2109268608824304124",
