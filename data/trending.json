@@ -1,7 +1,7 @@
 {
- "built_at": "2026-10-11T09:49:08Z",
- "news_fetched_at": "2026-10-11T09:49:08Z",
- "trends_fetched_at": "2026-10-11T09:49:08Z",
+ "built_at": "2026-10-11T10:54:58Z",
+ "news_fetched_at": "2026-10-11T10:54:58Z",
+ "trends_fetched_at": "2026-10-11T10:54:58Z",
  "source": "X News (x.search_news) and US trends (x.get_trends_by_woeid 23424977). Story summaries are written by X/Grok from posts on X and may evolve.",
  "stories": [
   {
@@ -138,20 +138,32 @@
  ],
  "trends": [
   {
-   "name": "Bama",
-   "url": "https://x.com/search?q=Bama"
+   "name": "Good Sunday",
+   "url": "https://x.com/search?q=Good%20Sunday"
   },
   {
-   "name": "Kentucky",
-   "url": "https://x.com/search?q=Kentucky"
+   "name": "Bama",
+   "url": "https://x.com/search?q=Bama"
   },
   {
    "name": "Georgia",
    "url": "https://x.com/search?q=Georgia"
   },
   {
-   "name": "Good Sunday",
-   "url": "https://x.com/search?q=Good%20Sunday"
+   "name": "#papertrade",
+   "url": "https://x.com/search?q=%23papertrade"
+  },
+  {
+   "name": "Kentucky",
+   "url": "https://x.com/search?q=Kentucky"
+  },
+  {
+   "name": "JOONG LIGHTS UP KL",
+   "url": "https://x.com/search?q=JOONG%20LIGHTS%20UP%20KL"
+  },
+  {
+   "name": "#Joong1stFMinKualaLumpur",
+   "url": "https://x.com/search?q=%23Joong1stFMinKualaLumpur"
   },
   {
    "name": "Stein",
@@ -162,40 +174,28 @@
    "url": "https://x.com/search?q=Shane%20Gillis"
   },
   {
-   "name": "Lane Kiffin",
-   "url": "https://x.com/search?q=Lane%20Kiffin"
+   "name": "Kyrie Irving",
+   "url": "https://x.com/search?q=Kyrie%20Irving"
   },
   {
-   "name": "Dijon Lee",
-   "url": "https://x.com/search?q=Dijon%20Lee"
+   "name": "Kid Rock",
+   "url": "https://x.com/search?q=Kid%20Rock"
+  },
+  {
+   "name": "Kiffin",
+   "url": "https://x.com/search?q=Kiffin"
   },
   {
    "name": "Tyler Simmons",
    "url": "https://x.com/search?q=Tyler%20Simmons"
   },
   {
-   "name": "Penta",
-   "url": "https://x.com/search?q=Penta"
+   "name": "Dijon Lee",
+   "url": "https://x.com/search?q=Dijon%20Lee"
   },
   {
    "name": "Dawgs",
    "url": "https://x.com/search?q=Dawgs"
-  },
-  {
-   "name": "#Toonami",
-   "url": "https://x.com/search?q=%23Toonami"
-  },
-  {
-   "name": "Slinky",
-   "url": "https://x.com/search?q=Slinky"
-  },
-  {
-   "name": "Saban",
-   "url": "https://x.com/search?q=Saban"
-  },
-  {
-   "name": "Cardae Mack",
-   "url": "https://x.com/search?q=Cardae%20Mack"
   }
  ]
 }
