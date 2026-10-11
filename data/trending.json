@@ -1,9 +1,39 @@
 {
- "built_at": "2026-10-11T20:16:13Z",
- "news_fetched_at": "2026-10-11T20:16:13Z",
- "trends_fetched_at": "2026-10-11T20:16:13Z",
+ "built_at": "2026-10-11T21:16:49Z",
+ "news_fetched_at": "2026-10-11T21:16:49Z",
+ "trends_fetched_at": "2026-10-11T21:16:49Z",
  "source": "X News (x.search_news) and US trends (x.get_trends_by_woeid 23424977). Story summaries are written by X/Grok from posts on X and may evolve.",
  "stories": [
+  {
+   "id": "2109391612984070535",
+   "headline": "Senator Elissa Slotkin warns Democrats not to misinterpret midterm results as public approval and to offer a positive agenda",
+   "hook": null,
+   "summary": "Senator Elissa Slotkin (D-MI), quoted by the Washington Post, warned that Democrats should not view midterm victories as renewed public love for the party, describing midterms as protest votes against the party in power. She emphasized the need for Democrats to provide a positive, affirmative agenda to the public.",
+   "updated_at": "2026-10-11T21:16:32.000Z",
+   "url": "https://x.com/i/trending/2109391612984070535",
+   "topics": [],
+   "post_urls": [
+    "https://x.com/i/status/2109316524380995805",
+    "https://x.com/i/status/2109330751858831669",
+    "https://x.com/i/status/2109361763649003850"
+   ]
+  },
+  {
+   "id": "2108989862233903133",
+   "headline": "Social Media Debates Removing Trump from Office",
+   "hook": "A bold post questions why the U.S. can't remove President Trump, capturing frustrations amid his second term and tensions with Iran.",
+   "summary": "On October 10, user @Realcoinforge posted an image of Trump asking why America can't remove an 'insane and incompetent' president, drawing tens of thousands of likes and heated replies. Supporters pointed to his 2024 election win and the Constitution's high bars for impeachment or the 25th Amendment, while critics blamed gerrymandering, court stacking, and congressional enablers. The exchange highlights partisan divides as midterms near in November.",
+   "updated_at": "2026-10-11T20:33:25.000Z",
+   "url": "https://x.com/i/trending/2108989862233903133",
+   "topics": [
+    "Politics"
+   ],
+   "post_urls": [
+    "https://x.com/i/status/2108769373532172325",
+    "https://x.com/i/status/2109230550317982131",
+    "https://x.com/i/status/2108976048138555429"
+   ]
+  },
   {
    "id": "2109369074845409606",
    "headline": "Poll Shows Young Men Shifting Back to Democrats for 2026 Midterms",
@@ -12,6 +42,7 @@
    "updated_at": "2026-10-11T19:48:21.000Z",
    "url": "https://x.com/i/trending/2109369074845409606",
    "topics": [
+    "News",
     "Elections"
    ],
    "post_urls": [
@@ -34,22 +65,6 @@
     "https://x.com/i/status/2109230550317982131",
     "https://x.com/i/status/2108769373532172325",
     "https://x.com/i/status/2109203948582126015"
-   ]
-  },
-  {
-   "id": "2108989862233903133",
-   "headline": "X Post Questions Trump's Removal Amid Heated Debate",
-   "hook": "A blunt question about removing President Trump hit X on October 10, pulling in tens of thousands of likes and splitting replies along partisan lines.",
-   "summary": "User James posted, 'WHY IS THE USA INCAPABLE OF REMOVING AN OBVIOUSLY INSANE AND INCOMPETENT PRESIDENT?' with a Trump image, sparking quotes from supporters who cited the 2024 election and the Constitution, like Anna Khait's reminder to read it. Critics blamed gerrymandering, court stacking, and Republican majorities. The exchange underscores high barriers like impeachment's two-thirds Senate vote or the untested 25th Amendment's requirements for vice presidential and congressional action.",
-   "updated_at": "2026-10-11T17:21:25.000Z",
-   "url": "https://x.com/i/trending/2108989862233903133",
-   "topics": [
-    "Politics"
-   ],
-   "post_urls": [
-    "https://x.com/i/status/2109230550317982131",
-    "https://x.com/i/status/2108976048138555429",
-    "https://x.com/i/status/2109041281183961514"
    ]
   },
   {
@@ -115,33 +130,24 @@
     "https://x.com/i/status/2109040245832368156",
     "https://x.com/i/status/2109040617049215420"
    ]
-  },
-  {
-   "id": "2109095512729063700",
-   "headline": "Online Backlash Against Trump Tests GOP Ahead of Midterms",
-   "hook": "Users on X describe a wave of intense anger toward President Trump, with some warning it could doom the Republican Party for generations.",
-   "summary": "Amid Trump's approval rating stuck around 37 percent or lower, critics blame him alone for the GOP's struggles, predicting lasting damage after the November midterms. Some highlight persistent support from his base, noting 37 percent approval shows voters' expectations may be too high. Others push back, arguing MAGA remains resilient and X's right-leaning users amplify certain views, as discussions turn to the party's post-Trump future and figures like JD Vance.",
-   "updated_at": "2026-10-11T01:40:06.000Z",
-   "url": "https://x.com/i/trending/2109095512729063700",
-   "topics": [
-    "News",
-    "Politics"
-   ],
-   "post_urls": [
-    "https://x.com/i/status/2108992439889310088",
-    "https://x.com/i/status/2109039325979832526",
-    "https://x.com/i/status/2109029339731988737"
-   ]
   }
  ],
  "trends": [
   {
-   "name": "Bagent",
-   "url": "https://x.com/search?q=Bagent"
+   "name": "Giants",
+   "url": "https://x.com/search?q=Giants"
   },
   {
-   "name": "Ben Johnson",
-   "url": "https://x.com/search?q=Ben%20Johnson"
+   "name": "Dan Quinn",
+   "url": "https://x.com/search?q=Dan%20Quinn"
+  },
+  {
+   "name": "Jayden Daniels",
+   "url": "https://x.com/search?q=Jayden%20Daniels"
+  },
+  {
+   "name": "NFC East",
+   "url": "https://x.com/search?q=NFC%20East"
   },
   {
    "name": "Packers",
@@ -152,48 +158,40 @@
    "url": "https://x.com/search?q=Bears"
   },
   {
-   "name": "Drake Maye",
-   "url": "https://x.com/search?q=Drake%20Maye"
+   "name": "Ben Johnson",
+   "url": "https://x.com/search?q=Ben%20Johnson"
   },
   {
-   "name": "Eagles",
-   "url": "https://x.com/search?q=Eagles"
-  },
-  {
-   "name": "#GoPackGo",
-   "url": "https://x.com/search?q=%23GoPackGo"
+   "name": "Bagent",
+   "url": "https://x.com/search?q=Bagent"
   },
   {
    "name": "Jets",
    "url": "https://x.com/search?q=Jets"
   },
   {
-   "name": "Keenum",
-   "url": "https://x.com/search?q=Keenum"
+   "name": "Jameis",
+   "url": "https://x.com/search?q=Jameis"
+  },
+  {
+   "name": "Drake Maye",
+   "url": "https://x.com/search?q=Drake%20Maye"
+  },
+  {
+   "name": "#GoPackGo",
+   "url": "https://x.com/search?q=%23GoPackGo"
   },
   {
    "name": "Raiders",
    "url": "https://x.com/search?q=Raiders"
   },
   {
-   "name": "Malik Willis",
-   "url": "https://x.com/search?q=Malik%20Willis"
+   "name": "#RaiseHail",
+   "url": "https://x.com/search?q=%23RaiseHail"
   },
   {
-   "name": "Jaylon Johnson",
-   "url": "https://x.com/search?q=Jaylon%20Johnson"
-  },
-  {
-   "name": "Watson",
-   "url": "https://x.com/search?q=Watson"
-  },
-  {
-   "name": "Jameis",
-   "url": "https://x.com/search?q=Jameis"
-  },
-  {
-   "name": "David Bailey",
-   "url": "https://x.com/search?q=David%20Bailey"
+   "name": "Eagles",
+   "url": "https://x.com/search?q=Eagles"
   }
  ]
 }
