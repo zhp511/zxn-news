@@ -1,6 +1,6 @@
 {
  "live": false,
- "checked_at": "2026-10-11T09:44:07.872527Z",
+ "checked_at": "2026-10-11T09:49:11.673546Z",
  "detection": "A post linking to an X broadcast counts as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "recent": {
   "post_id": "2109022471496290569",

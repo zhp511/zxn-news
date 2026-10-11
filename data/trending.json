@@ -1,9 +1,25 @@
 {
- "built_at": "2026-10-11T08:47:43Z",
- "news_fetched_at": "2026-10-11T08:47:43Z",
- "trends_fetched_at": "2026-10-11T08:47:43Z",
+ "built_at": "2026-10-11T09:49:08Z",
+ "news_fetched_at": "2026-10-11T09:49:08Z",
+ "trends_fetched_at": "2026-10-11T09:49:08Z",
  "source": "X News (x.search_news) and US trends (x.get_trends_by_woeid 23424977). Story summaries are written by X/Grok from posts on X and may evolve.",
  "stories": [
+  {
+   "id": "2109205510222209230",
+   "headline": "Sen. Mike Lee Links Democrats to Socialism Ahead of Midterms",
+   "hook": "Sen. Mike Lee posted a stark choice for voters: Democrats mean socialism, Republicans mean freedom and prosperity. Replies poured in fast, challenging him to define the term.",
+   "summary": "The Utah Republican shared a video message urging votes for Republicans to avoid socialism, part of a broader push framing the November midterms as a battle over government overreach. Critics like Damin Toell and Robert Elisberg pressed Lee for a definition, pointing to programs such as Social Security, Medicare, and Republican-backed equity stakes in companies like Intel as counterexamples. Britannica describes socialism as state or collective control of major production means, fueling debate on both sides' views of government intervention with Congress control on the line.",
+   "updated_at": "2026-10-11T08:55:26.000Z",
+   "url": "https://x.com/i/trending/2109205510222209230",
+   "topics": [
+    "Politics"
+   ],
+   "post_urls": [
+    "https://x.com/i/status/2109039731984282090",
+    "https://x.com/i/status/2109135340711641350",
+    "https://x.com/i/status/2109134396838269194"
+   ]
+  },
   {
    "id": "2109159345363517496",
    "headline": "Meme Mocks Trump Supporters' Prison Threats with Sarcastic Goodbyes",
@@ -18,22 +34,6 @@
     "https://x.com/i/status/2109053582796361871",
     "https://x.com/i/status/2109090887716200753",
     "https://x.com/i/status/2109089909265097194"
-   ]
-  },
-  {
-   "id": "2109097642525405313",
-   "headline": "Trump's Rally Clip Draws Online Scrutiny Over GOP Remark",
-   "hook": "At a rainy rally in Tennessee, Trump warned of depression under Republicans, a line that quickly fueled online buzz amid his pro-GOP pitch.",
-   "summary": "During a campaign event in Clarksville to boost Republican midterm candidates, President Trump said, 'If Republicans get in power, you're going to end up in a depression. These people are incompetent.' The clip spread widely, with critics like the Lincoln Project and Tea Pain framing it as a slip revealing party flaws, while others noted he wasn't wrong on governance issues. In full context, Trump contrasted that with promises of prosperity under GOP control, like $5,000 annual payments from tariffs, against fears of a 1929-style crash if Democrats won.",
-   "updated_at": "2026-10-11T04:24:49.000Z",
-   "url": "https://x.com/i/trending/2109097642525405313",
-   "topics": [
-    "Politics"
-   ],
-   "post_urls": [
-    "https://x.com/i/status/2109028464997130681",
-    "https://x.com/i/status/2109040245832368156",
-    "https://x.com/i/status/2109040617049215420"
    ]
   },
   {
@@ -150,16 +150,20 @@
    "url": "https://x.com/search?q=Georgia"
   },
   {
+   "name": "Good Sunday",
+   "url": "https://x.com/search?q=Good%20Sunday"
+  },
+  {
    "name": "Stein",
    "url": "https://x.com/search?q=Stein"
   },
   {
-   "name": "Lane Kiffin",
-   "url": "https://x.com/search?q=Lane%20Kiffin"
-  },
-  {
    "name": "Shane Gillis",
    "url": "https://x.com/search?q=Shane%20Gillis"
+  },
+  {
+   "name": "Lane Kiffin",
+   "url": "https://x.com/search?q=Lane%20Kiffin"
   },
   {
    "name": "Dijon Lee",
@@ -170,32 +174,28 @@
    "url": "https://x.com/search?q=Tyler%20Simmons"
   },
   {
-   "name": "Dawgs",
-   "url": "https://x.com/search?q=Dawgs"
-  },
-  {
    "name": "Penta",
    "url": "https://x.com/search?q=Penta"
   },
   {
-   "name": "Saban",
-   "url": "https://x.com/search?q=Saban"
+   "name": "Dawgs",
+   "url": "https://x.com/search?q=Dawgs"
   },
   {
    "name": "#Toonami",
    "url": "https://x.com/search?q=%23Toonami"
   },
   {
-   "name": "Boise State",
-   "url": "https://x.com/search?q=Boise%20State"
+   "name": "Slinky",
+   "url": "https://x.com/search?q=Slinky"
+  },
+  {
+   "name": "Saban",
+   "url": "https://x.com/search?q=Saban"
   },
   {
    "name": "Cardae Mack",
    "url": "https://x.com/search?q=Cardae%20Mack"
-  },
-  {
-   "name": "Blake Baker",
-   "url": "https://x.com/search?q=Blake%20Baker"
   }
  ]
 }
