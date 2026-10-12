@@ -9,11 +9,12 @@
   ];
   const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
   const load = () => { try { return JSON.parse(localStorage.getItem(KEY)) || {}; } catch (e) { return {}; } };
-  const st = Object.assign({ open: false, big: false, closed: false, ch: null, x: null, y: null }, load());
+  const st = Object.assign({ open: false, big: false, closed: false, ch: null, x: null, y: null, ownSeen: null }, load());
   const save = () => { try { localStorage.setItem(KEY, JSON.stringify(st)); } catch (e) {} };
   const mobile = () => matchMedia("(max-width: 700px)").matches;
 
-  let channels = [], player = null, apiPromise = null, apiTimer = null;
+  let channels = [], player = null, apiPromise = null, apiTimer = null, tvList = null, xToken = 0;
+  const alive = (b) => !b.assumed_live_until || new Date(b.assumed_live_until) > new Date();
   const root = document.createElement("div");
   root.id = "zxn-tv";
   root.className = "ztv";
@@ -59,6 +60,39 @@
       <a class="ztv-cta" href="${esc(c.watch_url)}" target="_blank" rel="noopener">Watch on YouTube ↗</a></div>`;
   }
 
+  function widgets() {
+    if (window.twttr && window.twttr.widgets) return Promise.resolve(window.twttr);
+    if (widgets.p) return widgets.p;
+    widgets.p = new Promise((res, rej) => {
+      const s = document.createElement("script");
+      s.src = "https://platform.twitter.com/widgets.js"; s.async = true; s.charset = "utf-8";
+      s.onload = () => (window.twttr && window.twttr.ready ? window.twttr.ready(res) : rej(new Error("no twttr")));
+      s.onerror = () => { widgets.p = null; rej(new Error("widgets.js blocked")); };
+      document.head.appendChild(s);
+    });
+    return widgets.p;
+  }
+
+  // X broadcasts can't be iframed directly: show X's official post embed + a "Watch live on X" button.
+  function showX(c) {
+    const tok = ++xToken;
+    over.hidden = false;
+    over.className = "ztv-over ztv-x";
+    over.innerHTML = `<div class="ztv-xwrap">
+      <div class="ztv-xhead"><span class="ztv-xlive">● LIVE</span><b>${esc(c.name)}</b> <span>@${esc(c.username)}</span></div>
+      <a class="ztv-cta" href="${esc(c.watch_url)}" target="_blank" rel="noopener">▶ Watch live on 𝕏</a>
+      <div class="ztv-xembed"><p class="ztv-xload">Loading the post from 𝕏…</p></div></div>`;
+    const box = over.querySelector(".ztv-xembed");
+    const fb = () => {
+      if (tok !== xToken || box.querySelector("iframe")) return;
+      box.innerHTML = `<p class="ztv-xtext">${esc(c.text)}</p><a class="ztv-xopen" href="${esc(c.post_url)}" target="_blank" rel="noopener">Open the post on 𝕏 →</a>`;
+    };
+    widgets().then((tw) => tw.widgets.createTweet(String(c.post_id), box, { theme: "dark", dnt: true, conversation: "none", align: "center", width: 550 }))
+      .then((n) => { if (tok !== xToken) return; if (n) { const l = box.querySelector(".ztv-xload"); if (l) l.remove(); } else fb(); })
+      .catch(fb);
+    setTimeout(fb, 10000);
+  }
+
   function stop() {
     clearTimeout(apiTimer);
     if (player && player.destroy) { try { player.destroy(); } catch (e) {} }
@@ -75,8 +109,13 @@
     root.querySelectorAll(".ztv-chans button").forEach((b) => b.setAttribute("aria-selected", String(b.dataset.k === c.key)));
     const yt = $(".ztv-yt");
     yt.hidden = c.type !== "youtube";
-    $(".ztv-live").hidden = c.type !== "youtube";
+    $(".ztv-live").hidden = c.type === "link";
     if (c.type === "youtube") yt.href = c.watch_url;
+    root.classList.toggle("xmode", c.type === "xpost");
+    $(".ztv-foot span").textContent = c.type === "xpost" ? "Live on 𝕏 · post shown as published" : c.type === "link" ? "Opens DIRECTV in a new tab" : "Free official streams · starts muted";
+    if (c.type === "xpost") { stop(); showX(c); return; }
+    xToken++;
+    if (over.classList.contains("ztv-x")) { over.className = "ztv-over"; over.innerHTML = ""; over.hidden = true; }
     if (c.type === "link") { // DIRECTV: branded text tile, never embedded
       stop();
       over.hidden = false;
@@ -149,18 +188,59 @@
   });
   addEventListener("resize", place);
 
-  function buildChannels(list) {
-    channels = list.filter((c) => c.type === "link" || (c.ok !== false && c.video_id));
-    $(".ztv-chans").innerHTML = channels.map((c) =>
-      `<button type="button" role="tab" data-k="${esc(c.key)}" class="${c.type === "link" ? "dtv" : ""}">${esc(c.name)}</button>`).join("");
+  function buildChannels(list, own, xl) {
+    const xs = [];
+    if (own && own.live && own.post_id && alive(own)) xs.push({ key: "x-own", type: "xpost", own: true, name: "ZXN", username: "zxnbluehandus",
+      post_id: own.post_id, post_url: own.post_url, watch_url: own.broadcast_url || own.post_url, text: own.post_text || own.title || "" });
+    for (const b of (xl && xl.broadcasts) || []) if (alive(b)) xs.push({ key: "x-" + b.post_id, type: "xpost", name: b.name, username: b.username,
+      post_id: b.post_id, post_url: b.post_url, watch_url: b.post_url, text: b.text });
+    const tv = list.filter((c) => c.type === "link" || (c.ok !== false && c.video_id));
+    channels = xs.concat(tv);
+    const chip = (c) => `<button type="button" role="tab" data-k="${esc(c.key)}" class="${c.type === "link" ? "dtv" : c.type === "xpost" ? "xp" + (c.own ? " own" : "") : ""}"
+      title="${esc(c.type === "xpost" ? c.name + " @" + c.username + " — " + c.text : c.name)}">${c.own ? '<span class="ztv-badge">LIVE</span>' : c.type === "xpost" ? "𝕏 " : ""}${esc(c.type === "xpost" && !c.own ? c.name : c.own ? "ZXN @zxnbluehandus" : c.name)}</button>`;
+    $(".ztv-chans").innerHTML = (xs.length ? `<span class="ztv-grp">𝕏 Live</span>${xs.map(chip).join("")}<span class="ztv-grp">TV</span>` : "") + tv.map(chip).join("");
     root.querySelectorAll(".ztv-chans button").forEach((b) => (b.onclick = () => { st.ch = b.dataset.k; save(); tune(); }));
+    const ownLive = xs.length && xs[0].own;
+    root.classList.toggle("own-live", !!ownLive);
+    pill.innerHTML = ownLive ? '<span class="ztv-dot" aria-hidden="true"></span>🔴 ZXN is LIVE · Watch' : '<span class="ztv-dot" aria-hidden="true"></span>▶ ZXN TV';
+    if (ownLive && st.ownSeen !== own.post_id) { st.ownSeen = own.post_id; st.ch = "x-own"; save(); }
+    const sel = root.querySelector(`.ztv-chans button[data-k="${CSS.escape((cur() || {}).key || "")}"]`);
+    if (sel) sel.setAttribute("aria-selected", "true");
+    strip(xs, ownLive);
+  }
+
+  // When ZXN isn't live, show a slim "Live on X now" strip in the LIVE NOW area (opens the player).
+  function strip(xs, ownLive) {
+    let el = document.getElementById("xlive-strip");
+    const anchor = document.getElementById("live-now");
+    const items = xs.filter((c) => !c.own).slice(0, 6);
+    if (!anchor) return;
+    if (!el) {
+      el = document.createElement("div"); el.id = "xlive-strip"; el.className = "xlive-strip";
+      anchor.insertAdjacentElement("afterend", el);
+    }
+    el.hidden = ownLive || !items.length || !anchor.hidden;
+    el.innerHTML = `<span class="xls-label"><span class="ztv-dot" aria-hidden="true"></span>Live on 𝕏 now</span>
+      <div class="xls-list">${items.map((c) => `<button type="button" data-k="${esc(c.key)}" title="${esc(c.text)}"><b>${esc(c.name)}</b><span>${esc(c.text.replace(/https?:\/\/\S+/g, "").replace(/\s+/g, " ").trim().slice(0, 70))}</span></button>`).join("")}</div>
+      <a class="xls-tv" href="#zxn-tv">Open ZXN TV</a>`;
+    el.querySelectorAll("button").forEach((b) => (b.onclick = () => { st.ch = b.dataset.k; save(); openTV(); }));
+  }
+
+  function refresh(first) {
+    const j = (u) => fetch(u + "?t=" + Date.now(), { cache: "no-store" }).then((r) => (r.ok ? r.json() : null)).catch(() => null);
+    return Promise.all([tvList ? Promise.resolve(tvList) : j("data/tv.json"), j("data/live.json"), j("data/xlive.json")]).then(([d, own, xl]) => {
+      tvList = (d && d.channels && d.channels.length) ? d : { channels: FALLBACK };
+      const before = (cur() || {}).key;
+      buildChannels(tvList.channels, own, xl);
+      if (!first && !panel.hidden && (cur() || {}).key !== before) tune();
+    });
   }
 
   function start() {
     document.body.appendChild(root);
     render();
-    fetch("data/tv.json?t=" + Date.now(), { cache: "no-store" }).then((r) => (r.ok ? r.json() : null)).catch(() => null).then((d) => {
-      buildChannels((d && d.channels && d.channels.length) ? d.channels : FALLBACK);
+    setInterval(() => refresh(false), 2 * 60 * 1000);
+    refresh(true).then(() => {
       if (!st.open || st.closed) return;
       // Never play under the welcome splash: wait until it closes.
       const html = document.documentElement;

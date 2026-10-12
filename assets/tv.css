@@ -42,3 +42,42 @@
   .ztv-bar{cursor:default}
 }
 @media (prefers-reduced-motion:reduce){.ztv-dot{animation:none}}
+
+/* ----- X Live group ----- */
+.ztv-grp{flex:0 0 auto;align-self:center;font:800 .62rem var(--sans,system-ui);letter-spacing:.12em;text-transform:uppercase;opacity:.65;padding:0 2px 0 4px}
+.ztv-chans button.xp{max-width:170px;overflow:hidden;text-overflow:ellipsis;border-color:rgba(255,77,94,.6)}
+.ztv-chans button.own{background:var(--red,#B22234);border-color:#fff;font-weight:800;max-width:none}
+.ztv-chans button.own[aria-selected="true"]{background:#fff;color:var(--red,#B22234)}
+.ztv-badge{display:inline-block;background:#fff;color:var(--red,#B22234);font-size:.6rem;font-weight:900;letter-spacing:.08em;padding:1px 5px;border-radius:2px;margin-right:6px;animation:ztvBlink 1.4s infinite}
+.ztv-chans button.own[aria-selected="true"] .ztv-badge{background:var(--red,#B22234);color:#fff}
+@keyframes ztvBlink{50%{opacity:.55}}
+.ztv.own-live .ztv-pill{background:var(--red,#B22234);border-bottom-color:#fff}
+.ztv.xmode .ztv-screen{aspect-ratio:auto;height:330px}
+.ztv.big.xmode .ztv-screen{height:min(560px,70vh)}
+.ztv-over.ztv-x{align-items:flex-start;overflow-y:auto;padding:10px;background:#0b1220}
+.ztv-xwrap{width:100%;text-align:left}
+.ztv-xhead{display:flex;flex-wrap:wrap;align-items:baseline;gap:4px 8px;font-size:.86rem;margin-bottom:6px;min-width:0}
+.ztv-xhead span:last-child{opacity:.75}
+.ztv-xlive{color:#ff4d5e;font-weight:900;font-size:.72rem;letter-spacing:.08em}
+.ztv-x .ztv-cta{margin:2px 0 8px}
+.ztv-xembed{min-height:60px}
+.ztv-xembed .twitter-tweet{margin:0 auto!important}
+.ztv-xload,.ztv-xtext{font-size:.85rem;opacity:.9;white-space:pre-line;overflow-wrap:anywhere;margin:6px 0}
+.ztv-xopen{color:#fff;font-weight:700;font-size:.8rem}
+
+/* ----- "Live on X now" strip (LIVE NOW area, only when ZXN isn't live) ----- */
+.xlive-strip{display:flex;align-items:center;gap:10px 14px;background:var(--navy,#071d3b);color:#fff;margin:18px 0 0;padding:8px 12px;border-left:5px solid var(--red,#B22234);min-width:0}
+.xlive-strip[hidden]{display:none}
+.xls-label{display:flex;align-items:center;gap:8px;font-family:var(--head,Oswald,sans-serif);text-transform:uppercase;letter-spacing:.1em;font-size:.9rem;white-space:nowrap}
+.xls-list{display:flex;gap:8px;overflow-x:auto;flex:1;min-width:0;scrollbar-width:thin;padding:2px 0}
+.xls-list button{flex:0 0 auto;max-width:280px;display:flex;flex-direction:column;align-items:flex-start;gap:1px;text-align:left;background:rgba(255,255,255,.08);
+  border:1px solid rgba(255,255,255,.22);color:#fff;padding:5px 10px;cursor:pointer;font:inherit;border-radius:3px}
+.xls-list button:hover{background:rgba(255,255,255,.18)}
+.xls-list b{font-size:.78rem}
+.xls-list span{font-size:.74rem;opacity:.85;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:260px}
+.xls-tv{color:#fff;font-weight:800;font-size:.8rem;white-space:nowrap}
+@media (max-width:700px){
+  .xlive-strip{flex-wrap:wrap}
+  .xls-list{flex-basis:100%;order:3}
+  .ztv.xmode .ztv-screen{height:300px}
+}
