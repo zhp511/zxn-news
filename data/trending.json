@@ -1,39 +1,55 @@
 {
- "built_at": "2026-10-11T23:49:35Z",
- "news_fetched_at": "2026-10-11T23:49:32Z",
- "trends_fetched_at": "2026-10-11T23:49:32Z",
+ "built_at": "2026-10-12T00:50:13Z",
+ "news_fetched_at": "2026-10-12T00:50:13Z",
+ "trends_fetched_at": "2026-10-12T00:50:13Z",
  "source": "X News (x.search_news) and US trends (x.get_trends_by_woeid 23424977). Story summaries are written by X/Grok from posts on X and may evolve.",
  "stories": [
   {
-   "id": "2109278451970855161",
-   "headline": "Leaked Audio Reveals Paxton Accusing Cornyn of Wanting His Senate Loss",
-   "hook": "At a Washington fundraiser, Ken Paxton vented about John Cornyn's alleged wish for his defeat to punish the GOP base. The recording has reopened old wounds from their primary battle.",
-   "summary": "In audio from a September 24 event obtained by CNN, Republican Senate nominee Ken Paxton claimed Cornyn told a friend at a Dallas restaurant that Paxton would lose to send a message to party voters who backed him in the primary. A Cornyn strategist denied the restaurant encounter and insisted Cornyn supports the ticket, while Paxton beat Cornyn earlier this year with Trump's endorsement and now leads a tight race against Democrat James Talarico on November 3. The leak highlights ongoing tensions between establishment figures and the MAGA wing as midterms approach.",
-   "updated_at": "2026-10-11T23:39:26.000Z",
-   "url": "https://x.com/i/trending/2109278451970855161",
+   "id": "2109444094359728539",
+   "headline": "Leaked Audio Reveals Cornyn's Alleged Hopes for Paxton's Defeat",
+   "hook": "In a leaked recording, Texas AG Ken Paxton shares a private remark from Sen. John Cornyn that stings with its bluntness: 'Paxton’s gonna lose. We need to teach those Republicans a lesson.'",
+   "summary": "Paxton claims Cornyn told a friend he wanted Paxton to lose the general election to punish Republican primary voters who ousted Cornyn last May with a 63.8% to 36.2% win. CNN obtained the audio from a fundraiser attendee but couldn't independently verify the story, and Cornyn's team denies it happened. As Paxton now faces Democrat James Talarico in November, the exchange highlights party tensions, with many urging voters to stay engaged and support the ticket strategically despite the rift.",
+   "updated_at": "2026-10-12T00:45:58.000Z",
+   "url": "https://x.com/i/trending/2109444094359728539",
    "topics": [
     "Politics"
    ],
    "post_urls": [
-    "https://x.com/i/status/2109240683135705410",
-    "https://x.com/i/status/2109241119267795355",
-    "https://x.com/i/status/2108642934316749189"
+    "https://x.com/i/status/2108642934316749189",
+    "https://x.com/i/status/2109425035983368688",
+    "https://x.com/i/status/2109379095763226817"
    ]
   },
   {
    "id": "2109369074845409606",
-   "headline": "Poll Shows Young Men Shifting Toward Democrats Before Midterms",
-   "hook": "Young men ages 18-30 are voicing real worries about rising costs and uneven rules as they eye the 2026 midterms.",
-   "summary": "A Cygnal survey from September 15-18 of 800 registered men in that age group found Democrats leading Republicans 52% to 42% on the generic congressional ballot, widening to 57%-40% among the most likely voters. Cost of living topped their concerns, with 43% feeling the system is stacked against them—the same issues that pulled many toward Republicans in 2024. Reactions ranged from doubts about the poll's sample to views that economic frustrations are driving disillusionment with both parties, as Fox News panels of Gen Z men discussed inflation, housing, and foreign policy.",
-   "updated_at": "2026-10-11T22:11:08.000Z",
+   "headline": "Young Men Shift Toward Democrats in New Poll",
+   "hook": "Young men ages 18-30, once a key Republican bloc, now favor Democrats 52% to 42% amid rising cost-of-living frustrations.",
+   "summary": "A Cygnal poll of 800 registered male voters in that age group, conducted September 15-18, shows Democrats leading on the generic ballot, with the gap widening to 57%-40% among the most likely voters. Cost of living tops their concerns, and 43% feel the system's rules work against them; Trump's favorability sits at 38% positive to 55% negative. Reactions highlight GOP leadership issues and economic disillusionment, though skeptics question the poll's sample size and see no real enthusiasm for Democrats.",
+   "updated_at": "2026-10-12T00:35:53.000Z",
    "url": "https://x.com/i/trending/2109369074845409606",
    "topics": [
-    "Elections"
+    "Politics"
    ],
    "post_urls": [
-    "https://x.com/i/status/2109328423671693452",
     "https://x.com/i/status/2109371044515480001",
+    "https://x.com/i/status/2109328423671693452",
     "https://x.com/i/status/2109344550015947037"
+   ]
+  },
+  {
+   "id": "2109434625978413467",
+   "headline": "1990s Democrats Championed Border Enforcement, Clips Show Shift Today",
+   "hook": "Old footage of Democratic leaders pushing hard for border security feels like a throwback to a different era. Viewers are sharing it alongside today's debates, sparking personal stories of disillusionment.",
+   "summary": "Clips from the 1990s highlight figures like Chuck Schumer and the 1996 Democratic platform stressing opposition to illegal immigration and the need to stop it amid rising unauthorized entries. These contrasts with current positions draw reactions, including one longtime voter who backed Democrats until 2022 but switched parties, saying, 'I never left the Democratic Party. The Democrats left me.' The discussion ties the evolution to factors like shifting voter bases, union priorities, and post-2016 events, with some calling it hypocrisy and others adaptation on once-bipartisan issues.",
+   "updated_at": "2026-10-12T00:08:15.000Z",
+   "url": "https://x.com/i/trending/2109434625978413467",
+   "topics": [
+    "Politics"
+   ],
+   "post_urls": [
+    "https://x.com/i/status/2109375451571568790",
+    "https://x.com/i/status/2109356756379824138",
+    "https://x.com/i/status/2109421970546675875"
    ]
   },
   {
@@ -115,60 +131,60 @@
     "https://x.com/i/status/2109090887716200753",
     "https://x.com/i/status/2109089909265097194"
    ]
-  },
-  {
-   "id": "2109097642525405313",
-   "headline": "Trump's Rally Clip Draws Online Scrutiny Over GOP Remark",
-   "hook": "At a rainy rally in Tennessee, Trump warned of depression under Republicans, a line that quickly fueled online buzz amid his pro-GOP pitch.",
-   "summary": "During a campaign event in Clarksville to boost Republican midterm candidates, President Trump said, 'If Republicans get in power, you're going to end up in a depression. These people are incompetent.' The clip spread widely, with critics like the Lincoln Project and Tea Pain framing it as a slip revealing party flaws, while others noted he wasn't wrong on governance issues. In full context, Trump contrasted that with promises of prosperity under GOP control, like $5,000 annual payments from tariffs, against fears of a 1929-style crash if Democrats won.",
-   "updated_at": "2026-10-11T04:24:49.000Z",
-   "url": "https://x.com/i/trending/2109097642525405313",
-   "topics": [
-    "Politics"
-   ],
-   "post_urls": [
-    "https://x.com/i/status/2109028464997130681",
-    "https://x.com/i/status/2109040245832368156",
-    "https://x.com/i/status/2109040617049215420"
-   ]
   }
  ],
  "trends": [
   {
-   "name": "Mike Evans",
-   "url": "https://x.com/search?q=Mike%20Evans"
+   "name": "Mark Andrews",
+   "url": "https://x.com/search?q=Mark%20Andrews"
   },
   {
-   "name": "Seahawks",
-   "url": "https://x.com/search?q=Seahawks"
+   "name": "Mike Evans",
+   "url": "https://x.com/search?q=Mike%20Evans"
   },
   {
    "name": "49ers",
    "url": "https://x.com/search?q=49ers"
   },
   {
-   "name": "Chargers",
-   "url": "https://x.com/search?q=Chargers"
+   "name": "Seahawks",
+   "url": "https://x.com/search?q=Seahawks"
   },
   {
-   "name": "Justin Herbert",
-   "url": "https://x.com/search?q=Justin%20Herbert"
+   "name": "Chargers",
+   "url": "https://x.com/search?q=Chargers"
   },
   {
    "name": "Niners",
    "url": "https://x.com/search?q=Niners"
   },
   {
-   "name": "Broncos",
-   "url": "https://x.com/search?q=Broncos"
+   "name": "Justin Herbert",
+   "url": "https://x.com/search?q=Justin%20Herbert"
   },
   {
-   "name": "Giants",
-   "url": "https://x.com/search?q=Giants"
+   "name": "#RHOP",
+   "url": "https://x.com/search?q=%23RHOP"
+  },
+  {
+   "name": "Seattle",
+   "url": "https://x.com/search?q=Seattle"
   },
   {
    "name": "#FTTB",
    "url": "https://x.com/search?q=%23FTTB"
+  },
+  {
+   "name": "Broncos",
+   "url": "https://x.com/search?q=Broncos"
+  },
+  {
+   "name": "Purdy",
+   "url": "https://x.com/search?q=Purdy"
+  },
+  {
+   "name": "Giants",
+   "url": "https://x.com/search?q=Giants"
   },
   {
    "name": "Dan Quinn",
@@ -177,22 +193,6 @@
   {
    "name": "Jobe",
    "url": "https://x.com/search?q=Jobe"
-  },
-  {
-   "name": "Bo Nix",
-   "url": "https://x.com/search?q=Bo%20Nix"
-  },
-  {
-   "name": "Purdy",
-   "url": "https://x.com/search?q=Purdy"
-  },
-  {
-   "name": "Darnold",
-   "url": "https://x.com/search?q=Darnold"
-  },
-  {
-   "name": "Commanders",
-   "url": "https://x.com/search?q=Commanders"
   }
  ]
 }
