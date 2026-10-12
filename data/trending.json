@@ -1,9 +1,25 @@
 {
- "built_at": "2026-10-12T01:53:42Z",
- "news_fetched_at": "2026-10-12T01:53:42Z",
- "trends_fetched_at": "2026-10-12T01:53:42Z",
+ "built_at": "2026-10-12T02:54:36Z",
+ "news_fetched_at": "2026-10-12T02:54:36Z",
+ "trends_fetched_at": "2026-10-12T02:54:36Z",
  "source": "X News (x.search_news) and US trends (x.get_trends_by_woeid 23424977). Story summaries are written by X/Grok from posts on X and may evolve.",
  "stories": [
+  {
+   "id": "2109076578323845521",
+   "headline": "Bernie Sanders Rallies for Troy Jackson in Tight Maine Senate Race",
+   "hook": "Hundreds filled Bangor’s Cross Insurance Center as Bernie Sanders praised Troy Jackson, a fifth-generation logger ready to fight for working families against Trump and billionaires.",
+   "summary": "On October 10, Vermont Sen. Bernie Sanders joined Democratic candidate Troy Jackson at the kickoff of his “Solidarity Forever” tour in Bangor, Maine, urging supporters to flip the Senate seat from Republican Sen. Susan Collins. Jackson, former Maine Senate president from Aroostook County, highlighted his independence: “I owe Donald Trump nothing. I owe the billionaires nothing. I owe the people of Maine everything.” Recent polls show a razor-thin race, with Jackson edging ahead 49% to 47% in one survey, as both campaigns mobilize for the November 3 election that could tip Senate control.",
+   "updated_at": "2026-10-12T02:21:09.000Z",
+   "url": "https://x.com/i/trending/2109076578323845521",
+   "topics": [
+    "Politics"
+   ],
+   "post_urls": [
+    "https://x.com/i/status/2109078474287714502",
+    "https://x.com/i/status/2109041458254876684",
+    "https://x.com/i/status/2109061938772607074"
+   ]
+  },
   {
    "id": "2109446547444297785",
    "headline": "Online Backlash Hits Democratic Candidates in Michigan, Texas, and New Jersey Races",
@@ -14,7 +30,11 @@
    "topics": [
     "Politics"
    ],
-   "post_urls": []
+   "post_urls": [
+    "https://x.com/i/status/2109357198824583585",
+    "https://x.com/i/status/2109362773838733557",
+    "https://x.com/i/status/2109370600900931921"
+   ]
   },
   {
    "id": "2109434625978413467",
@@ -26,7 +46,11 @@
    "topics": [
     "Politics"
    ],
-   "post_urls": []
+   "post_urls": [
+    "https://x.com/i/status/2109375451571568790",
+    "https://x.com/i/status/2109356756379824138",
+    "https://x.com/i/status/2109421970546675875"
+   ]
   },
   {
    "id": "2109391612984070535",
@@ -38,7 +62,11 @@
    "topics": [
     "Politics"
    ],
-   "post_urls": []
+   "post_urls": [
+    "https://x.com/i/status/2109316524380995805",
+    "https://x.com/i/status/2109330751858831669",
+    "https://x.com/i/status/2109361763649003850"
+   ]
   },
   {
    "id": "2109357778384941486",
@@ -50,7 +78,11 @@
    "topics": [
     "Politics"
    ],
-   "post_urls": []
+   "post_urls": [
+    "https://x.com/i/status/2109230550317982131",
+    "https://x.com/i/status/2108769373532172325",
+    "https://x.com/i/status/2109203948582126015"
+   ]
   },
   {
    "id": "2109357777353134460",
@@ -62,7 +94,11 @@
    "topics": [
     "Elections"
    ],
-   "post_urls": []
+   "post_urls": [
+    "https://x.com/i/status/2109281613058027862",
+    "https://x.com/i/status/2109309544858009714",
+    "https://x.com/i/status/2109282326262018272"
+   ]
   },
   {
    "id": "2108938902983819486",
@@ -74,7 +110,11 @@
    "topics": [
     "Politics"
    ],
-   "post_urls": []
+   "post_urls": [
+    "https://x.com/i/status/2109039731984282090",
+    "https://x.com/i/status/2108997138034360534",
+    "https://x.com/i/status/2108993240145748104"
+   ]
   },
   {
    "id": "2109162726547145178",
@@ -86,19 +126,11 @@
    "topics": [
     "Politics"
    ],
-   "post_urls": []
-  },
-  {
-   "id": "2109159345363517496",
-   "headline": "Meme Mocks Trump Supporters' Prison Threats with Sarcastic Goodbyes",
-   "hook": "A meme picturing a stern Donald Trump claims his fans threaten to flee the U.S. if he goes to prison. Replies pour in with cheeky farewells like 'Don't let the door hit you on the way out!'",
-   "summary": "The post asks what people would say to departing supporters, sparking responses that celebrate the idea, from 'Goodbye and thanks for all the fish!' to offers like 'Can I help you pack?' alongside images of waving figures and dancing crowds. In reality, Trump's New York hush money conviction resulted in an unconditional discharge in early 2025 with no jail time, and other cases were resolved after his return to office. These exaggerated emigration threats pop up in partisan spats but rarely lead to actual moves, as data on citizenship renunciations remains low.",
-   "updated_at": "2026-10-11T05:52:47.000Z",
-   "url": "https://x.com/i/trending/2109159345363517496",
-   "topics": [
-    "Politics"
-   ],
-   "post_urls": []
+   "post_urls": [
+    "https://x.com/i/status/2109083554823164209",
+    "https://x.com/i/status/2109113608764563583",
+    "https://x.com/i/status/2109089770961842567"
+   ]
   }
  ],
  "trends": [
@@ -111,12 +143,24 @@
    "url": "https://x.com/search?q=Ravens"
   },
   {
+   "name": "Penix",
+   "url": "https://x.com/search?q=Penix"
+  },
+  {
+   "name": "Drake London",
+   "url": "https://x.com/search?q=Drake%20London"
+  },
+  {
    "name": "Mike Evans",
    "url": "https://x.com/search?q=Mike%20Evans"
   },
   {
    "name": "49ers",
    "url": "https://x.com/search?q=49ers"
+  },
+  {
+   "name": "Huntley",
+   "url": "https://x.com/search?q=Huntley"
   },
   {
    "name": "Seahawks",
@@ -135,32 +179,20 @@
    "url": "https://x.com/search?q=Herbert"
   },
   {
-   "name": "Penix",
-   "url": "https://x.com/search?q=Penix"
+   "name": "Kelly",
+   "url": "https://x.com/search?q=Kelly"
   },
   {
    "name": "#RHOP",
    "url": "https://x.com/search?q=%23RHOP"
   },
   {
-   "name": "Kelly",
-   "url": "https://x.com/search?q=Kelly"
-  },
-  {
-   "name": "Kyle Pitts",
-   "url": "https://x.com/search?q=Kyle%20Pitts"
-  },
-  {
-   "name": "Seattle",
-   "url": "https://x.com/search?q=Seattle"
-  },
-  {
-   "name": "Huntley",
-   "url": "https://x.com/search?q=Huntley"
-  },
-  {
    "name": "Talarico",
    "url": "https://x.com/search?q=Talarico"
+  },
+  {
+   "name": "Jake Matthews",
+   "url": "https://x.com/search?q=Jake%20Matthews"
   }
  ]
 }
