@@ -1,6 +1,6 @@
 {
  "generated_from": "data/raw_pages.json + data/raw_archive.json",
- "fetched_at": "2026-10-12T00:30:50Z",
+ "fetched_at": "2026-10-12T04:00:01Z",
  "pinned_top": "2108635147318784214",
  "user": {
   "id": "2011476148178599939",
@@ -23,6 +23,29 @@
   "banner_local": "images/banner.jpg"
  },
  "posts": [
+  {
+   "id": "2109492632162357418",
+   "url": "https://x.com/zxnbluehandus/status/2109492632162357418",
+   "created_at": "2026-10-12T03:53:30.000Z",
+   "headline": "SpaceX Just Bought The $8B Weapon To Kill Cell Towers",
+   "headline_source": "post",
+   "text": "SpaceX Just Bought The $8B Weapon To Kill Cell Towers  via @YouTube",
+   "original_text": "SpaceX Just Bought The $8B Weapon To Kill Cell Towers https://t.co/ao8jxaTbEZ via @YouTube",
+   "metrics": {
+    "bookmark_count": 0,
+    "impression_count": 7,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "images": [],
+   "image_source": null,
+   "link": null,
+   "has_video": false,
+   "hidden": false,
+   "hidden_reason": null
+  },
   {
    "id": "2109441413578465611",
    "url": "https://x.com/zxnbluehandus/status/2109441413578465611",
