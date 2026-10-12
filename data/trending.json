@@ -1,40 +1,20 @@
 {
- "built_at": "2026-10-12T00:50:13Z",
- "news_fetched_at": "2026-10-12T00:50:13Z",
- "trends_fetched_at": "2026-10-12T00:50:13Z",
+ "built_at": "2026-10-12T01:53:42Z",
+ "news_fetched_at": "2026-10-12T01:53:42Z",
+ "trends_fetched_at": "2026-10-12T01:53:42Z",
  "source": "X News (x.search_news) and US trends (x.get_trends_by_woeid 23424977). Story summaries are written by X/Grok from posts on X and may evolve.",
  "stories": [
   {
-   "id": "2109444094359728539",
-   "headline": "Leaked Audio Reveals Cornyn's Alleged Hopes for Paxton's Defeat",
-   "hook": "In a leaked recording, Texas AG Ken Paxton shares a private remark from Sen. John Cornyn that stings with its bluntness: 'Paxton’s gonna lose. We need to teach those Republicans a lesson.'",
-   "summary": "Paxton claims Cornyn told a friend he wanted Paxton to lose the general election to punish Republican primary voters who ousted Cornyn last May with a 63.8% to 36.2% win. CNN obtained the audio from a fundraiser attendee but couldn't independently verify the story, and Cornyn's team denies it happened. As Paxton now faces Democrat James Talarico in November, the exchange highlights party tensions, with many urging voters to stay engaged and support the ticket strategically despite the rift.",
-   "updated_at": "2026-10-12T00:45:58.000Z",
-   "url": "https://x.com/i/trending/2109444094359728539",
+   "id": "2109446547444297785",
+   "headline": "Online Backlash Hits Democratic Candidates in Michigan, Texas, and New Jersey Races",
+   "hook": "Harsh posts labeled a Michigan Democrat a terrorist, a Texas one a mental patient, and a New Jersey congresswoman a supporter—right before key elections.",
+   "summary": "In Michigan, Senate nominee Abdul El-Sayed faces accusations over $115,000 in donations from CAIR affiliates, a group some critics tie to extremism, though he denies direct links to terrorist groups and fact-checkers found no Muslim Brotherhood pledge. Texas state Rep. James Talarico, leading polls to become the state's first Democratic senator since 1988, drew rumors of a mental health crisis after a two-week absence blamed on the flu, which his campaign and a treatment center denied despite hospital reports. New Jersey Rep. Analilia Mejia, who headlined a CAIR banquet on October 10, faced claims of supporting terrorism tied to her progressive background, as online criticism portrays Democrats as embracing extremes amid competitive races.",
+   "updated_at": "2026-10-12T00:55:21.000Z",
+   "url": "https://x.com/i/trending/2109446547444297785",
    "topics": [
     "Politics"
    ],
-   "post_urls": [
-    "https://x.com/i/status/2108642934316749189",
-    "https://x.com/i/status/2109425035983368688",
-    "https://x.com/i/status/2109379095763226817"
-   ]
-  },
-  {
-   "id": "2109369074845409606",
-   "headline": "Young Men Shift Toward Democrats in New Poll",
-   "hook": "Young men ages 18-30, once a key Republican bloc, now favor Democrats 52% to 42% amid rising cost-of-living frustrations.",
-   "summary": "A Cygnal poll of 800 registered male voters in that age group, conducted September 15-18, shows Democrats leading on the generic ballot, with the gap widening to 57%-40% among the most likely voters. Cost of living tops their concerns, and 43% feel the system's rules work against them; Trump's favorability sits at 38% positive to 55% negative. Reactions highlight GOP leadership issues and economic disillusionment, though skeptics question the poll's sample size and see no real enthusiasm for Democrats.",
-   "updated_at": "2026-10-12T00:35:53.000Z",
-   "url": "https://x.com/i/trending/2109369074845409606",
-   "topics": [
-    "Politics"
-   ],
-   "post_urls": [
-    "https://x.com/i/status/2109371044515480001",
-    "https://x.com/i/status/2109328423671693452",
-    "https://x.com/i/status/2109344550015947037"
-   ]
+   "post_urls": []
   },
   {
    "id": "2109434625978413467",
@@ -46,27 +26,7 @@
    "topics": [
     "Politics"
    ],
-   "post_urls": [
-    "https://x.com/i/status/2109375451571568790",
-    "https://x.com/i/status/2109356756379824138",
-    "https://x.com/i/status/2109421970546675875"
-   ]
-  },
-  {
-   "id": "2109394358055395794",
-   "headline": "Europeans Question U.S. Ability to Remove Trump Before Midterms",
-   "hook": "A pointed X post asking why America can't remove its 'insane and incompetent' president sparked heated replies from both sides of the Atlantic. Europeans piled on, while Americans pushed back on the premise.",
-   "summary": "James's post drew quick agreement from users like Lars Christensen, who wondered if all of Europe shared the frustration. American responders like Adam Hartig expressed hope for change in the November 3, 2026, midterms, while Mitzi Pepall reminded everyone Trump won his election fair and square, with his term ending naturally. The debate unfolded amid rising U.S.-Europe tensions over Trump's call for Ukraine to pick a new leader, countered by European backing of Zelenskyy. It underscores clashing views on accountability as voters prepare to decide House seats, Senate races, and governorships.",
-   "updated_at": "2026-10-11T21:29:07.000Z",
-   "url": "https://x.com/i/trending/2109394358055395794",
-   "topics": [
-    "Politics"
-   ],
-   "post_urls": [
-    "https://x.com/i/status/2108769373532172325",
-    "https://x.com/i/status/2109203948582126015",
-    "https://x.com/i/status/2109349323549057318"
-   ]
+   "post_urls": []
   },
   {
    "id": "2109391612984070535",
@@ -78,11 +38,7 @@
    "topics": [
     "Politics"
    ],
-   "post_urls": [
-    "https://x.com/i/status/2109316524380995805",
-    "https://x.com/i/status/2109330751858831669",
-    "https://x.com/i/status/2109361763649003850"
-   ]
+   "post_urls": []
   },
   {
    "id": "2109357778384941486",
@@ -94,11 +50,19 @@
    "topics": [
     "Politics"
    ],
-   "post_urls": [
-    "https://x.com/i/status/2109230550317982131",
-    "https://x.com/i/status/2108769373532172325",
-    "https://x.com/i/status/2109203948582126015"
-   ]
+   "post_urls": []
+  },
+  {
+   "id": "2109357777353134460",
+   "headline": "Obama Calls Midterms Most Consequential Election in History",
+   "hook": "Barack Obama stepped up with a video urging support for Democrats in the upcoming midterms, framing them as a historic turning point for America.",
+   "summary": "In his message this week, the former president described the November races as one of the most consequential in U.S. history, part of efforts that include raising over $13 million and funding ads for dozens of contests. Online responses ranged from mockery of the repeated 'most important election' line to critiques linking it to his past policies on bailouts and foreign interventions, while some defended voting as key to real change. The back-and-forth highlights voter frustration with the two-party system amid close races and early voting already underway.",
+   "updated_at": "2026-10-11T19:03:14.000Z",
+   "url": "https://x.com/i/trending/2109357777353134460",
+   "topics": [
+    "Elections"
+   ],
+   "post_urls": []
   },
   {
    "id": "2108938902983819486",
@@ -110,11 +74,19 @@
    "topics": [
     "Politics"
    ],
-   "post_urls": [
-    "https://x.com/i/status/2109039731984282090",
-    "https://x.com/i/status/2108997138034360534",
-    "https://x.com/i/status/2108993240145748104"
-   ]
+   "post_urls": []
+  },
+  {
+   "id": "2109162726547145178",
+   "headline": "Trump's Rally Remark Sparks Clash Over Political Double Standards",
+   "hook": "At a Tennessee rally, Donald Trump quipped he could say the stupidest things and still get applause from the crowd. That line ignited a heated online exchange about loyalty and scrutiny in politics.",
+   "summary": "Trump made the comment on October 10 in Clarksville while praising the energy in the room and highlighting policies like border security, low taxes, and a strong military. Hasan Piker called out what he saw as a double standard, saying Democrats face perfection demands while Republicans get a pass; Mehdi Hasan noted how people dish out criticism but struggle to take it. Critics pushed back, accusing both of hypocrisy and pointing to behaviors like locking replies, with memes and posts revealing frustrations over accountability that cut across ideological lines.",
+   "updated_at": "2026-10-11T06:05:59.000Z",
+   "url": "https://x.com/i/trending/2109162726547145178",
+   "topics": [
+    "Politics"
+   ],
+   "post_urls": []
   },
   {
    "id": "2109159345363517496",
@@ -126,17 +98,17 @@
    "topics": [
     "Politics"
    ],
-   "post_urls": [
-    "https://x.com/i/status/2109053582796361871",
-    "https://x.com/i/status/2109090887716200753",
-    "https://x.com/i/status/2109089909265097194"
-   ]
+   "post_urls": []
   }
  ],
  "trends": [
   {
    "name": "Mark Andrews",
    "url": "https://x.com/search?q=Mark%20Andrews"
+  },
+  {
+   "name": "Ravens",
+   "url": "https://x.com/search?q=Ravens"
   },
   {
    "name": "Mike Evans",
@@ -159,40 +131,36 @@
    "url": "https://x.com/search?q=Niners"
   },
   {
-   "name": "Justin Herbert",
-   "url": "https://x.com/search?q=Justin%20Herbert"
+   "name": "Herbert",
+   "url": "https://x.com/search?q=Herbert"
+  },
+  {
+   "name": "Penix",
+   "url": "https://x.com/search?q=Penix"
   },
   {
    "name": "#RHOP",
    "url": "https://x.com/search?q=%23RHOP"
   },
   {
+   "name": "Kelly",
+   "url": "https://x.com/search?q=Kelly"
+  },
+  {
+   "name": "Kyle Pitts",
+   "url": "https://x.com/search?q=Kyle%20Pitts"
+  },
+  {
    "name": "Seattle",
    "url": "https://x.com/search?q=Seattle"
   },
   {
-   "name": "#FTTB",
-   "url": "https://x.com/search?q=%23FTTB"
+   "name": "Huntley",
+   "url": "https://x.com/search?q=Huntley"
   },
   {
-   "name": "Broncos",
-   "url": "https://x.com/search?q=Broncos"
-  },
-  {
-   "name": "Purdy",
-   "url": "https://x.com/search?q=Purdy"
-  },
-  {
-   "name": "Giants",
-   "url": "https://x.com/search?q=Giants"
-  },
-  {
-   "name": "Dan Quinn",
-   "url": "https://x.com/search?q=Dan%20Quinn"
-  },
-  {
-   "name": "Jobe",
-   "url": "https://x.com/search?q=Jobe"
+   "name": "Talarico",
+   "url": "https://x.com/search?q=Talarico"
   }
  ]
 }
