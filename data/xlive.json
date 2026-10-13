@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-13T01:58:51Z",
- "searched_at": "2026-10-13T01:58:38Z",
+ "built_at": "2026-10-13T02:17:12Z",
+ "searched_at": "2026-10-13T02:17:12Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -25,14 +25,14 @@
    "assumed_live_until": "2026-10-13T03:03:53Z"
   },
   {
-   "post_id": "2109781484370555075",
-   "post_url": "https://x.com/dogwoodblooms/status/2109781484370555075",
-   "name": "Cassie Clark",
-   "username": "dogwoodblooms",
+   "post_id": "2109820023598621099",
+   "post_url": "https://x.com/_ARMedia/status/2109820023598621099",
+   "name": "America Rising Media",
+   "username": "_ARMedia",
    "verified_type": "blue",
-   "text": "Shannon Bray | Libertarian Candidate for US Senate https://t.co/7xLsoMJG5d",
-   "started_at": "2026-10-12T23:01:18.000Z",
-   "assumed_live_until": "2026-10-13T02:01:18Z"
+   "text": "America Rising News https://t.co/A6nhgN0BqG",
+   "started_at": "2026-10-13T01:34:26.000Z",
+   "assumed_live_until": "2026-10-13T04:34:26Z"
   },
   {
    "post_id": "2109788732505395402",
@@ -55,14 +55,14 @@
    "assumed_live_until": "2026-10-13T03:13:47Z"
   },
   {
-   "post_id": "2109820023598621099",
-   "post_url": "https://x.com/_ARMedia/status/2109820023598621099",
-   "name": "America Rising Media",
-   "username": "_ARMedia",
+   "post_id": "2109811295268794518",
+   "post_url": "https://x.com/GabrielTheValor/status/2109811295268794518",
+   "name": "Gabriel-Antonelli",
+   "username": "GabrielTheValor",
    "verified_type": "blue",
-   "text": "America Rising News https://t.co/A6nhgN0BqG",
-   "started_at": "2026-10-13T01:34:26.000Z",
-   "assumed_live_until": "2026-10-13T04:34:26Z"
+   "text": "Talking Columbus Day, Stocks, Monero, Politics and More!  https://t.co/51uEhpaenA",
+   "started_at": "2026-10-13T00:59:45.000Z",
+   "assumed_live_until": "2026-10-13T03:59:45Z"
   },
   {
    "post_id": "2109796428226969686",
@@ -75,14 +75,14 @@
    "assumed_live_until": "2026-10-13T03:00:41Z"
   },
   {
-   "post_id": "2109811295268794518",
-   "post_url": "https://x.com/GabrielTheValor/status/2109811295268794518",
-   "name": "Gabriel-Antonelli",
-   "username": "GabrielTheValor",
+   "post_id": "2109796073300783529",
+   "post_url": "https://x.com/VoiceofRuralAm/status/2109796073300783529",
+   "name": "Voice of Rural America",
+   "username": "VoiceofRuralAm",
    "verified_type": "blue",
-   "text": "Talking Columbus Day, Stocks, Monero, Politics and More!  https://t.co/51uEhpaenA",
-   "started_at": "2026-10-13T00:59:45.000Z",
-   "assumed_live_until": "2026-10-13T03:59:45Z"
+   "text": "A Columbus Day Wake-Up Call: Why Georgia Republicans Can't Afford to Stay Home. Election Integrity on the Brink: The Down-Ballot Races Georgia Must Win If Democrats take the Secretary of State office, you can kiss six years of election integrity progress g https://t.co/t2VdtyrKZe",
+   "started_at": "2026-10-12T23:59:16.000Z",
+   "assumed_live_until": "2026-10-13T02:59:16Z"
   }
  ]
 }
