@@ -1,19 +1,9 @@
 {
- "built_at": "2026-10-13T01:58:38Z",
- "news_fetched_at": "2026-10-13T01:58:38Z",
- "trends_fetched_at": "2026-10-13T01:58:38Z",
+ "built_at": "2026-10-13T02:59:54Z",
+ "news_fetched_at": "2026-10-13T02:59:54Z",
+ "trends_fetched_at": "2026-10-13T02:59:54Z",
  "source": "X News (x.search_news) and US trends (x.get_trends_by_woeid 23424977). Story summaries are written by X/Grok from posts on X and may evolve.",
  "stories": [
-  {
-   "id": "2109676155624140956",
-   "headline": "Online Clash Over School Shooting Jokes Reveals Deep Frustrations",
-   "hook": "A post calling school shootings absurd to most of the world drew thousands of replies, splitting opinions between dark humor and grief over dead children.",
-   "summary": "User yara wrote that Americans struggle to grasp how bizarre school shootings seem abroad, especially with resistance to gun reforms, sparking heated debate. Americans pushed back, arguing the jokes mock murdered kids rather than critique laws, with replies like 'you choose dead children?' to mock. Data underscores the U.S. toll, with 25 school incidents causing injuries or deaths by mid-October 2026, fueling arguments over whether humor aids change or wounds grieving families.",
-   "updated_at": "2026-10-13T01:42:09.000Z",
-   "url": "https://x.com/i/trending/2109676155624140956",
-   "topics": [],
-   "post_urls": []
-  },
   {
    "id": "2109816033993228661",
    "headline": "Trump Warns He'd Be Last Republican President if Democrats Win",
@@ -31,6 +21,16 @@
    "summary": "In a social media post and a Maine rally for Democrat Troy Jackson, Sanders attacked Trump as a pathological liar and authoritarian threatening working families, while defending Rep. Ilhan Omar from critics. Replies quickly turned the same harsh words back on Sanders, spotlighting his millionaire status from book royalties and ownership of homes in Vermont worth over $900,000 combined. The back-and-forth highlighted partisan tensions ahead of midterms, where Democrats aim to challenge the GOP's 53-47 Senate edge in races like Maine against Susan Collins.",
    "updated_at": "2026-10-13T01:14:47.000Z",
    "url": "https://x.com/i/trending/2109642215974969704",
+   "topics": [],
+   "post_urls": []
+  },
+  {
+   "id": "2109778059784073644",
+   "headline": "Scott Jennings Challenges Democrats on Gas Price Plans",
+   "hook": "In a heated CNN panel, Scott Jennings asked a blunt question: 'When has a Democrat EVER proposed a THING on lower gas prices?' The silence that followed highlighted a key voter frustration.",
+   "summary": "During CNN coverage, conservative commentator Scott Jennings pointed out Democrats' lack of specific ideas to cut gas prices, linking 90 percent of cost-of-living pressures to their prior policies. Online discussions shared charts comparing high California taxes at $1.47 per gallon—including cap-and-trade and sales tax—to Texas's $0.384, amid national averages near $4.30 and California often over $6. While polls show widespread blame on past administrations and counter ideas like easing Iran tensions or tariffs surfaced, the exchange underscores partisan divides on easing pump prices ahead of elections.",
+   "updated_at": "2026-10-13T01:14:45.000Z",
+   "url": "https://x.com/i/trending/2109778059784073644",
    "topics": [],
    "post_urls": []
   },
@@ -99,52 +99,52 @@
    "url": "https://x.com/search?q=Rams"
   },
   {
+   "name": "Bills",
+   "url": "https://x.com/search?q=Bills"
+  },
+  {
    "name": "Stafford",
    "url": "https://x.com/search?q=Stafford"
   },
   {
-   "name": "Brewers",
-   "url": "https://x.com/search?q=Brewers"
-  },
-  {
-   "name": "Dodgers",
-   "url": "https://x.com/search?q=Dodgers"
-  },
-  {
-   "name": "Bills",
-   "url": "https://x.com/search?q=Bills"
+   "name": "Melo",
+   "url": "https://x.com/search?q=Melo"
   },
   {
    "name": "Puka",
    "url": "https://x.com/search?q=Puka"
   },
   {
+   "name": "James Cook",
+   "url": "https://x.com/search?q=James%20Cook"
+  },
+  {
    "name": "Joe Brady",
    "url": "https://x.com/search?q=Joe%20Brady"
   },
   {
-   "name": "Aaron Donald",
-   "url": "https://x.com/search?q=Aaron%20Donald"
+   "name": "Dodgers",
+   "url": "https://x.com/search?q=Dodgers"
   },
   {
-   "name": "Chad Gable",
-   "url": "https://x.com/search?q=Chad%20Gable"
+   "name": "Brewers",
+   "url": "https://x.com/search?q=Brewers"
   },
   {
-   "name": "Somalia",
-   "url": "https://x.com/search?q=Somalia"
+   "name": "Keon Coleman",
+   "url": "https://x.com/search?q=Keon%20Coleman"
   },
   {
-   "name": "Omar",
-   "url": "https://x.com/search?q=Omar"
+   "name": "Kincaid",
+   "url": "https://x.com/search?q=Kincaid"
   },
   {
-   "name": "Davante Adams",
-   "url": "https://x.com/search?q=Davante%20Adams"
+   "name": "Patrick Bailey",
+   "url": "https://x.com/search?q=Patrick%20Bailey"
   },
   {
-   "name": "James Cook",
-   "url": "https://x.com/search?q=James%20Cook"
+   "name": "Blake Corum",
+   "url": "https://x.com/search?q=Blake%20Corum"
   }
  ]
 }
