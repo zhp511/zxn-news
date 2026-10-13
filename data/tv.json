@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-10-12T02:51:06Z",
+ "checked_at": "2026-10-13T01:58:51Z",
  "channels": [
   {
    "key": "foxweather",
@@ -8,9 +8,9 @@
    "channel_id": "UC1FbPiXx59_ltnFVx7IxWow",
    "handle": "FOXWeather",
    "watch_url": "https://www.youtube.com/@FOXWeather/live",
-   "video_id": "mBwgGwy0bnw",
+   "video_id": "wt6SIE7BXS8",
    "ok": true,
-   "title": "LIVESTREAM: Post-Tropical Isaias Marches Up East Coast After Storm&#39;s Deadly Destruction In Southeast"
+   "title": "Watch FOX Weather Channel Live Stream: Tracking Breaking Weather News, Local and National Forecasts"
   },
   {
    "key": "livenow",
@@ -19,9 +19,9 @@
    "channel_id": "UCJg9wBPyKMNA5sRDnvzmkdg",
    "handle": "LiveNOWFOX",
    "watch_url": "https://www.youtube.com/@LiveNOWFOX/live",
-   "video_id": "8ufvKsnGIFg",
+   "video_id": "PUfWupzOZxA",
    "ok": true,
-   "title": "LIVE: Trump White House latest, Russia-Ukraine war, Midterm elections, Iran war, more top stories"
+   "title": "LIVE: Trump campaign rally, Russian diesel deal, Saudi Arabia latest, Midterm elections, top stories"
   },
   {
    "key": "cbs",
@@ -30,9 +30,9 @@
    "channel_id": "UC8p1vwvWtl6T73JiExfWs1g",
    "handle": "CBSNews",
    "watch_url": "https://www.youtube.com/@CBSNews/live",
-   "video_id": "yCmYjE_7iSs",
-   "ok": false,
-   "why": "not live right now"
+   "video_id": "CmR2-LqwYw4",
+   "ok": true,
+   "title": "LIVE: Breaking News and Top Stories on CBS News 24/7"
   },
   {
    "key": "abc",
@@ -41,9 +41,9 @@
    "channel_id": "UCBi2mrWuNuyYy4gbM6fU18Q",
    "handle": "ABCNews",
    "watch_url": "https://www.youtube.com/@ABCNews/live",
-   "video_id": "iipR5yUp36o",
+   "video_id": "p2kCBRSS8Lc",
    "ok": true,
-   "title": "LIVE: ABC News Live - 24/7 news, context and analysis"
+   "title": "LIVE: ABC News Live - Monday, October 12"
   },
   {
    "key": "nbc",
@@ -52,9 +52,9 @@
    "channel_id": "UCeY0bbntWzzVIaj2z3QigXg",
    "handle": "NBCNews",
    "watch_url": "https://www.youtube.com/@NBCNews/live",
-   "video_id": "a0I_VkZHHIU",
+   "video_id": "FXDEt2omKmA",
    "ok": true,
-   "title": "LIVE: NBC News NOW"
+   "title": "LIVE: NBC News NOW - Oct. 12"
   },
   {
    "key": "bloomberg",

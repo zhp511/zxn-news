@@ -1,6 +1,6 @@
 {
  "generated_from": "data/raw_pages.json + data/raw_archive.json",
- "fetched_at": "2026-10-12T04:00:01Z",
+ "fetched_at": "2026-10-13T01:58:14Z",
  "pinned_top": "2108635147318784214",
  "user": {
   "id": "2011476148178599939",
@@ -23,6 +23,92 @@
   "banner_local": "images/banner.jpg"
  },
  "posts": [
+  {
+   "id": "2109740877883068664",
+   "url": "https://x.com/zxnbluehandus/status/2109740877883068664",
+   "created_at": "2026-10-12T20:19:57.000Z",
+   "headline": "ZXN · “we are bluehand” · Patriot One Network",
+   "headline_source": "link_title",
+   "text": "",
+   "original_text": "https://t.co/lXwwf7jPcu",
+   "metrics": {
+    "bookmark_count": 0,
+    "impression_count": 105,
+    "like_count": 2,
+    "quote_count": 1,
+    "reply_count": 0,
+    "retweet_count": 2
+   },
+   "images": [],
+   "image_source": null,
+   "link": {
+    "url": "https://zhp511.github.io/zxnnews/",
+    "display": "zhp511.github.io/zxnnews/",
+    "title": "ZXN · “we are bluehand” · Patriot One Network",
+    "kicker": "Link"
+   },
+   "has_video": false,
+   "hidden": false,
+   "hidden_reason": null
+  },
+  {
+   "id": "2109655985728184492",
+   "url": "https://x.com/zxnbluehandus/status/2109655985728184492",
+   "created_at": "2026-10-12T14:42:37.000Z",
+   "headline": "I’m going to @CHELLESHOCKEDTM’s upcoming Space. Will you join too?",
+   "headline_source": "post",
+   "text": "I’m going to @CHELLESHOCKEDTM’s upcoming Space. Will you join too?",
+   "original_text": "I’m going to @CHELLESHOCKEDTM’s upcoming Space. Will you join too? https://t.co/eEQyj1Jo2l",
+   "metrics": {
+    "bookmark_count": 0,
+    "impression_count": 574,
+    "like_count": 5,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 2
+   },
+   "images": [],
+   "image_source": null,
+   "link": {
+    "url": "https://x.com/i/spaces/1kJzDPbpWMgKv",
+    "display": "x.com/i/spaces/1kJzD…",
+    "title": "Scheduled: Columbus Day: We Must Lead in The War to Defend Western Civilization",
+    "kicker": "X Space"
+   },
+   "has_video": false,
+   "hidden": false,
+   "hidden_reason": null
+  },
+  {
+   "id": "2109607488957956265",
+   "url": "https://x.com/zxnbluehandus/status/2109607488957956265",
+   "created_at": "2026-10-12T11:29:54.000Z",
+   "headline": "Today the war it war Monday on @RobManess @CHELLESHOCKEDTM @KatTheHammer1 @WorldviewTube @ali_hopper…",
+   "headline_source": "post",
+   "text": "Today the war it war Monday on @RobManess @CHELLESHOCKEDTM @KatTheHammer1 @WorldviewTube @ali_hopper @averageJohn911  everything starts 2:30 Eastern time p.m. showtime 3 PM full week of Rob maness grab that mic to join us and the debut of @CHELLESTUDIOS   Thank u everyone for this matter",
+   "original_text": "Today the war it war Monday on @RobManess @CHELLESHOCKEDTM @KatTheHammer1 @WorldviewTube @ali_hopper @averageJohn911  everything starts 2:30 Eastern time p.m. showtime 3 PM full week of Rob maness grab that mic to join us and the debut of @CHELLESTUDIOS   Thank u everyone for this matter",
+   "metrics": {
+    "bookmark_count": 0,
+    "impression_count": 422,
+    "like_count": 3,
+    "quote_count": 1,
+    "reply_count": 0,
+    "retweet_count": 4
+   },
+   "images": [
+    {
+     "src": "images/2109607488957956265_0.jpg",
+     "type": "photo",
+     "width": 1672,
+     "height": 941
+    }
+   ],
+   "image_source": "post",
+   "link": null,
+   "has_video": false,
+   "hidden": false,
+   "hidden_reason": null
+  },
   {
    "id": "2109492632162357418",
    "url": "https://x.com/zxnbluehandus/status/2109492632162357418",

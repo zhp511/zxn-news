@@ -1,88 +1,88 @@
 {
- "built_at": "2026-10-12T05:14:04Z",
- "searched_at": "2026-10-12T05:14:04Z",
+ "built_at": "2026-10-13T01:58:51Z",
+ "searched_at": "2026-10-13T01:58:38Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
   {
-   "post_id": "2109510087396282759",
-   "post_url": "https://x.com/ANI/status/2109510087396282759",
-   "name": "ANI",
-   "username": "ANI",
-   "verified_type": "business",
-   "text": "Yogi Adityanath hits out at Congress, INDIA Bloc over Protest march to Supreme court against CEC\n\n#cmyogi #indiabloc #protest #congress #supremecourt #cjp #genz #live https://t.co/pbq9FAIzhZ",
-   "started_at": "2026-10-12T05:02:52.000Z",
-   "assumed_live_until": "2026-10-12T08:02:52Z"
-  },
-  {
-   "post_id": "2109486720958033943",
-   "post_url": "https://x.com/nick_matau/status/2109486720958033943",
-   "name": "Nick Matau",
-   "username": "nick_matau",
+   "post_id": "2109786471444124096",
+   "post_url": "https://x.com/nicksortor/status/2109786471444124096",
+   "name": "Nick Sortor",
+   "username": "nicksortor",
    "verified_type": "blue",
-   "text": "DEBATES LIVE: Israel, Politics, Religion & Anything Goes | Come Challenge Me! https://t.co/gKwhnZ8lsq",
-   "started_at": "2026-10-12T03:30:01.000Z",
-   "assumed_live_until": "2026-10-12T06:30:01Z"
+   "text": "🔴 WATCH LIVE: President Trump is holding a COLUMBUS DAY RALLY in Youngstown, Ohio\n\nYoungstown, which is a blue collar stronghold, has STRONGLY supported 47 in all 3 elections.\n\nThey could hold the key to Republicans keeping Ohio in November! https://t.co/AetKjmUiZ9",
+   "started_at": "2026-10-12T23:21:07.000Z",
+   "assumed_live_until": "2026-10-13T02:21:07Z"
   },
   {
-   "post_id": "2109479532071965109",
-   "post_url": "https://x.com/raminrealtalk/status/2109479532071965109",
-   "name": "Ramin Ekhtiar",
-   "username": "raminrealtalk",
+   "post_id": "2109797234946805788",
+   "post_url": "https://x.com/wil_da_beast630/status/2109797234946805788",
+   "name": "Wilfred Reilly",
+   "username": "wil_da_beast630",
    "verified_type": "blue",
-   "text": "🚨 Election LIVE: Stanislaus County Ballot, Who to Vote For on EVERY Line (They Say You're DOOMED) #Election2026 https://t.co/n0UwuTNnHc",
-   "started_at": "2026-10-12T03:01:27.000Z",
-   "assumed_live_until": "2026-10-12T06:01:27Z"
+   "text": "\"Psychopathia and Politics - Live on Apostate Radio!\" https://t.co/2zavrctO8H",
+   "started_at": "2026-10-13T00:03:53.000Z",
+   "assumed_live_until": "2026-10-13T03:03:53Z"
   },
   {
-   "post_id": "2109471642988802328",
-   "post_url": "https://x.com/CallMeClippa/status/2109471642988802328",
-   "name": "Clippa🐰✂️",
-   "username": "CallMeClippa",
+   "post_id": "2109781484370555075",
+   "post_url": "https://x.com/dogwoodblooms/status/2109781484370555075",
+   "name": "Cassie Clark",
+   "username": "dogwoodblooms",
    "verified_type": "blue",
-   "text": "COMING TO AMERICA!? CG AFTER DARK #30 https://t.co/8JTVoG2b2k",
-   "started_at": "2026-10-12T02:30:06.000Z",
-   "assumed_live_until": "2026-10-12T05:30:06Z"
+   "text": "Shannon Bray | Libertarian Candidate for US Senate https://t.co/7xLsoMJG5d",
+   "started_at": "2026-10-12T23:01:18.000Z",
+   "assumed_live_until": "2026-10-13T02:01:18Z"
   },
   {
-   "post_id": "2109503035139629487",
-   "post_url": "https://x.com/JBU_Show/status/2109503035139629487",
-   "name": "Cam Alan; Just Between Us",
-   "username": "JBU_Show",
+   "post_id": "2109788732505395402",
+   "post_url": "https://x.com/TalkRedOfficial/status/2109788732505395402",
+   "name": "Talk Red",
+   "username": "TalkRedOfficial",
    "verified_type": "blue",
-   "text": "JBU SHOW LIVE - Can We Survive Another Episode of SURROUNDED⁉️⭕️ [Your Chance To Witness a JBU Meltdown 🫠\nLate Night Show \n\nWatch NOW on X-RUMBLE-TWITCH!:\n\nX\nhttps://t.co/n1Mc2bEj4k\nRUMBLE\nhttps://t.co/DE4qhqeIEi\nTWITCH\nhttps://t.co/FzLZ1K2rrH\n\nGod Bless America - 🇺🇸\nWant To",
-   "started_at": "2026-10-12T04:34:50.000Z",
-   "assumed_live_until": "2026-10-12T07:34:50Z"
+   "text": "Texas Is Legal Battleground for Trump Immigration and Election Policies | The Rob Maness Show EP 723 https://t.co/LyHDbN57ht",
+   "started_at": "2026-10-12T23:30:06.000Z",
+   "assumed_live_until": "2026-10-13T02:30:06Z"
   },
   {
-   "post_id": "2109486082303938659",
-   "post_url": "https://x.com/IndiaToday/status/2109486082303938659",
-   "name": "IndiaToday",
-   "username": "IndiaToday",
-   "verified_type": "business",
-   "text": "Take a look at the top news headlines. #ITLivestream https://t.co/ZI1AcjTn6C",
-   "started_at": "2026-10-12T03:27:29.000Z",
-   "assumed_live_until": "2026-10-12T06:27:29Z"
-  },
-  {
-   "post_id": "2109509357570601085",
-   "post_url": "https://x.com/GBNEWS/status/2109509357570601085",
-   "name": "GB News",
-   "username": "GBNEWS",
-   "verified_type": "business",
-   "text": "GB News https://t.co/HPn4rOa4xk",
-   "started_at": "2026-10-12T04:59:58.000Z",
-   "assumed_live_until": "2026-10-12T07:59:58Z"
-  },
-  {
-   "post_id": "2109494793420378118",
-   "post_url": "https://x.com/Know_More_News/status/2109494793420378118",
-   "name": "Adam Green - Know More News",
-   "username": "Know_More_News",
+   "post_id": "2109799726832906515",
+   "post_url": "https://x.com/SiriusXMPatriot/status/2109799726832906515",
+   "name": "SiriusXM Patriot",
+   "username": "SiriusXMPatriot",
    "verified_type": "blue",
-   "text": "Know More News LIVE w/ Adam Green https://t.co/6CgIgYUS5T",
-   "started_at": "2026-10-12T04:02:05.000Z",
-   "assumed_live_until": "2026-10-12T07:02:05Z"
+   "text": "🇺🇸 WATCH LIVE: President @realDonaldTrump takes the stage in Youngstown, Ohio, for a midterm campaign rally ahead of the 2026 elections.\n\n📺 Watch via @Republicans\n\n#Trump #Midterms2026\nhttps://t.co/tshGcEqmw1",
+   "started_at": "2026-10-13T00:13:47.000Z",
+   "assumed_live_until": "2026-10-13T03:13:47Z"
+  },
+  {
+   "post_id": "2109820023598621099",
+   "post_url": "https://x.com/_ARMedia/status/2109820023598621099",
+   "name": "America Rising Media",
+   "username": "_ARMedia",
+   "verified_type": "blue",
+   "text": "America Rising News https://t.co/A6nhgN0BqG",
+   "started_at": "2026-10-13T01:34:26.000Z",
+   "assumed_live_until": "2026-10-13T04:34:26Z"
+  },
+  {
+   "post_id": "2109796428226969686",
+   "post_url": "https://x.com/HotBoyTurk32/status/2109796428226969686",
+   "name": "#MAGNOLIATURK🦍🔥",
+   "username": "HotBoyTurk32",
+   "verified_type": "blue",
+   "text": "BOOSIE VS LIL WAYNE?! 🔥 TURK REACTS TO THE VERZUZ CHALLENGE & WHITE HOUSE CONTROVERSY! https://t.co/lYkB2tP5Td",
+   "started_at": "2026-10-13T00:00:41.000Z",
+   "assumed_live_until": "2026-10-13T03:00:41Z"
+  },
+  {
+   "post_id": "2109811295268794518",
+   "post_url": "https://x.com/GabrielTheValor/status/2109811295268794518",
+   "name": "Gabriel-Antonelli",
+   "username": "GabrielTheValor",
+   "verified_type": "blue",
+   "text": "Talking Columbus Day, Stocks, Monero, Politics and More!  https://t.co/51uEhpaenA",
+   "started_at": "2026-10-13T00:59:45.000Z",
+   "assumed_live_until": "2026-10-13T03:59:45Z"
   }
  ]
 }
