@@ -1,19 +1,9 @@
 {
- "built_at": "2026-10-13T02:17:12Z",
- "searched_at": "2026-10-13T02:17:12Z",
+ "built_at": "2026-10-13T02:36:09Z",
+ "searched_at": "2026-10-13T02:36:09Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
-  {
-   "post_id": "2109786471444124096",
-   "post_url": "https://x.com/nicksortor/status/2109786471444124096",
-   "name": "Nick Sortor",
-   "username": "nicksortor",
-   "verified_type": "blue",
-   "text": "🔴 WATCH LIVE: President Trump is holding a COLUMBUS DAY RALLY in Youngstown, Ohio\n\nYoungstown, which is a blue collar stronghold, has STRONGLY supported 47 in all 3 elections.\n\nThey could hold the key to Republicans keeping Ohio in November! https://t.co/AetKjmUiZ9",
-   "started_at": "2026-10-12T23:21:07.000Z",
-   "assumed_live_until": "2026-10-13T02:21:07Z"
-  },
   {
    "post_id": "2109797234946805788",
    "post_url": "https://x.com/wil_da_beast630/status/2109797234946805788",
@@ -25,6 +15,16 @@
    "assumed_live_until": "2026-10-13T03:03:53Z"
   },
   {
+   "post_id": "2109795518352437662",
+   "post_url": "https://x.com/JovanHPulitzer/status/2109795518352437662",
+   "name": "JovanHuttonPulitzer",
+   "username": "JovanHPulitzer",
+   "verified_type": "blue",
+   "text": "Mr. President We Have Two Moves Left! Fixing Our Elections! https://t.co/0J1pWKme5O",
+   "started_at": "2026-10-12T23:57:04.000Z",
+   "assumed_live_until": "2026-10-13T02:57:04Z"
+  },
+  {
    "post_id": "2109820023598621099",
    "post_url": "https://x.com/_ARMedia/status/2109820023598621099",
    "name": "America Rising Media",
@@ -33,16 +33,6 @@
    "text": "America Rising News https://t.co/A6nhgN0BqG",
    "started_at": "2026-10-13T01:34:26.000Z",
    "assumed_live_until": "2026-10-13T04:34:26Z"
-  },
-  {
-   "post_id": "2109788732505395402",
-   "post_url": "https://x.com/TalkRedOfficial/status/2109788732505395402",
-   "name": "Talk Red",
-   "username": "TalkRedOfficial",
-   "verified_type": "blue",
-   "text": "Texas Is Legal Battleground for Trump Immigration and Election Policies | The Rob Maness Show EP 723 https://t.co/LyHDbN57ht",
-   "started_at": "2026-10-12T23:30:06.000Z",
-   "assumed_live_until": "2026-10-13T02:30:06Z"
   },
   {
    "post_id": "2109799726832906515",
@@ -73,6 +63,16 @@
    "text": "BOOSIE VS LIL WAYNE?! 🔥 TURK REACTS TO THE VERZUZ CHALLENGE & WHITE HOUSE CONTROVERSY! https://t.co/lYkB2tP5Td",
    "started_at": "2026-10-13T00:00:41.000Z",
    "assumed_live_until": "2026-10-13T03:00:41Z"
+  },
+  {
+   "post_id": "2109833746149236892",
+   "post_url": "https://x.com/Diamondthedave/status/2109833746149236892",
+   "name": "Oppenheimer Ranch Project",
+   "username": "Diamondthedave",
+   "verified_type": "blue",
+   "text": "Coast-to-coast cleanup after three storms batter North America - Geomagnetic Storm Ongoing https://t.co/ybpnTRZR47",
+   "started_at": "2026-10-13T02:28:58.000Z",
+   "assumed_live_until": "2026-10-13T05:28:58Z"
   },
   {
    "post_id": "2109796073300783529",
