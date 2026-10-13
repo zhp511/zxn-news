@@ -1,28 +1,18 @@
 {
- "built_at": "2026-10-13T02:53:47Z",
- "searched_at": "2026-10-13T02:53:47Z",
+ "built_at": "2026-10-13T03:14:49Z",
+ "searched_at": "2026-10-13T03:14:49Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
   {
-   "post_id": "2109797234946805788",
-   "post_url": "https://x.com/wil_da_beast630/status/2109797234946805788",
-   "name": "Wilfred Reilly",
-   "username": "wil_da_beast630",
+   "post_id": "2109843834935103913",
+   "post_url": "https://x.com/the_hindu/status/2109843834935103913",
+   "name": "The Hindu",
+   "username": "the_hindu",
    "verified_type": "blue",
-   "text": "\"Psychopathia and Politics - Live on Apostate Radio!\" https://t.co/2zavrctO8H",
-   "started_at": "2026-10-13T00:03:53.000Z",
-   "assumed_live_until": "2026-10-13T03:03:53Z"
-  },
-  {
-   "post_id": "2109795518352437662",
-   "post_url": "https://x.com/JovanHPulitzer/status/2109795518352437662",
-   "name": "JovanHuttonPulitzer",
-   "username": "JovanHPulitzer",
-   "verified_type": "blue",
-   "text": "Mr. President We Have Two Moves Left! Fixing Our Elections! https://t.co/0J1pWKme5O",
-   "started_at": "2026-10-12T23:57:04.000Z",
-   "assumed_live_until": "2026-10-13T02:57:04Z"
+   "text": "U.S. President Donald Trump speaks to reporters as he departs the White House for Ohio https://t.co/TMt2H7CtdE",
+   "started_at": "2026-10-13T03:09:03.000Z",
+   "assumed_live_until": "2026-10-13T06:09:03Z"
   },
   {
    "post_id": "2109820023598621099",
@@ -35,6 +25,16 @@
    "assumed_live_until": "2026-10-13T04:34:26Z"
   },
   {
+   "post_id": "2109832009598263514",
+   "post_url": "https://x.com/magnonewslive/status/2109832009598263514",
+   "name": "MAGNO NEWS LIVE",
+   "username": "magnonewslive",
+   "verified_type": "blue",
+   "text": "🇺🇸 President Trump Returns to the White House after MAGA Rally in Ohio [LIVE] https://t.co/b9wapiwiQv",
+   "started_at": "2026-10-13T02:22:04.000Z",
+   "assumed_live_until": "2026-10-13T05:22:04Z"
+  },
+  {
    "post_id": "2109811295268794518",
    "post_url": "https://x.com/GabrielTheValor/status/2109811295268794518",
    "name": "Gabriel-Antonelli",
@@ -45,24 +45,14 @@
    "assumed_live_until": "2026-10-13T03:59:45Z"
   },
   {
-   "post_id": "2109799726832906515",
-   "post_url": "https://x.com/SiriusXMPatriot/status/2109799726832906515",
-   "name": "SiriusXM Patriot",
-   "username": "SiriusXMPatriot",
+   "post_id": "2109827616186257629",
+   "post_url": "https://x.com/AJPArmy/status/2109827616186257629",
+   "name": "Average Joe Patriot 1776",
+   "username": "AJPArmy",
    "verified_type": "blue",
-   "text": "🇺🇸 WATCH LIVE: President @realDonaldTrump takes the stage in Youngstown, Ohio, for a midterm campaign rally ahead of the 2026 elections.\n\n📺 Watch via @Republicans\n\n#Trump #Midterms2026\nhttps://t.co/tshGcEqmw1",
-   "started_at": "2026-10-13T00:13:47.000Z",
-   "assumed_live_until": "2026-10-13T03:13:47Z"
-  },
-  {
-   "post_id": "2109796428226969686",
-   "post_url": "https://x.com/HotBoyTurk32/status/2109796428226969686",
-   "name": "#MAGNOLIATURK🦍🔥",
-   "username": "HotBoyTurk32",
-   "verified_type": "blue",
-   "text": "BOOSIE VS LIL WAYNE?! 🔥 TURK REACTS TO THE VERZUZ CHALLENGE & WHITE HOUSE CONTROVERSY! https://t.co/lYkB2tP5Td",
-   "started_at": "2026-10-13T00:00:41.000Z",
-   "assumed_live_until": "2026-10-13T03:00:41Z"
+   "text": "LIVE NOW \nRapid Fire News #1227 ~MAGA MONDAY~\nhttps://t.co/HfPKCeRXSx",
+   "started_at": "2026-10-13T02:04:37.000Z",
+   "assumed_live_until": "2026-10-13T05:04:37Z"
   },
   {
    "post_id": "2109833746149236892",
@@ -75,14 +65,24 @@
    "assumed_live_until": "2026-10-13T05:28:58Z"
   },
   {
-   "post_id": "2109832009598263514",
-   "post_url": "https://x.com/magnonewslive/status/2109832009598263514",
-   "name": "MAGNO NEWS LIVE",
-   "username": "magnonewslive",
+   "post_id": "2109828449489834416",
+   "post_url": "https://x.com/patriottvnet/status/2109828449489834416",
+   "name": "Patriot.TV",
+   "username": "patriottvnet",
    "verified_type": "blue",
-   "text": "🇺🇸 President Trump Returns to the White House after MAGA Rally in Ohio [LIVE] https://t.co/b9wapiwiQv",
-   "started_at": "2026-10-13T02:22:04.000Z",
-   "assumed_live_until": "2026-10-13T05:22:04Z"
+   "text": "7 Ways to Fight Against Jihad in America, With Guest Thaïs d’Escufon https://t.co/sPERmarNva",
+   "started_at": "2026-10-13T02:07:55.000Z",
+   "assumed_live_until": "2026-10-13T05:07:55Z"
+  },
+  {
+   "post_id": "2109844685716070892",
+   "post_url": "https://x.com/titovlogs77/status/2109844685716070892",
+   "name": "TitoVlogs.Crypto",
+   "username": "titovlogs77",
+   "verified_type": "blue",
+   "text": "Watch This Bitcoin RSI Level | Strategy Buys 250 BTC | CFTC Moves Without Congress https://t.co/et2Cfy6Jun",
+   "started_at": "2026-10-13T03:12:26.000Z",
+   "assumed_live_until": "2026-10-13T06:12:26Z"
   }
  ]
 }
