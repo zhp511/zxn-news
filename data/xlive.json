@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-17T07:09:10Z",
- "searched_at": "2026-10-17T07:09:10Z",
+ "built_at": "2026-10-17T07:14:07Z",
+ "searched_at": "2026-10-17T07:14:07Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -13,16 +13,6 @@
    "text": "Congress MP P Chidambaram and BJP MP Sudhanshu Trivedi join @maryashakil for an exclusive conversation |  #NewsTrack #ITLivestream https://t.co/i4C1qxKJD8",
    "started_at": "2026-10-17T05:00:28.000Z",
    "assumed_live_until": "2026-10-17T08:00:28Z"
-  },
-  {
-   "post_id": "2111349277289292068",
-   "post_url": "https://x.com/FootscraysFine1/status/2111349277289292068",
-   "name": "Footscray's Finest",
-   "username": "FootscraysFine1",
-   "verified_type": "blue",
-   "text": "Footscray's Finest presents: TRUMP FUCKS KIDS https://t.co/F6PdeoTjQS",
-   "started_at": "2026-10-17T06:51:09.000Z",
-   "assumed_live_until": "2026-10-17T09:51:09Z"
   },
   {
    "post_id": "2111321299331215543",
