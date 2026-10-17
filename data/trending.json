@@ -1,7 +1,7 @@
 {
- "built_at": "2026-10-17T01:06:19Z",
- "news_fetched_at": "2026-10-17T01:06:19Z",
- "trends_fetched_at": "2026-10-17T01:06:19Z",
+ "built_at": "2026-10-17T02:09:47Z",
+ "news_fetched_at": "2026-10-17T02:09:43Z",
+ "trends_fetched_at": "2026-10-17T02:09:43Z",
  "source": "X News (x.search_news) and US trends (x.get_trends_by_woeid 23424977). Story summaries are written by X/Grok from posts on X and may evolve.",
  "stories": [
   {
@@ -31,6 +31,16 @@
    "summary": "Former Vice President Harris advocated expanding the Supreme Court for better alignment with constitutional principles, reforming the Electoral College to prioritize the popular vote, and granting statehood to Washington, D.C., and Puerto Rico if residents support it. Her comments, made weeks before the midterms as Democrats aim to regain House and Senate control, drew quick online pushback from figures like Elon Musk and Benny Johnson, who tied them to calls for Republican votes. Supporters cite the court's 6-3 conservative majority and rulings on abortion and voting rights, while critics see partisan motives; practical barriers include constitutional amendments and congressional approval.",
    "updated_at": "2026-10-16T20:18:50.000Z",
    "url": "https://x.com/i/trending/2110536840919069134",
+   "topics": [],
+   "post_urls": []
+  },
+  {
+   "id": "2110822122213773594",
+   "headline": "Midterm Voters Back Republicans as Lesser Evil Ahead of November 3",
+   "hook": "With Election Day just weeks away, many online voices are rallying for Republican votes, admitting the party's flaws but seeing Democrats as far worse.",
+   "summary": "Posts from figures like Steven Ertelt of LifeNews.com declare support for Republicans 'not because they are perfect' but because 'Democrats are evil,' a view echoed by Julie Borowski's line about not being 'suicidally principled.' Graphics urge 'VOTE RED ALL THE WAY DOWN THE TICKET' with eagles, flags, and Trump calling to 'save America' on November 3, 2026, when all 435 House seats and 35 Senate seats are up for grabs. Yet polls show Democrats leading the generic ballot by six points amid a Republican enthusiasm gap, as the 'lesser of two evils' talk reveals sharp partisan lines.",
+   "updated_at": "2026-10-16T17:00:24.000Z",
+   "url": "https://x.com/i/trending/2110822122213773594",
    "topics": [],
    "post_urls": []
   },
@@ -73,16 +83,6 @@
    "url": "https://x.com/i/trending/2110944955690852776",
    "topics": [],
    "post_urls": []
-  },
-  {
-   "id": "2110553219047002133",
-   "headline": "Fox Poll: Corruption Tops Voter Concerns Before Midterms",
-   "hook": "With midterms just weeks away, a fresh poll reveals Americans' deepest worry: corruption in government, outranking even inflation for the first time in decades.",
-   "summary": "A Fox News survey of 1,202 registered voters from October 9-12 found 88% extremely or very concerned about government corruption, ahead of inflation at 85% and gas prices at 83%. President Trump's approval hit a low of 36%, with 64% disapproving, while Democrats led 54%-45% on the generic congressional ballot. Analysts noted risks for Republicans as Trump's base support shrinks and his disapproval on economic issues climbs, amid reports of $330 million raised from donors with federal ties for a White House project.",
-   "updated_at": "2026-10-16T02:09:00.000Z",
-   "url": "https://x.com/i/trending/2110553219047002133",
-   "topics": [],
-   "post_urls": []
   }
  ],
  "trends": [
@@ -91,60 +91,60 @@
    "url": "https://x.com/search?q=%23SmackDown"
   },
   {
-   "name": "San Clemente",
-   "url": "https://x.com/search?q=San%20Clemente"
-  },
-  {
-   "name": "Nikki Bella",
-   "url": "https://x.com/search?q=Nikki%20Bella"
-  },
-  {
-   "name": "Press Secretary",
-   "url": "https://x.com/search?q=Press%20Secretary"
-  },
-  {
-   "name": "Purdue",
-   "url": "https://x.com/search?q=Purdue"
-  },
-  {
    "name": "#OPLive",
    "url": "https://x.com/search?q=%23OPLive"
-  },
-  {
-   "name": "End 1Q",
-   "url": "https://x.com/search?q=End%201Q"
-  },
-  {
-   "name": "Violet",
-   "url": "https://x.com/search?q=Violet"
   },
   {
    "name": "Memphis",
    "url": "https://x.com/search?q=Memphis"
   },
   {
-   "name": "Tulane",
-   "url": "https://x.com/search?q=Tulane"
-  },
-  {
-   "name": "Neera",
-   "url": "https://x.com/search?q=Neera"
-  },
-  {
-   "name": "End of 1st",
-   "url": "https://x.com/search?q=End%20of%201st"
-  },
-  {
-   "name": "Mason Williams",
-   "url": "https://x.com/search?q=Mason%20Williams"
-  },
-  {
    "name": "Heartbeat",
    "url": "https://x.com/search?q=Heartbeat"
   },
   {
-   "name": "Scott Jennings",
-   "url": "https://x.com/search?q=Scott%20Jennings"
+   "name": "Purdue",
+   "url": "https://x.com/search?q=Purdue"
+  },
+  {
+   "name": "Tulane",
+   "url": "https://x.com/search?q=Tulane"
+  },
+  {
+   "name": "Marcus Stokes",
+   "url": "https://x.com/search?q=Marcus%20Stokes"
+  },
+  {
+   "name": "Baron Corbin",
+   "url": "https://x.com/search?q=Baron%20Corbin"
+  },
+  {
+   "name": "Sixers",
+   "url": "https://x.com/search?q=Sixers"
+  },
+  {
+   "name": "#Dateline",
+   "url": "https://x.com/search?q=%23Dateline"
+  },
+  {
+   "name": "San Clemente",
+   "url": "https://x.com/search?q=San%20Clemente"
+  },
+  {
+   "name": "End of 3rd",
+   "url": "https://x.com/search?q=End%20of%203rd"
+  },
+  {
+   "name": "Press Secretary",
+   "url": "https://x.com/search?q=Press%20Secretary"
+  },
+  {
+   "name": "End 3Q",
+   "url": "https://x.com/search?q=End%203Q"
+  },
+  {
+   "name": "#iahsfb",
+   "url": "https://x.com/search?q=%23iahsfb"
   }
  ]
 }
