@@ -1,39 +1,9 @@
 {
- "built_at": "2026-10-17T21:19:40Z",
- "searched_at": "2026-10-17T21:19:00Z",
+ "built_at": "2026-10-17T21:39:40Z",
+ "searched_at": "2026-10-17T21:39:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
-  {
-   "post_id": "2111526798819491982",
-   "post_url": "https://x.com/FoxNews/status/2111526798819491982",
-   "name": "Fox News",
-   "username": "FoxNews",
-   "verified_type": "blue",
-   "text": "WATCH LIVE: Dem Senate nominee Abdul El-Sayed rallies voters at Michigan town hall https://t.co/B4ew6rnnvf",
-   "started_at": "2026-10-17T18:36:33.000Z",
-   "assumed_live_until": "2026-10-17T21:36:33Z"
-  },
-  {
-   "post_id": "2111523934739091632",
-   "post_url": "https://x.com/OANN/status/2111523934739091632",
-   "name": "One America News",
-   "username": "OANN",
-   "verified_type": "business",
-   "text": "LIVE: Pres. Trump Stumps for Kentucky Republicans as Midterms Tighten https://t.co/xgKclqNwEZ",
-   "started_at": "2026-10-17T18:25:10.000Z",
-   "assumed_live_until": "2026-10-17T21:25:10Z"
-  },
-  {
-   "post_id": "2111525841712849190",
-   "post_url": "https://x.com/rolandsmartin/status/2111525841712849190",
-   "name": "rolandsmartin",
-   "username": "rolandsmartin",
-   "verified_type": "blue",
-   "text": "Live from Indy Pt. 2: Steward Speakers Black In America: From Conversation To Action https://t.co/aXVRX3ezWV",
-   "started_at": "2026-10-17T18:32:45.000Z",
-   "assumed_live_until": "2026-10-17T21:32:45Z"
-  },
   {
    "post_id": "2111532973501870160",
    "post_url": "https://x.com/GuyLandau/status/2111532973501870160",
@@ -83,6 +53,36 @@
    "text": "Channel One Newsroom Live! | Latest News Updates From Ghana [17.10.2026] https://t.co/JqrhDOfufo",
    "started_at": "2026-10-17T19:59:56.000Z",
    "assumed_live_until": "2026-10-17T22:59:56Z"
+  },
+  {
+   "post_id": "2111562639176597810",
+   "post_url": "https://x.com/RedPill78/status/2111562639176597810",
+   "name": "Zak Paine",
+   "username": "RedPill78",
+   "verified_type": "blue",
+   "text": "The Omar Raid Is Just The Beginning: Her $30 Million Paper Trail Is Next on Red Pill News Live https://t.co/ZoJI5WK1tF",
+   "started_at": "2026-10-17T20:58:58.000Z",
+   "assumed_live_until": "2026-10-17T23:58:58Z"
+  },
+  {
+   "post_id": "2111550373337145591",
+   "post_url": "https://x.com/Mike_Carmellini/status/2111550373337145591",
+   "name": "Mike Carmellini",
+   "username": "Mike_Carmellini",
+   "verified_type": "blue",
+   "text": "BRONCOS get GREAT NEWS as Narratives Swirl about BO NIX https://t.co/xF102DdaLn",
+   "started_at": "2026-10-17T20:10:14.000Z",
+   "assumed_live_until": "2026-10-17T23:10:14Z"
+  },
+  {
+   "post_id": "2111557472712278343",
+   "post_url": "https://x.com/bostonbroadside/status/2111557472712278343",
+   "name": "Boston_Broadside",
+   "username": "bostonbroadside",
+   "verified_type": "blue",
+   "text": "https://t.co/gRkAltUetu \nMike Walsh for AG vs Andrea Campbell AG in the Oppscore Debate, with or without the candidate.",
+   "started_at": "2026-10-17T20:38:26.000Z",
+   "assumed_live_until": "2026-10-17T23:38:26Z"
   }
  ]
 }
