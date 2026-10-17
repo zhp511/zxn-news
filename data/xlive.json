@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-17T01:21:41Z",
- "searched_at": "2026-10-17T01:21:30Z",
+ "built_at": "2026-10-17T02:00:25Z",
+ "searched_at": "2026-10-17T02:00:25Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -15,14 +15,14 @@
    "assumed_live_until": "2026-10-17T03:22:47Z"
   },
   {
-   "post_id": "2111230814633836980",
-   "post_url": "https://x.com/SecretAmericaTV/status/2111230814633836980",
-   "name": "Secret America Live!",
-   "username": "SecretAmericaTV",
+   "post_id": "2111274366357143710",
+   "post_url": "https://x.com/the_hindu/status/2111274366357143710",
+   "name": "The Hindu",
+   "username": "the_hindu",
    "verified_type": "blue",
-   "text": "Secret America Live! - Episode 263 - Press Secretary Given The Boot https://t.co/ZSXLyVlHo3",
-   "started_at": "2026-10-16T23:00:25.000Z",
-   "assumed_live_until": "2026-10-17T02:00:25Z"
+   "text": "US President Donald Trump addresses midterm rally in Dalton, Georgia https://t.co/dUhWDsM7me",
+   "started_at": "2026-10-17T01:53:29.000Z",
+   "assumed_live_until": "2026-10-17T04:53:29Z"
   },
   {
    "post_id": "2111239488978722849",
@@ -35,14 +35,14 @@
    "assumed_live_until": "2026-10-17T02:34:53Z"
   },
   {
-   "post_id": "2111230764557926796",
-   "post_url": "https://x.com/sharpe_way/status/2111230764557926796",
-   "name": "The Sharpe Way with Larry Sharpe",
-   "username": "sharpe_way",
+   "post_id": "2111273178144370718",
+   "post_url": "https://x.com/thebcpreacher/status/2111273178144370718",
+   "name": "The Black Conservative Preacher",
+   "username": "thebcpreacher",
    "verified_type": "blue",
-   "text": "Political Violence: Is America Losing Control? Sharpe Way 844! https://t.co/sqfFtxViik",
-   "started_at": "2026-10-16T23:00:13.000Z",
-   "assumed_live_until": "2026-10-17T02:00:13Z"
+   "text": "🚨LIVE: Is America Facing Problems Because It's a Christian Nation or Non-Christian Nation? https://t.co/GMqvp1TN2f",
+   "started_at": "2026-10-17T01:48:45.000Z",
+   "assumed_live_until": "2026-10-17T04:48:45Z"
   },
   {
    "post_id": "2111245833144533204",
@@ -53,16 +53,6 @@
    "text": "RERUN-Joe Oltmann Untamed | Joe’s Conversation W/ Erin Lee: Standing For America | 10.16.26 https://t.co/gu0IIW14gn",
    "started_at": "2026-10-17T00:00:06.000Z",
    "assumed_live_until": "2026-10-17T03:00:06Z"
-  },
-  {
-   "post_id": "2111230709373571534",
-   "post_url": "https://x.com/GetIndieNews/status/2111230709373571534",
-   "name": "IndieNewsNetwork",
-   "username": "GetIndieNews",
-   "verified_type": "blue",
-   "text": "State of Israel’s 2026 election, DOJ RAIDS Ilhan's Omar's House | AAF EP:183 https://t.co/LVid63Y5wr",
-   "started_at": "2026-10-16T23:00:00.000Z",
-   "assumed_live_until": "2026-10-17T02:00:00Z"
   },
   {
    "post_id": "2111232741564174787",
@@ -83,6 +73,16 @@
    "text": "a white house lo-fi radio is wild\nhttps://t.co/kVmiwL9rAk",
    "started_at": "2026-10-17T00:18:08.000Z",
    "assumed_live_until": "2026-10-17T03:18:08Z"
+  },
+  {
+   "post_id": "2111255850887327960",
+   "post_url": "https://x.com/nauman_rustam/status/2111255850887327960",
+   "name": "Nauman Rustam Shaikh",
+   "username": "nauman_rustam",
+   "verified_type": "blue",
+   "text": "Team Progressive SANA Election Campaign Launch Houston 2026 https://t.co/Bq6KfwT3T1",
+   "started_at": "2026-10-17T00:39:54.000Z",
+   "assumed_live_until": "2026-10-17T03:39:54Z"
   }
  ]
 }
