@@ -1,9 +1,29 @@
 {
- "built_at": "2026-10-17T04:15:25Z",
- "news_fetched_at": "2026-10-17T04:15:25Z",
- "trends_fetched_at": "2026-10-17T04:15:25Z",
+ "built_at": "2026-10-17T05:16:02Z",
+ "news_fetched_at": "2026-10-17T05:15:40Z",
+ "trends_fetched_at": "2026-10-17T05:15:40Z",
  "source": "X News (x.search_news) and US trends (x.get_trends_by_woeid 23424977). Story summaries are written by X/Grok from posts on X and may evolve.",
  "stories": [
+  {
+   "id": "2111131893630702023",
+   "headline": "State Department Declares America First Foreign Policy Under Rubio",
+   "hook": "Secretary of State Marco Rubio stares out from a stark black-and-white image in sunglasses, with the bold words: policy 'is going to be driven by what is good for AMERICA.' It's a clear signal of priorities.",
+   "summary": "The U.S. Department of State emphasized that foreign policy will prioritize American interests above all, using the slogan 'America First. Always.' Rubio called this common sense in interviews, stating the U.S. will use all elements of its power to advance its own goals and no longer put the UN or global order ahead of national needs. Supporters praised the direct rejection of international institutions first, while critics questioned its consistency and real-world application. The messaging draws from Rubio's earlier Athens speech linking the approach to Western values of heroism and duty.",
+   "updated_at": "2026-10-17T03:43:53.000Z",
+   "url": "https://x.com/i/trending/2111131893630702023",
+   "topics": [],
+   "post_urls": []
+  },
+  {
+   "id": "2111276223209087244",
+   "headline": "Posts Demand Thune Ouster and SAVE Act Passage",
+   "hook": "Frustrated voices online are laying out a clear plan: boot Senate Majority Leader John Thune, ditch the filibuster, and pass the SAVE America Act for stricter voting rules.",
+   "summary": "A wave of posts shares a graphic called 'Three Steps to Save America,' urging Republicans to replace Thune, end the filibuster for simple-majority votes, and approve the SAVE Act, which mandates proof of citizenship for federal voter registration and photo ID at polls. Supporters point to House-passed bills stalled in the Senate, accusing Thune of blocking voter ID and citizenship checks despite Speaker Johnson's calls for action. Thune pushes back, saying his caucus lacks unity on filibuster changes and prioritizes issues like avoiding a government shutdown, while Democrats oppose the bill. Despite the pressure, Thune holds support among colleagues with no immediate challenge.",
+   "updated_at": "2026-10-17T02:08:00.000Z",
+   "url": "https://x.com/i/trending/2111276223209087244",
+   "topics": [],
+   "post_urls": []
+  },
   {
    "id": "2110944956601032786",
    "headline": "French Post on MAGA Fatigue Ignites U.S.-Europe Clash on X",
@@ -63,26 +83,6 @@
    "url": "https://x.com/i/trending/2111082256903090191",
    "topics": [],
    "post_urls": []
-  },
-  {
-   "id": "2110914330036433325",
-   "headline": "Yglesias Lists Seven Key Misunderstandings in American Politics",
-   "hook": "Matthew Yglesias shared a straightforward list of common political mix-ups, like how Democratic leaders lean left of their voters and Trump's platform wasn't as extreme as some think.",
-   "summary": "On Thursday, commentator Matthew Yglesias outlined seven widespread misunderstandings, including that party elites drive polarization more than public views and primary wins don't guarantee general elections. He highlighted successes of moderate governors like Kentucky's Andy Beshear and Vermont's Phil Scott, and noted Trump's softer stances on entitlements compared to Mitt Romney's 2012 platform. Replies split sharply, with some praising points like elite-driven divides while others debated the Trump comparison, showing how policy details still spark online divides.",
-   "updated_at": "2026-10-16T04:41:07.000Z",
-   "url": "https://x.com/i/trending/2110914330036433325",
-   "topics": [],
-   "post_urls": []
-  },
-  {
-   "id": "2110944955690852776",
-   "headline": "Republicans Warn Democratic Socialist Policies Could Add $49 Trillion to Deficits",
-   "hook": "As November 2026 elections near, Republicans spotlight a massive price tag on Democratic Socialist ideas, warning families could face $355,000 in added debt per household.",
-   "summary": "A White House analysis from the Council of Economic Advisers projects that seven key planks in the Democratic Socialists of America’s “Workers Deserve More” platform, like Medicare for All and student debt cancellation, would cost $49 trillion over ten years. Speaker Mike Johnson called these 'extreme socialist' policies unaffordable, while Senator Mike Lee urged votes for Republicans. Critics counter that Republicans have driven record debt growth, and voters in places like New York express frustration with both parties amid the clash over taxes and spending ahead of early voting later this month.",
-   "updated_at": "2026-10-16T04:09:32.000Z",
-   "url": "https://x.com/i/trending/2110944955690852776",
-   "topics": [],
-   "post_urls": []
   }
  ],
  "trends": [
@@ -95,8 +95,12 @@
    "url": "https://x.com/search?q=%23SmackDown"
   },
   {
-   "name": "#OPLive",
-   "url": "https://x.com/search?q=%23OPLive"
+   "name": "#PFLChicago",
+   "url": "https://x.com/search?q=%23PFLChicago"
+  },
+  {
+   "name": "Mamu",
+   "url": "https://x.com/search?q=Mamu"
   },
   {
    "name": "ash trevino",
@@ -107,44 +111,40 @@
    "url": "https://x.com/search?q=Memphis"
   },
   {
-   "name": "Tulane",
-   "url": "https://x.com/search?q=Tulane"
-  },
-  {
-   "name": "Heartbeat",
-   "url": "https://x.com/search?q=Heartbeat"
-  },
-  {
-   "name": "Johnny Carson",
-   "url": "https://x.com/search?q=Johnny%20Carson"
-  },
-  {
-   "name": "YK Osiris",
-   "url": "https://x.com/search?q=YK%20Osiris"
-  },
-  {
-   "name": "Marcus Stokes",
-   "url": "https://x.com/search?q=Marcus%20Stokes"
+   "name": "#OPLive",
+   "url": "https://x.com/search?q=%23OPLive"
   },
   {
    "name": "Kessler",
    "url": "https://x.com/search?q=Kessler"
   },
   {
+   "name": "YK Osiris",
+   "url": "https://x.com/search?q=YK%20Osiris"
+  },
+  {
+   "name": "Tulane",
+   "url": "https://x.com/search?q=Tulane"
+  },
+  {
+   "name": "Braga",
+   "url": "https://x.com/search?q=Braga"
+  },
+  {
+   "name": "Johnny Carson",
+   "url": "https://x.com/search?q=Johnny%20Carson"
+  },
+  {
+   "name": "Heartbeat",
+   "url": "https://x.com/search?q=Heartbeat"
+  },
+  {
    "name": "Adin Ross",
    "url": "https://x.com/search?q=Adin%20Ross"
   },
   {
-   "name": "Delonte West",
-   "url": "https://x.com/search?q=Delonte%20West"
-  },
-  {
-   "name": "#brandrisk",
-   "url": "https://x.com/search?q=%23brandrisk"
-  },
-  {
-   "name": "X Money",
-   "url": "https://x.com/search?q=X%20Money"
+   "name": "#NHLBruins",
+   "url": "https://x.com/search?q=%23NHLBruins"
   }
  ]
 }
