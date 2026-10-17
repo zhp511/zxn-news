@@ -1,7 +1,7 @@
 {
- "built_at": "2026-10-17T05:16:02Z",
- "news_fetched_at": "2026-10-17T05:15:40Z",
- "trends_fetched_at": "2026-10-17T05:15:40Z",
+ "built_at": "2026-10-17T06:17:37Z",
+ "news_fetched_at": "2026-10-17T06:17:37Z",
+ "trends_fetched_at": "2026-10-17T06:17:37Z",
  "source": "X News (x.search_news) and US trends (x.get_trends_by_woeid 23424977). Story summaries are written by X/Grok from posts on X and may evolve.",
  "stories": [
   {
@@ -91,28 +91,28 @@
    "url": "https://x.com/search?q=Purdue"
   },
   {
+   "name": "#PFLChicago",
+   "url": "https://x.com/search?q=%23PFLChicago"
+  },
+  {
    "name": "#SmackDown",
    "url": "https://x.com/search?q=%23SmackDown"
   },
   {
-   "name": "#PFLChicago",
-   "url": "https://x.com/search?q=%23PFLChicago"
+   "name": "Johnny Carson",
+   "url": "https://x.com/search?q=Johnny%20Carson"
   },
   {
    "name": "Mamu",
    "url": "https://x.com/search?q=Mamu"
   },
   {
+   "name": "PERTHSANTA LOST IN LOVE",
+   "url": "https://x.com/search?q=PERTHSANTA%20LOST%20IN%20LOVE"
+  },
+  {
    "name": "ash trevino",
    "url": "https://x.com/search?q=ash%20trevino"
-  },
-  {
-   "name": "Memphis",
-   "url": "https://x.com/search?q=Memphis"
-  },
-  {
-   "name": "#OPLive",
-   "url": "https://x.com/search?q=%23OPLive"
   },
   {
    "name": "Kessler",
@@ -123,28 +123,28 @@
    "url": "https://x.com/search?q=YK%20Osiris"
   },
   {
+   "name": "Memphis",
+   "url": "https://x.com/search?q=Memphis"
+  },
+  {
+   "name": "#PerthSantaFMinMacau",
+   "url": "https://x.com/search?q=%23PerthSantaFMinMacau"
+  },
+  {
    "name": "Tulane",
    "url": "https://x.com/search?q=Tulane"
-  },
-  {
-   "name": "Braga",
-   "url": "https://x.com/search?q=Braga"
-  },
-  {
-   "name": "Johnny Carson",
-   "url": "https://x.com/search?q=Johnny%20Carson"
   },
   {
    "name": "Heartbeat",
    "url": "https://x.com/search?q=Heartbeat"
   },
   {
-   "name": "Adin Ross",
-   "url": "https://x.com/search?q=Adin%20Ross"
+   "name": "You Can See Everything",
+   "url": "https://x.com/search?q=You%20Can%20See%20Everything"
   },
   {
-   "name": "#NHLBruins",
-   "url": "https://x.com/search?q=%23NHLBruins"
+   "name": "#OPLive",
+   "url": "https://x.com/search?q=%23OPLive"
   }
  ]
 }

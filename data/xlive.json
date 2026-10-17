@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-17T06:00:34Z",
- "searched_at": "2026-10-17T06:00:34Z",
+ "built_at": "2026-10-17T06:17:37Z",
+ "searched_at": "2026-10-17T06:17:37Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -23,16 +23,6 @@
    "text": "Congress MP P Chidambaram and BJP MP Sudhanshu Trivedi join @maryashakil for an exclusive conversation |  #NewsTrack #ITLivestream https://t.co/i4C1qxKJD8",
    "started_at": "2026-10-17T05:00:28.000Z",
    "assumed_live_until": "2026-10-17T08:00:28Z"
-  },
-  {
-   "post_id": "2111292617984233497",
-   "post_url": "https://x.com/Yugi601/status/2111292617984233497",
-   "name": "Yugi601",
-   "username": "Yugi601",
-   "verified_type": "blue",
-   "text": "LIVE Conversations! - Any Topic, Religion, Politics, Gaming, News, Life, Relationships etc! https://t.co/Kz1eTzRTz7",
-   "started_at": "2026-10-17T03:06:00.000Z",
-   "assumed_live_until": "2026-10-17T06:06:00Z"
   },
   {
    "post_id": "2111306928983060492",
@@ -75,14 +65,14 @@
    "assumed_live_until": "2026-10-17T06:40:46Z"
   },
   {
-   "post_id": "2111293147531837738",
-   "post_url": "https://x.com/A1ROC/status/2111293147531837738",
-   "name": "A1FOREVER",
-   "username": "A1ROC",
+   "post_id": "2111297927356588456",
+   "post_url": "https://x.com/chriskerryshow/status/2111297927356588456",
+   "name": "Chris Kerry (TheChris&KerryShow)",
+   "username": "chriskerryshow",
    "verified_type": "blue",
-   "text": "Falcons Good News with Penix + Starter Ruled OUT https://t.co/B2aq4I9EO6",
-   "started_at": "2026-10-17T03:08:06.000Z",
-   "assumed_live_until": "2026-10-17T06:08:06Z"
+   "text": "🔴 ALBERTA'S FUTURE: THE GREAT DEBATE! Dr. Duane Bratt vs. Christopher Scott | LIVE https://t.co/9mLqsj0GDS",
+   "started_at": "2026-10-17T03:27:06.000Z",
+   "assumed_live_until": "2026-10-17T06:27:06Z"
   }
  ]
 }
