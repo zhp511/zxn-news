@@ -1,9 +1,39 @@
 {
- "built_at": "2026-10-17T16:51:45Z",
- "news_fetched_at": "2026-10-17T16:51:00Z",
- "trends_fetched_at": "2026-10-17T16:51:00Z",
+ "built_at": "2026-10-17T17:52:52Z",
+ "news_fetched_at": "2026-10-17T17:52:00Z",
+ "trends_fetched_at": "2026-10-17T17:52:00Z",
  "source": "X News (x.search_news) and US trends (x.get_trends_by_woeid 23424977). Story summaries are written by X/Grok from posts on X and may evolve.",
  "stories": [
+  {
+   "id": "2111504424199770125",
+   "headline": "Cornyn Faces Backlash Over Debate Post After Skipping His Own Primary Debates",
+   "hook": "Sen. John Cornyn called skipping debates disrespectful to voters—prompting Texans to remind him of his own words from earlier this year.",
+   "summary": "In January 2026, Cornyn said he saw no benefit in debating before the March 3 Republican primary, dismissing Rep. Wesley Hunt and expecting a contest with Ken Paxton. The primary led to a May 26 runoff, where Paxton won 64% to Cornyn's 36%, ending his Senate bid. On October 17, Cornyn posted that avoiding debates leaves voters uninformed, drawing replies quoting his past stance, criticizing his voting record like a 54% Conservative Review Liberty Score, and celebrating his primary loss with memes labeling him a RINO.",
+   "updated_at": "2026-10-17T17:16:59.000Z",
+   "url": "https://x.com/i/trending/2111504424199770125",
+   "topics": [],
+   "post_urls": []
+  },
+  {
+   "id": "2111500794893893811",
+   "headline": "Conservatives Rally Online for Red Votes Ahead of 2026 Midterms",
+   "hook": "With November 3 just over two weeks away, voices like Jamie Bonkiewicz's cut through: 'I don’t give a flying fuck if the polls say Democrats are winning by a landslide. Your ass better still get out and vote.'",
+   "summary": "Conservative users are sharing urgent 'Vote Red' messages, patriotic graphics, and calls for straight-ticket Republican support across all 435 House seats, 35 Senate seats, and 39 governorships. Posts from S. Carlin, Emma, KatieBeGoo, and Ben Owen emphasize high turnout and love of country, dismissing polls in favor of personal voting plans. Accompanied by American flag memes, neon signs, and hot air balloons, the activity underscores turnout as key, amid voter priorities like the economy, immigration, and healthcare.",
+   "updated_at": "2026-10-17T17:06:06.000Z",
+   "url": "https://x.com/i/trending/2111500794893893811",
+   "topics": [],
+   "post_urls": []
+  },
+  {
+   "id": "2111500793300087041",
+   "headline": "House Passes Resolution Condemning Socialism with Sharp Party Divide",
+   "hook": "On September 1, 2026, the U.S. House voted 220-192 to denounce socialism, revealing a clear partisan split that has people poring over the vote tallies.",
+   "summary": "Sponsored by Rep. Jeff Crank, the nonbinding H. Res. 1490 opposes socialism in all forms, including the Democratic Socialists of America, and reaffirms support for free elections. All 212 Republicans voted yes, while just eight Democrats—Reps. Kathy Castor, Vicente Gonzalez, Henry Cuellar, Darren Soto, Jared Golden, Marie Gluesenkamp Perez, Don Davis, and Gabe Vasquez—joined them, with 192 voting no. The vote ties into election integrity debates via endorsement of the SAVE America Act, and online discussions highlight the numbers as a stark indicator of party stances ahead of future elections.",
+   "updated_at": "2026-10-17T17:05:33.000Z",
+   "url": "https://x.com/i/trending/2111500793300087041",
+   "topics": [],
+   "post_urls": []
+  },
   {
    "id": "2110822122213773594",
    "headline": "Midterm Voters Rally Behind Republicans to Oppose Democrats",
@@ -15,32 +45,22 @@
    "post_urls": []
   },
   {
+   "id": "2111250225440432153",
+   "headline": "JD Vance's Sean Spicer Interview Sparks Partisan Clips Debate",
+   "hook": "JD Vance sat down at the White House for a candid chat on The Sean Spicer Show, but short clips on the economy and presidential power quickly divided viewers online.",
+   "summary": "Vance urged against voting for those who caused economic problems and highlighted the president's authority by asking, 'who’s gonna stop him?' while praising U.S. executive action over foreign bureaucracy. Supporters argue the clips lack context on reversing prior administration damage, while critics call the authority remark a nod to unchecked power in a republic with Congress, courts, and constitutional checks. The exchange comes amid 2026 midterms, with early voting in North Carolina showing Democrats outpacing Republicans more than two-to-one after over 237,000 ballots.",
+   "updated_at": "2026-10-17T16:42:01.000Z",
+   "url": "https://x.com/i/trending/2111250225440432153",
+   "topics": [],
+   "post_urls": []
+  },
+  {
    "id": "2111131893630702023",
    "headline": "State Department Pushes America First Policy Under Rubio",
    "hook": "Secretary Marco Rubio stands firm in a dark suit and sunglasses, declaring foreign policy will always put America first—no exceptions.",
    "summary": "The U.S. Department of State has rolled out bold America First messaging, featuring graphics of Rubio against the department seal with captions like 'America First. Always.' and promises to use all elements of American power for U.S. interests. Early actions include cutting foreign aid that doesn't align with national priorities, freeing detained Americans, and countering China's influence in the Western Hemisphere. While supporters see it as common sense that boosts leverage, critics edit graphics to claim favoritism toward Israel and question consistency in Middle East policy.",
    "updated_at": "2026-10-17T15:48:16.000Z",
    "url": "https://x.com/i/trending/2111131893630702023",
-   "topics": [],
-   "post_urls": []
-  },
-  {
-   "id": "2111321144070422879",
-   "headline": "Partisan Clash Intensifies Over Election Security Measures",
-   "hook": "House Speaker Mike Johnson drew a clear line: 'Only Americans should be deciding American elections.' His words captured the heated divide as midterms loom just weeks away.",
-   "summary": "Johnson pointed out that 213 House Democrats voted against bills to secure elections, including the SAVE America Act passed in February 2026 on a 218-213 vote, which requires proof of citizenship to register and photo ID to vote. Republicans cite DOJ cases of non-citizen voting as reason for these safeguards, while critics argue they create unnecessary barriers since federal law already mandates citizenship and such incidents are rare. Pressure builds on Senate Majority Leader John Thune to advance the measures amid GOP tensions, all against voter data showing Democrats leading in registrations and polls favoring their House gains on November 3.",
-   "updated_at": "2026-10-17T05:04:43.000Z",
-   "url": "https://x.com/i/trending/2111321144070422879",
-   "topics": [],
-   "post_urls": []
-  },
-  {
-   "id": "2111276223209087244",
-   "headline": "Posts Demand Thune Ouster and SAVE Act Passage",
-   "hook": "Frustrated voices online are laying out a clear plan: boot Senate Majority Leader John Thune, ditch the filibuster, and pass the SAVE America Act for stricter voting rules.",
-   "summary": "A wave of posts shares a graphic called 'Three Steps to Save America,' urging Republicans to replace Thune, end the filibuster for simple-majority votes, and approve the SAVE Act, which mandates proof of citizenship for federal voter registration and photo ID at polls. Supporters point to House-passed bills stalled in the Senate, accusing Thune of blocking voter ID and citizenship checks despite Speaker Johnson's calls for action. Thune pushes back, saying his caucus lacks unity on filibuster changes and prioritizes issues like avoiding a government shutdown, while Democrats oppose the bill. Despite the pressure, Thune holds support among colleagues with no immediate challenge.",
-   "updated_at": "2026-10-17T02:08:00.000Z",
-   "url": "https://x.com/i/trending/2111276223209087244",
    "topics": [],
    "post_urls": []
   },
@@ -63,88 +83,68 @@
    "url": "https://x.com/i/trending/2111219235842035885",
    "topics": [],
    "post_urls": []
-  },
-  {
-   "id": "2111107704634716271",
-   "headline": "CNN Polling Analysis Signals Tight Senate Battle for Republicans",
-   "hook": "With Election Day 18 days away, a CNN data dive shows Democrats holding slim leads in key Senate races—but a typical polling error could hand Republicans control.",
-   "summary": "CNN analyst Harry Enten highlighted narrow Democratic edges in battlegrounds like Kansas (tie), Iowa (+1), Maine (+2), Texas (+3), Michigan (+3), and Ohio (+3), noting Democrats need at least three flips for Senate control. Republicans point out that outperforming polls by the historical 3.7-point error flips the map to a 52-48 GOP majority, including wins in Michigan, Texas, and Maine. While forecast models give Democrats a 61% Senate chance and a House edge from a 4-point generic ballot lead, both sides stress turnout amid the razor-thin margins.",
-   "updated_at": "2026-10-16T20:41:39.000Z",
-   "url": "https://x.com/i/trending/2111107704634716271",
-   "topics": [],
-   "post_urls": []
-  },
-  {
-   "id": "2110536840919069134",
-   "headline": "Harris Calls for Supreme Court Expansion and Electoral College Changes",
-   "hook": "On Keke Palmer's podcast, Kamala Harris laid out bold plans for reshaping key U.S. institutions if Democrats take Congress.",
-   "summary": "Former Vice President Harris advocated expanding the Supreme Court for better alignment with constitutional principles, reforming the Electoral College to prioritize the popular vote, and granting statehood to Washington, D.C., and Puerto Rico if residents support it. Her comments, made weeks before the midterms as Democrats aim to regain House and Senate control, drew quick online pushback from figures like Elon Musk and Benny Johnson, who tied them to calls for Republican votes. Supporters cite the court's 6-3 conservative majority and rulings on abortion and voting rights, while critics see partisan motives; practical barriers include constitutional amendments and congressional approval.",
-   "updated_at": "2026-10-16T20:18:50.000Z",
-   "url": "https://x.com/i/trending/2110536840919069134",
-   "topics": [],
-   "post_urls": []
   }
  ],
  "trends": [
   {
-   "name": "Lamine",
-   "url": "https://x.com/search?q=Lamine"
+   "name": "Julian Sayin",
+   "url": "https://x.com/search?q=Julian%20Sayin"
+  },
+  {
+   "name": "Ohio State",
+   "url": "https://x.com/search?q=Ohio%20State"
+  },
+  {
+   "name": "Indiana",
+   "url": "https://x.com/search?q=Indiana"
   },
   {
    "name": "Hoover",
    "url": "https://x.com/search?q=Hoover"
   },
   {
-   "name": "Ohio State",
-   "url": "https://x.com/search?q=Ohio%20State"
+   "name": "Lamine",
+   "url": "https://x.com/search?q=Lamine"
   },
   {
-   "name": "Ohio State",
-   "url": "https://x.com/search?q=Ohio%20State"
+   "name": "Ryan Day",
+   "url": "https://x.com/search?q=Ryan%20Day"
   },
   {
-   "name": "Julian Sayin",
-   "url": "https://x.com/search?q=Julian%20Sayin"
+   "name": "Buckeyes",
+   "url": "https://x.com/search?q=Buckeyes"
+  },
+  {
+   "name": "Gators",
+   "url": "https://x.com/search?q=Gators"
   },
   {
    "name": "No Kings",
    "url": "https://x.com/search?q=No%20Kings"
   },
   {
-   "name": "Barcola",
-   "url": "https://x.com/search?q=Barcola"
+   "name": "KJ Duff",
+   "url": "https://x.com/search?q=KJ%20Duff"
   },
   {
-   "name": "Brentford",
-   "url": "https://x.com/search?q=Brentford"
+   "name": "Betis",
+   "url": "https://x.com/search?q=Betis"
   },
   {
-   "name": "Foster",
-   "url": "https://x.com/search?q=Foster"
+   "name": "Lo Celso",
+   "url": "https://x.com/search?q=Lo%20Celso"
   },
   {
-   "name": "Isak",
-   "url": "https://x.com/search?q=Isak"
+   "name": "#iufb",
+   "url": "https://x.com/search?q=%23iufb"
   },
   {
-   "name": "#GoBucks",
-   "url": "https://x.com/search?q=%23GoBucks"
+   "name": "Macron",
+   "url": "https://x.com/search?q=Macron"
   },
   {
-   "name": "Gus Johnson",
-   "url": "https://x.com/search?q=Gus%20Johnson"
-  },
-  {
-   "name": "Munoz",
-   "url": "https://x.com/search?q=Munoz"
-  },
-  {
-   "name": "Haaland",
-   "url": "https://x.com/search?q=Haaland"
-  },
-  {
-   "name": "Good Saturday",
-   "url": "https://x.com/search?q=Good%20Saturday"
+   "name": "Arthur Smith",
+   "url": "https://x.com/search?q=Arthur%20Smith"
   }
  ]
 }

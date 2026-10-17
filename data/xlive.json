@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-17T17:28:21Z",
- "searched_at": "2026-10-17T17:28:00Z",
+ "built_at": "2026-10-17T17:52:52Z",
+ "searched_at": "2026-10-17T17:52:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -25,14 +25,14 @@
    "assumed_live_until": "2026-10-17T19:48:43Z"
   },
   {
-   "post_id": "2111509356751503809",
-   "post_url": "https://x.com/AJNlive/status/2111509356751503809",
-   "name": "Alex Jones Network",
-   "username": "AJNlive",
+   "post_id": "2111509606182887665",
+   "post_url": "https://x.com/infowars/status/2111509606182887665",
+   "name": "INFOWARS",
+   "username": "infowars",
    "verified_type": "blue",
-   "text": "BREAKING LIVE: Zelensky Threatens To Hold Europe & The Rest Of The World Hostage By Pouring 20 Million Ukrainian Refugees Into The West If Trump Is Successful In Ending The War With Russia! This Is Another Paper Tiger Threat From The Globalist Puppet!\n\nhttps://t.co/iHWHgwQOXs",
-   "started_at": "2026-10-17T17:27:15.000Z",
-   "assumed_live_until": "2026-10-17T20:27:15Z"
+   "text": "BREAKING LIVE: Zelensky Threatens To Hold Europe & The Rest Of The World Hostage By Pouring 20 Million Ukrainian Refugees Into The West If Trump Is Successful In Ending The War With Russia! This Is Another Paper Tiger Threat From The Globalist Puppet!\n\nhttps://t.co/ZdFQPOyzGi",
+   "started_at": "2026-10-17T17:28:14.000Z",
+   "assumed_live_until": "2026-10-17T20:28:14Z"
   },
   {
    "post_id": "2111502362523423024",
