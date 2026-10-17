@@ -1,25 +1,15 @@
 {
- "built_at": "2026-10-17T13:36:01Z",
- "news_fetched_at": "2026-10-17T13:35:30Z",
- "trends_fetched_at": "2026-10-17T13:35:30Z",
+ "built_at": "2026-10-17T14:41:46Z",
+ "news_fetched_at": "2026-10-17T14:41:30Z",
+ "trends_fetched_at": "2026-10-17T14:41:30Z",
  "source": "X News (x.search_news) and US trends (x.get_trends_by_woeid 23424977). Story summaries are written by X/Grok from posts on X and may evolve.",
  "stories": [
   {
-   "id": "2111384182597587282",
-   "headline": "JD Vance on Presidential Power: 'Who's Gonna Stop Him?'",
-   "hook": "Seated in the White House in a suit and light purple tie, Vice President JD Vance laid out a straightforward view of executive authority during his interview on The Sean Spicer Show.",
-   "summary": "Vance explained that much of U.S. government power flows from the president, who 'just has a lot of authority' because 'the reality is, who's gonna stop him?' He contrasted this with more bureaucratic systems in China or Russia, highlighting how an active president can drive quick change. The comments, amid the Trump administration's push to 'move fast' on policies before courts intervene, split viewers: supporters saw realism in cutting through gridlock, while critics worried about downplaying checks from Congress and courts. Vance also touched on the economy, 2026 midterms, and his undecided 2028 plans.",
-   "updated_at": "2026-10-17T09:18:22.000Z",
-   "url": "https://x.com/i/trending/2111384182597587282",
-   "topics": [],
-   "post_urls": []
-  },
-  {
    "id": "2111250225440432153",
-   "headline": "JD Vance Interview Clips Fuel Midterm Messaging Battle",
-   "hook": "JD Vance urged voters to back Republicans fixing economic woes, but critics flipped the clip to rally for Democrats. Another snippet on presidential power stirred fresh worries about limits on authority.",
-   "summary": "In his October 16 interview on The Sean Spicer Show, Vice President Vance touted administration gains on affordability and said Republicans solve problems daily. Detractors shared short excerpts to argue for Democratic votes, while a remark on unchecked presidential authority prompted concerns over checks and balances. The White House countered by directing viewers to the full YouTube interview, which covers economic nationalism and active leadership. This clip war highlights how snippets shape narratives ahead of the November 3 midterms, amid early voting like North Carolina's Democrat lead.",
-   "updated_at": "2026-10-17T06:22:47.000Z",
+   "headline": "JD Vance Links Economic Fixes to Presidential Power in Interview",
+   "hook": "JD Vance urged voters not to back those who created economic woes, then noted the president's broad authority with a pointed question: who's going to stop him?",
+   "summary": "In his interview on The Sean Spicer Show, Vice President Vance tied current economic challenges to past policies, promoted Trump administration wins like TrumpRx for drug prices and American manufacturing pushback against offshoring. He framed these as economic nationalism to build family wealth and turn around inherited inflation, while acknowledging real change takes time. The clips sparked divides, with supporters praising 18 months of progress and critics raising checks-and-balances worries ahead of midterms, where early North Carolina voting shows Democrats leading.",
+   "updated_at": "2026-10-17T13:41:42.000Z",
    "url": "https://x.com/i/trending/2111250225440432153",
    "topics": [],
    "post_urls": []
@@ -35,12 +25,12 @@
    "post_urls": []
   },
   {
-   "id": "2110944956601032786",
-   "headline": "French Post on MAGA Fatigue Ignites U.S.-Europe Clash on X",
-   "hook": "A French account's blunt tweet about Europeans' exhaustion with MAGA Americans drew a swift American comeback, mirroring the exact words but flipping the sides.",
-   "summary": "On October 14, 2026, @ML3democrats posted that Europeans are 'sick and tired' of MAGA 'bullshit,' sparking thousands of replies including Catturd's dismissive 'How cute - you think we care 😂.' The exchange reflects broader U.S.-Europe tensions in Trump's second term, with polls showing his unfavorable ratings over 80 percent in Germany, Britain, and France, and 73 percent of Europeans favoring EU independence. Americans pointed to Europe's energy and migration woes, while Europeans blamed U.S. policies for eroding trust, keeping the debate alive days later.",
-   "updated_at": "2026-10-16T22:31:09.000Z",
-   "url": "https://x.com/i/trending/2110944956601032786",
+   "id": "2111205723820454272",
+   "headline": "Trump's State of the Union Challenge to Democrats on Citizen Safety Resurfaces",
+   "hook": "In his February State of the Union address, President Trump called on lawmakers to stand for prioritizing American citizens over illegal immigrants. Republicans rose; most Democrats stayed seated, prompting his direct rebuke: 'Isn't that a shame?'",
+   "summary": "The White House reposted the clip this week, tying it to open-border policies and the tragic death of Georgia nursing student Laken Riley, killed by a criminal illegal immigrant. Republicans praised Trump for supporting Angel Families and securing the border, while Democrats like Rep. Pete Aguilar accused House Republicans of favoring Trump over constituents. Critics frame the moment as part of deeper debates on funding, due process, and immigration reform, with both sides highlighting stakes for American families amid partisan divides.",
+   "updated_at": "2026-10-17T01:11:21.000Z",
+   "url": "https://x.com/i/trending/2111205723820454272",
    "topics": [],
    "post_urls": []
   },
@@ -51,6 +41,16 @@
    "summary": "The White House highlighted that 53 million filers benefited from the 2025 Working Families Tax Cuts, with average refunds hitting $3,400, up 11 percent from last year. Republicans, including Speaker Mike Johnson, praised it as the largest middle-class relief ever, featuring overtime deductions and senior breaks, while every Democrat opposed the bill. Critics counter that health costs rose sharply—with family plans up $1,408 and workers paying $554 more—while independent reviews show the top 1 percent gaining most, amid a $40 trillion national debt and $2 trillion deficit.",
    "updated_at": "2026-10-16T22:23:53.000Z",
    "url": "https://x.com/i/trending/2111219235842035885",
+   "topics": [],
+   "post_urls": []
+  },
+  {
+   "id": "2111107704634716271",
+   "headline": "CNN Polling Analysis Signals Tight Senate Battle for Republicans",
+   "hook": "With Election Day 18 days away, a CNN data dive shows Democrats holding slim leads in key Senate races—but a typical polling error could hand Republicans control.",
+   "summary": "CNN analyst Harry Enten highlighted narrow Democratic edges in battlegrounds like Kansas (tie), Iowa (+1), Maine (+2), Texas (+3), Michigan (+3), and Ohio (+3), noting Democrats need at least three flips for Senate control. Republicans point out that outperforming polls by the historical 3.7-point error flips the map to a 52-48 GOP majority, including wins in Michigan, Texas, and Maine. While forecast models give Democrats a 61% Senate chance and a House edge from a 4-point generic ballot lead, both sides stress turnout amid the razor-thin margins.",
+   "updated_at": "2026-10-16T20:41:39.000Z",
+   "url": "https://x.com/i/trending/2111107704634716271",
    "topics": [],
    "post_urls": []
   },
@@ -87,64 +87,64 @@
  ],
  "trends": [
   {
-   "name": "Everton",
-   "url": "https://x.com/search?q=Everton"
-  },
-  {
    "name": "Good Saturday",
    "url": "https://x.com/search?q=Good%20Saturday"
+  },
+  {
+   "name": "Everton",
+   "url": "https://x.com/search?q=Everton"
   },
   {
    "name": "Pedro Neto",
    "url": "https://x.com/search?q=Pedro%20Neto"
   },
   {
-   "name": "Emi Martinez",
-   "url": "https://x.com/search?q=Emi%20Martinez"
-  },
-  {
-   "name": "chaowesome",
-   "url": "https://x.com/search?q=chaowesome"
-  },
-  {
-   "name": "#EVECHE",
-   "url": "https://x.com/search?q=%23EVECHE"
-  },
-  {
-   "name": "NOL Festival",
-   "url": "https://x.com/search?q=NOL%20Festival"
-  },
-  {
-   "name": "#SaturdayVibes",
-   "url": "https://x.com/search?q=%23SaturdayVibes"
-  },
-  {
-   "name": "IDEA BANK",
-   "url": "https://x.com/search?q=IDEA%20BANK"
-  },
-  {
-   "name": "#CORTIS_NOLFest2026",
-   "url": "https://x.com/search?q=%23CORTIS_NOLFest2026"
-  },
-  {
-   "name": "JAMES THE ULTIMATE PHENOMENON",
-   "url": "https://x.com/search?q=JAMES%20THE%20ULTIMATE%20PHENOMENON"
-  },
-  {
-   "name": "#LingOrmBetweenUsConcertD1",
-   "url": "https://x.com/search?q=%23LingOrmBetweenUsConcertD1"
-  },
-  {
-   "name": "GAME DAY",
-   "url": "https://x.com/search?q=GAME%20DAY"
+   "name": "Gameday",
+   "url": "https://x.com/search?q=Gameday"
   },
   {
    "name": "#Caturday",
    "url": "https://x.com/search?q=%23Caturday"
   },
   {
+   "name": "#SaturdayVibes",
+   "url": "https://x.com/search?q=%23SaturdayVibes"
+  },
+  {
+   "name": "No Kings",
+   "url": "https://x.com/search?q=No%20Kings"
+  },
+  {
+   "name": "Emi Martinez",
+   "url": "https://x.com/search?q=Emi%20Martinez"
+  },
+  {
+   "name": "#EVECHE",
+   "url": "https://x.com/search?q=%23EVECHE"
+  },
+  {
+   "name": "IDEA BANK",
+   "url": "https://x.com/search?q=IDEA%20BANK"
+  },
+  {
+   "name": "Foden",
+   "url": "https://x.com/search?q=Foden"
+  },
+  {
+   "name": "#FourthConcertD2",
+   "url": "https://x.com/search?q=%23FourthConcertD2"
+  },
+  {
+   "name": "Buckeyes",
+   "url": "https://x.com/search?q=Buckeyes"
+  },
+  {
    "name": "THE WORLD BETWEEN LINGORM D1",
    "url": "https://x.com/search?q=THE%20WORLD%20BETWEEN%20LINGORM%20D1"
+  },
+  {
+   "name": "KEEP GOING AMAZING FOURTH",
+   "url": "https://x.com/search?q=KEEP%20GOING%20AMAZING%20FOURTH"
   }
  ]
 }

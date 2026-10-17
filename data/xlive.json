@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-17T14:26:41Z",
- "searched_at": "2026-10-17T14:26:00Z",
+ "built_at": "2026-10-17T14:41:46Z",
+ "searched_at": "2026-10-17T14:41:30Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -13,6 +13,16 @@
    "text": "Live from Indy: Steward Speakers Black In America: From Conversation To Action https://t.co/sKeB51ZbTQ",
    "started_at": "2026-10-17T14:20:25.000Z",
    "assumed_live_until": "2026-10-17T17:20:25Z"
+  },
+  {
+   "post_id": "2111457791131128140",
+   "post_url": "https://x.com/TheParticularB/status/2111457791131128140",
+   "name": "The Particular Baptist",
+   "username": "TheParticularB",
+   "verified_type": "blue",
+   "text": "Is the Bible Sufficient for Politics and Other Sciences? https://t.co/bhTRXWev4A",
+   "started_at": "2026-10-17T14:02:21.000Z",
+   "assumed_live_until": "2026-10-17T17:02:21Z"
   },
   {
    "post_id": "2111443978478395639",
@@ -33,16 +43,6 @@
    "text": "ELECTION 2026 WATCH https://t.co/xSlR35zyCH",
    "started_at": "2026-10-17T11:56:42.000Z",
    "assumed_live_until": "2026-10-17T14:56:42Z"
-  },
-  {
-   "post_id": "2111457791131128140",
-   "post_url": "https://x.com/TheParticularB/status/2111457791131128140",
-   "name": "The Particular Baptist",
-   "username": "TheParticularB",
-   "verified_type": "blue",
-   "text": "Is the Bible Sufficient for Politics and Other Sciences? https://t.co/bhTRXWev4A",
-   "started_at": "2026-10-17T14:02:21.000Z",
-   "assumed_live_until": "2026-10-17T17:02:21Z"
   },
   {
    "post_id": "2111460117820399954",
