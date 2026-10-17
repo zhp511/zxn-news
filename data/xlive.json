@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-17T19:53:54Z",
- "searched_at": "2026-10-17T19:53:30Z",
+ "built_at": "2026-10-17T20:12:16Z",
+ "searched_at": "2026-10-17T20:12:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -13,16 +13,6 @@
    "text": "WATCH LIVE: Dem Senate nominee Abdul El-Sayed rallies voters at Michigan town hall https://t.co/B4ew6rnnvf",
    "started_at": "2026-10-17T18:36:33.000Z",
    "assumed_live_until": "2026-10-17T21:36:33Z"
-  },
-  {
-   "post_id": "2111503837538472367",
-   "post_url": "https://x.com/BernieSanders/status/2111503837538472367",
-   "name": "Bernie Sanders",
-   "username": "BernieSanders",
-   "verified_type": "government",
-   "text": "Angie Nixon was outspent 16 to 1 in the Dem primary. But she stood with working people and won a HUGE upset.\n\nWe need leaders like Angie in the Senate. https://t.co/pA6logvyQq",
-   "started_at": "2026-10-17T17:05:19.000Z",
-   "assumed_live_until": "2026-10-17T20:05:19Z"
   },
   {
    "post_id": "2111517774467981789",
@@ -45,16 +35,6 @@
    "assumed_live_until": "2026-10-17T20:28:14Z"
   },
   {
-   "post_id": "2111502362523423024",
-   "post_url": "https://x.com/barrycunningham/status/2111502362523423024",
-   "name": "Barry Cunningham",
-   "username": "barrycunningham",
-   "verified_type": "blue",
-   "text": "LIVE TRUMP RALLY IN KENTUCKY! Countdown To The Midterms | Flying Cars! And More News! https://t.co/aXuYaOKvU0",
-   "started_at": "2026-10-17T16:59:27.000Z",
-   "assumed_live_until": "2026-10-17T19:59:27Z"
-  },
-  {
    "post_id": "2111519080507437142",
    "post_url": "https://x.com/Dialogue_NRA/status/2111519080507437142",
    "name": "Dialogue works",
@@ -63,6 +43,16 @@
    "text": "Mark Sleboda: BREAKING: Iran Rejects U.S. Proposal—Trump Threatens Pickaxe Mountain https://t.co/V9R3WXacR4",
    "started_at": "2026-10-17T18:05:53.000Z",
    "assumed_live_until": "2026-10-17T21:05:53Z"
+  },
+  {
+   "post_id": "2111525841712849190",
+   "post_url": "https://x.com/rolandsmartin/status/2111525841712849190",
+   "name": "rolandsmartin",
+   "username": "rolandsmartin",
+   "verified_type": "blue",
+   "text": "Live from Indy Pt. 2: Steward Speakers Black In America: From Conversation To Action https://t.co/aXVRX3ezWV",
+   "started_at": "2026-10-17T18:32:45.000Z",
+   "assumed_live_until": "2026-10-17T21:32:45Z"
   },
   {
    "post_id": "2111517577952579672",
@@ -83,6 +73,16 @@
    "text": "Badlands Media Special Coverage: President Trump Delivers Remarks from Highland Heights, KY https://t.co/cVhltbTzAV",
    "started_at": "2026-10-17T18:01:02.000Z",
    "assumed_live_until": "2026-10-17T21:01:02Z"
+  },
+  {
+   "post_id": "2111520222620569616",
+   "post_url": "https://x.com/THEDuaneCates/status/2111520222620569616",
+   "name": "DuaneCates001",
+   "username": "THEDuaneCates",
+   "verified_type": "blue",
+   "text": "THUNDERDOME SPECIAL!! PRESIDENT TRUMP RALLIES IN KENTUCKY!! https://t.co/zZZSI9wT7L",
+   "started_at": "2026-10-17T18:10:25.000Z",
+   "assumed_live_until": "2026-10-17T21:10:25Z"
   }
  ]
 }
