@@ -1,9 +1,19 @@
 {
- "built_at": "2026-10-17T04:06:55Z",
- "searched_at": "2026-10-17T04:06:40Z",
+ "built_at": "2026-10-17T04:22:48Z",
+ "searched_at": "2026-10-17T04:22:40Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
+  {
+   "post_id": "2111298364289794324",
+   "post_url": "https://x.com/IndiaToday/status/2111298364289794324",
+   "name": "IndiaToday",
+   "username": "IndiaToday",
+   "verified_type": "business",
+   "text": "#LIVE | Big relief for India on oil imports. Trump waives Russia-related tariffs. Watch this and more | #ITLivestream @jessica_goel https://t.co/PEgil4pddl",
+   "started_at": "2026-10-17T03:28:50.000Z",
+   "assumed_live_until": "2026-10-17T06:28:50Z"
+  },
   {
    "post_id": "2111306193100742971",
    "post_url": "https://x.com/RealAmVoice/status/2111306193100742971",
@@ -35,16 +45,6 @@
    "assumed_live_until": "2026-10-17T06:00:06Z"
   },
   {
-   "post_id": "2111303947122335970",
-   "post_url": "https://x.com/htownstringer/status/2111303947122335970",
-   "name": "Houston Stringer",
-   "username": "htownstringer",
-   "verified_type": "blue",
-   "text": "Authorities provide update regarding fire at UniClean America warehouse https://t.co/u8WgOBBtEM",
-   "started_at": "2026-10-17T03:51:01.000Z",
-   "assumed_live_until": "2026-10-17T06:51:01Z"
-  },
-  {
    "post_id": "2111292617984233497",
    "post_url": "https://x.com/Yugi601/status/2111292617984233497",
    "name": "Yugi601",
@@ -55,14 +55,14 @@
    "assumed_live_until": "2026-10-17T06:06:00Z"
   },
   {
-   "post_id": "2111262724684697987",
-   "post_url": "https://x.com/danielsaynt/status/2111262724684697987",
-   "name": "Daniel Saynt",
-   "username": "danielsaynt",
+   "post_id": "2111306928983060492",
+   "post_url": "https://x.com/averagedayjoes/status/2111306928983060492",
+   "name": "Average Day Joe's",
+   "username": "averagedayjoes",
    "verified_type": "blue",
-   "text": "Amplify America https://t.co/x6GwwAZi8s",
-   "started_at": "2026-10-17T01:07:13.000Z",
-   "assumed_live_until": "2026-10-17T04:07:13Z"
+   "text": "Episode#465 Trump Jokes About El-Sayed's Name https://t.co/EQcMaqA7K0",
+   "started_at": "2026-10-17T04:02:52.000Z",
+   "assumed_live_until": "2026-10-17T07:02:52Z"
   },
   {
    "post_id": "2111277116931309764",
