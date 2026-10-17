@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-17T21:04:54Z",
- "searched_at": "2026-10-17T21:04:00Z",
+ "built_at": "2026-10-17T21:19:40Z",
+ "searched_at": "2026-10-17T21:19:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -15,14 +15,14 @@
    "assumed_live_until": "2026-10-17T21:36:33Z"
   },
   {
-   "post_id": "2111519080507437142",
-   "post_url": "https://x.com/Dialogue_NRA/status/2111519080507437142",
-   "name": "Dialogue works",
-   "username": "Dialogue_NRA",
-   "verified_type": "blue",
-   "text": "Mark Sleboda: BREAKING: Iran Rejects U.S. Proposal—Trump Threatens Pickaxe Mountain https://t.co/V9R3WXacR4",
-   "started_at": "2026-10-17T18:05:53.000Z",
-   "assumed_live_until": "2026-10-17T21:05:53Z"
+   "post_id": "2111523934739091632",
+   "post_url": "https://x.com/OANN/status/2111523934739091632",
+   "name": "One America News",
+   "username": "OANN",
+   "verified_type": "business",
+   "text": "LIVE: Pres. Trump Stumps for Kentucky Republicans as Midterms Tighten https://t.co/xgKclqNwEZ",
+   "started_at": "2026-10-17T18:25:10.000Z",
+   "assumed_live_until": "2026-10-17T21:25:10Z"
   },
   {
    "post_id": "2111525841712849190",
@@ -35,24 +35,14 @@
    "assumed_live_until": "2026-10-17T21:32:45Z"
   },
   {
-   "post_id": "2111520222620569616",
-   "post_url": "https://x.com/THEDuaneCates/status/2111520222620569616",
-   "name": "DuaneCates001",
-   "username": "THEDuaneCates",
+   "post_id": "2111532973501870160",
+   "post_url": "https://x.com/GuyLandau/status/2111532973501870160",
+   "name": "Guy Landau",
+   "username": "GuyLandau",
    "verified_type": "blue",
-   "text": "THUNDERDOME SPECIAL!! PRESIDENT TRUMP RALLIES IN KENTUCKY!! https://t.co/zZZSI9wT7L",
-   "started_at": "2026-10-17T18:10:25.000Z",
-   "assumed_live_until": "2026-10-17T21:10:25Z"
-  },
-  {
-   "post_id": "2111520401327358179",
-   "post_url": "https://x.com/MyriamCarlyle/status/2111520401327358179",
-   "name": "Myriam Carlyle",
-   "username": "MyriamCarlyle",
-   "verified_type": "blue",
-   "text": "https://t.co/Zu3YlhsYVA \n\nPRESIDENT TRUMP MAGA MIDTERM RALLY IN HIGHLAND HEIGHTS, KENTUCKY!",
-   "started_at": "2026-10-17T18:11:08.000Z",
-   "assumed_live_until": "2026-10-17T21:11:08Z"
+   "text": "Leftists Play Election Games As California BURNS https://t.co/2xUePmiewN",
+   "started_at": "2026-10-17T19:01:05.000Z",
+   "assumed_live_until": "2026-10-17T22:01:05Z"
   },
   {
    "post_id": "2111527610341884077",
@@ -65,16 +55,6 @@
    "assumed_live_until": "2026-10-17T21:39:47Z"
   },
   {
-   "post_id": "2111532973501870160",
-   "post_url": "https://x.com/GuyLandau/status/2111532973501870160",
-   "name": "Guy Landau",
-   "username": "GuyLandau",
-   "verified_type": "blue",
-   "text": "Leftists Play Election Games As California BURNS https://t.co/2xUePmiewN",
-   "started_at": "2026-10-17T19:01:05.000Z",
-   "assumed_live_until": "2026-10-17T22:01:05Z"
-  },
-  {
    "post_id": "2111539543987859594",
    "post_url": "https://x.com/Iamjstory/status/2111539543987859594",
    "name": "JONATHAN STORY LLC",
@@ -83,6 +63,26 @@
    "text": "This man is America's greatest President to ever set foot in the @WhiteHouse \nhttps://t.co/YvFMsAvuH2",
    "started_at": "2026-10-17T19:27:12.000Z",
    "assumed_live_until": "2026-10-17T22:27:12Z"
+  },
+  {
+   "post_id": "2111563895303479738",
+   "post_url": "https://x.com/channelstv/status/2111563895303479738",
+   "name": "Channels Television",
+   "username": "channelstv",
+   "verified_type": "blue",
+   "text": "News At 10 https://t.co/67xmRWZVlG",
+   "started_at": "2026-10-17T21:03:58.000Z",
+   "assumed_live_until": "2026-10-18T00:03:58Z"
+  },
+  {
+   "post_id": "2111547780988874877",
+   "post_url": "https://x.com/Channel1TVGHA/status/2111547780988874877",
+   "name": "ChannelOne TV",
+   "username": "Channel1TVGHA",
+   "verified_type": "blue",
+   "text": "Channel One Newsroom Live! | Latest News Updates From Ghana [17.10.2026] https://t.co/JqrhDOfufo",
+   "started_at": "2026-10-17T19:59:56.000Z",
+   "assumed_live_until": "2026-10-17T22:59:56Z"
   }
  ]
 }
