@@ -1,6 +1,6 @@
 {
  "generated_from": "data/raw_pages.json + data/raw_archive.json",
- "fetched_at": "2026-10-17T19:05:42Z",
+ "fetched_at": "2026-10-17T22:07:37Z",
  "pinned_top": "2108635147318784214",
  "user": {
   "id": "2011476148178599939",
@@ -23,6 +23,29 @@
   "banner_local": "images/banner.jpg"
  },
  "posts": [
+  {
+   "id": "2111579814490718464",
+   "url": "https://x.com/zxnbluehandus/status/2111579814490718464",
+   "created_at": "2026-10-17T22:07:13.000Z",
+   "headline": "There u go @apinionsvary @stockmom",
+   "headline_source": "post",
+   "text": "There u go @apinionsvary @stockmom",
+   "original_text": "There u go @apinionsvary @stockmom https://t.co/cRqsmGKxIl",
+   "metrics": {
+    "bookmark_count": 0,
+    "impression_count": 2,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "images": [],
+   "image_source": null,
+   "link": null,
+   "has_video": false,
+   "hidden": false,
+   "hidden_reason": null
+  },
   {
    "id": "2111532908108558592",
    "url": "https://x.com/zxnbluehandus/status/2111532908108558592",
