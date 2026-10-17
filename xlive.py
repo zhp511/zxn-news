@@ -35,6 +35,7 @@ NEWS = re.compile(r"\b(news|breaking news|politic\w*|election\w*|ballot|vote|tru
                   r"white house|hurricane|storm watch|israel|iran|ukraine|america\w*|maga|charlie kirk|headlines?|"
                   r"geomagnetic|supreme court|governor|campaign)\b", re.I)
 BLOCK = re.compile(r"\b(nfl|mlb|nba|nhl|postgame|pregame|bye week|dodgers|seahawks|49ers|football|baseball|"
+                   r"prematch|watchalong|lineups|soccer|mls|ncaa|college football|inter miami|notre dame|ufc|post-fight|"
                    r"onlyfans|of live|nsfw|18\+|porn|sex|wordle|theme park|crypto|\$[A-Z]{2,6}|exhibition results|"
                    r"giveaway|casino|betting)\b", re.I)
 # Vulgar/obscene posts are never shown on the site (added 2026-10-17 by the refresh routine).

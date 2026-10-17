@@ -1,5 +1,5 @@
 {
  "live": false,
- "checked_at": "2026-10-17T23:20:31.113541Z",
+ "checked_at": "2026-10-17T23:26:31.039384Z",
  "detection": "A post linking to an X broadcast counts as live for 3 h after posting (X's API doesn't report when a broadcast ends)."
 }
