@@ -1,16 +1,26 @@
 {
- "built_at": "2026-10-17T14:41:46Z",
- "news_fetched_at": "2026-10-17T14:41:30Z",
- "trends_fetched_at": "2026-10-17T14:41:30Z",
+ "built_at": "2026-10-17T15:42:33Z",
+ "news_fetched_at": "2026-10-17T15:42:30Z",
+ "trends_fetched_at": "2026-10-17T15:42:30Z",
  "source": "X News (x.search_news) and US trends (x.get_trends_by_woeid 23424977). Story summaries are written by X/Grok from posts on X and may evolve.",
  "stories": [
   {
-   "id": "2111250225440432153",
-   "headline": "JD Vance Links Economic Fixes to Presidential Power in Interview",
-   "hook": "JD Vance urged voters not to back those who created economic woes, then noted the president's broad authority with a pointed question: who's going to stop him?",
-   "summary": "In his interview on The Sean Spicer Show, Vice President Vance tied current economic challenges to past policies, promoted Trump administration wins like TrumpRx for drug prices and American manufacturing pushback against offshoring. He framed these as economic nationalism to build family wealth and turn around inherited inflation, while acknowledging real change takes time. The clips sparked divides, with supporters praising 18 months of progress and critics raising checks-and-balances worries ahead of midterms, where early North Carolina voting shows Democrats leading.",
-   "updated_at": "2026-10-17T13:41:42.000Z",
-   "url": "https://x.com/i/trending/2111250225440432153",
+   "id": "2111479305222181033",
+   "headline": "Progressives Clash Over Party Loyalty and 2028 Voting Strategy",
+   "hook": "A political commentator's video urging Democrats to stick together despite flaws drew sharp pushback from leftists frustrated with the two-party system.",
+   "summary": "Winter's October 15 clip, pushing acceptance of Democratic choices, prompted accusations of 'blue no matter who' thinking and claims she's more liberal than leftist. Critics highlighted her past wealth from MAGA audiences and warned against strategic voting that could enable a Trump third term or a Newsom nomination. Supporters see it as pragmatic in a flawed system, while detractors argue it erodes principles and blocks building stronger alternatives like European Greens.",
+   "updated_at": "2026-10-17T15:36:28.000Z",
+   "url": "https://x.com/i/trending/2111479305222181033",
+   "topics": [],
+   "post_urls": []
+  },
+  {
+   "id": "2111473628412076358",
+   "headline": "Republican Supporters Push Vote Red Ahead of 2026 Midterms",
+   "hook": "With November 3 approaching, Republican backers are flooding feeds with bold calls to vote red, tying it to a booming economy under Trump's second term.",
+   "summary": "All 435 House seats and 35 Senate seats are up for grabs as supporters aim to protect Republican majorities. They highlight Democratic shortcomings, like a lack of strong candidates and enthusiasm, while pointing to the S&P 500's 30% rise from late 2024 to September 2026. Eye-catching visuals—from red hot air balloons to neon signs—urge high turnout to keep the wins coming, even as analysts note the usual midterm hurdles for the president's party.",
+   "updated_at": "2026-10-17T15:14:02.000Z",
+   "url": "https://x.com/i/trending/2111473628412076358",
    "topics": [],
    "post_urls": []
   },
@@ -73,16 +83,6 @@
    "url": "https://x.com/i/trending/2110822122213773594",
    "topics": [],
    "post_urls": []
-  },
-  {
-   "id": "2111082256903090191",
-   "headline": "Trump-Vance-Rubio 'Dream Team' Photo Divides Opinions",
-   "hook": "A photo places President Trump between Vice President JD Vance and Secretary of State Marco Rubio, stamped with 'DREAM TEAM.' It captures excitement from fans and sharp skepticism from critics.",
-   "summary": "Supporters hail the lineup as the strongest in Washington, with Trump leading, Vance battling domestically, and Rubio restoring global respect. Detractors call it fantasy, questioning if the world truly respects America under this team amid Russia policy debates. The image echoes Trump's past praise for a Vance-Rubio 2028 ticket and fuels exchanges tying into foreign policy divides, like a controversial diesel fuel deal with Russia.",
-   "updated_at": "2026-10-16T13:19:14.000Z",
-   "url": "https://x.com/i/trending/2111082256903090191",
-   "topics": [],
-   "post_urls": []
   }
  ],
  "trends": [
@@ -91,60 +91,60 @@
    "url": "https://x.com/search?q=Good%20Saturday"
   },
   {
+   "name": "Munoz",
+   "url": "https://x.com/search?q=Munoz"
+  },
+  {
+   "name": "Isak",
+   "url": "https://x.com/search?q=Isak"
+  },
+  {
    "name": "Everton",
    "url": "https://x.com/search?q=Everton"
   },
   {
-   "name": "Pedro Neto",
-   "url": "https://x.com/search?q=Pedro%20Neto"
+   "name": "Brentford",
+   "url": "https://x.com/search?q=Brentford"
+  },
+  {
+   "name": "Foster",
+   "url": "https://x.com/search?q=Foster"
   },
   {
    "name": "Gameday",
    "url": "https://x.com/search?q=Gameday"
   },
   {
-   "name": "#Caturday",
-   "url": "https://x.com/search?q=%23Caturday"
-  },
-  {
-   "name": "#SaturdayVibes",
-   "url": "https://x.com/search?q=%23SaturdayVibes"
-  },
-  {
    "name": "No Kings",
    "url": "https://x.com/search?q=No%20Kings"
   },
   {
-   "name": "Emi Martinez",
-   "url": "https://x.com/search?q=Emi%20Martinez"
-  },
-  {
-   "name": "#EVECHE",
-   "url": "https://x.com/search?q=%23EVECHE"
-  },
-  {
-   "name": "IDEA BANK",
-   "url": "https://x.com/search?q=IDEA%20BANK"
-  },
-  {
-   "name": "Foden",
-   "url": "https://x.com/search?q=Foden"
-  },
-  {
-   "name": "#FourthConcertD2",
-   "url": "https://x.com/search?q=%23FourthConcertD2"
+   "name": "#Caturday",
+   "url": "https://x.com/search?q=%23Caturday"
   },
   {
    "name": "Buckeyes",
    "url": "https://x.com/search?q=Buckeyes"
   },
   {
-   "name": "THE WORLD BETWEEN LINGORM D1",
-   "url": "https://x.com/search?q=THE%20WORLD%20BETWEEN%20LINGORM%20D1"
+   "name": "#SaturdayVibes",
+   "url": "https://x.com/search?q=%23SaturdayVibes"
   },
   {
-   "name": "KEEP GOING AMAZING FOURTH",
-   "url": "https://x.com/search?q=KEEP%20GOING%20AMAZING%20FOURTH"
+   "name": "Pedro Neto",
+   "url": "https://x.com/search?q=Pedro%20Neto"
+  },
+  {
+   "name": "Jacquet",
+   "url": "https://x.com/search?q=Jacquet"
+  },
+  {
+   "name": "#BRELIV",
+   "url": "https://x.com/search?q=%23BRELIV"
+  },
+  {
+   "name": "Barcola",
+   "url": "https://x.com/search?q=Barcola"
   }
  ]
 }
