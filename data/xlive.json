@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-17T20:47:26Z",
- "searched_at": "2026-10-17T20:47:00Z",
+ "built_at": "2026-10-17T21:04:54Z",
+ "searched_at": "2026-10-17T21:04:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -13,16 +13,6 @@
    "text": "WATCH LIVE: Dem Senate nominee Abdul El-Sayed rallies voters at Michigan town hall https://t.co/B4ew6rnnvf",
    "started_at": "2026-10-17T18:36:33.000Z",
    "assumed_live_until": "2026-10-17T21:36:33Z"
-  },
-  {
-   "post_id": "2111517774467981789",
-   "post_url": "https://x.com/AJNlive/status/2111517774467981789",
-   "name": "Alex Jones Network",
-   "username": "AJNlive",
-   "verified_type": "blue",
-   "text": "WATCH LIVE: Alex Jones Responds To President Trump's Latest Attack Against Him! Alex Jones Built The Launchpad That Trump Ran On But Will Always Be 1776, Not MAGA!\n\nhttps://t.co/iHWHgwQOXs",
-   "started_at": "2026-10-17T18:00:42.000Z",
-   "assumed_live_until": "2026-10-17T21:00:42Z"
   },
   {
    "post_id": "2111519080507437142",
@@ -45,26 +35,6 @@
    "assumed_live_until": "2026-10-17T21:32:45Z"
   },
   {
-   "post_id": "2111517577952579672",
-   "post_url": "https://x.com/magnonewslive/status/2111517577952579672",
-   "name": "MAGNO NEWS LIVE",
-   "username": "magnonewslive",
-   "verified_type": "blue",
-   "text": "🇺🇸 MAGA Majority Force Rally with President Trump in Highland Heights, Kentucky [LIVE] https://t.co/2JehGbiAop",
-   "started_at": "2026-10-17T17:59:55.000Z",
-   "assumed_live_until": "2026-10-17T20:59:55Z"
-  },
-  {
-   "post_id": "2111517860199890987",
-   "post_url": "https://x.com/BadlandsMedia_/status/2111517860199890987",
-   "name": "Badlands Media",
-   "username": "BadlandsMedia_",
-   "verified_type": "blue",
-   "text": "Badlands Media Special Coverage: President Trump Delivers Remarks from Highland Heights, KY https://t.co/cVhltbTzAV",
-   "started_at": "2026-10-17T18:01:02.000Z",
-   "assumed_live_until": "2026-10-17T21:01:02Z"
-  },
-  {
    "post_id": "2111520222620569616",
    "post_url": "https://x.com/THEDuaneCates/status/2111520222620569616",
    "name": "DuaneCates001",
@@ -83,6 +53,36 @@
    "text": "https://t.co/Zu3YlhsYVA \n\nPRESIDENT TRUMP MAGA MIDTERM RALLY IN HIGHLAND HEIGHTS, KENTUCKY!",
    "started_at": "2026-10-17T18:11:08.000Z",
    "assumed_live_until": "2026-10-17T21:11:08Z"
+  },
+  {
+   "post_id": "2111527610341884077",
+   "post_url": "https://x.com/Southern_Sense/status/2111527610341884077",
+   "name": "Annie Ubelis",
+   "username": "Southern_Sense",
+   "verified_type": "blue",
+   "text": "Spotlight on America: Hollywood, Faith and fighting the Red/Green Axis https://t.co/5BfFXsTiK1",
+   "started_at": "2026-10-17T18:39:47.000Z",
+   "assumed_live_until": "2026-10-17T21:39:47Z"
+  },
+  {
+   "post_id": "2111532973501870160",
+   "post_url": "https://x.com/GuyLandau/status/2111532973501870160",
+   "name": "Guy Landau",
+   "username": "GuyLandau",
+   "verified_type": "blue",
+   "text": "Leftists Play Election Games As California BURNS https://t.co/2xUePmiewN",
+   "started_at": "2026-10-17T19:01:05.000Z",
+   "assumed_live_until": "2026-10-17T22:01:05Z"
+  },
+  {
+   "post_id": "2111539543987859594",
+   "post_url": "https://x.com/Iamjstory/status/2111539543987859594",
+   "name": "JONATHAN STORY LLC",
+   "username": "Iamjstory",
+   "verified_type": "blue",
+   "text": "This man is America's greatest President to ever set foot in the @WhiteHouse \nhttps://t.co/YvFMsAvuH2",
+   "started_at": "2026-10-17T19:27:12.000Z",
+   "assumed_live_until": "2026-10-17T22:27:12Z"
   }
  ]
 }
