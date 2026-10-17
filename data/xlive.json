@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-17T10:03:46Z",
- "searched_at": "2026-10-17T10:04:00Z",
+ "built_at": "2026-10-17T10:27:34Z",
+ "searched_at": "2026-10-17T10:27:34Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -25,6 +25,16 @@
    "assumed_live_until": "2026-10-17T12:05:42Z"
   },
   {
+   "post_id": "2111403207851458816",
+   "post_url": "https://x.com/hanz333_/status/2111403207851458816",
+   "name": "Hanz",
+   "username": "hanz333_",
+   "verified_type": "blue",
+   "text": "Hurricane Pro chillin https://t.co/t1jBtqPUvV",
+   "started_at": "2026-10-17T10:25:27.000Z",
+   "assumed_live_until": "2026-10-17T13:25:27Z"
+  },
+  {
    "post_id": "2111390689112285313",
    "post_url": "https://x.com/LeftysFear/status/2111390689112285313",
    "name": "The Ratio Show: The Working Man's Politics!",
@@ -33,26 +43,6 @@
    "text": "Rumble On: Armed Citizen Stops School Shooter, GOP Set to Expand Senate Majority - Ep. 491, 10/17/26 https://t.co/XmCgOAjELA",
    "started_at": "2026-10-17T09:35:42.000Z",
    "assumed_live_until": "2026-10-17T12:35:42Z"
-  },
-  {
-   "post_id": "2111381868721684944",
-   "post_url": "https://x.com/TrophyFpl/status/2111381868721684944",
-   "name": "FPL Mo",
-   "username": "TrophyFpl",
-   "verified_type": "blue",
-   "text": "FPL GW7 DEADLINE STREAM ✅ DOES CHERKI START ❓EARLY TEAM NEWS 🤩 https://t.co/JcS79Aufba",
-   "started_at": "2026-10-17T09:00:39.000Z",
-   "assumed_live_until": "2026-10-17T12:00:39Z"
-  },
-  {
-   "post_id": "2111390147384385746",
-   "post_url": "https://x.com/AgendaFreeTV/status/2111390147384385746",
-   "name": "Agenda-Free TV",
-   "username": "AgendaFreeTV",
-   "verified_type": "none",
-   "text": "France Protests - LIVE Breaking News Coverage (including Paris) #France #Paris #Protests https://t.co/e5K8sAuvmU",
-   "started_at": "2026-10-17T09:33:33.000Z",
-   "assumed_live_until": "2026-10-17T12:33:33Z"
   },
   {
    "post_id": "2111397222227247367",
@@ -65,24 +55,34 @@
    "assumed_live_until": "2026-10-17T13:01:40Z"
   },
   {
-   "post_id": "2111352644908593187",
-   "post_url": "https://x.com/Channel1TVGHA/status/2111352644908593187",
-   "name": "ChannelOne TV",
-   "username": "Channel1TVGHA",
-   "verified_type": "blue",
-   "text": "Channel One TV LIVE! Breakfast Daily Weekend | Latest News updates from Ghana | 17th October 2026 https://t.co/uaKK2M40Gz",
-   "started_at": "2026-10-17T07:04:32.000Z",
-   "assumed_live_until": "2026-10-17T10:04:32Z"
+   "post_id": "2111390147384385746",
+   "post_url": "https://x.com/AgendaFreeTV/status/2111390147384385746",
+   "name": "Agenda-Free TV",
+   "username": "AgendaFreeTV",
+   "verified_type": "none",
+   "text": "France Protests - LIVE Breaking News Coverage (including Paris) #France #Paris #Protests https://t.co/e5K8sAuvmU",
+   "started_at": "2026-10-17T09:33:33.000Z",
+   "assumed_live_until": "2026-10-17T12:33:33Z"
   },
   {
-   "post_id": "2111377488882647381",
-   "post_url": "https://x.com/thesavera_times/status/2111377488882647381",
-   "name": "The Savera Times",
-   "username": "thesavera_times",
+   "post_id": "2111381868721684944",
+   "post_url": "https://x.com/TrophyFpl/status/2111381868721684944",
+   "name": "FPL Mo",
+   "username": "TrophyFpl",
    "verified_type": "blue",
-   "text": "LIVE | Women's groups hold protest march to Delhi Police HQ over alleged violence during SIR protests #womenprotest #sirprotest #sir #delhipolice #delhi #news\n\nhttps://t.co/cCjY267p3B",
-   "started_at": "2026-10-17T08:43:15.000Z",
-   "assumed_live_until": "2026-10-17T11:43:15Z"
+   "text": "FPL GW7 DEADLINE STREAM ✅ DOES CHERKI START ❓EARLY TEAM NEWS 🤩 https://t.co/JcS79Aufba",
+   "started_at": "2026-10-17T09:00:39.000Z",
+   "assumed_live_until": "2026-10-17T12:00:39Z"
+  },
+  {
+   "post_id": "2111402939340492835",
+   "post_url": "https://x.com/sandeshnews/status/2111402939340492835",
+   "name": "Sandesh",
+   "username": "sandeshnews",
+   "verified_type": "blue",
+   "text": "Sandesh News https://t.co/fDuWitXR1y",
+   "started_at": "2026-10-17T10:24:23.000Z",
+   "assumed_live_until": "2026-10-17T13:24:23Z"
   }
  ]
 }

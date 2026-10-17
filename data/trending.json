@@ -1,9 +1,19 @@
 {
- "built_at": "2026-10-17T09:23:25Z",
- "news_fetched_at": "2026-10-17T09:23:25Z",
- "trends_fetched_at": "2026-10-17T09:23:25Z",
+ "built_at": "2026-10-17T10:27:34Z",
+ "news_fetched_at": "2026-10-17T10:27:34Z",
+ "trends_fetched_at": "2026-10-17T10:27:34Z",
  "source": "X News (x.search_news) and US trends (x.get_trends_by_woeid 23424977). Story summaries are written by X/Grok from posts on X and may evolve.",
  "stories": [
+  {
+   "id": "2111384182597587282",
+   "headline": "JD Vance on Presidential Power: 'Who's Gonna Stop Him?'",
+   "hook": "Seated in the White House in a suit and light purple tie, Vice President JD Vance laid out a straightforward view of executive authority during his interview on The Sean Spicer Show.",
+   "summary": "Vance explained that much of U.S. government power flows from the president, who 'just has a lot of authority' because 'the reality is, who's gonna stop him?' He contrasted this with more bureaucratic systems in China or Russia, highlighting how an active president can drive quick change. The comments, amid the Trump administration's push to 'move fast' on policies before courts intervene, split viewers: supporters saw realism in cutting through gridlock, while critics worried about downplaying checks from Congress and courts. Vance also touched on the economy, 2026 midterms, and his undecided 2028 plans.",
+   "updated_at": "2026-10-17T09:18:22.000Z",
+   "url": "https://x.com/i/trending/2111384182597587282",
+   "topics": [],
+   "post_urls": []
+  },
   {
    "id": "2111250225440432153",
    "headline": "JD Vance Interview Clips Fuel Midterm Messaging Battle",
@@ -45,16 +55,6 @@
    "post_urls": []
   },
   {
-   "id": "2111107704634716271",
-   "headline": "CNN Polling Analysis Signals Tight Senate Battle for Republicans",
-   "hook": "With Election Day 18 days away, a CNN data dive shows Democrats holding slim leads in key Senate races—but a typical polling error could hand Republicans control.",
-   "summary": "CNN analyst Harry Enten highlighted narrow Democratic edges in battlegrounds like Kansas (tie), Iowa (+1), Maine (+2), Texas (+3), Michigan (+3), and Ohio (+3), noting Democrats need at least three flips for Senate control. Republicans point out that outperforming polls by the historical 3.7-point error flips the map to a 52-48 GOP majority, including wins in Michigan, Texas, and Maine. While forecast models give Democrats a 61% Senate chance and a House edge from a 4-point generic ballot lead, both sides stress turnout amid the razor-thin margins.",
-   "updated_at": "2026-10-16T20:41:39.000Z",
-   "url": "https://x.com/i/trending/2111107704634716271",
-   "topics": [],
-   "post_urls": []
-  },
-  {
    "id": "2110536840919069134",
    "headline": "Harris Calls for Supreme Court Expansion and Electoral College Changes",
    "hook": "On Keke Palmer's podcast, Kamala Harris laid out bold plans for reshaping key U.S. institutions if Democrats take Congress.",
@@ -87,12 +87,40 @@
  ],
  "trends": [
   {
+   "name": "Good Saturday",
+   "url": "https://x.com/search?q=Good%20Saturday"
+  },
+  {
+   "name": "NOL Festival",
+   "url": "https://x.com/search?q=NOL%20Festival"
+  },
+  {
+   "name": "KEONHO CAPTIVATES THE LENS",
+   "url": "https://x.com/search?q=KEONHO%20CAPTIVATES%20THE%20LENS"
+  },
+  {
    "name": "#LingOrmBetweenUsConcertD1",
    "url": "https://x.com/search?q=%23LingOrmBetweenUsConcertD1"
   },
   {
    "name": "THE WORLD BETWEEN LINGORM D1",
    "url": "https://x.com/search?q=THE%20WORLD%20BETWEEN%20LINGORM%20D1"
+  },
+  {
+   "name": "IKEONIC",
+   "url": "https://x.com/search?q=IKEONIC"
+  },
+  {
+   "name": "ACEKEON MAKNAE",
+   "url": "https://x.com/search?q=ACEKEON%20MAKNAE"
+  },
+  {
+   "name": "5TH GEN IT BOY",
+   "url": "https://x.com/search?q=5TH%20GEN%20IT%20BOY"
+  },
+  {
+   "name": "HOGAN EFFECT",
+   "url": "https://x.com/search?q=HOGAN%20EFFECT"
   },
   {
    "name": "#PerthSantaFMinMacau",
@@ -103,12 +131,12 @@
    "url": "https://x.com/search?q=PERTHSANTA%20LOST%20IN%20LOVE"
   },
   {
-   "name": "Mónica",
-   "url": "https://x.com/search?q=M%C3%B3nica"
-  },
-  {
    "name": "Johnny Carson",
    "url": "https://x.com/search?q=Johnny%20Carson"
+  },
+  {
+   "name": "Mónica",
+   "url": "https://x.com/search?q=M%C3%B3nica"
   },
   {
    "name": "$NUBI",
@@ -117,34 +145,6 @@
   {
    "name": "Violet",
    "url": "https://x.com/search?q=Violet"
-  },
-  {
-   "name": "Heartbeat",
-   "url": "https://x.com/search?q=Heartbeat"
-  },
-  {
-   "name": "You Can See Everything",
-   "url": "https://x.com/search?q=You%20Can%20See%20Everything"
-  },
-  {
-   "name": "Kimmel",
-   "url": "https://x.com/search?q=Kimmel"
-  },
-  {
-   "name": "#LaGranjaTraicion",
-   "url": "https://x.com/search?q=%23LaGranjaTraicion"
-  },
-  {
-   "name": "Nathan Fielder",
-   "url": "https://x.com/search?q=Nathan%20Fielder"
-  },
-  {
-   "name": "Steve Kerr",
-   "url": "https://x.com/search?q=Steve%20Kerr"
-  },
-  {
-   "name": "#PFLChicago",
-   "url": "https://x.com/search?q=%23PFLChicago"
   }
  ]
 }
