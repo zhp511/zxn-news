@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-17T09:32:25Z",
- "searched_at": "2026-10-17T09:32:00Z",
+ "built_at": "2026-10-17T09:47:16Z",
+ "searched_at": "2026-10-17T09:47:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -35,24 +35,14 @@
    "assumed_live_until": "2026-10-17T12:05:42Z"
   },
   {
-   "post_id": "2111388360841506964",
-   "post_url": "https://x.com/AgendaFreeTV/status/2111388360841506964",
-   "name": "Agenda-Free TV",
-   "username": "AgendaFreeTV",
-   "verified_type": "none",
-   "text": "France Protests - LIVE Breaking News Coverage (including Paris) #France #Paris #Protests https://t.co/bOO6AjPjL8",
-   "started_at": "2026-10-17T09:26:27.000Z",
-   "assumed_live_until": "2026-10-17T12:26:27Z"
-  },
-  {
-   "post_id": "2111352644908593187",
-   "post_url": "https://x.com/Channel1TVGHA/status/2111352644908593187",
-   "name": "ChannelOne TV",
-   "username": "Channel1TVGHA",
+   "post_id": "2111390689112285313",
+   "post_url": "https://x.com/LeftysFear/status/2111390689112285313",
+   "name": "The Ratio Show: The Working Man's Politics!",
+   "username": "LeftysFear",
    "verified_type": "blue",
-   "text": "Channel One TV LIVE! Breakfast Daily Weekend | Latest News updates from Ghana | 17th October 2026 https://t.co/uaKK2M40Gz",
-   "started_at": "2026-10-17T07:04:32.000Z",
-   "assumed_live_until": "2026-10-17T10:04:32Z"
+   "text": "Rumble On: Armed Citizen Stops School Shooter, GOP Set to Expand Senate Majority - Ep. 491, 10/17/26 https://t.co/XmCgOAjELA",
+   "started_at": "2026-10-17T09:35:42.000Z",
+   "assumed_live_until": "2026-10-17T12:35:42Z"
   },
   {
    "post_id": "2111381868721684944",
@@ -65,6 +55,26 @@
    "assumed_live_until": "2026-10-17T12:00:39Z"
   },
   {
+   "post_id": "2111352644908593187",
+   "post_url": "https://x.com/Channel1TVGHA/status/2111352644908593187",
+   "name": "ChannelOne TV",
+   "username": "Channel1TVGHA",
+   "verified_type": "blue",
+   "text": "Channel One TV LIVE! Breakfast Daily Weekend | Latest News updates from Ghana | 17th October 2026 https://t.co/uaKK2M40Gz",
+   "started_at": "2026-10-17T07:04:32.000Z",
+   "assumed_live_until": "2026-10-17T10:04:32Z"
+  },
+  {
+   "post_id": "2111390147384385746",
+   "post_url": "https://x.com/AgendaFreeTV/status/2111390147384385746",
+   "name": "Agenda-Free TV",
+   "username": "AgendaFreeTV",
+   "verified_type": "none",
+   "text": "France Protests - LIVE Breaking News Coverage (including Paris) #France #Paris #Protests https://t.co/e5K8sAuvmU",
+   "started_at": "2026-10-17T09:33:33.000Z",
+   "assumed_live_until": "2026-10-17T12:33:33Z"
+  },
+  {
    "post_id": "2111377488882647381",
    "post_url": "https://x.com/thesavera_times/status/2111377488882647381",
    "name": "The Savera Times",
@@ -73,16 +83,6 @@
    "text": "LIVE | Women's groups hold protest march to Delhi Police HQ over alleged violence during SIR protests #womenprotest #sirprotest #sir #delhipolice #delhi #news\n\nhttps://t.co/cCjY267p3B",
    "started_at": "2026-10-17T08:43:15.000Z",
    "assumed_live_until": "2026-10-17T11:43:15Z"
-  },
-  {
-   "post_id": "2111382224335765581",
-   "post_url": "https://x.com/TheLeedsLens/status/2111382224335765581",
-   "name": "TheLeedsLens",
-   "username": "TheLeedsLens",
-   "verified_type": "blue",
-   "text": "LIVE ON Youtube! | Leeds HUGE Injury News! | Farke On Poor Subs & Leeds vs Man Utd Prediction! | #LUFC News https://t.co/ynn8OOM78z",
-   "started_at": "2026-10-17T09:02:04.000Z",
-   "assumed_live_until": "2026-10-17T12:02:04Z"
   }
  ]
 }
