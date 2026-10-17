@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-17T19:34:06Z",
- "searched_at": "2026-10-17T19:34:10Z",
+ "built_at": "2026-10-17T19:53:54Z",
+ "searched_at": "2026-10-17T19:53:30Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -23,16 +23,6 @@
    "text": "Angie Nixon was outspent 16 to 1 in the Dem primary. But she stood with working people and won a HUGE upset.\n\nWe need leaders like Angie in the Senate. https://t.co/pA6logvyQq",
    "started_at": "2026-10-17T17:05:19.000Z",
    "assumed_live_until": "2026-10-17T20:05:19Z"
-  },
-  {
-   "post_id": "2111499662352072782",
-   "post_url": "https://x.com/Republicans/status/2111499662352072782",
-   "name": "Republicans",
-   "username": "Republicans",
-   "verified_type": "blue",
-   "text": "Midterm Rally in Highland Heights, Kentucky featuring President Donald J. Trump https://t.co/OijhqmqP5a",
-   "started_at": "2026-10-17T16:48:43.000Z",
-   "assumed_live_until": "2026-10-17T19:48:43Z"
   },
   {
    "post_id": "2111517774467981789",
@@ -83,6 +73,16 @@
    "text": "🇺🇸 MAGA Majority Force Rally with President Trump in Highland Heights, Kentucky [LIVE] https://t.co/2JehGbiAop",
    "started_at": "2026-10-17T17:59:55.000Z",
    "assumed_live_until": "2026-10-17T20:59:55Z"
+  },
+  {
+   "post_id": "2111517860199890987",
+   "post_url": "https://x.com/BadlandsMedia_/status/2111517860199890987",
+   "name": "Badlands Media",
+   "username": "BadlandsMedia_",
+   "verified_type": "blue",
+   "text": "Badlands Media Special Coverage: President Trump Delivers Remarks from Highland Heights, KY https://t.co/cVhltbTzAV",
+   "started_at": "2026-10-17T18:01:02.000Z",
+   "assumed_live_until": "2026-10-17T21:01:02Z"
   }
  ]
 }
