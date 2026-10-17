@@ -1,19 +1,9 @@
 {
- "built_at": "2026-10-17T18:57:49Z",
- "searched_at": "2026-10-17T18:57:00Z",
+ "built_at": "2026-10-17T19:14:16Z",
+ "searched_at": "2026-10-17T19:13:45Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
-  {
-   "post_id": "2111503837538472367",
-   "post_url": "https://x.com/BernieSanders/status/2111503837538472367",
-   "name": "Bernie Sanders",
-   "username": "BernieSanders",
-   "verified_type": "government",
-   "text": "Angie Nixon was outspent 16 to 1 in the Dem primary. But she stood with working people and won a HUGE upset.\n\nWe need leaders like Angie in the Senate. https://t.co/pA6logvyQq",
-   "started_at": "2026-10-17T17:05:19.000Z",
-   "assumed_live_until": "2026-10-17T20:05:19Z"
-  },
   {
    "post_id": "2111526798819491982",
    "post_url": "https://x.com/FoxNews/status/2111526798819491982",
@@ -23,6 +13,16 @@
    "text": "WATCH LIVE: Dem Senate nominee Abdul El-Sayed rallies voters at Michigan town hall https://t.co/B4ew6rnnvf",
    "started_at": "2026-10-17T18:36:33.000Z",
    "assumed_live_until": "2026-10-17T21:36:33Z"
+  },
+  {
+   "post_id": "2111503837538472367",
+   "post_url": "https://x.com/BernieSanders/status/2111503837538472367",
+   "name": "Bernie Sanders",
+   "username": "BernieSanders",
+   "verified_type": "government",
+   "text": "Angie Nixon was outspent 16 to 1 in the Dem primary. But she stood with working people and won a HUGE upset.\n\nWe need leaders like Angie in the Senate. https://t.co/pA6logvyQq",
+   "started_at": "2026-10-17T17:05:19.000Z",
+   "assumed_live_until": "2026-10-17T20:05:19Z"
   },
   {
    "post_id": "2111499662352072782",
