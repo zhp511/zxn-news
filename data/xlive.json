@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-17T12:16:34Z",
- "searched_at": "2026-10-17T12:16:00Z",
+ "built_at": "2026-10-17T12:35:36Z",
+ "searched_at": "2026-10-17T12:36:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -25,16 +25,6 @@
    "assumed_live_until": "2026-10-17T14:56:42Z"
   },
   {
-   "post_id": "2111390689112285313",
-   "post_url": "https://x.com/LeftysFear/status/2111390689112285313",
-   "name": "The Ratio Show: The Working Man's Politics!",
-   "username": "LeftysFear",
-   "verified_type": "blue",
-   "text": "Rumble On: Armed Citizen Stops School Shooter, GOP Set to Expand Senate Majority - Ep. 491, 10/17/26 https://t.co/XmCgOAjELA",
-   "started_at": "2026-10-17T09:35:42.000Z",
-   "assumed_live_until": "2026-10-17T12:35:42Z"
-  },
-  {
    "post_id": "2111406323103625572",
    "post_url": "https://x.com/ANI/status/2111406323103625572",
    "name": "ANI",
@@ -43,16 +33,6 @@
    "text": "LIVE: BJP Press Conference by Rajya Sabha MP Tarun Chugh I Bhagwant Mann I Rahul Gandhi \n\n#tarunchugh #aap #bjp #punjab #bhagwantmann #rahulgandhi #news #live https://t.co/bkG4WfPG4T",
    "started_at": "2026-10-17T10:37:50.000Z",
    "assumed_live_until": "2026-10-17T13:37:50Z"
-  },
-  {
-   "post_id": "2111390147384385746",
-   "post_url": "https://x.com/AgendaFreeTV/status/2111390147384385746",
-   "name": "Agenda-Free TV",
-   "username": "AgendaFreeTV",
-   "verified_type": "none",
-   "text": "France Protests - LIVE Breaking News Coverage (including Paris) #France #Paris #Protests https://t.co/e5K8sAuvmU",
-   "started_at": "2026-10-17T09:33:33.000Z",
-   "assumed_live_until": "2026-10-17T12:33:33Z"
   },
   {
    "post_id": "2111425921953783881",
@@ -65,6 +45,16 @@
    "assumed_live_until": "2026-10-17T14:55:42Z"
   },
   {
+   "post_id": "2111426994626060791",
+   "post_url": "https://x.com/GBNEWS/status/2111426994626060791",
+   "name": "GB News",
+   "username": "GBNEWS",
+   "verified_type": "business",
+   "text": "GB News https://t.co/qNWy2mkdAB",
+   "started_at": "2026-10-17T11:59:58.000Z",
+   "assumed_live_until": "2026-10-17T14:59:58Z"
+  },
+  {
    "post_id": "2111397222227247367",
    "post_url": "https://x.com/IndiaToday/status/2111397222227247367",
    "name": "IndiaToday",
@@ -75,14 +65,24 @@
    "assumed_live_until": "2026-10-17T13:01:40Z"
   },
   {
-   "post_id": "2111426994626060791",
-   "post_url": "https://x.com/GBNEWS/status/2111426994626060791",
-   "name": "GB News",
-   "username": "GBNEWS",
-   "verified_type": "business",
-   "text": "GB News https://t.co/qNWy2mkdAB",
-   "started_at": "2026-10-17T11:59:58.000Z",
-   "assumed_live_until": "2026-10-17T14:59:58Z"
+   "post_id": "2111427608714031220",
+   "post_url": "https://x.com/utvghana/status/2111427608714031220",
+   "name": "UTV Ghana",
+   "username": "utvghana",
+   "verified_type": "blue",
+   "text": "MIDDAY NEWS 17/10/26 https://t.co/0kUhizp3mf",
+   "started_at": "2026-10-17T12:02:25.000Z",
+   "assumed_live_until": "2026-10-17T15:02:25Z"
+  },
+  {
+   "post_id": "2111402939340492835",
+   "post_url": "https://x.com/sandeshnews/status/2111402939340492835",
+   "name": "Sandesh",
+   "username": "sandeshnews",
+   "verified_type": "blue",
+   "text": "Sandesh News https://t.co/fDuWitXR1y",
+   "started_at": "2026-10-17T10:24:23.000Z",
+   "assumed_live_until": "2026-10-17T13:24:23Z"
   }
  ]
 }
