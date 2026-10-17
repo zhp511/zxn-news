@@ -1,29 +1,9 @@
 {
- "built_at": "2026-10-17T00:01:45Z",
- "searched_at": "2026-10-17T00:01:45Z",
+ "built_at": "2026-10-17T00:28:06Z",
+ "searched_at": "2026-10-17T00:28:06Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
-  {
-   "post_id": "2111208109217886230",
-   "post_url": "https://x.com/ScottJenningsKY/status/2111208109217886230",
-   "name": "Scott Jennings",
-   "username": "ScottJenningsKY",
-   "verified_type": "blue",
-   "text": "BREAKING NEWS: Katie Zacharia Out as White House Press Secretary https://t.co/Oq54tGi4t7",
-   "started_at": "2026-10-16T21:30:12.000Z",
-   "assumed_live_until": "2026-10-17T00:30:12Z"
-  },
-  {
-   "post_id": "2111204744601735613",
-   "post_url": "https://x.com/redicetv/status/2111204744601735613",
-   "name": "Red Ice TV ⨁",
-   "username": "redicetv",
-   "verified_type": "blue",
-   "text": "Rough Week At The White House - Flashback Friday Ep374 https://t.co/Ardddj8ZBd",
-   "started_at": "2026-10-16T21:16:50.000Z",
-   "assumed_live_until": "2026-10-17T00:16:50Z"
-  },
   {
    "post_id": "2111230814633836980",
    "post_url": "https://x.com/SecretAmericaTV/status/2111230814633836980",
@@ -33,6 +13,26 @@
    "text": "Secret America Live! - Episode 263 - Press Secretary Given The Boot https://t.co/ZSXLyVlHo3",
    "started_at": "2026-10-16T23:00:25.000Z",
    "assumed_live_until": "2026-10-17T02:00:25Z"
+  },
+  {
+   "post_id": "2111251540984131665",
+   "post_url": "https://x.com/Humanevolvd/status/2111251540984131665",
+   "name": "Doji",
+   "username": "Humanevolvd",
+   "verified_type": "blue",
+   "text": "The White House is live with this investment In America mascot \n\n$IA cool ticker since it’s AI backwards\n\nhttps://t.co/xiY4eGev5X https://t.co/Ik0J4KYJ2V",
+   "started_at": "2026-10-17T00:22:47.000Z",
+   "assumed_live_until": "2026-10-17T03:22:47Z"
+  },
+  {
+   "post_id": "2111208111730229660",
+   "post_url": "https://x.com/JenningsShow/status/2111208111730229660",
+   "name": "Scott Jennings Show",
+   "username": "JenningsShow",
+   "verified_type": "blue",
+   "text": "BREAKING NEWS: Katie Zacharia Out as White House Press Secretary https://t.co/V7RJQPhs2a",
+   "started_at": "2026-10-16T21:30:12.000Z",
+   "assumed_live_until": "2026-10-17T00:30:12Z"
   },
   {
    "post_id": "2111214902581084539",
@@ -65,24 +65,24 @@
    "assumed_live_until": "2026-10-17T00:29:33Z"
   },
   {
-   "post_id": "2111207353186193685",
-   "post_url": "https://x.com/regeneration_in/status/2111207353186193685",
-   "name": "Regeneration International",
-   "username": "regeneration_in",
+   "post_id": "2111239488978722849",
+   "post_url": "https://x.com/magnonewslive/status/2111239488978722849",
+   "name": "MAGNO NEWS LIVE",
+   "username": "magnonewslive",
    "verified_type": "blue",
-   "text": "Welcome to Grassroots Rising, The People's Food Summit 2026: North America Pt2 https://t.co/wsHwDw2xnP",
-   "started_at": "2026-10-16T21:27:11.000Z",
-   "assumed_live_until": "2026-10-17T00:27:11Z"
+   "text": "🇺🇸 President Donald Trump briefs press at the White House before MAGA rally in Dalton, Georgia https://t.co/NVIAIjTnv8",
+   "started_at": "2026-10-16T23:34:53.000Z",
+   "assumed_live_until": "2026-10-17T02:34:53Z"
   },
   {
-   "post_id": "2111205109611045142",
-   "post_url": "https://x.com/TheBWSTimes/status/2111205109611045142",
-   "name": "The Black Wall Street Times",
-   "username": "TheBWSTimes",
+   "post_id": "2111230764557926796",
+   "post_url": "https://x.com/sharpe_way/status/2111230764557926796",
+   "name": "The Sharpe Way with Larry Sharpe",
+   "username": "sharpe_way",
    "verified_type": "blue",
-   "text": "18 Days Out: Black Voters Rise, White House Podium Falls https://t.co/emeBowOaew",
-   "started_at": "2026-10-16T21:18:17.000Z",
-   "assumed_live_until": "2026-10-17T00:18:17Z"
+   "text": "Political Violence: Is America Losing Control? Sharpe Way 844! https://t.co/sqfFtxViik",
+   "started_at": "2026-10-16T23:00:13.000Z",
+   "assumed_live_until": "2026-10-17T02:00:13Z"
   }
  ]
 }
