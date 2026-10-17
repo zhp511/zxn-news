@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-17T17:52:52Z",
- "searched_at": "2026-10-17T17:52:00Z",
+ "built_at": "2026-10-17T18:07:34Z",
+ "searched_at": "2026-10-17T18:07:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -35,6 +35,16 @@
    "assumed_live_until": "2026-10-17T20:28:14Z"
   },
   {
+   "post_id": "2111517774467981789",
+   "post_url": "https://x.com/AJNlive/status/2111517774467981789",
+   "name": "Alex Jones Network",
+   "username": "AJNlive",
+   "verified_type": "blue",
+   "text": "WATCH LIVE: Alex Jones Responds To President Trump's Latest Attack Against Him! Alex Jones Built The Launchpad That Trump Ran On But Will Always Be 1776, Not MAGA!\n\nhttps://t.co/iHWHgwQOXs",
+   "started_at": "2026-10-17T18:00:42.000Z",
+   "assumed_live_until": "2026-10-17T21:00:42Z"
+  },
+  {
    "post_id": "2111502362523423024",
    "post_url": "https://x.com/barrycunningham/status/2111502362523423024",
    "name": "Barry Cunningham",
@@ -43,26 +53,6 @@
    "text": "LIVE TRUMP RALLY IN KENTUCKY! Countdown To The Midterms | Flying Cars! And More News! https://t.co/aXuYaOKvU0",
    "started_at": "2026-10-17T16:59:27.000Z",
    "assumed_live_until": "2026-10-17T19:59:27Z"
-  },
-  {
-   "post_id": "2111472770584551912",
-   "post_url": "https://x.com/ArminNavabi/status/2111472770584551912",
-   "name": "Armin Navabi",
-   "username": "ArminNavabi",
-   "verified_type": "blue",
-   "text": "Rubio Defends Trump As Vance BACKS Tucker America First Doctrine https://t.co/aJRdsXsfdK",
-   "started_at": "2026-10-17T15:01:52.000Z",
-   "assumed_live_until": "2026-10-17T18:01:52Z"
-  },
-  {
-   "post_id": "2111496031565500625",
-   "post_url": "https://x.com/magnonewslive/status/2111496031565500625",
-   "name": "MAGNO NEWS LIVE",
-   "username": "magnonewslive",
-   "verified_type": "blue",
-   "text": "🇺🇸 President Trump Delivers Remarks in Kentucky at Midterms MAGA Rally in Highland Heights [LIVE] https://t.co/n8fEgMzQAA",
-   "started_at": "2026-10-17T16:34:18.000Z",
-   "assumed_live_until": "2026-10-17T19:34:18Z"
   },
   {
    "post_id": "2111501754483503401",
@@ -75,14 +65,24 @@
    "assumed_live_until": "2026-10-17T19:57:02Z"
   },
   {
-   "post_id": "2111502730137383191",
-   "post_url": "https://x.com/LoraLiddell2024/status/2111502730137383191",
-   "name": "Lora",
-   "username": "LoraLiddell2024",
-   "verified_type": "none",
-   "text": "President Donald J. Trump rally in Highland Heights, Kentucky 10/17/2026  https://t.co/vFcv77j14G",
-   "started_at": "2026-10-17T17:00:55.000Z",
-   "assumed_live_until": "2026-10-17T20:00:55Z"
+   "post_id": "2111517860199890987",
+   "post_url": "https://x.com/BadlandsMedia_/status/2111517860199890987",
+   "name": "Badlands Media",
+   "username": "BadlandsMedia_",
+   "verified_type": "blue",
+   "text": "Badlands Media Special Coverage: President Trump Delivers Remarks from Highland Heights, KY https://t.co/cVhltbTzAV",
+   "started_at": "2026-10-17T18:01:02.000Z",
+   "assumed_live_until": "2026-10-17T21:01:02Z"
+  },
+  {
+   "post_id": "2111519080507437142",
+   "post_url": "https://x.com/Dialogue_NRA/status/2111519080507437142",
+   "name": "Dialogue works",
+   "username": "Dialogue_NRA",
+   "verified_type": "blue",
+   "text": "Mark Sleboda: BREAKING: Iran Rejects U.S. Proposal—Trump Threatens Pickaxe Mountain https://t.co/V9R3WXacR4",
+   "started_at": "2026-10-17T18:05:53.000Z",
+   "assumed_live_until": "2026-10-17T21:05:53Z"
   }
  ]
 }
