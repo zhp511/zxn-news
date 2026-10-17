@@ -1,19 +1,9 @@
 {
- "built_at": "2026-10-17T07:19:21Z",
- "news_fetched_at": "2026-10-17T07:19:21Z",
- "trends_fetched_at": "2026-10-17T07:19:21Z",
+ "built_at": "2026-10-17T08:22:13Z",
+ "news_fetched_at": "2026-10-17T08:22:13Z",
+ "trends_fetched_at": "2026-10-17T08:22:13Z",
  "source": "X News (x.search_news) and US trends (x.get_trends_by_woeid 23424977). Story summaries are written by X/Grok from posts on X and may evolve.",
  "stories": [
-  {
-   "id": "2111350502780739951",
-   "headline": "Woman's Video Sparks Leftist vs Liberal Debate",
-   "hook": "A woman in a video asks why she, as a self-described leftist, engages in liberal ideologies — and the question quickly drew heated pushback online.",
-   "summary": "The clip shows her questioning ideological purity while working within mainstream systems, prompting many to insist she's a liberal, not a true leftist who rejects capitalism entirely. Defenders praised her practical approach, noting no candidate is perfect and participation allows influence on key issues like foreign policy. The exchange highlights tensions between reform-minded liberals favoring regulations and social programs, and leftists seeking systemic overhaul, amid frustrations over compromises in a polarized landscape.",
-   "updated_at": "2026-10-17T07:02:29.000Z",
-   "url": "https://x.com/i/trending/2111350502780739951",
-   "topics": [],
-   "post_urls": []
-  },
   {
    "id": "2111344437427339335",
    "headline": "Rubio Defends America First Policy Amid Online Divisions",
@@ -21,6 +11,16 @@
    "summary": "Secretary of State Marco Rubio told Breitbart News that foreign policy must prioritize what's good for America, strengthening the nation's position. The State Department echoed this with 'America First. Always.' Supporters see it as focusing on U.S. security and citizens over global commitments, but critics label it inconsistent, citing $2.8 billion in aid to Israel for bombs funded by taxpayers and accusations of favoring allies over domestic needs. The split highlights tensions in balancing national priorities with alliances during Trump's second term.",
    "updated_at": "2026-10-17T06:37:39.000Z",
    "url": "https://x.com/i/trending/2111344437427339335",
+   "topics": [],
+   "post_urls": []
+  },
+  {
+   "id": "2111250225440432153",
+   "headline": "JD Vance Interview Clips Fuel Midterm Messaging Battle",
+   "hook": "JD Vance urged voters to back Republicans fixing economic woes, but critics flipped the clip to rally for Democrats. Another snippet on presidential power stirred fresh worries about limits on authority.",
+   "summary": "In his October 16 interview on The Sean Spicer Show, Vice President Vance touted administration gains on affordability and said Republicans solve problems daily. Detractors shared short excerpts to argue for Democratic votes, while a remark on unchecked presidential authority prompted concerns over checks and balances. The White House countered by directing viewers to the full YouTube interview, which covers economic nationalism and active leadership. This clip war highlights how snippets shape narratives ahead of the November 3 midterms, amid early voting like North Carolina's Democrat lead.",
+   "updated_at": "2026-10-17T06:22:47.000Z",
+   "url": "https://x.com/i/trending/2111250225440432153",
    "topics": [],
    "post_urls": []
   },
@@ -87,64 +87,64 @@
  ],
  "trends": [
   {
-   "name": "PERTHSANTA LOST IN LOVE",
-   "url": "https://x.com/search?q=PERTHSANTA%20LOST%20IN%20LOVE"
-  },
-  {
    "name": "#PerthSantaFMinMacau",
    "url": "https://x.com/search?q=%23PerthSantaFMinMacau"
   },
   {
-   "name": "You Can See Everything",
-   "url": "https://x.com/search?q=You%20Can%20See%20Everything"
-  },
-  {
-   "name": "#PFLChicago",
-   "url": "https://x.com/search?q=%23PFLChicago"
-  },
-  {
-   "name": "Purdue",
-   "url": "https://x.com/search?q=Purdue"
+   "name": "PERTHSANTA LOST IN LOVE",
+   "url": "https://x.com/search?q=PERTHSANTA%20LOST%20IN%20LOVE"
   },
   {
    "name": "Mónica",
    "url": "https://x.com/search?q=M%C3%B3nica"
   },
   {
+   "name": "You Can See Everything",
+   "url": "https://x.com/search?q=You%20Can%20See%20Everything"
+  },
+  {
    "name": "Johnny Carson",
    "url": "https://x.com/search?q=Johnny%20Carson"
-  },
-  {
-   "name": "#SmackDown",
-   "url": "https://x.com/search?q=%23SmackDown"
-  },
-  {
-   "name": "Heartbeat",
-   "url": "https://x.com/search?q=Heartbeat"
   },
   {
    "name": "Kimmel",
    "url": "https://x.com/search?q=Kimmel"
   },
   {
+   "name": "Heartbeat",
+   "url": "https://x.com/search?q=Heartbeat"
+  },
+  {
+   "name": "#LaGranjaTraicion",
+   "url": "https://x.com/search?q=%23LaGranjaTraicion"
+  },
+  {
+   "name": "Nathan Fielder",
+   "url": "https://x.com/search?q=Nathan%20Fielder"
+  },
+  {
+   "name": "#PFLChicago",
+   "url": "https://x.com/search?q=%23PFLChicago"
+  },
+  {
+   "name": "Violet",
+   "url": "https://x.com/search?q=Violet"
+  },
+  {
    "name": "Kessler",
    "url": "https://x.com/search?q=Kessler"
   },
   {
-   "name": "Mamu",
-   "url": "https://x.com/search?q=Mamu"
-  },
-  {
-   "name": "ash trevino",
-   "url": "https://x.com/search?q=ash%20trevino"
+   "name": "Purdue",
+   "url": "https://x.com/search?q=Purdue"
   },
   {
    "name": "Jena Bishop",
    "url": "https://x.com/search?q=Jena%20Bishop"
   },
   {
-   "name": "YK Osiris",
-   "url": "https://x.com/search?q=YK%20Osiris"
+   "name": "Mamu",
+   "url": "https://x.com/search?q=Mamu"
   }
  ]
 }
