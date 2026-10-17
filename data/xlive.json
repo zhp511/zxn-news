@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-17T05:22:07Z",
- "searched_at": "2026-10-17T05:21:50Z",
+ "built_at": "2026-10-17T05:41:50Z",
+ "searched_at": "2026-10-17T05:41:50Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
