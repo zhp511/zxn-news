@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-17T13:45:59Z",
- "searched_at": "2026-10-17T13:45:59Z",
+ "built_at": "2026-10-17T14:06:31Z",
+ "searched_at": "2026-10-17T14:05:30Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -33,6 +33,16 @@
    "text": "ELECTION 2026 WATCH https://t.co/xSlR35zyCH",
    "started_at": "2026-10-17T11:56:42.000Z",
    "assumed_live_until": "2026-10-17T14:56:42Z"
+  },
+  {
+   "post_id": "2111457791131128140",
+   "post_url": "https://x.com/TheParticularB/status/2111457791131128140",
+   "name": "The Particular Baptist",
+   "username": "TheParticularB",
+   "verified_type": "blue",
+   "text": "Is the Bible Sufficient for Politics and Other Sciences? https://t.co/bhTRXWev4A",
+   "started_at": "2026-10-17T14:02:21.000Z",
+   "assumed_live_until": "2026-10-17T17:02:21Z"
   },
   {
    "post_id": "2111452429321474438",
@@ -73,16 +83,6 @@
    "text": "TEAM NEWS LIVE: Norwich City v Portsmouth https://t.co/LLvUNNc3D9",
    "started_at": "2026-10-17T12:43:03.000Z",
    "assumed_live_until": "2026-10-17T15:43:03Z"
-  },
-  {
-   "post_id": "2111427608714031220",
-   "post_url": "https://x.com/utvghana/status/2111427608714031220",
-   "name": "UTV Ghana",
-   "username": "utvghana",
-   "verified_type": "blue",
-   "text": "MIDDAY NEWS 17/10/26 https://t.co/0kUhizp3mf",
-   "started_at": "2026-10-17T12:02:25.000Z",
-   "assumed_live_until": "2026-10-17T15:02:25Z"
   }
  ]
 }
