@@ -1,18 +1,18 @@
 {
- "built_at": "2026-10-17T14:06:31Z",
- "searched_at": "2026-10-17T14:05:30Z",
+ "built_at": "2026-10-17T14:26:41Z",
+ "searched_at": "2026-10-17T14:26:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
   {
-   "post_id": "2111441701747466279",
-   "post_url": "https://x.com/RSBNetwork/status/2111441701747466279",
-   "name": "RSBN 🇺🇸",
-   "username": "RSBNetwork",
-   "verified_type": "business",
-   "text": "LIVE: President Trump Holds a Rally in Highland Heights, KY - 10/17/26 https://t.co/RfFqYNR3X6",
-   "started_at": "2026-10-17T12:58:25.000Z",
-   "assumed_live_until": "2026-10-17T15:58:25Z"
+   "post_id": "2111462338754970086",
+   "post_url": "https://x.com/rolandsmartin/status/2111462338754970086",
+   "name": "rolandsmartin",
+   "username": "rolandsmartin",
+   "verified_type": "blue",
+   "text": "Live from Indy: Steward Speakers Black In America: From Conversation To Action https://t.co/sKeB51ZbTQ",
+   "started_at": "2026-10-17T14:20:25.000Z",
+   "assumed_live_until": "2026-10-17T17:20:25Z"
   },
   {
    "post_id": "2111443978478395639",
@@ -45,6 +45,26 @@
    "assumed_live_until": "2026-10-17T17:02:21Z"
   },
   {
+   "post_id": "2111460117820399954",
+   "post_url": "https://x.com/realjamesrossi/status/2111460117820399954",
+   "name": "James Rossi 🇺🇸",
+   "username": "realjamesrossi",
+   "verified_type": "blue",
+   "text": "🚨LIVE: President Trump Holds a Rally in Highland Heights, KY - 10/17/26 https://t.co/IXcq4uE0Nd",
+   "started_at": "2026-10-17T14:11:35.000Z",
+   "assumed_live_until": "2026-10-17T17:11:35Z"
+  },
+  {
+   "post_id": "2111463384680169833",
+   "post_url": "https://x.com/afshanhashmi/status/2111463384680169833",
+   "name": "Dr. Afshan Hashmi",
+   "username": "afshanhashmi",
+   "verified_type": "blue",
+   "text": "Dr Afshan Hashmi announces President Trump as modern Day Sir Syed Ahmad Khan-by Dr.Afshan  Hashmi https://t.co/RJuFWHC6nj",
+   "started_at": "2026-10-17T14:24:34.000Z",
+   "assumed_live_until": "2026-10-17T17:24:34Z"
+  },
+  {
    "post_id": "2111452429321474438",
    "post_url": "https://x.com/MFnn_Official/status/2111452429321474438",
    "name": "General Mike Flynn 45 Achieved 🇺🇸",
@@ -63,26 +83,6 @@
    "text": "GB News https://t.co/qNWy2mkdAB",
    "started_at": "2026-10-17T11:59:58.000Z",
    "assumed_live_until": "2026-10-17T14:59:58Z"
-  },
-  {
-   "post_id": "2111451412811112522",
-   "post_url": "https://x.com/MyronGainesX/status/2111451412811112522",
-   "name": "Myron Gaines",
-   "username": "MyronGainesX",
-   "verified_type": "none",
-   "text": "The Legend Of Zelda: Breath Of The Wild! FIRST TIME Playthrough PART 3 & News Breakdowns! https://t.co/qMAoMlyDXs",
-   "started_at": "2026-10-17T13:37:00.000Z",
-   "assumed_live_until": "2026-10-17T16:37:00Z"
-  },
-  {
-   "post_id": "2111437837132603420",
-   "post_url": "https://x.com/pinkun/status/2111437837132603420",
-   "name": "The Pink Un",
-   "username": "pinkun",
-   "verified_type": "blue",
-   "text": "TEAM NEWS LIVE: Norwich City v Portsmouth https://t.co/LLvUNNc3D9",
-   "started_at": "2026-10-17T12:43:03.000Z",
-   "assumed_live_until": "2026-10-17T15:43:03Z"
   }
  ]
 }
