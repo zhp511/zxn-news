@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-17T05:02:15Z",
- "searched_at": "2026-10-17T05:01:40Z",
+ "built_at": "2026-10-17T05:22:07Z",
+ "searched_at": "2026-10-17T05:21:50Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -55,16 +55,6 @@
    "assumed_live_until": "2026-10-17T07:02:52Z"
   },
   {
-   "post_id": "2111277116931309764",
-   "post_url": "https://x.com/the_hindu/status/2111277116931309764",
-   "name": "The Hindu",
-   "username": "the_hindu",
-   "verified_type": "blue",
-   "text": "AISA president Neha Bora reacts after release from detention by Delhi Police https://t.co/aVh91vQ3Wt",
-   "started_at": "2026-10-17T02:04:24.000Z",
-   "assumed_live_until": "2026-10-17T05:04:24Z"
-  },
-  {
    "post_id": "2111321299331215543",
    "post_url": "https://x.com/GBNEWS/status/2111321299331215543",
    "name": "GB News",
@@ -75,14 +65,24 @@
    "assumed_live_until": "2026-10-17T07:59:58Z"
   },
   {
-   "post_id": "2111277551503175858",
-   "post_url": "https://x.com/TheMarcJohnNFL/status/2111277551503175858",
-   "name": "Marcus Johnson",
-   "username": "TheMarcJohnNFL",
+   "post_id": "2111307560309625103",
+   "post_url": "https://x.com/Know_More_News/status/2111307560309625103",
+   "name": "Adam Green - Know More News",
+   "username": "Know_More_News",
    "verified_type": "blue",
-   "text": "TDL#Raiders  Show: Friday Night Live with latest Raiders News and Live Q&A https://t.co/Ga4B8GY6wU",
-   "started_at": "2026-10-17T02:06:08.000Z",
-   "assumed_live_until": "2026-10-17T05:06:08Z"
+   "text": "Know More News LIVE w/ Adam Green https://t.co/GbidlueNIA",
+   "started_at": "2026-10-17T04:05:23.000Z",
+   "assumed_live_until": "2026-10-17T07:05:23Z"
+  },
+  {
+   "post_id": "2111290416071135589",
+   "post_url": "https://x.com/AJPArmy/status/2111290416071135589",
+   "name": "Average Joe Patriot 1776",
+   "username": "AJPArmy",
+   "verified_type": "blue",
+   "text": "LIVE NOW \nRapid Fire News #1231 ~FAFO FRIDAY~\nhttps://t.co/HdD6MEcaUN",
+   "started_at": "2026-10-17T02:57:15.000Z",
+   "assumed_live_until": "2026-10-17T05:57:15Z"
   }
  ]
 }
