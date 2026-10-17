@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-17T22:49:13Z",
- "searched_at": "2026-10-17T22:48:00Z",
+ "built_at": "2026-10-17T23:07:26Z",
+ "searched_at": "2026-10-17T23:07:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -45,16 +45,6 @@
    "assumed_live_until": "2026-10-17T23:58:58Z"
   },
   {
-   "post_id": "2111547780988874877",
-   "post_url": "https://x.com/Channel1TVGHA/status/2111547780988874877",
-   "name": "ChannelOne TV",
-   "username": "Channel1TVGHA",
-   "verified_type": "blue",
-   "text": "Channel One Newsroom Live! | Latest News Updates From Ghana [17.10.2026] https://t.co/JqrhDOfufo",
-   "started_at": "2026-10-17T19:59:56.000Z",
-   "assumed_live_until": "2026-10-17T22:59:56Z"
-  },
-  {
    "post_id": "2111550373337145591",
    "post_url": "https://x.com/Mike_Carmellini/status/2111550373337145591",
    "name": "Mike Carmellini",
@@ -73,6 +63,16 @@
    "text": "LIVE: Atlanta United vs. Inter Miami Prematch Show: Lineups, Injury News & Predictions https://t.co/0HRPy7mwS2",
    "started_at": "2026-10-17T22:30:18.000Z",
    "assumed_live_until": "2026-10-18T01:30:18Z"
+  },
+  {
+   "post_id": "2111584173979017237",
+   "post_url": "https://x.com/Naded/status/2111584173979017237",
+   "name": "Brett Leonard",
+   "username": "Naded",
+   "verified_type": "blue",
+   "text": "Come ask any questions you may have for me! Press conference! Big news! Come chill in chat! Insane knowledge and advice! Thanks all!\n\nAny questions? Now is the time to ask! https://t.co/UE02ntKC7U",
+   "started_at": "2026-10-17T22:24:33.000Z",
+   "assumed_live_until": "2026-10-18T01:24:33Z"
   },
   {
    "post_id": "2111557472712278343",
