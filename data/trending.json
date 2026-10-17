@@ -1,7 +1,7 @@
 {
- "built_at": "2026-10-17T03:12:32Z",
- "news_fetched_at": "2026-10-17T03:12:30Z",
- "trends_fetched_at": "2026-10-17T03:12:30Z",
+ "built_at": "2026-10-17T04:15:25Z",
+ "news_fetched_at": "2026-10-17T04:15:25Z",
+ "trends_fetched_at": "2026-10-17T04:15:25Z",
  "source": "X News (x.search_news) and US trends (x.get_trends_by_woeid 23424977). Story summaries are written by X/Grok from posts on X and may evolve.",
  "stories": [
   {
@@ -87,8 +87,20 @@
  ],
  "trends": [
   {
+   "name": "Purdue",
+   "url": "https://x.com/search?q=Purdue"
+  },
+  {
    "name": "#SmackDown",
    "url": "https://x.com/search?q=%23SmackDown"
+  },
+  {
+   "name": "#OPLive",
+   "url": "https://x.com/search?q=%23OPLive"
+  },
+  {
+   "name": "ash trevino",
+   "url": "https://x.com/search?q=ash%20trevino"
   },
   {
    "name": "Memphis",
@@ -99,52 +111,40 @@
    "url": "https://x.com/search?q=Tulane"
   },
   {
-   "name": "Purdue",
-   "url": "https://x.com/search?q=Purdue"
-  },
-  {
-   "name": "#OPLive",
-   "url": "https://x.com/search?q=%23OPLive"
-  },
-  {
    "name": "Heartbeat",
    "url": "https://x.com/search?q=Heartbeat"
-  },
-  {
-   "name": "Marcus Stokes",
-   "url": "https://x.com/search?q=Marcus%20Stokes"
-  },
-  {
-   "name": "ash trevino",
-   "url": "https://x.com/search?q=ash%20trevino"
-  },
-  {
-   "name": "Baron Corbin",
-   "url": "https://x.com/search?q=Baron%20Corbin"
   },
   {
    "name": "Johnny Carson",
    "url": "https://x.com/search?q=Johnny%20Carson"
   },
   {
+   "name": "YK Osiris",
+   "url": "https://x.com/search?q=YK%20Osiris"
+  },
+  {
+   "name": "Marcus Stokes",
+   "url": "https://x.com/search?q=Marcus%20Stokes"
+  },
+  {
+   "name": "Kessler",
+   "url": "https://x.com/search?q=Kessler"
+  },
+  {
+   "name": "Adin Ross",
+   "url": "https://x.com/search?q=Adin%20Ross"
+  },
+  {
    "name": "Delonte West",
    "url": "https://x.com/search?q=Delonte%20West"
   },
   {
-   "name": "#Dateline",
-   "url": "https://x.com/search?q=%23Dateline"
-  },
-  {
-   "name": "Sixers",
-   "url": "https://x.com/search?q=Sixers"
+   "name": "#brandrisk",
+   "url": "https://x.com/search?q=%23brandrisk"
   },
   {
    "name": "X Money",
    "url": "https://x.com/search?q=X%20Money"
-  },
-  {
-   "name": "Celtics",
-   "url": "https://x.com/search?q=Celtics"
   }
  ]
 }
