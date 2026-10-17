@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-17T20:28:03Z",
- "searched_at": "2026-10-17T20:27:00Z",
+ "built_at": "2026-10-17T20:47:26Z",
+ "searched_at": "2026-10-17T20:47:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -23,16 +23,6 @@
    "text": "WATCH LIVE: Alex Jones Responds To President Trump's Latest Attack Against Him! Alex Jones Built The Launchpad That Trump Ran On But Will Always Be 1776, Not MAGA!\n\nhttps://t.co/iHWHgwQOXs",
    "started_at": "2026-10-17T18:00:42.000Z",
    "assumed_live_until": "2026-10-17T21:00:42Z"
-  },
-  {
-   "post_id": "2111509606182887665",
-   "post_url": "https://x.com/infowars/status/2111509606182887665",
-   "name": "INFOWARS",
-   "username": "infowars",
-   "verified_type": "blue",
-   "text": "BREAKING LIVE: Zelensky Threatens To Hold Europe & The Rest Of The World Hostage By Pouring 20 Million Ukrainian Refugees Into The West If Trump Is Successful In Ending The War With Russia! This Is Another Paper Tiger Threat From The Globalist Puppet!\n\nhttps://t.co/ZdFQPOyzGi",
-   "started_at": "2026-10-17T17:28:14.000Z",
-   "assumed_live_until": "2026-10-17T20:28:14Z"
   },
   {
    "post_id": "2111519080507437142",
@@ -83,6 +73,16 @@
    "text": "THUNDERDOME SPECIAL!! PRESIDENT TRUMP RALLIES IN KENTUCKY!! https://t.co/zZZSI9wT7L",
    "started_at": "2026-10-17T18:10:25.000Z",
    "assumed_live_until": "2026-10-17T21:10:25Z"
+  },
+  {
+   "post_id": "2111520401327358179",
+   "post_url": "https://x.com/MyriamCarlyle/status/2111520401327358179",
+   "name": "Myriam Carlyle",
+   "username": "MyriamCarlyle",
+   "verified_type": "blue",
+   "text": "https://t.co/Zu3YlhsYVA \n\nPRESIDENT TRUMP MAGA MIDTERM RALLY IN HIGHLAND HEIGHTS, KENTUCKY!",
+   "started_at": "2026-10-17T18:11:08.000Z",
+   "assumed_live_until": "2026-10-17T21:11:08Z"
   }
  ]
 }
