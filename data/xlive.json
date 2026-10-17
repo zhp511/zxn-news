@@ -1,19 +1,9 @@
 {
- "built_at": "2026-10-17T06:50:14Z",
- "searched_at": "2026-10-17T06:50:14Z",
+ "built_at": "2026-10-17T07:09:10Z",
+ "searched_at": "2026-10-17T07:09:10Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
-  {
-   "post_id": "2111306193100742971",
-   "post_url": "https://x.com/RealAmVoice/status/2111306193100742971",
-   "name": "Real America's Voice (RAV)",
-   "username": "RealAmVoice",
-   "verified_type": "business",
-   "text": "AMERICA SPEAKS WITH WAYNE ALLYN ROOT https://t.co/cFUGcmXsXi",
-   "started_at": "2026-10-17T03:59:57.000Z",
-   "assumed_live_until": "2026-10-17T06:59:57Z"
-  },
   {
    "post_id": "2111321425541992953",
    "post_url": "https://x.com/IndiaToday/status/2111321425541992953",
@@ -25,14 +15,14 @@
    "assumed_live_until": "2026-10-17T08:00:28Z"
   },
   {
-   "post_id": "2111306928983060492",
-   "post_url": "https://x.com/averagedayjoes/status/2111306928983060492",
-   "name": "Average Day Joe's",
-   "username": "averagedayjoes",
+   "post_id": "2111349277289292068",
+   "post_url": "https://x.com/FootscraysFine1/status/2111349277289292068",
+   "name": "Footscray's Finest",
+   "username": "FootscraysFine1",
    "verified_type": "blue",
-   "text": "Episode#465 Trump Jokes About El-Sayed's Name https://t.co/EQcMaqA7K0",
-   "started_at": "2026-10-17T04:02:52.000Z",
-   "assumed_live_until": "2026-10-17T07:02:52Z"
+   "text": "Footscray's Finest presents: TRUMP FUCKS KIDS https://t.co/F6PdeoTjQS",
+   "started_at": "2026-10-17T06:51:09.000Z",
+   "assumed_live_until": "2026-10-17T09:51:09Z"
   },
   {
    "post_id": "2111321299331215543",
@@ -45,14 +35,24 @@
    "assumed_live_until": "2026-10-17T07:59:58Z"
   },
   {
-   "post_id": "2111307560309625103",
-   "post_url": "https://x.com/Know_More_News/status/2111307560309625103",
-   "name": "Adam Green - Know More News",
-   "username": "Know_More_News",
+   "post_id": "2111352644908593187",
+   "post_url": "https://x.com/Channel1TVGHA/status/2111352644908593187",
+   "name": "ChannelOne TV",
+   "username": "Channel1TVGHA",
    "verified_type": "blue",
-   "text": "Know More News LIVE w/ Adam Green https://t.co/GbidlueNIA",
-   "started_at": "2026-10-17T04:05:23.000Z",
-   "assumed_live_until": "2026-10-17T07:05:23Z"
+   "text": "Channel One TV LIVE! Breakfast Daily Weekend | Latest News updates from Ghana | 17th October 2026 https://t.co/uaKK2M40Gz",
+   "started_at": "2026-10-17T07:04:32.000Z",
+   "assumed_live_until": "2026-10-17T10:04:32Z"
+  },
+  {
+   "post_id": "2111352887347687475",
+   "post_url": "https://x.com/StarAsiatvHD/status/2111352887347687475",
+   "name": "Star Asia Tv",
+   "username": "StarAsiatvHD",
+   "verified_type": "blue",
+   "text": "11am News bulletin Star Asia🔴 https://t.co/XrKj5r7Py0",
+   "started_at": "2026-10-17T07:05:30.000Z",
+   "assumed_live_until": "2026-10-17T10:05:30Z"
   }
  ]
 }
