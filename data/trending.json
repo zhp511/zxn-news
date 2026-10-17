@@ -1,19 +1,47 @@
 {
- "built_at": "2026-10-17T18:54:21Z",
- "news_fetched_at": "2026-10-17T18:54:21Z",
- "trends_fetched_at": "2026-10-17T18:54:21Z",
+ "built_at": "2026-10-17T19:57:56Z",
+ "news_fetched_at": "2026-10-17T19:57:56Z",
+ "trends_fetched_at": "2026-10-17T19:57:56Z",
  "source": "X News (x.search_news) and US trends (x.get_trends_by_woeid 23424977). Story summaries are written by X/Grok from posts on X and may evolve.",
  "stories": [
   {
-   "id": "2111141187767931248",
-   "headline": "El-Sayed Fires Back at Vance with Wolverine Clapback in Michigan Senate Race",
-   "hook": "JD Vance called Democrat Abdul El-Sayed a 'little weasel' while stumping in Michigan. El-Sayed turned it into a roar: 'What you're talking about is a fucking Wolverine!'",
-   "summary": "During a tight Michigan Senate race set for November 3, Republican VP JD Vance campaigned for Mike Rogers and insulted El-Sayed, prompting the Democrat to rally crowds in Marquette with a sharp retort invoking Michigan's fierce rivalry against Vance's Ohio State Buckeyes. El-Sayed, a Michigan native and former health director pushing unions, healthcare, and childcare, has used the back-and-forth to energize supporters, while critics target his government-run healthcare stance. Polls show El-Sayed in a narrow lead or tie with Rogers in this battleground state.",
-   "updated_at": "2026-10-17T18:12:51.000Z",
-   "url": "https://x.com/i/trending/2111141187767931248",
-   "topics": [
-    "Politics"
-   ],
+   "id": "2111542496685658372",
+   "headline": "Stripe CEO Highlights Mutual Pity Across Atlantic",
+   "hook": "Patrick Collison captured a quiet tension: Europeans fret over America's governance, while Americans see Europe as fading economically. His tweet drew the classic Don Draper GIF of total indifference.",
+   "summary": "On October 17, Stripe CEO Patrick Collison posted about cross-Atlantic pity—Europe viewing the U.S. as sliding into autocracy, and America seeing Europe as weak amid lagging growth and U.S. security pullbacks. Replies ranged from critiques of his framing to warnings that infighting aids rivals like Russia and China, with some noting everyday folks ignore the other's debates. The exchange underscores hardening perceptions even as cooperation stays vital for shared global challenges.",
+   "updated_at": "2026-10-17T19:48:54.000Z",
+   "url": "https://x.com/i/trending/2111542496685658372",
+   "topics": [],
+   "post_urls": []
+  },
+  {
+   "id": "2111542493833482285",
+   "headline": "Online Calls Urge Voter Turnout Despite Democratic Poll Leads for 2026 Midterms",
+   "hook": "Polls show Democrats ahead by about 8 points on the generic ballot, yet voices across the spectrum are stressing one simple truth: elections hinge on who actually shows up to vote.",
+   "summary": "With two weeks until November 3, 2026, discussions highlight strong Democratic advantages in House and Senate forecasts, but users from conservatives like Jamie Bonkiewicz—who bluntly warned 'Your ass better still get out and vote'—to left-leaning posters are pushing turnout over poll predictions. Early voting is underway in several states, with events like 'No Kings: Vote Early' on October 17 encouraging absentee requests and in-person plans. The shared message cuts through frustration: participation decides close races, no matter the surveys.",
+   "updated_at": "2026-10-17T19:48:08.000Z",
+   "url": "https://x.com/i/trending/2111542493833482285",
+   "topics": [],
+   "post_urls": []
+  },
+  {
+   "id": "2111535571424420060",
+   "headline": "Voters Frame Midterm Choices as Rejection of the Other Party",
+   "hook": "With midterms looming, many voters are heading to the polls not out of love for their pick, but sheer frustration with the alternative.",
+   "summary": "Social media posts capture voters choosing Republicans to block Democrats they call 'evil and insane,' while others reject Republicans as 'fascist.' Vice President JD Vance drives the message, urging crowds not to vote for those who 'caused these problems' like inflation. The exchange highlights deep polarization ahead of the November 3 midterms, where polls show Democrats leading but early voting hints at tight races in states like North Carolina and Iowa.",
+   "updated_at": "2026-10-17T19:21:32.000Z",
+   "url": "https://x.com/i/trending/2111535571424420060",
+   "topics": [],
+   "post_urls": []
+  },
+  {
+   "id": "2111131893630702023",
+   "headline": "State Department Posts Promote Rubio's America First Foreign Policy",
+   "hook": "Secretary Marco Rubio stares seriously from a dark backdrop, with bold text declaring the U.S. foreign policy will prioritize what's good for America.",
+   "summary": "The U.S. State Department's social media posts feature Rubio emphasizing 'America First is common sense,' using American power to advance U.S. interests over global institutions. This aligns with actions like cutting $80 billion in foreign aid, slashing USAID programs by 85%, and freeing detained Americans from Russia and Venezuela. Edited images by critics swap 'America' for 'Russia' or 'Israel,' while supporters praise the shift from past multilateral approaches.",
+   "updated_at": "2026-10-17T18:55:05.000Z",
+   "url": "https://x.com/i/trending/2111131893630702023",
+   "topics": [],
    "post_urls": []
   },
   {
@@ -23,9 +51,7 @@
    "summary": "In January 2026, Cornyn said he saw no benefit in debating before the March 3 Republican primary, dismissing Rep. Wesley Hunt and expecting a contest with Ken Paxton. The primary led to a May 26 runoff, where Paxton won 64% to Cornyn's 36%, ending his Senate bid. On October 17, Cornyn posted that avoiding debates leaves voters uninformed, drawing replies quoting his past stance, criticizing his voting record like a 54% Conservative Review Liberty Score, and celebrating his primary loss with memes labeling him a RINO.",
    "updated_at": "2026-10-17T17:16:59.000Z",
    "url": "https://x.com/i/trending/2111504424199770125",
-   "topics": [
-    "Politics"
-   ],
+   "topics": [],
    "post_urls": []
   },
   {
@@ -35,9 +61,7 @@
    "summary": "Conservative users are sharing urgent 'Vote Red' messages, patriotic graphics, and calls for straight-ticket Republican support across all 435 House seats, 35 Senate seats, and 39 governorships. Posts from S. Carlin, Emma, KatieBeGoo, and Ben Owen emphasize high turnout and love of country, dismissing polls in favor of personal voting plans. Accompanied by American flag memes, neon signs, and hot air balloons, the activity underscores turnout as key, amid voter priorities like the economy, immigration, and healthcare.",
    "updated_at": "2026-10-17T17:06:06.000Z",
    "url": "https://x.com/i/trending/2111500794893893811",
-   "topics": [
-    "Elections"
-   ],
+   "topics": [],
    "post_urls": []
   },
   {
@@ -47,9 +71,7 @@
    "summary": "Sponsored by Rep. Jeff Crank, the nonbinding H. Res. 1490 opposes socialism in all forms, including the Democratic Socialists of America, and reaffirms support for free elections. All 212 Republicans voted yes, while just eight Democrats—Reps. Kathy Castor, Vicente Gonzalez, Henry Cuellar, Darren Soto, Jared Golden, Marie Gluesenkamp Perez, Don Davis, and Gabe Vasquez—joined them, with 192 voting no. The vote ties into election integrity debates via endorsement of the SAVE America Act, and online discussions highlight the numbers as a stark indicator of party stances ahead of future elections.",
    "updated_at": "2026-10-17T17:05:33.000Z",
    "url": "https://x.com/i/trending/2111500793300087041",
-   "topics": [
-    "Politics"
-   ],
+   "topics": [],
    "post_urls": []
   },
   {
@@ -59,108 +81,70 @@
    "summary": "Social media is filled with calls to vote Republican in the 2026 midterms, not for GOP perfection, but as urgent opposition to Democrats on issues like the economy, borders, and culture. Voices like Julie Borowski's 'I'm not suicidally principled' and Mike Engleman's echo that friends back red because Democrats seem 'evil and insane,' amid elections deciding all 435 House seats and 35 Senate seats where Republicans hold slim majorities. Critics call the rhetoric unprincipled or silly, as early voting begins and Trump rallies turnout in key areas, with inflation and foreign policy on voters' minds.",
    "updated_at": "2026-10-17T16:43:41.000Z",
    "url": "https://x.com/i/trending/2110822122213773594",
-   "topics": [
-    "Politics"
-   ],
-   "post_urls": []
-  },
-  {
-   "id": "2111131893630702023",
-   "headline": "State Department Pushes America First Policy Under Rubio",
-   "hook": "Secretary Marco Rubio stands firm in a dark suit and sunglasses, declaring foreign policy will always put America first—no exceptions.",
-   "summary": "The U.S. Department of State has rolled out bold America First messaging, featuring graphics of Rubio against the department seal with captions like 'America First. Always.' and promises to use all elements of American power for U.S. interests. Early actions include cutting foreign aid that doesn't align with national priorities, freeing detained Americans, and countering China's influence in the Western Hemisphere. While supporters see it as common sense that boosts leverage, critics edit graphics to claim favoritism toward Israel and question consistency in Middle East policy.",
-   "updated_at": "2026-10-17T15:48:16.000Z",
-   "url": "https://x.com/i/trending/2111131893630702023",
-   "topics": [
-    "Politics"
-   ],
-   "post_urls": []
-  },
-  {
-   "id": "2111205723820454272",
-   "headline": "Trump's State of the Union Challenge to Democrats on Citizen Safety Resurfaces",
-   "hook": "In his February State of the Union address, President Trump called on lawmakers to stand for prioritizing American citizens over illegal immigrants. Republicans rose; most Democrats stayed seated, prompting his direct rebuke: 'Isn't that a shame?'",
-   "summary": "The White House reposted the clip this week, tying it to open-border policies and the tragic death of Georgia nursing student Laken Riley, killed by a criminal illegal immigrant. Republicans praised Trump for supporting Angel Families and securing the border, while Democrats like Rep. Pete Aguilar accused House Republicans of favoring Trump over constituents. Critics frame the moment as part of deeper debates on funding, due process, and immigration reform, with both sides highlighting stakes for American families amid partisan divides.",
-   "updated_at": "2026-10-17T01:11:21.000Z",
-   "url": "https://x.com/i/trending/2111205723820454272",
-   "topics": [
-    "Politics"
-   ],
-   "post_urls": []
-  },
-  {
-   "id": "2111219235842035885",
-   "headline": "53 Million Claim Trump's Tax Cuts Averaging $800 Savings",
-   "hook": "This tax season, 53 million Americans pocketed an average of $800 from President Trump's cuts—provisions like no tax on tips and bigger child credits that Republicans call a win for working families.",
-   "summary": "The White House highlighted that 53 million filers benefited from the 2025 Working Families Tax Cuts, with average refunds hitting $3,400, up 11 percent from last year. Republicans, including Speaker Mike Johnson, praised it as the largest middle-class relief ever, featuring overtime deductions and senior breaks, while every Democrat opposed the bill. Critics counter that health costs rose sharply—with family plans up $1,408 and workers paying $554 more—while independent reviews show the top 1 percent gaining most, amid a $40 trillion national debt and $2 trillion deficit.",
-   "updated_at": "2026-10-16T22:23:53.000Z",
-   "url": "https://x.com/i/trending/2111219235842035885",
-   "topics": [
-    "Politics"
-   ],
+   "topics": [],
    "post_urls": []
   }
  ],
  "trends": [
   {
-   "name": "Julian Sayin",
-   "url": "https://x.com/search?q=Julian%20Sayin"
-  },
-  {
-   "name": "Sayin",
-   "url": "https://x.com/search?q=Sayin"
-  },
-  {
-   "name": "Ohio State",
-   "url": "https://x.com/search?q=Ohio%20State"
-  },
-  {
-   "name": "Sark",
-   "url": "https://x.com/search?q=Sark"
-  },
-  {
-   "name": "Jeremiah Smith",
-   "url": "https://x.com/search?q=Jeremiah%20Smith"
+   "name": "Arch Manning",
+   "url": "https://x.com/search?q=Arch%20Manning"
   },
   {
    "name": "Indiana",
    "url": "https://x.com/search?q=Indiana"
   },
   {
-   "name": "Jay Timmons",
-   "url": "https://x.com/search?q=Jay%20Timmons"
+   "name": "Ohio State",
+   "url": "https://x.com/search?q=Ohio%20State"
   },
   {
-   "name": "Ryan Day",
-   "url": "https://x.com/search?q=Ryan%20Day"
+   "name": "Sayin",
+   "url": "https://x.com/search?q=Sayin"
   },
   {
-   "name": "Arthur Smith",
-   "url": "https://x.com/search?q=Arthur%20Smith"
+   "name": "Jeremiah Smith",
+   "url": "https://x.com/search?q=Jeremiah%20Smith"
   },
   {
    "name": "Gators",
    "url": "https://x.com/search?q=Gators"
   },
   {
-   "name": "Colin Simmons",
-   "url": "https://x.com/search?q=Colin%20Simmons"
+   "name": "Nick Marsh",
+   "url": "https://x.com/search?q=Nick%20Marsh"
   },
   {
-   "name": "Betis",
-   "url": "https://x.com/search?q=Betis"
+   "name": "Texas",
+   "url": "https://x.com/search?q=Texas"
   },
   {
-   "name": "Lamine",
-   "url": "https://x.com/search?q=Lamine"
+   "name": "Hoover",
+   "url": "https://x.com/search?q=Hoover"
+  },
+  {
+   "name": "Ryan Day",
+   "url": "https://x.com/search?q=Ryan%20Day"
+  },
+  {
+   "name": "Fahey",
+   "url": "https://x.com/search?q=Fahey"
+  },
+  {
+   "name": "Charlie Becker",
+   "url": "https://x.com/search?q=Charlie%20Becker"
   },
   {
    "name": "Macron",
    "url": "https://x.com/search?q=Macron"
   },
   {
-   "name": "Scuffles",
-   "url": "https://x.com/search?q=Scuffles"
+   "name": "#GoBucks",
+   "url": "https://x.com/search?q=%23GoBucks"
+  },
+  {
+   "name": "Gus Johnson",
+   "url": "https://x.com/search?q=Gus%20Johnson"
   }
  ]
 }
