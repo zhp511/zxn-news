@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-17T18:07:34Z",
- "searched_at": "2026-10-17T18:07:00Z",
+ "built_at": "2026-10-17T18:26:00Z",
+ "searched_at": "2026-10-17T18:25:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -15,6 +15,16 @@
    "assumed_live_until": "2026-10-17T20:05:19Z"
   },
   {
+   "post_id": "2111521318952976810",
+   "post_url": "https://x.com/FoxNews/status/2111521318952976810",
+   "name": "Fox News",
+   "username": "FoxNews",
+   "verified_type": "blue",
+   "text": "WATCH LIVE: Kansas GOP bus tour hits final leg in tight Senate battle https://t.co/F0I43raJyR",
+   "started_at": "2026-10-17T18:14:47.000Z",
+   "assumed_live_until": "2026-10-17T21:14:47Z"
+  },
+  {
    "post_id": "2111499662352072782",
    "post_url": "https://x.com/Republicans/status/2111499662352072782",
    "name": "Republicans",
@@ -23,16 +33,6 @@
    "text": "Midterm Rally in Highland Heights, Kentucky featuring President Donald J. Trump https://t.co/OijhqmqP5a",
    "started_at": "2026-10-17T16:48:43.000Z",
    "assumed_live_until": "2026-10-17T19:48:43Z"
-  },
-  {
-   "post_id": "2111509606182887665",
-   "post_url": "https://x.com/infowars/status/2111509606182887665",
-   "name": "INFOWARS",
-   "username": "infowars",
-   "verified_type": "blue",
-   "text": "BREAKING LIVE: Zelensky Threatens To Hold Europe & The Rest Of The World Hostage By Pouring 20 Million Ukrainian Refugees Into The West If Trump Is Successful In Ending The War With Russia! This Is Another Paper Tiger Threat From The Globalist Puppet!\n\nhttps://t.co/ZdFQPOyzGi",
-   "started_at": "2026-10-17T17:28:14.000Z",
-   "assumed_live_until": "2026-10-17T20:28:14Z"
   },
   {
    "post_id": "2111517774467981789",
@@ -45,6 +45,16 @@
    "assumed_live_until": "2026-10-17T21:00:42Z"
   },
   {
+   "post_id": "2111509606182887665",
+   "post_url": "https://x.com/infowars/status/2111509606182887665",
+   "name": "INFOWARS",
+   "username": "infowars",
+   "verified_type": "blue",
+   "text": "BREAKING LIVE: Zelensky Threatens To Hold Europe & The Rest Of The World Hostage By Pouring 20 Million Ukrainian Refugees Into The West If Trump Is Successful In Ending The War With Russia! This Is Another Paper Tiger Threat From The Globalist Puppet!\n\nhttps://t.co/ZdFQPOyzGi",
+   "started_at": "2026-10-17T17:28:14.000Z",
+   "assumed_live_until": "2026-10-17T20:28:14Z"
+  },
+  {
    "post_id": "2111502362523423024",
    "post_url": "https://x.com/barrycunningham/status/2111502362523423024",
    "name": "Barry Cunningham",
@@ -55,14 +65,14 @@
    "assumed_live_until": "2026-10-17T19:59:27Z"
   },
   {
-   "post_id": "2111501754483503401",
-   "post_url": "https://x.com/crrow777/status/2111501754483503401",
-   "name": "Crow",
-   "username": "crrow777",
+   "post_id": "2111519080507437142",
+   "post_url": "https://x.com/Dialogue_NRA/status/2111519080507437142",
+   "name": "Dialogue works",
+   "username": "Dialogue_NRA",
    "verified_type": "blue",
-   "text": "How J.P. Morgan & Andrew Carnegie Took Over America   - Crrow777 Episode 632 https://t.co/DTpPNPsxs6",
-   "started_at": "2026-10-17T16:57:02.000Z",
-   "assumed_live_until": "2026-10-17T19:57:02Z"
+   "text": "Mark Sleboda: BREAKING: Iran Rejects U.S. Proposal—Trump Threatens Pickaxe Mountain https://t.co/V9R3WXacR4",
+   "started_at": "2026-10-17T18:05:53.000Z",
+   "assumed_live_until": "2026-10-17T21:05:53Z"
   },
   {
    "post_id": "2111517860199890987",
@@ -73,16 +83,6 @@
    "text": "Badlands Media Special Coverage: President Trump Delivers Remarks from Highland Heights, KY https://t.co/cVhltbTzAV",
    "started_at": "2026-10-17T18:01:02.000Z",
    "assumed_live_until": "2026-10-17T21:01:02Z"
-  },
-  {
-   "post_id": "2111519080507437142",
-   "post_url": "https://x.com/Dialogue_NRA/status/2111519080507437142",
-   "name": "Dialogue works",
-   "username": "Dialogue_NRA",
-   "verified_type": "blue",
-   "text": "Mark Sleboda: BREAKING: Iran Rejects U.S. Proposal—Trump Threatens Pickaxe Mountain https://t.co/V9R3WXacR4",
-   "started_at": "2026-10-17T18:05:53.000Z",
-   "assumed_live_until": "2026-10-17T21:05:53Z"
   }
  ]
 }
