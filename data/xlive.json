@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-17T09:16:57Z",
- "searched_at": "2026-10-17T09:17:00Z",
+ "built_at": "2026-10-17T09:32:25Z",
+ "searched_at": "2026-10-17T09:32:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -15,6 +15,16 @@
    "assumed_live_until": "2026-10-17T11:28:36Z"
   },
   {
+   "post_id": "2111388167827824782",
+   "post_url": "https://x.com/Fasoladaserver/status/2111388167827824782",
+   "name": "ΦΑΣΟΛΑΔΑ😎",
+   "username": "Fasoladaserver",
+   "verified_type": "blue",
+   "text": "Iraklio web radio.Only 80s. Classic rock radio !!! ❤️https://t.co/pym8uGZMEv #iran #trump #paobc",
+   "started_at": "2026-10-17T09:25:41.000Z",
+   "assumed_live_until": "2026-10-17T12:25:41Z"
+  },
+  {
    "post_id": "2111383139235049895",
    "post_url": "https://x.com/PoliticalCow/status/2111383139235049895",
    "name": "Political Cow",
@@ -23,6 +33,16 @@
    "text": "LIVE: White House View - Security Incident Unfolding https://t.co/vZPkfIIFAe",
    "started_at": "2026-10-17T09:05:42.000Z",
    "assumed_live_until": "2026-10-17T12:05:42Z"
+  },
+  {
+   "post_id": "2111388360841506964",
+   "post_url": "https://x.com/AgendaFreeTV/status/2111388360841506964",
+   "name": "Agenda-Free TV",
+   "username": "AgendaFreeTV",
+   "verified_type": "none",
+   "text": "France Protests - LIVE Breaking News Coverage (including Paris) #France #Paris #Protests https://t.co/bOO6AjPjL8",
+   "started_at": "2026-10-17T09:26:27.000Z",
+   "assumed_live_until": "2026-10-17T12:26:27Z"
   },
   {
    "post_id": "2111352644908593187",
@@ -55,16 +75,6 @@
    "assumed_live_until": "2026-10-17T11:43:15Z"
   },
   {
-   "post_id": "2111370608856780901",
-   "post_url": "https://x.com/RadioPakistan/status/2111370608856780901",
-   "name": "Radio Pakistan",
-   "username": "RadioPakistan",
-   "verified_type": "blue",
-   "text": "#Live: Minister of State for Interior Talal Chaudhry is addressing a news conference in Jaranwala\n@MOIofficialGoP #News #RadioPakistan \n https://t.co/4rKlag9Gxt",
-   "started_at": "2026-10-17T08:15:55.000Z",
-   "assumed_live_until": "2026-10-17T11:15:55Z"
-  },
-  {
    "post_id": "2111382224335765581",
    "post_url": "https://x.com/TheLeedsLens/status/2111382224335765581",
    "name": "TheLeedsLens",
@@ -73,16 +83,6 @@
    "text": "LIVE ON Youtube! | Leeds HUGE Injury News! | Farke On Poor Subs & Leeds vs Man Utd Prediction! | #LUFC News https://t.co/ynn8OOM78z",
    "started_at": "2026-10-17T09:02:04.000Z",
    "assumed_live_until": "2026-10-17T12:02:04Z"
-  },
-  {
-   "post_id": "2111352887347687475",
-   "post_url": "https://x.com/StarAsiatvHD/status/2111352887347687475",
-   "name": "Star Asia Tv",
-   "username": "StarAsiatvHD",
-   "verified_type": "blue",
-   "text": "11am News bulletin Star Asia🔴 https://t.co/XrKj5r7Py0",
-   "started_at": "2026-10-17T07:05:30.000Z",
-   "assumed_live_until": "2026-10-17T10:05:30Z"
   }
  ]
 }
