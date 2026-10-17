@@ -1,7 +1,7 @@
 {
- "built_at": "2026-10-17T02:09:47Z",
- "news_fetched_at": "2026-10-17T02:09:43Z",
- "trends_fetched_at": "2026-10-17T02:09:43Z",
+ "built_at": "2026-10-17T03:12:32Z",
+ "news_fetched_at": "2026-10-17T03:12:30Z",
+ "trends_fetched_at": "2026-10-17T03:12:30Z",
  "source": "X News (x.search_news) and US trends (x.get_trends_by_woeid 23424977). Story summaries are written by X/Grok from posts on X and may evolve.",
  "stories": [
   {
@@ -91,60 +91,60 @@
    "url": "https://x.com/search?q=%23SmackDown"
   },
   {
-   "name": "#OPLive",
-   "url": "https://x.com/search?q=%23OPLive"
-  },
-  {
    "name": "Memphis",
    "url": "https://x.com/search?q=Memphis"
-  },
-  {
-   "name": "Heartbeat",
-   "url": "https://x.com/search?q=Heartbeat"
-  },
-  {
-   "name": "Purdue",
-   "url": "https://x.com/search?q=Purdue"
   },
   {
    "name": "Tulane",
    "url": "https://x.com/search?q=Tulane"
   },
   {
+   "name": "Purdue",
+   "url": "https://x.com/search?q=Purdue"
+  },
+  {
+   "name": "#OPLive",
+   "url": "https://x.com/search?q=%23OPLive"
+  },
+  {
+   "name": "Heartbeat",
+   "url": "https://x.com/search?q=Heartbeat"
+  },
+  {
    "name": "Marcus Stokes",
    "url": "https://x.com/search?q=Marcus%20Stokes"
+  },
+  {
+   "name": "ash trevino",
+   "url": "https://x.com/search?q=ash%20trevino"
   },
   {
    "name": "Baron Corbin",
    "url": "https://x.com/search?q=Baron%20Corbin"
   },
   {
-   "name": "Sixers",
-   "url": "https://x.com/search?q=Sixers"
+   "name": "Johnny Carson",
+   "url": "https://x.com/search?q=Johnny%20Carson"
+  },
+  {
+   "name": "Delonte West",
+   "url": "https://x.com/search?q=Delonte%20West"
   },
   {
    "name": "#Dateline",
    "url": "https://x.com/search?q=%23Dateline"
   },
   {
-   "name": "San Clemente",
-   "url": "https://x.com/search?q=San%20Clemente"
+   "name": "Sixers",
+   "url": "https://x.com/search?q=Sixers"
   },
   {
-   "name": "End of 3rd",
-   "url": "https://x.com/search?q=End%20of%203rd"
+   "name": "X Money",
+   "url": "https://x.com/search?q=X%20Money"
   },
   {
-   "name": "Press Secretary",
-   "url": "https://x.com/search?q=Press%20Secretary"
-  },
-  {
-   "name": "End 3Q",
-   "url": "https://x.com/search?q=End%203Q"
-  },
-  {
-   "name": "#iahsfb",
-   "url": "https://x.com/search?q=%23iahsfb"
+   "name": "Celtics",
+   "url": "https://x.com/search?q=Celtics"
   }
  ]
 }
