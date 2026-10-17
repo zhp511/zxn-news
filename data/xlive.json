@@ -1,19 +1,9 @@
 {
- "built_at": "2026-10-17T09:47:16Z",
- "searched_at": "2026-10-17T09:47:00Z",
+ "built_at": "2026-10-17T10:03:46Z",
+ "searched_at": "2026-10-17T10:04:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
-  {
-   "post_id": "2111373803955875902",
-   "post_url": "https://x.com/IndiaToday/status/2111373803955875902",
-   "name": "IndiaToday",
-   "username": "IndiaToday",
-   "verified_type": "business",
-   "text": "#LIVE | DMK hits out at Congress! #ITLivestream | @Sriya_kundu https://t.co/1Wv5uMXIml",
-   "started_at": "2026-10-17T08:28:36.000Z",
-   "assumed_live_until": "2026-10-17T11:28:36Z"
-  },
   {
    "post_id": "2111388167827824782",
    "post_url": "https://x.com/Fasoladaserver/status/2111388167827824782",
@@ -55,16 +45,6 @@
    "assumed_live_until": "2026-10-17T12:00:39Z"
   },
   {
-   "post_id": "2111352644908593187",
-   "post_url": "https://x.com/Channel1TVGHA/status/2111352644908593187",
-   "name": "ChannelOne TV",
-   "username": "Channel1TVGHA",
-   "verified_type": "blue",
-   "text": "Channel One TV LIVE! Breakfast Daily Weekend | Latest News updates from Ghana | 17th October 2026 https://t.co/uaKK2M40Gz",
-   "started_at": "2026-10-17T07:04:32.000Z",
-   "assumed_live_until": "2026-10-17T10:04:32Z"
-  },
-  {
    "post_id": "2111390147384385746",
    "post_url": "https://x.com/AgendaFreeTV/status/2111390147384385746",
    "name": "Agenda-Free TV",
@@ -73,6 +53,26 @@
    "text": "France Protests - LIVE Breaking News Coverage (including Paris) #France #Paris #Protests https://t.co/e5K8sAuvmU",
    "started_at": "2026-10-17T09:33:33.000Z",
    "assumed_live_until": "2026-10-17T12:33:33Z"
+  },
+  {
+   "post_id": "2111397222227247367",
+   "post_url": "https://x.com/IndiaToday/status/2111397222227247367",
+   "name": "IndiaToday",
+   "username": "IndiaToday",
+   "verified_type": "business",
+   "text": "#Live: Watch #PostMortem with @PoojaShali  as she unfolds the latest crime news #ITLivestream https://t.co/ZCFpXQgpWS",
+   "started_at": "2026-10-17T10:01:40.000Z",
+   "assumed_live_until": "2026-10-17T13:01:40Z"
+  },
+  {
+   "post_id": "2111352644908593187",
+   "post_url": "https://x.com/Channel1TVGHA/status/2111352644908593187",
+   "name": "ChannelOne TV",
+   "username": "Channel1TVGHA",
+   "verified_type": "blue",
+   "text": "Channel One TV LIVE! Breakfast Daily Weekend | Latest News updates from Ghana | 17th October 2026 https://t.co/uaKK2M40Gz",
+   "started_at": "2026-10-17T07:04:32.000Z",
+   "assumed_live_until": "2026-10-17T10:04:32Z"
   },
   {
    "post_id": "2111377488882647381",
