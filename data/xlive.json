@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-17T15:56:47Z",
- "searched_at": "2026-10-17T15:56:00Z",
+ "built_at": "2026-10-17T16:12:05Z",
+ "searched_at": "2026-10-17T16:11:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -35,16 +35,6 @@
    "assumed_live_until": "2026-10-17T17:02:21Z"
   },
   {
-   "post_id": "2111443978478395639",
-   "post_url": "https://x.com/Myguy790/status/2111443978478395639",
-   "name": "Aiden Busch",
-   "username": "Myguy790",
-   "verified_type": "none",
-   "text": "America has lost the plot  https://t.co/nWNJvfRIMJ",
-   "started_at": "2026-10-17T13:07:27.000Z",
-   "assumed_live_until": "2026-10-17T16:07:27Z"
-  },
-  {
    "post_id": "2111460117820399954",
    "post_url": "https://x.com/realjamesrossi/status/2111460117820399954",
    "name": "James Rossi 🇺🇸",
@@ -53,16 +43,6 @@
    "text": "🚨LIVE: President Trump Holds a Rally in Highland Heights, KY - 10/17/26 https://t.co/IXcq4uE0Nd",
    "started_at": "2026-10-17T14:11:35.000Z",
    "assumed_live_until": "2026-10-17T17:11:35Z"
-  },
-  {
-   "post_id": "2111463384680169833",
-   "post_url": "https://x.com/afshanhashmi/status/2111463384680169833",
-   "name": "Dr. Afshan Hashmi",
-   "username": "afshanhashmi",
-   "verified_type": "blue",
-   "text": "Dr Afshan Hashmi announces President Trump as modern Day Sir Syed Ahmad Khan-by Dr.Afshan  Hashmi https://t.co/RJuFWHC6nj",
-   "started_at": "2026-10-17T14:24:34.000Z",
-   "assumed_live_until": "2026-10-17T17:24:34Z"
   },
   {
    "post_id": "2111483954440355951",
@@ -75,14 +55,34 @@
    "assumed_live_until": "2026-10-17T18:46:18Z"
   },
   {
-   "post_id": "2111469468362617311",
-   "post_url": "https://x.com/Scramblepad/status/2111469468362617311",
+   "post_id": "2111463384680169833",
+   "post_url": "https://x.com/afshanhashmi/status/2111463384680169833",
+   "name": "Dr. Afshan Hashmi",
+   "username": "afshanhashmi",
+   "verified_type": "blue",
+   "text": "Dr Afshan Hashmi announces President Trump as modern Day Sir Syed Ahmad Khan-by Dr.Afshan  Hashmi https://t.co/RJuFWHC6nj",
+   "started_at": "2026-10-17T14:24:34.000Z",
+   "assumed_live_until": "2026-10-17T17:24:34Z"
+  },
+  {
+   "post_id": "2111487426623623515",
+   "post_url": "https://x.com/JohnGordonTV/status/2111487426623623515",
+   "name": "John Gordon",
+   "username": "JohnGordonTV",
+   "verified_type": "blue",
+   "text": "$500 MILLION for ONE Senate Race?! The Shocking Cost of the 2026 Midterms https://t.co/9YdG5vNjsJ",
+   "started_at": "2026-10-17T16:00:06.000Z",
+   "assumed_live_until": "2026-10-17T19:00:06Z"
+  },
+  {
+   "post_id": "2111487691581976775",
+   "post_url": "https://x.com/Scramblepad/status/2111487691581976775",
    "name": "\" SCRAMBLEPAD \"",
    "username": "Scramblepad",
    "verified_type": "none",
-   "text": "LIVE: President Trump Holds a Rally in Highland Heights, KY - \n\n10/17/26 SATURDAY\n\nhttps://t.co/haenIWgOH0\n\\\nhttps://t.co/f9IEj8D5VH https://t.co/5NRR0Tiv4U",
-   "started_at": "2026-10-17T14:48:45.000Z",
-   "assumed_live_until": "2026-10-17T17:48:45Z"
+   "text": "LIVE: President Trump Holds a Rally in Highland Heights, KY -   10/17/26 SATURDAY  \n\nhttps://t.co/haenIWhmwy\\ \n\nhttps://t.co/f9IEj8DDLf https://t.co/JccifLAZkp",
+   "started_at": "2026-10-17T16:01:09.000Z",
+   "assumed_live_until": "2026-10-17T19:01:09Z"
   }
  ]
 }
