@@ -1,16 +1,26 @@
 {
- "built_at": "2026-10-17T06:17:37Z",
- "news_fetched_at": "2026-10-17T06:17:37Z",
- "trends_fetched_at": "2026-10-17T06:17:37Z",
+ "built_at": "2026-10-17T07:19:21Z",
+ "news_fetched_at": "2026-10-17T07:19:21Z",
+ "trends_fetched_at": "2026-10-17T07:19:21Z",
  "source": "X News (x.search_news) and US trends (x.get_trends_by_woeid 23424977). Story summaries are written by X/Grok from posts on X and may evolve.",
  "stories": [
   {
-   "id": "2111131893630702023",
-   "headline": "State Department Declares America First Foreign Policy Under Rubio",
-   "hook": "Secretary of State Marco Rubio stares out from a stark black-and-white image in sunglasses, with the bold words: policy 'is going to be driven by what is good for AMERICA.' It's a clear signal of priorities.",
-   "summary": "The U.S. Department of State emphasized that foreign policy will prioritize American interests above all, using the slogan 'America First. Always.' Rubio called this common sense in interviews, stating the U.S. will use all elements of its power to advance its own goals and no longer put the UN or global order ahead of national needs. Supporters praised the direct rejection of international institutions first, while critics questioned its consistency and real-world application. The messaging draws from Rubio's earlier Athens speech linking the approach to Western values of heroism and duty.",
-   "updated_at": "2026-10-17T03:43:53.000Z",
-   "url": "https://x.com/i/trending/2111131893630702023",
+   "id": "2111350502780739951",
+   "headline": "Woman's Video Sparks Leftist vs Liberal Debate",
+   "hook": "A woman in a video asks why she, as a self-described leftist, engages in liberal ideologies — and the question quickly drew heated pushback online.",
+   "summary": "The clip shows her questioning ideological purity while working within mainstream systems, prompting many to insist she's a liberal, not a true leftist who rejects capitalism entirely. Defenders praised her practical approach, noting no candidate is perfect and participation allows influence on key issues like foreign policy. The exchange highlights tensions between reform-minded liberals favoring regulations and social programs, and leftists seeking systemic overhaul, amid frustrations over compromises in a polarized landscape.",
+   "updated_at": "2026-10-17T07:02:29.000Z",
+   "url": "https://x.com/i/trending/2111350502780739951",
+   "topics": [],
+   "post_urls": []
+  },
+  {
+   "id": "2111344437427339335",
+   "headline": "Rubio Defends America First Policy Amid Online Divisions",
+   "hook": "Marco Rubio calls America First policy plain common sense for U.S. interests. Online, supporters cheer while critics spot contradictions in aid and alliances.",
+   "summary": "Secretary of State Marco Rubio told Breitbart News that foreign policy must prioritize what's good for America, strengthening the nation's position. The State Department echoed this with 'America First. Always.' Supporters see it as focusing on U.S. security and citizens over global commitments, but critics label it inconsistent, citing $2.8 billion in aid to Israel for bombs funded by taxpayers and accusations of favoring allies over domestic needs. The split highlights tensions in balancing national priorities with alliances during Trump's second term.",
+   "updated_at": "2026-10-17T06:37:39.000Z",
+   "url": "https://x.com/i/trending/2111344437427339335",
    "topics": [],
    "post_urls": []
   },
@@ -65,16 +75,6 @@
    "post_urls": []
   },
   {
-   "id": "2110950846787981482",
-   "headline": "Trump's Relentless Campaign Pace Urges Voters to Show Up for Midterms",
-   "hook": "At 80, President Trump powers through back-to-back rallies across states like Alaska and Arizona, setting an example for voters ahead of November 3.",
-   "summary": "Social media posts highlight Trump's grueling schedule of running the country and campaigning daily, with messages like 'If Trump can do it at 80, get off the couch and vote Republican.' These graphics and directives push turnout for the 2026 midterms, which will decide all 435 House seats, 35 Senate seats, and 39 governorships, emphasizing issues like secure borders and Second Amendment rights. While most voices stress urgency and Trump's work ethic, a few replies urge staying home or criticize both parties, as early voting continues in many states.",
-   "updated_at": "2026-10-16T14:59:22.000Z",
-   "url": "https://x.com/i/trending/2110950846787981482",
-   "topics": [],
-   "post_urls": []
-  },
-  {
    "id": "2111082256903090191",
    "headline": "Trump-Vance-Rubio 'Dream Team' Photo Divides Opinions",
    "hook": "A photo places President Trump between Vice President JD Vance and Secretary of State Marco Rubio, stamped with 'DREAM TEAM.' It captures excitement from fans and sharp skepticism from critics.",
@@ -87,64 +87,64 @@
  ],
  "trends": [
   {
-   "name": "Purdue",
-   "url": "https://x.com/search?q=Purdue"
-  },
-  {
-   "name": "#PFLChicago",
-   "url": "https://x.com/search?q=%23PFLChicago"
-  },
-  {
-   "name": "#SmackDown",
-   "url": "https://x.com/search?q=%23SmackDown"
-  },
-  {
-   "name": "Johnny Carson",
-   "url": "https://x.com/search?q=Johnny%20Carson"
-  },
-  {
-   "name": "Mamu",
-   "url": "https://x.com/search?q=Mamu"
-  },
-  {
    "name": "PERTHSANTA LOST IN LOVE",
    "url": "https://x.com/search?q=PERTHSANTA%20LOST%20IN%20LOVE"
-  },
-  {
-   "name": "ash trevino",
-   "url": "https://x.com/search?q=ash%20trevino"
-  },
-  {
-   "name": "Kessler",
-   "url": "https://x.com/search?q=Kessler"
-  },
-  {
-   "name": "YK Osiris",
-   "url": "https://x.com/search?q=YK%20Osiris"
-  },
-  {
-   "name": "Memphis",
-   "url": "https://x.com/search?q=Memphis"
   },
   {
    "name": "#PerthSantaFMinMacau",
    "url": "https://x.com/search?q=%23PerthSantaFMinMacau"
   },
   {
-   "name": "Tulane",
-   "url": "https://x.com/search?q=Tulane"
+   "name": "You Can See Everything",
+   "url": "https://x.com/search?q=You%20Can%20See%20Everything"
+  },
+  {
+   "name": "#PFLChicago",
+   "url": "https://x.com/search?q=%23PFLChicago"
+  },
+  {
+   "name": "Purdue",
+   "url": "https://x.com/search?q=Purdue"
+  },
+  {
+   "name": "Mónica",
+   "url": "https://x.com/search?q=M%C3%B3nica"
+  },
+  {
+   "name": "Johnny Carson",
+   "url": "https://x.com/search?q=Johnny%20Carson"
+  },
+  {
+   "name": "#SmackDown",
+   "url": "https://x.com/search?q=%23SmackDown"
   },
   {
    "name": "Heartbeat",
    "url": "https://x.com/search?q=Heartbeat"
   },
   {
-   "name": "You Can See Everything",
-   "url": "https://x.com/search?q=You%20Can%20See%20Everything"
+   "name": "Kimmel",
+   "url": "https://x.com/search?q=Kimmel"
   },
   {
-   "name": "#OPLive",
-   "url": "https://x.com/search?q=%23OPLive"
+   "name": "Kessler",
+   "url": "https://x.com/search?q=Kessler"
+  },
+  {
+   "name": "Mamu",
+   "url": "https://x.com/search?q=Mamu"
+  },
+  {
+   "name": "ash trevino",
+   "url": "https://x.com/search?q=ash%20trevino"
+  },
+  {
+   "name": "Jena Bishop",
+   "url": "https://x.com/search?q=Jena%20Bishop"
+  },
+  {
+   "name": "YK Osiris",
+   "url": "https://x.com/search?q=YK%20Osiris"
   }
  ]
 }
