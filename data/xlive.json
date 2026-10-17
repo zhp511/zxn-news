@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-17T08:41:21Z",
- "searched_at": "2026-10-17T08:41:21Z",
+ "built_at": "2026-10-17T08:56:36Z",
+ "searched_at": "2026-10-17T08:56:40Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -25,14 +25,14 @@
    "assumed_live_until": "2026-10-17T10:04:32Z"
   },
   {
-   "post_id": "2111370223391854699",
-   "post_url": "https://x.com/thesavera_times/status/2111370223391854699",
+   "post_id": "2111377488882647381",
+   "post_url": "https://x.com/thesavera_times/status/2111377488882647381",
    "name": "The Savera Times",
    "username": "thesavera_times",
    "verified_type": "blue",
-   "text": "LIVE | Amritsar Police Holds Press Conference I Anti-Drug Activist Parvinder Jhota’s Mur*der case  \n#amritsar #punjab #antidrugs #news #live\n\nhttps://t.co/I8lLwQgWDM",
-   "started_at": "2026-10-17T08:14:23.000Z",
-   "assumed_live_until": "2026-10-17T11:14:23Z"
+   "text": "LIVE | Women's groups hold protest march to Delhi Police HQ over alleged violence during SIR protests #womenprotest #sirprotest #sir #delhipolice #delhi #news\n\nhttps://t.co/cCjY267p3B",
+   "started_at": "2026-10-17T08:43:15.000Z",
+   "assumed_live_until": "2026-10-17T11:43:15Z"
   },
   {
    "post_id": "2111370608856780901",
