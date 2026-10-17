@@ -1,9 +1,19 @@
 {
- "built_at": "2026-10-17T16:51:45Z",
- "searched_at": "2026-10-17T16:51:00Z",
+ "built_at": "2026-10-17T17:12:38Z",
+ "searched_at": "2026-10-17T17:12:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
+  {
+   "post_id": "2111503837538472367",
+   "post_url": "https://x.com/BernieSanders/status/2111503837538472367",
+   "name": "Bernie Sanders",
+   "username": "BernieSanders",
+   "verified_type": "government",
+   "text": "Angie Nixon was outspent 16 to 1 in the Dem primary. But she stood with working people and won a HUGE upset.\n\nWe need leaders like Angie in the Senate. https://t.co/pA6logvyQq",
+   "started_at": "2026-10-17T17:05:19.000Z",
+   "assumed_live_until": "2026-10-17T20:05:19Z"
+  },
   {
    "post_id": "2111499662352072782",
    "post_url": "https://x.com/Republicans/status/2111499662352072782",
@@ -25,6 +35,16 @@
    "assumed_live_until": "2026-10-17T17:20:25Z"
   },
   {
+   "post_id": "2111502362523423024",
+   "post_url": "https://x.com/barrycunningham/status/2111502362523423024",
+   "name": "Barry Cunningham",
+   "username": "barrycunningham",
+   "verified_type": "blue",
+   "text": "LIVE TRUMP RALLY IN KENTUCKY! Countdown To The Midterms | Flying Cars! And More News! https://t.co/aXuYaOKvU0",
+   "started_at": "2026-10-17T16:59:27.000Z",
+   "assumed_live_until": "2026-10-17T19:59:27Z"
+  },
+  {
    "post_id": "2111472770584551912",
    "post_url": "https://x.com/ArminNavabi/status/2111472770584551912",
    "name": "Armin Navabi",
@@ -33,16 +53,6 @@
    "text": "Rubio Defends Trump As Vance BACKS Tucker America First Doctrine https://t.co/aJRdsXsfdK",
    "started_at": "2026-10-17T15:01:52.000Z",
    "assumed_live_until": "2026-10-17T18:01:52Z"
-  },
-  {
-   "post_id": "2111457791131128140",
-   "post_url": "https://x.com/TheParticularB/status/2111457791131128140",
-   "name": "The Particular Baptist",
-   "username": "TheParticularB",
-   "verified_type": "blue",
-   "text": "Is the Bible Sufficient for Politics and Other Sciences? https://t.co/bhTRXWev4A",
-   "started_at": "2026-10-17T14:02:21.000Z",
-   "assumed_live_until": "2026-10-17T17:02:21Z"
   },
   {
    "post_id": "2111496031565500625",
@@ -55,34 +65,24 @@
    "assumed_live_until": "2026-10-17T19:34:18Z"
   },
   {
-   "post_id": "2111460117820399954",
-   "post_url": "https://x.com/realjamesrossi/status/2111460117820399954",
-   "name": "James Rossi 🇺🇸",
-   "username": "realjamesrossi",
+   "post_id": "2111501754483503401",
+   "post_url": "https://x.com/crrow777/status/2111501754483503401",
+   "name": "Crow",
+   "username": "crrow777",
    "verified_type": "blue",
-   "text": "🚨LIVE: President Trump Holds a Rally in Highland Heights, KY - 10/17/26 https://t.co/IXcq4uE0Nd",
-   "started_at": "2026-10-17T14:11:35.000Z",
-   "assumed_live_until": "2026-10-17T17:11:35Z"
+   "text": "How J.P. Morgan & Andrew Carnegie Took Over America   - Crrow777 Episode 632 https://t.co/DTpPNPsxs6",
+   "started_at": "2026-10-17T16:57:02.000Z",
+   "assumed_live_until": "2026-10-17T19:57:02Z"
   },
   {
-   "post_id": "2111487426623623515",
-   "post_url": "https://x.com/JohnGordonTV/status/2111487426623623515",
-   "name": "John Gordon",
-   "username": "JohnGordonTV",
-   "verified_type": "blue",
-   "text": "$500 MILLION for ONE Senate Race?! The Shocking Cost of the 2026 Midterms https://t.co/9YdG5vNjsJ",
-   "started_at": "2026-10-17T16:00:06.000Z",
-   "assumed_live_until": "2026-10-17T19:00:06Z"
-  },
-  {
-   "post_id": "2111463384680169833",
-   "post_url": "https://x.com/afshanhashmi/status/2111463384680169833",
-   "name": "Dr. Afshan Hashmi",
-   "username": "afshanhashmi",
-   "verified_type": "blue",
-   "text": "Dr Afshan Hashmi announces President Trump as modern Day Sir Syed Ahmad Khan-by Dr.Afshan  Hashmi https://t.co/RJuFWHC6nj",
-   "started_at": "2026-10-17T14:24:34.000Z",
-   "assumed_live_until": "2026-10-17T17:24:34Z"
+   "post_id": "2111502730137383191",
+   "post_url": "https://x.com/LoraLiddell2024/status/2111502730137383191",
+   "name": "Lora",
+   "username": "LoraLiddell2024",
+   "verified_type": "none",
+   "text": "President Donald J. Trump rally in Highland Heights, Kentucky 10/17/2026  https://t.co/vFcv77j14G",
+   "started_at": "2026-10-17T17:00:55.000Z",
+   "assumed_live_until": "2026-10-17T20:00:55Z"
   }
  ]
 }
