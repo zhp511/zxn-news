@@ -37,6 +37,8 @@ NEWS = re.compile(r"\b(news|breaking news|politic\w*|election\w*|ballot|vote|tru
 BLOCK = re.compile(r"\b(nfl|mlb|nba|nhl|postgame|pregame|bye week|dodgers|seahawks|49ers|football|baseball|"
                    r"onlyfans|of live|nsfw|18\+|porn|sex|wordle|theme park|crypto|\$[A-Z]{2,6}|exhibition results|"
                    r"giveaway|casino|betting)\b", re.I)
+# Vulgar/obscene posts are never shown on the site (added 2026-10-17 by the refresh routine).
+PROFANE = re.compile(r"(f+u+c+k|sh[i1]t\b|bitch|cunt|whore|slut|motherf|\bdick\b|\bcock\b|\bpussy\b|\bfag)", re.I)
 US = re.compile(r"\b(trump|election\w*|ballot|vote|congress|senate|white house|america\w*|maga|charlie kirk|"
                 r"hurricane|isaias|supreme court|governor|politics)\b", re.I)
 OWN = "zxnbluehandus"
@@ -58,7 +60,7 @@ def main():
             continue
         text = html.unescape(t.get("text") or "").strip()
         bare = re.sub(r"https?://\S+", "", text)
-        if re.search(r"[\u0900-\u097F]", bare) or BLOCK.search(bare) or not NEWS.search(bare):
+        if re.search(r"[\u0900-\u097F]", bare) or BLOCK.search(bare) or PROFANE.search(bare) or not NEWS.search(bare):
             continue
         key = re.sub(r"\W+", " ", bare.lower()).strip()[:80]
         if key in seen_text:
