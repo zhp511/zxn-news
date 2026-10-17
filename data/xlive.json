@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-17T13:29:11Z",
- "searched_at": "2026-10-17T13:29:11Z",
+ "built_at": "2026-10-17T13:45:59Z",
+ "searched_at": "2026-10-17T13:45:59Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -35,14 +35,14 @@
    "assumed_live_until": "2026-10-17T14:56:42Z"
   },
   {
-   "post_id": "2111406323103625572",
-   "post_url": "https://x.com/ANI/status/2111406323103625572",
-   "name": "ANI",
-   "username": "ANI",
-   "verified_type": "business",
-   "text": "LIVE: BJP Press Conference by Rajya Sabha MP Tarun Chugh I Bhagwant Mann I Rahul Gandhi \n\n#tarunchugh #aap #bjp #punjab #bhagwantmann #rahulgandhi #news #live https://t.co/bkG4WfPG4T",
-   "started_at": "2026-10-17T10:37:50.000Z",
-   "assumed_live_until": "2026-10-17T13:37:50Z"
+   "post_id": "2111452429321474438",
+   "post_url": "https://x.com/MFnn_Official/status/2111452429321474438",
+   "name": "General Mike Flynn 45 Achieved 🇺🇸",
+   "username": "MFnn_Official",
+   "verified_type": "none",
+   "text": "https://t.co/6JfvEOZmX1\nLo-fi beats & billion-dollar investments to build America's Golden Age. 💸🎶\n\nSit back, relax & enjoy the soothing sound of trillions pouring into America this Friday.",
+   "started_at": "2026-10-17T13:41:02.000Z",
+   "assumed_live_until": "2026-10-17T16:41:02Z"
   },
   {
    "post_id": "2111426994626060791",
@@ -55,14 +55,14 @@
    "assumed_live_until": "2026-10-17T14:59:58Z"
   },
   {
-   "post_id": "2111425921953783881",
-   "post_url": "https://x.com/trtworld/status/2111425921953783881",
-   "name": "TRT World",
-   "username": "trtworld",
-   "verified_type": "business",
-   "text": "LIVE: Türkiye's President Recep Tayyip Erdogan speaks at ceremony for mass groundbreaking and mass opening of new facilities at Istanbul University Hospital’s Capa Campus in Istanbul \nhttps://t.co/Z6zK52M65o",
-   "started_at": "2026-10-17T11:55:42.000Z",
-   "assumed_live_until": "2026-10-17T14:55:42Z"
+   "post_id": "2111451412811112522",
+   "post_url": "https://x.com/MyronGainesX/status/2111451412811112522",
+   "name": "Myron Gaines",
+   "username": "MyronGainesX",
+   "verified_type": "none",
+   "text": "The Legend Of Zelda: Breath Of The Wild! FIRST TIME Playthrough PART 3 & News Breakdowns! https://t.co/qMAoMlyDXs",
+   "started_at": "2026-10-17T13:37:00.000Z",
+   "assumed_live_until": "2026-10-17T16:37:00Z"
   },
   {
    "post_id": "2111437837132603420",
