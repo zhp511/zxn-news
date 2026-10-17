@@ -1,19 +1,9 @@
 {
- "built_at": "2026-10-17T04:41:07Z",
- "searched_at": "2026-10-17T04:40:45Z",
+ "built_at": "2026-10-17T05:02:15Z",
+ "searched_at": "2026-10-17T05:01:40Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
-  {
-   "post_id": "2111298364289794324",
-   "post_url": "https://x.com/IndiaToday/status/2111298364289794324",
-   "name": "IndiaToday",
-   "username": "IndiaToday",
-   "verified_type": "business",
-   "text": "#LIVE | Big relief for India on oil imports. Trump waives Russia-related tariffs. Watch this and more | #ITLivestream @jessica_goel https://t.co/PEgil4pddl",
-   "started_at": "2026-10-17T03:28:50.000Z",
-   "assumed_live_until": "2026-10-17T06:28:50Z"
-  },
   {
    "post_id": "2111306193100742971",
    "post_url": "https://x.com/RealAmVoice/status/2111306193100742971",
@@ -25,14 +15,14 @@
    "assumed_live_until": "2026-10-17T06:59:57Z"
   },
   {
-   "post_id": "2111273178144370718",
-   "post_url": "https://x.com/thebcpreacher/status/2111273178144370718",
-   "name": "The Black Conservative Preacher",
-   "username": "thebcpreacher",
-   "verified_type": "blue",
-   "text": "🚨LIVE: Is America Facing Problems Because It's a Christian Nation or Non-Christian Nation? https://t.co/GMqvp1TN2f",
-   "started_at": "2026-10-17T01:48:45.000Z",
-   "assumed_live_until": "2026-10-17T04:48:45Z"
+   "post_id": "2111321425541992953",
+   "post_url": "https://x.com/IndiaToday/status/2111321425541992953",
+   "name": "IndiaToday",
+   "username": "IndiaToday",
+   "verified_type": "business",
+   "text": "Congress MP P Chidambaram and BJP MP Sudhanshu Trivedi join @maryashakil for an exclusive conversation |  #NewsTrack #ITLivestream https://t.co/i4C1qxKJD8",
+   "started_at": "2026-10-17T05:00:28.000Z",
+   "assumed_live_until": "2026-10-17T08:00:28Z"
   },
   {
    "post_id": "2111291131791347867",
@@ -73,6 +63,16 @@
    "text": "AISA president Neha Bora reacts after release from detention by Delhi Police https://t.co/aVh91vQ3Wt",
    "started_at": "2026-10-17T02:04:24.000Z",
    "assumed_live_until": "2026-10-17T05:04:24Z"
+  },
+  {
+   "post_id": "2111321299331215543",
+   "post_url": "https://x.com/GBNEWS/status/2111321299331215543",
+   "name": "GB News",
+   "username": "GBNEWS",
+   "verified_type": "business",
+   "text": "GB News https://t.co/M6BRpmBv46",
+   "started_at": "2026-10-17T04:59:58.000Z",
+   "assumed_live_until": "2026-10-17T07:59:58Z"
   },
   {
    "post_id": "2111277551503175858",
