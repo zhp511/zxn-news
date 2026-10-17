@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-17T11:56:00Z",
- "searched_at": "2026-10-17T11:56:00Z",
+ "built_at": "2026-10-17T12:16:34Z",
+ "searched_at": "2026-10-17T12:16:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -15,14 +15,14 @@
    "assumed_live_until": "2026-10-17T13:25:27Z"
   },
   {
-   "post_id": "2111383139235049895",
-   "post_url": "https://x.com/PoliticalCow/status/2111383139235049895",
-   "name": "Political Cow",
-   "username": "PoliticalCow",
+   "post_id": "2111426170646638922",
+   "post_url": "https://x.com/teslamillion/status/2111426170646638922",
+   "name": "Cool X Media Group",
+   "username": "teslamillion",
    "verified_type": "blue",
-   "text": "LIVE: White House View - Security Incident Unfolding https://t.co/vZPkfIIFAe",
-   "started_at": "2026-10-17T09:05:42.000Z",
-   "assumed_live_until": "2026-10-17T12:05:42Z"
+   "text": "ELECTION 2026 WATCH https://t.co/xSlR35zyCH",
+   "started_at": "2026-10-17T11:56:42.000Z",
+   "assumed_live_until": "2026-10-17T14:56:42Z"
   },
   {
    "post_id": "2111390689112285313",
@@ -45,16 +45,6 @@
    "assumed_live_until": "2026-10-17T13:37:50Z"
   },
   {
-   "post_id": "2111411895391666531",
-   "post_url": "https://x.com/GBNEWS/status/2111411895391666531",
-   "name": "GB News",
-   "username": "GBNEWS",
-   "verified_type": "business",
-   "text": "GB News https://t.co/nNg0BLltJi",
-   "started_at": "2026-10-17T10:59:58.000Z",
-   "assumed_live_until": "2026-10-17T13:59:58Z"
-  },
-  {
    "post_id": "2111390147384385746",
    "post_url": "https://x.com/AgendaFreeTV/status/2111390147384385746",
    "name": "Agenda-Free TV",
@@ -63,6 +53,16 @@
    "text": "France Protests - LIVE Breaking News Coverage (including Paris) #France #Paris #Protests https://t.co/e5K8sAuvmU",
    "started_at": "2026-10-17T09:33:33.000Z",
    "assumed_live_until": "2026-10-17T12:33:33Z"
+  },
+  {
+   "post_id": "2111425921953783881",
+   "post_url": "https://x.com/trtworld/status/2111425921953783881",
+   "name": "TRT World",
+   "username": "trtworld",
+   "verified_type": "business",
+   "text": "LIVE: Türkiye's President Recep Tayyip Erdogan speaks at ceremony for mass groundbreaking and mass opening of new facilities at Istanbul University Hospital’s Capa Campus in Istanbul \nhttps://t.co/Z6zK52M65o",
+   "started_at": "2026-10-17T11:55:42.000Z",
+   "assumed_live_until": "2026-10-17T14:55:42Z"
   },
   {
    "post_id": "2111397222227247367",
@@ -75,14 +75,14 @@
    "assumed_live_until": "2026-10-17T13:01:40Z"
   },
   {
-   "post_id": "2111381868721684944",
-   "post_url": "https://x.com/TrophyFpl/status/2111381868721684944",
-   "name": "FPL Mo",
-   "username": "TrophyFpl",
-   "verified_type": "blue",
-   "text": "FPL GW7 DEADLINE STREAM ✅ DOES CHERKI START ❓EARLY TEAM NEWS 🤩 https://t.co/JcS79Aufba",
-   "started_at": "2026-10-17T09:00:39.000Z",
-   "assumed_live_until": "2026-10-17T12:00:39Z"
+   "post_id": "2111426994626060791",
+   "post_url": "https://x.com/GBNEWS/status/2111426994626060791",
+   "name": "GB News",
+   "username": "GBNEWS",
+   "verified_type": "business",
+   "text": "GB News https://t.co/qNWy2mkdAB",
+   "started_at": "2026-10-17T11:59:58.000Z",
+   "assumed_live_until": "2026-10-17T14:59:58Z"
   }
  ]
 }
