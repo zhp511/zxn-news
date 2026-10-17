@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-17T00:47:06Z",
- "searched_at": "2026-10-17T00:47:06Z",
+ "built_at": "2026-10-17T01:06:19Z",
+ "searched_at": "2026-10-17T01:06:19Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -23,16 +23,6 @@
    "text": "Secret America Live! - Episode 263 - Press Secretary Given The Boot https://t.co/ZSXLyVlHo3",
    "started_at": "2026-10-16T23:00:25.000Z",
    "assumed_live_until": "2026-10-17T02:00:25Z"
-  },
-  {
-   "post_id": "2111214902581084539",
-   "post_url": "https://x.com/DavidKrayden/status/2111214902581084539",
-   "name": "David Krayden",
-   "username": "DavidKrayden",
-   "verified_type": "blue",
-   "text": "Dallas Brodie Has Become the Unquestioned Moral Leader in the BC Election Campaign https://t.co/uLarTdGdXM",
-   "started_at": "2026-10-16T21:57:11.000Z",
-   "assumed_live_until": "2026-10-17T00:57:11Z"
   },
   {
    "post_id": "2111220579361808557",
@@ -83,6 +73,16 @@
    "text": "RERUN-Joe Oltmann Untamed | Joe’s Conversation W/ Erin Lee: Standing For America | 10.16.26 https://t.co/gu0IIW14gn",
    "started_at": "2026-10-17T00:00:06.000Z",
    "assumed_live_until": "2026-10-17T03:00:06Z"
+  },
+  {
+   "post_id": "2111230709373571534",
+   "post_url": "https://x.com/GetIndieNews/status/2111230709373571534",
+   "name": "IndieNewsNetwork",
+   "username": "GetIndieNews",
+   "verified_type": "blue",
+   "text": "State of Israel’s 2026 election, DOJ RAIDS Ilhan's Omar's House | AAF EP:183 https://t.co/LVid63Y5wr",
+   "started_at": "2026-10-16T23:00:00.000Z",
+   "assumed_live_until": "2026-10-17T02:00:00Z"
   }
  ]
 }

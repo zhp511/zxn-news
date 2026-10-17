@@ -1,9 +1,19 @@
 {
- "built_at": "2026-10-17T00:01:45Z",
- "news_fetched_at": "2026-10-17T00:01:45Z",
- "trends_fetched_at": "2026-10-17T00:01:45Z",
+ "built_at": "2026-10-17T01:06:19Z",
+ "news_fetched_at": "2026-10-17T01:06:19Z",
+ "trends_fetched_at": "2026-10-17T01:06:19Z",
  "source": "X News (x.search_news) and US trends (x.get_trends_by_woeid 23424977). Story summaries are written by X/Grok from posts on X and may evolve.",
  "stories": [
+  {
+   "id": "2110944956601032786",
+   "headline": "French Post on MAGA Fatigue Ignites U.S.-Europe Clash on X",
+   "hook": "A French account's blunt tweet about Europeans' exhaustion with MAGA Americans drew a swift American comeback, mirroring the exact words but flipping the sides.",
+   "summary": "On October 14, 2026, @ML3democrats posted that Europeans are 'sick and tired' of MAGA 'bullshit,' sparking thousands of replies including Catturd's dismissive 'How cute - you think we care 😂.' The exchange reflects broader U.S.-Europe tensions in Trump's second term, with polls showing his unfavorable ratings over 80 percent in Germany, Britain, and France, and 73 percent of Europeans favoring EU independence. Americans pointed to Europe's energy and migration woes, while Europeans blamed U.S. policies for eroding trust, keeping the debate alive days later.",
+   "updated_at": "2026-10-16T22:31:09.000Z",
+   "url": "https://x.com/i/trending/2110944956601032786",
+   "topics": [],
+   "post_urls": []
+  },
   {
    "id": "2111219235842035885",
    "headline": "53 Million Claim Trump's Tax Cuts Averaging $800 Savings",
@@ -21,16 +31,6 @@
    "summary": "Former Vice President Harris advocated expanding the Supreme Court for better alignment with constitutional principles, reforming the Electoral College to prioritize the popular vote, and granting statehood to Washington, D.C., and Puerto Rico if residents support it. Her comments, made weeks before the midterms as Democrats aim to regain House and Senate control, drew quick online pushback from figures like Elon Musk and Benny Johnson, who tied them to calls for Republican votes. Supporters cite the court's 6-3 conservative majority and rulings on abortion and voting rights, while critics see partisan motives; practical barriers include constitutional amendments and congressional approval.",
    "updated_at": "2026-10-16T20:18:50.000Z",
    "url": "https://x.com/i/trending/2110536840919069134",
-   "topics": [],
-   "post_urls": []
-  },
-  {
-   "id": "2110822122213773594",
-   "headline": "Midterm Voters Back Republicans as Lesser Evil Ahead of November 3",
-   "hook": "With Election Day just weeks away, many online voices are rallying for Republican votes, admitting the party's flaws but seeing Democrats as far worse.",
-   "summary": "Posts from figures like Steven Ertelt of LifeNews.com declare support for Republicans 'not because they are perfect' but because 'Democrats are evil,' a view echoed by Julie Borowski's line about not being 'suicidally principled.' Graphics urge 'VOTE RED ALL THE WAY DOWN THE TICKET' with eagles, flags, and Trump calling to 'save America' on November 3, 2026, when all 435 House seats and 35 Senate seats are up for grabs. Yet polls show Democrats leading the generic ballot by six points amid a Republican enthusiasm gap, as the 'lesser of two evils' talk reveals sharp partisan lines.",
-   "updated_at": "2026-10-16T17:00:24.000Z",
-   "url": "https://x.com/i/trending/2110822122213773594",
    "topics": [],
    "post_urls": []
   },
@@ -87,64 +87,64 @@
  ],
  "trends": [
   {
-   "name": "Press Secretary",
-   "url": "https://x.com/search?q=Press%20Secretary"
-  },
-  {
-   "name": "Scaramucci",
-   "url": "https://x.com/search?q=Scaramucci"
-  },
-  {
-   "name": "Violet",
-   "url": "https://x.com/search?q=Violet"
+   "name": "#SmackDown",
+   "url": "https://x.com/search?q=%23SmackDown"
   },
   {
    "name": "San Clemente",
    "url": "https://x.com/search?q=San%20Clemente"
   },
   {
-   "name": "Katie Zacharia",
-   "url": "https://x.com/search?q=Katie%20Zacharia"
+   "name": "Nikki Bella",
+   "url": "https://x.com/search?q=Nikki%20Bella"
   },
   {
-   "name": "Scott Jennings",
-   "url": "https://x.com/search?q=Scott%20Jennings"
-  },
-  {
-   "name": "Neera",
-   "url": "https://x.com/search?q=Neera"
-  },
-  {
-   "name": "Josh Jacobs",
-   "url": "https://x.com/search?q=Josh%20Jacobs"
-  },
-  {
-   "name": "Norte Fire",
-   "url": "https://x.com/search?q=Norte%20Fire"
-  },
-  {
-   "name": "Red Rising",
-   "url": "https://x.com/search?q=Red%20Rising"
+   "name": "Press Secretary",
+   "url": "https://x.com/search?q=Press%20Secretary"
   },
   {
    "name": "Purdue",
    "url": "https://x.com/search?q=Purdue"
   },
   {
-   "name": "Albion",
-   "url": "https://x.com/search?q=Albion"
+   "name": "#OPLive",
+   "url": "https://x.com/search?q=%23OPLive"
   },
   {
-   "name": "Hannity",
-   "url": "https://x.com/search?q=Hannity"
+   "name": "End 1Q",
+   "url": "https://x.com/search?q=End%201Q"
   },
   {
-   "name": "Kaylub Giamanco",
-   "url": "https://x.com/search?q=Kaylub%20Giamanco"
+   "name": "Violet",
+   "url": "https://x.com/search?q=Violet"
   },
   {
-   "name": "Todd Gurley",
-   "url": "https://x.com/search?q=Todd%20Gurley"
+   "name": "Memphis",
+   "url": "https://x.com/search?q=Memphis"
+  },
+  {
+   "name": "Tulane",
+   "url": "https://x.com/search?q=Tulane"
+  },
+  {
+   "name": "Neera",
+   "url": "https://x.com/search?q=Neera"
+  },
+  {
+   "name": "End of 1st",
+   "url": "https://x.com/search?q=End%20of%201st"
+  },
+  {
+   "name": "Mason Williams",
+   "url": "https://x.com/search?q=Mason%20Williams"
+  },
+  {
+   "name": "Heartbeat",
+   "url": "https://x.com/search?q=Heartbeat"
+  },
+  {
+   "name": "Scott Jennings",
+   "url": "https://x.com/search?q=Scott%20Jennings"
   }
  ]
 }
