@@ -1,7 +1,7 @@
 {
- "built_at": "2026-10-17T10:27:34Z",
- "news_fetched_at": "2026-10-17T10:27:34Z",
- "trends_fetched_at": "2026-10-17T10:27:34Z",
+ "built_at": "2026-10-17T11:29:58Z",
+ "news_fetched_at": "2026-10-17T11:29:58Z",
+ "trends_fetched_at": "2026-10-17T11:29:58Z",
  "source": "X News (x.search_news) and US trends (x.get_trends_by_woeid 23424977). Story summaries are written by X/Grok from posts on X and may evolve.",
  "stories": [
   {
@@ -91,14 +91,6 @@
    "url": "https://x.com/search?q=Good%20Saturday"
   },
   {
-   "name": "NOL Festival",
-   "url": "https://x.com/search?q=NOL%20Festival"
-  },
-  {
-   "name": "KEONHO CAPTIVATES THE LENS",
-   "url": "https://x.com/search?q=KEONHO%20CAPTIVATES%20THE%20LENS"
-  },
-  {
    "name": "#LingOrmBetweenUsConcertD1",
    "url": "https://x.com/search?q=%23LingOrmBetweenUsConcertD1"
   },
@@ -107,8 +99,20 @@
    "url": "https://x.com/search?q=THE%20WORLD%20BETWEEN%20LINGORM%20D1"
   },
   {
+   "name": "KEONHO CAPTIVATES THE LENS",
+   "url": "https://x.com/search?q=KEONHO%20CAPTIVATES%20THE%20LENS"
+  },
+  {
+   "name": "NOL Festival",
+   "url": "https://x.com/search?q=NOL%20Festival"
+  },
+  {
    "name": "IKEONIC",
    "url": "https://x.com/search?q=IKEONIC"
+  },
+  {
+   "name": "#YouManiacSeriesEP8",
+   "url": "https://x.com/search?q=%23YouManiacSeriesEP8"
   },
   {
    "name": "ACEKEON MAKNAE",
@@ -123,28 +127,24 @@
    "url": "https://x.com/search?q=HOGAN%20EFFECT"
   },
   {
-   "name": "#PerthSantaFMinMacau",
-   "url": "https://x.com/search?q=%23PerthSantaFMinMacau"
+   "name": "Everton",
+   "url": "https://x.com/search?q=Everton"
+  },
+  {
+   "name": "KEEP GOING AMAZING FOURTH",
+   "url": "https://x.com/search?q=KEEP%20GOING%20AMAZING%20FOURTH"
+  },
+  {
+   "name": "#FourthConcertD2",
+   "url": "https://x.com/search?q=%23FourthConcertD2"
+  },
+  {
+   "name": "Ostapenko",
+   "url": "https://x.com/search?q=Ostapenko"
   },
   {
    "name": "PERTHSANTA LOST IN LOVE",
    "url": "https://x.com/search?q=PERTHSANTA%20LOST%20IN%20LOVE"
-  },
-  {
-   "name": "Johnny Carson",
-   "url": "https://x.com/search?q=Johnny%20Carson"
-  },
-  {
-   "name": "Mónica",
-   "url": "https://x.com/search?q=M%C3%B3nica"
-  },
-  {
-   "name": "$NUBI",
-   "url": "https://x.com/search?q=%24NUBI"
-  },
-  {
-   "name": "Violet",
-   "url": "https://x.com/search?q=Violet"
   }
  ]
 }
