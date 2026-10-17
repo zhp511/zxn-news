@@ -1,19 +1,9 @@
 {
- "built_at": "2026-10-17T11:03:15Z",
- "searched_at": "2026-10-17T11:03:15Z",
+ "built_at": "2026-10-17T11:21:43Z",
+ "searched_at": "2026-10-17T11:21:30Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
-  {
-   "post_id": "2111383139235049895",
-   "post_url": "https://x.com/PoliticalCow/status/2111383139235049895",
-   "name": "Political Cow",
-   "username": "PoliticalCow",
-   "verified_type": "blue",
-   "text": "LIVE: White House View - Security Incident Unfolding https://t.co/vZPkfIIFAe",
-   "started_at": "2026-10-17T09:05:42.000Z",
-   "assumed_live_until": "2026-10-17T12:05:42Z"
-  },
   {
    "post_id": "2111403207851458816",
    "post_url": "https://x.com/hanz333_/status/2111403207851458816",
@@ -23,6 +13,16 @@
    "text": "Hurricane Pro chillin https://t.co/t1jBtqPUvV",
    "started_at": "2026-10-17T10:25:27.000Z",
    "assumed_live_until": "2026-10-17T13:25:27Z"
+  },
+  {
+   "post_id": "2111383139235049895",
+   "post_url": "https://x.com/PoliticalCow/status/2111383139235049895",
+   "name": "Political Cow",
+   "username": "PoliticalCow",
+   "verified_type": "blue",
+   "text": "LIVE: White House View - Security Incident Unfolding https://t.co/vZPkfIIFAe",
+   "started_at": "2026-10-17T09:05:42.000Z",
+   "assumed_live_until": "2026-10-17T12:05:42Z"
   },
   {
    "post_id": "2111390689112285313",
@@ -45,16 +45,6 @@
    "assumed_live_until": "2026-10-17T13:37:50Z"
   },
   {
-   "post_id": "2111397222227247367",
-   "post_url": "https://x.com/IndiaToday/status/2111397222227247367",
-   "name": "IndiaToday",
-   "username": "IndiaToday",
-   "verified_type": "business",
-   "text": "#Live: Watch #PostMortem with @PoojaShali  as she unfolds the latest crime news #ITLivestream https://t.co/ZCFpXQgpWS",
-   "started_at": "2026-10-17T10:01:40.000Z",
-   "assumed_live_until": "2026-10-17T13:01:40Z"
-  },
-  {
    "post_id": "2111411895391666531",
    "post_url": "https://x.com/GBNEWS/status/2111411895391666531",
    "name": "GB News",
@@ -65,24 +55,34 @@
    "assumed_live_until": "2026-10-17T13:59:58Z"
   },
   {
-   "post_id": "2111387877640966535",
-   "post_url": "https://x.com/RadioPakistan/status/2111387877640966535",
-   "name": "Radio Pakistan",
-   "username": "RadioPakistan",
-   "verified_type": "blue",
-   "text": "Prime Minister @CMShehbaz is addressing a ceremony in Islamabad\n@PakPMO #News #RadioPakistan \n https://t.co/vYhD7OJMk7",
-   "started_at": "2026-10-17T09:24:32.000Z",
-   "assumed_live_until": "2026-10-17T12:24:32Z"
+   "post_id": "2111390147384385746",
+   "post_url": "https://x.com/AgendaFreeTV/status/2111390147384385746",
+   "name": "Agenda-Free TV",
+   "username": "AgendaFreeTV",
+   "verified_type": "none",
+   "text": "France Protests - LIVE Breaking News Coverage (including Paris) #France #Paris #Protests https://t.co/e5K8sAuvmU",
+   "started_at": "2026-10-17T09:33:33.000Z",
+   "assumed_live_until": "2026-10-17T12:33:33Z"
   },
   {
-   "post_id": "2111402939340492835",
-   "post_url": "https://x.com/sandeshnews/status/2111402939340492835",
-   "name": "Sandesh",
-   "username": "sandeshnews",
+   "post_id": "2111397222227247367",
+   "post_url": "https://x.com/IndiaToday/status/2111397222227247367",
+   "name": "IndiaToday",
+   "username": "IndiaToday",
+   "verified_type": "business",
+   "text": "#Live: Watch #PostMortem with @PoojaShali  as she unfolds the latest crime news #ITLivestream https://t.co/ZCFpXQgpWS",
+   "started_at": "2026-10-17T10:01:40.000Z",
+   "assumed_live_until": "2026-10-17T13:01:40Z"
+  },
+  {
+   "post_id": "2111381868721684944",
+   "post_url": "https://x.com/TrophyFpl/status/2111381868721684944",
+   "name": "FPL Mo",
+   "username": "TrophyFpl",
    "verified_type": "blue",
-   "text": "Sandesh News https://t.co/fDuWitXR1y",
-   "started_at": "2026-10-17T10:24:23.000Z",
-   "assumed_live_until": "2026-10-17T13:24:23Z"
+   "text": "FPL GW7 DEADLINE STREAM ✅ DOES CHERKI START ❓EARLY TEAM NEWS 🤩 https://t.co/JcS79Aufba",
+   "started_at": "2026-10-17T09:00:39.000Z",
+   "assumed_live_until": "2026-10-17T12:00:39Z"
   }
  ]
 }
