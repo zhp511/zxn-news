@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-17T13:11:27Z",
- "searched_at": "2026-10-17T13:10:45Z",
+ "built_at": "2026-10-17T13:29:11Z",
+ "searched_at": "2026-10-17T13:29:11Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -15,14 +15,14 @@
    "assumed_live_until": "2026-10-17T15:58:25Z"
   },
   {
-   "post_id": "2111403207851458816",
-   "post_url": "https://x.com/hanz333_/status/2111403207851458816",
-   "name": "Hanz",
-   "username": "hanz333_",
-   "verified_type": "blue",
-   "text": "Hurricane Pro chillin https://t.co/t1jBtqPUvV",
-   "started_at": "2026-10-17T10:25:27.000Z",
-   "assumed_live_until": "2026-10-17T13:25:27Z"
+   "post_id": "2111443978478395639",
+   "post_url": "https://x.com/Myguy790/status/2111443978478395639",
+   "name": "Aiden Busch",
+   "username": "Myguy790",
+   "verified_type": "none",
+   "text": "America has lost the plot  https://t.co/nWNJvfRIMJ",
+   "started_at": "2026-10-17T13:07:27.000Z",
+   "assumed_live_until": "2026-10-17T16:07:27Z"
   },
   {
    "post_id": "2111426170646638922",
@@ -33,16 +33,6 @@
    "text": "ELECTION 2026 WATCH https://t.co/xSlR35zyCH",
    "started_at": "2026-10-17T11:56:42.000Z",
    "assumed_live_until": "2026-10-17T14:56:42Z"
-  },
-  {
-   "post_id": "2111443978478395639",
-   "post_url": "https://x.com/Myguy790/status/2111443978478395639",
-   "name": "Aiden Busch",
-   "username": "Myguy790",
-   "verified_type": "none",
-   "text": "America has lost the plot  https://t.co/nWNJvfRIMJ",
-   "started_at": "2026-10-17T13:07:27.000Z",
-   "assumed_live_until": "2026-10-17T16:07:27Z"
   },
   {
    "post_id": "2111406323103625572",
@@ -63,6 +53,16 @@
    "text": "GB News https://t.co/qNWy2mkdAB",
    "started_at": "2026-10-17T11:59:58.000Z",
    "assumed_live_until": "2026-10-17T14:59:58Z"
+  },
+  {
+   "post_id": "2111425921953783881",
+   "post_url": "https://x.com/trtworld/status/2111425921953783881",
+   "name": "TRT World",
+   "username": "trtworld",
+   "verified_type": "business",
+   "text": "LIVE: Türkiye's President Recep Tayyip Erdogan speaks at ceremony for mass groundbreaking and mass opening of new facilities at Istanbul University Hospital’s Capa Campus in Istanbul \nhttps://t.co/Z6zK52M65o",
+   "started_at": "2026-10-17T11:55:42.000Z",
+   "assumed_live_until": "2026-10-17T14:55:42Z"
   },
   {
    "post_id": "2111437837132603420",
