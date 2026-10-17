@@ -1,9 +1,39 @@
 {
- "built_at": "2026-10-17T21:00:44Z",
- "news_fetched_at": "2026-10-17T21:00:44Z",
- "trends_fetched_at": "2026-10-17T21:00:44Z",
+ "built_at": "2026-10-17T22:05:30Z",
+ "news_fetched_at": "2026-10-17T22:05:30Z",
+ "trends_fetched_at": "2026-10-17T22:05:30Z",
  "source": "X News (x.search_news) and US trends (x.get_trends_by_woeid 23424977). Story summaries are written by X/Grok from posts on X and may evolve.",
  "stories": [
+  {
+   "id": "2110934285473448071",
+   "headline": "Gas Prices Hit $4.31 Amid Partisan Energy Policy Clash",
+   "hook": "With pumps showing $4.31 a gallon nationwide, both parties are pointing fingers over who's to blame for the pinch at the gas station.",
+   "summary": "Republicans blame Democratic moves like canceling the Keystone XL pipeline permit and pausing new oil leases for restricting supply, while noting Democratic-led states often have the highest prices. Democrats counter that record U.S. oil production under Biden and global factors like 2026 Iran-related disruptions in the Strait of Hormuz drive the costs more than past policies. The debate underscores how energy prices blend federal choices, state rules, market shifts, and international events as averages stay elevated.",
+   "updated_at": "2026-10-17T21:55:03.000Z",
+   "url": "https://x.com/i/trending/2110934285473448071",
+   "topics": [],
+   "post_urls": []
+  },
+  {
+   "id": "2111528900119654765",
+   "headline": "Debate Intensifies Over Democratic Reforms if They Sweep 2028 Elections",
+   "hook": "A stark image outlining potential Democratic policy shifts if they control the White House, House, and Senate in 2028 has people on edge. One post called it 'bone chilling stuff. Arguably the end of the republic.'",
+   "summary": "The image details ideas like packing the Supreme Court, ending the Senate filibuster, admitting new states, easing federal voting ID rules, limiting state abortion restrictions, and restoring prior border policies. National Review editor Ramesh Ponnuru argued in The Washington Post that 2026 Senate control has huge stakes beyond Trump's term, as parties underplay long-term risks. Reactions split, with some seeing it as vital progress and others as exaggerated fears, echoed by Kamala Harris's calls for court expansion and D.C. statehood. The talk highlights unease in a divided nation as midterms near.",
+   "updated_at": "2026-10-17T21:31:12.000Z",
+   "url": "https://x.com/i/trending/2111528900119654765",
+   "topics": [],
+   "post_urls": []
+  },
+  {
+   "id": "2111565366170157259",
+   "headline": "Russian Propaganda Depicts U.S.-Russia Attacking Europe Together",
+   "hook": "A striking photo of a blazing European landmark, firefighters scrambling against the flames, serves as the centerpiece of Russian claims showing America and Russia united against the continent.",
+   "summary": "The image, shared widely by Russian figures like Kirill Dmitriev with a 'Together' caption, ties into recent U.S.-Russia talks, including Putin's phone assurance to Trump that Moscow holds no aggressive plans toward Europe. Discussions highlight Garry Kasparov's call to question midterm candidates on any Trump alignment with Russia against Ukraine and Europe, alongside David Frum's note of Russian confidence in Trump as an ally. While some express alarm over shifting alliances and energy deals like U.S. diesel imports from Russia, polls show broad American support for Ukraine persists across groups, though priorities differ.",
+   "updated_at": "2026-10-17T21:19:13.000Z",
+   "url": "https://x.com/i/trending/2111565366170157259",
+   "topics": [],
+   "post_urls": []
+  },
   {
    "id": "2111500794893893811",
    "headline": "Republicans Rally Voters with Urgent 'Vote Red' Calls Ahead of 2026 Midterms",
@@ -11,14 +41,8 @@
    "summary": "Users like Jamie Bonkiewicz are blunt: 'I don’t give a flying fuck if the polls say Democrats are winning by a landslide. Your ass better still get out and vote.' Posts feature American flags, yard signs, and creative images like Santa facing a turkey, all pushing a straight red ballot to protect core values and counter past low midterm turnout. Cynical Publius boils it down: 'All we have to do is turnout. That’s it.' Meanwhile, progressives hold 'No Kings' events to boost Democratic early voting, as both sides eye control of all 435 House seats and 35 Senate seats in the high-stakes contests.",
    "updated_at": "2026-10-17T20:27:51.000Z",
    "url": "https://x.com/i/trending/2111500794893893811",
-   "topics": [
-    "Elections"
-   ],
-   "post_urls": [
-    "https://x.com/i/status/2111451388081287286",
-    "https://x.com/i/status/2111497173368225793",
-    "https://x.com/i/status/2111432089132511300"
-   ]
+   "topics": [],
+   "post_urls": []
   },
   {
    "id": "2111542496685658372",
@@ -27,30 +51,8 @@
    "summary": "On October 17, Stripe CEO Patrick Collison posted about cross-Atlantic pity—Europe viewing the U.S. as sliding into autocracy, and America seeing Europe as weak amid lagging growth and U.S. security pullbacks. Replies ranged from critiques of his framing to warnings that infighting aids rivals like Russia and China, with some noting everyday folks ignore the other's debates. The exchange underscores hardening perceptions even as cooperation stays vital for shared global challenges.",
    "updated_at": "2026-10-17T19:48:54.000Z",
    "url": "https://x.com/i/trending/2111542496685658372",
-   "topics": [
-    "Politics"
-   ],
-   "post_urls": [
-    "https://x.com/i/status/2111487279349022762",
-    "https://x.com/i/status/2111473606320685472",
-    "https://x.com/i/status/2111511750558548216"
-   ]
-  },
-  {
-   "id": "2111350502780739951",
-   "headline": "Winter's Video Urges Backing Democrats Like Newsom Sparks Leftist Divide",
-   "hook": "Political commentator Winter made a passionate plea in a 59-second clip: hold your nose and vote for Democrats like Gavin Newsom to make any real progress.",
-   "summary": "Posted around mid-October 2026, the video drew sharp backlash from leftists who called it liberal thinking, not true revolution, and rejected supporting figures like Newsom over his Israel stance and other issues. Critics argued that pledging early loyalty two years before 2028 kills leverage for change, while defenders stressed pragmatic voting in a two-party system to avoid handing wins to Republicans. Comedian Jimmy Dore countered by citing historical third-party successes like Abraham Lincoln's run, highlighting fractures in progressive strategy talks.",
-   "updated_at": "2026-10-17T19:35:29.000Z",
-   "url": "https://x.com/i/trending/2111350502780739951",
-   "topics": [
-    "Politics"
-   ],
-   "post_urls": [
-    "https://x.com/i/status/2110840543899156482",
-    "https://x.com/i/status/2111428579666108800",
-    "https://x.com/i/status/2111319182331584631"
-   ]
+   "topics": [],
+   "post_urls": []
   },
   {
    "id": "2111535571424420060",
@@ -59,46 +61,8 @@
    "summary": "Social media posts capture voters choosing Republicans to block Democrats they call 'evil and insane,' while others reject Republicans as 'fascist.' Vice President JD Vance drives the message, urging crowds not to vote for those who 'caused these problems' like inflation. The exchange highlights deep polarization ahead of the November 3 midterms, where polls show Democrats leading but early voting hints at tight races in states like North Carolina and Iowa.",
    "updated_at": "2026-10-17T19:21:32.000Z",
    "url": "https://x.com/i/trending/2111535571424420060",
-   "topics": [
-    "Politics"
-   ],
-   "post_urls": [
-    "https://x.com/i/status/2111224450108547305",
-    "https://x.com/i/status/2111440753809375315",
-    "https://x.com/i/status/2111474674135654662"
-   ]
-  },
-  {
-   "id": "2110934285473448071",
-   "headline": "Partisan Debate Heats Up Over High Gas Prices After Iran Strikes",
-   "hook": "With gas at $4.31 a gallon, drivers feel the pinch from U.S. strikes on Iran that disrupted global oil supplies back in late February.",
-   "summary": "Posts highlight early Biden administration decisions like canceling the Keystone XL pipeline and halting new oil leases, with Rep. Brandon Gill and others blaming those moves for today's costs. Counterarguments note record U.S. crude production of 13.6 million barrels per day in 2025 and fewer refinery closures than claimed. Discussions also tie state gas prices to governors' parties, as voters weigh policy records against geopolitical fallout from the Iran conflict.",
-   "updated_at": "2026-10-17T19:08:43.000Z",
-   "url": "https://x.com/i/trending/2110934285473448071",
-   "topics": [
-    "Politics"
-   ],
-   "post_urls": [
-    "https://x.com/i/status/2111225035738485215",
-    "https://x.com/i/status/2111431344051954169",
-    "https://x.com/i/status/2111482423162904969"
-   ]
-  },
-  {
-   "id": "2111131893630702023",
-   "headline": "State Department Posts Promote Rubio's America First Foreign Policy",
-   "hook": "Secretary Marco Rubio stares seriously from a dark backdrop, with bold text declaring the U.S. foreign policy will prioritize what's good for America.",
-   "summary": "The U.S. State Department's social media posts feature Rubio emphasizing 'America First is common sense,' using American power to advance U.S. interests over global institutions. This aligns with actions like cutting $80 billion in foreign aid, slashing USAID programs by 85%, and freeing detained Americans from Russia and Venezuela. Edited images by critics swap 'America' for 'Russia' or 'Israel,' while supporters praise the shift from past multilateral approaches.",
-   "updated_at": "2026-10-17T18:55:05.000Z",
-   "url": "https://x.com/i/trending/2111131893630702023",
-   "topics": [
-    "Politics"
-   ],
-   "post_urls": [
-    "https://x.com/i/status/2111159152777085340",
-    "https://x.com/i/status/2111092256514195891",
-    "https://x.com/i/status/2111215870844526804"
-   ]
+   "topics": [],
+   "post_urls": []
   },
   {
    "id": "2111504424199770125",
@@ -107,14 +71,8 @@
    "summary": "In January 2026, Cornyn said he saw no benefit in debating before the March 3 Republican primary, dismissing Rep. Wesley Hunt and expecting a contest with Ken Paxton. The primary led to a May 26 runoff, where Paxton won 64% to Cornyn's 36%, ending his Senate bid. On October 17, Cornyn posted that avoiding debates leaves voters uninformed, drawing replies quoting his past stance, criticizing his voting record like a 54% Conservative Review Liberty Score, and celebrating his primary loss with memes labeling him a RINO.",
    "updated_at": "2026-10-17T17:16:59.000Z",
    "url": "https://x.com/i/trending/2111504424199770125",
-   "topics": [
-    "Politics"
-   ],
-   "post_urls": [
-    "https://x.com/i/status/2111448653714145527",
-    "https://x.com/i/status/2111453667102536052",
-    "https://x.com/i/status/2111485760779985239"
-   ]
+   "topics": [],
+   "post_urls": []
   },
   {
    "id": "2111500793300087041",
@@ -123,14 +81,8 @@
    "summary": "Sponsored by Rep. Jeff Crank, the nonbinding H. Res. 1490 opposes socialism in all forms, including the Democratic Socialists of America, and reaffirms support for free elections. All 212 Republicans voted yes, while just eight Democrats—Reps. Kathy Castor, Vicente Gonzalez, Henry Cuellar, Darren Soto, Jared Golden, Marie Gluesenkamp Perez, Don Davis, and Gabe Vasquez—joined them, with 192 voting no. The vote ties into election integrity debates via endorsement of the SAVE America Act, and online discussions highlight the numbers as a stark indicator of party stances ahead of future elections.",
    "updated_at": "2026-10-17T17:05:33.000Z",
    "url": "https://x.com/i/trending/2111500793300087041",
-   "topics": [
-    "Politics"
-   ],
-   "post_urls": [
-    "https://x.com/i/status/2111426498204713298",
-    "https://x.com/i/status/2111447783647641629",
-    "https://x.com/i/status/2111472090566045857"
-   ]
+   "topics": [],
+   "post_urls": []
   }
  ],
  "trends": [
@@ -139,12 +91,28 @@
    "url": "https://x.com/search?q=Arch"
   },
   {
-   "name": "Arch",
-   "url": "https://x.com/search?q=Arch"
+   "name": "Auburn",
+   "url": "https://x.com/search?q=Auburn"
+  },
+  {
+   "name": "Sark",
+   "url": "https://x.com/search?q=Sark"
+  },
+  {
+   "name": "Macron",
+   "url": "https://x.com/search?q=Macron"
   },
   {
    "name": "Indiana",
    "url": "https://x.com/search?q=Indiana"
+  },
+  {
+   "name": "Tommy Carr",
+   "url": "https://x.com/search?q=Tommy%20Carr"
+  },
+  {
+   "name": "Bryce Underwood",
+   "url": "https://x.com/search?q=Bryce%20Underwood"
   },
   {
    "name": "Ohio State",
@@ -155,40 +123,24 @@
    "url": "https://x.com/search?q=Sayin"
   },
   {
-   "name": "Hoover",
-   "url": "https://x.com/search?q=Hoover"
+   "name": "Rhyne",
+   "url": "https://x.com/search?q=Rhyne"
   },
   {
-   "name": "Marsh",
-   "url": "https://x.com/search?q=Marsh"
+   "name": "Gabby",
+   "url": "https://x.com/search?q=Gabby"
   },
   {
-   "name": "Jeremiah Smith",
-   "url": "https://x.com/search?q=Jeremiah%20Smith"
+   "name": "Michigan",
+   "url": "https://x.com/search?q=Michigan"
   },
   {
-   "name": "Gators",
-   "url": "https://x.com/search?q=Gators"
+   "name": "#WNBAfinals",
+   "url": "https://x.com/search?q=%23WNBAfinals"
   },
   {
-   "name": "Texas",
-   "url": "https://x.com/search?q=Texas"
-  },
-  {
-   "name": "Macron",
-   "url": "https://x.com/search?q=Macron"
-  },
-  {
-   "name": "Fahey",
-   "url": "https://x.com/search?q=Fahey"
-  },
-  {
-   "name": "Ryan Day",
-   "url": "https://x.com/search?q=Ryan%20Day"
-  },
-  {
-   "name": "Gabby Williams",
-   "url": "https://x.com/search?q=Gabby%20Williams"
+   "name": "Gunner",
+   "url": "https://x.com/search?q=Gunner"
   },
   {
    "name": "Paris",
