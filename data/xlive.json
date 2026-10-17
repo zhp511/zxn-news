@@ -1,29 +1,9 @@
 {
- "built_at": "2026-10-17T07:49:58Z",
- "searched_at": "2026-10-17T07:49:40Z",
+ "built_at": "2026-10-17T08:08:37Z",
+ "searched_at": "2026-10-17T08:07:29Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
-  {
-   "post_id": "2111321425541992953",
-   "post_url": "https://x.com/IndiaToday/status/2111321425541992953",
-   "name": "IndiaToday",
-   "username": "IndiaToday",
-   "verified_type": "business",
-   "text": "Congress MP P Chidambaram and BJP MP Sudhanshu Trivedi join @maryashakil for an exclusive conversation |  #NewsTrack #ITLivestream https://t.co/i4C1qxKJD8",
-   "started_at": "2026-10-17T05:00:28.000Z",
-   "assumed_live_until": "2026-10-17T08:00:28Z"
-  },
-  {
-   "post_id": "2111321299331215543",
-   "post_url": "https://x.com/GBNEWS/status/2111321299331215543",
-   "name": "GB News",
-   "username": "GBNEWS",
-   "verified_type": "business",
-   "text": "GB News https://t.co/M6BRpmBv46",
-   "started_at": "2026-10-17T04:59:58.000Z",
-   "assumed_live_until": "2026-10-17T07:59:58Z"
-  },
   {
    "post_id": "2111352644908593187",
    "post_url": "https://x.com/Channel1TVGHA/status/2111352644908593187",
