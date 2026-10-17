@@ -1,6 +1,6 @@
 {
  "generated_from": "data/raw_pages.json + data/raw_archive.json",
- "fetched_at": "2026-10-13T01:58:14Z",
+ "fetched_at": "2026-10-17T00:01:19Z",
  "pinned_top": "2108635147318784214",
  "user": {
   "id": "2011476148178599939",
@@ -23,6 +23,646 @@
   "banner_local": "images/banner.jpg"
  },
  "posts": [
+  {
+   "id": "2111239135331746115",
+   "url": "https://x.com/zxnbluehandus/status/2111239135331746115",
+   "created_at": "2026-10-16T23:33:29.000Z",
+   "headline": "#BlueHand #patriotoneNetwork coming soon ZXN",
+   "headline_source": "post",
+   "text": "#BlueHand #patriotoneNetwork coming soon  ZXN",
+   "original_text": "#BlueHand #patriotoneNetwork coming soon  ZXN https://t.co/BTPjpJyxBm",
+   "metrics": {
+    "bookmark_count": 0,
+    "impression_count": 58,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 1
+   },
+   "images": [
+    {
+     "src": "images/2111239135331746115_0.jpg",
+     "type": "photo",
+     "width": 1672,
+     "height": 941
+    }
+   ],
+   "image_source": "post",
+   "link": null,
+   "has_video": false,
+   "hidden": false,
+   "hidden_reason": null
+  },
+  {
+   "id": "2111236007958044962",
+   "url": "https://x.com/zxnbluehandus/status/2111236007958044962",
+   "created_at": "2026-10-16T23:21:03.000Z",
+   "headline": "#ZXN #xlive #wearethepeople #bluehand #PON #tellmeyourstory #smackdown #WWERAW",
+   "headline_source": "post",
+   "text": "#ZXN #xlive #wearethepeople #bluehand  #PON #tellmeyourstory   #smackdown #WWERAW",
+   "original_text": "#ZXN #xlive #wearethepeople #bluehand  #PON #tellmeyourstory   #smackdown #WWERAW https://t.co/JfdSHLTZgZ",
+   "metrics": {
+    "bookmark_count": 0,
+    "impression_count": 107,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 2
+   },
+   "images": [],
+   "image_source": null,
+   "link": null,
+   "has_video": false,
+   "hidden": false,
+   "hidden_reason": null
+  },
+  {
+   "id": "2111200997901234377",
+   "url": "https://x.com/zxnbluehandus/status/2111200997901234377",
+   "created_at": "2026-10-16T21:01:56.000Z",
+   "headline": "what up",
+   "headline_source": "post",
+   "text": "what up",
+   "original_text": "what up https://t.co/hUJaXYCIyU",
+   "metrics": {
+    "bookmark_count": 0,
+    "impression_count": 97,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 2
+   },
+   "images": [
+    {
+     "src": "images/2111200997901234377_0.jpg",
+     "type": "video",
+     "width": 1440,
+     "height": 1080
+    }
+   ],
+   "image_source": "post",
+   "link": null,
+   "has_video": true,
+   "hidden": true,
+   "hidden_reason": "reply-style / too short"
+  },
+  {
+   "id": "2111164620392043005",
+   "url": "https://x.com/zxnbluehandus/status/2111164620392043005",
+   "created_at": "2026-10-16T18:37:23.000Z",
+   "headline": "I’m going to @joe_Lnu’s upcoming Space. Will you join too?",
+   "headline_source": "post",
+   "text": "I’m going to @joe_Lnu’s upcoming Space. Will you join too?",
+   "original_text": "I’m going to @joe_Lnu’s upcoming Space. Will you join too? https://t.co/fKTMYNErqH",
+   "metrics": {
+    "bookmark_count": 0,
+    "impression_count": 176,
+    "like_count": 2,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 3
+   },
+   "images": [],
+   "image_source": null,
+   "link": null,
+   "has_video": false,
+   "hidden": false,
+   "hidden_reason": null
+  },
+  {
+   "id": "2111071310784909604",
+   "url": "https://x.com/zxnbluehandus/status/2111071310784909604",
+   "created_at": "2026-10-16T12:26:36.000Z",
+   "headline": "New",
+   "headline_source": "post",
+   "text": "New",
+   "original_text": "New https://t.co/TtQ7cqmLZW",
+   "metrics": {
+    "bookmark_count": 0,
+    "impression_count": 48,
+    "like_count": 2,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 1
+   },
+   "images": [
+    {
+     "src": "images/2111071310784909604_0.jpg",
+     "type": "photo",
+     "width": 1672,
+     "height": 941
+    }
+   ],
+   "image_source": "post",
+   "link": null,
+   "has_video": false,
+   "hidden": true,
+   "hidden_reason": "reply-style / too short"
+  },
+  {
+   "id": "2110926107499221187",
+   "url": "https://x.com/zxnbluehandus/status/2110926107499221187",
+   "created_at": "2026-10-16T02:49:37.000Z",
+   "headline": "",
+   "headline_source": "post",
+   "text": "",
+   "original_text": "https://t.co/S5CjB4HL6B",
+   "metrics": {
+    "bookmark_count": 0,
+    "impression_count": 97,
+    "like_count": 5,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 3
+   },
+   "images": [],
+   "image_source": null,
+   "link": null,
+   "has_video": false,
+   "hidden": true,
+   "hidden_reason": "reply-style / too short"
+  },
+  {
+   "id": "2110918511727874487",
+   "url": "https://x.com/zxnbluehandus/status/2110918511727874487",
+   "created_at": "2026-10-16T02:19:26.000Z",
+   "headline": "this is bad ass",
+   "headline_source": "post",
+   "text": "this is bad ass",
+   "original_text": "this is bad ass https://t.co/ZL4e5J2dpM",
+   "metrics": {
+    "bookmark_count": 0,
+    "impression_count": 344,
+    "like_count": 9,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 4
+   },
+   "images": [],
+   "image_source": null,
+   "link": null,
+   "has_video": false,
+   "hidden": false,
+   "hidden_reason": null
+  },
+  {
+   "id": "2110812293701542163",
+   "url": "https://x.com/zxnbluehandus/status/2110812293701542163",
+   "created_at": "2026-10-15T19:17:22.000Z",
+   "headline": "SpaceX Starlink 100 MPH Kill Switch (It’s Not Elon)",
+   "headline_source": "post",
+   "text": "SpaceX Starlink 100 MPH Kill Switch (It’s Not Elon)  via @YouTube",
+   "original_text": "SpaceX Starlink 100 MPH Kill Switch (It’s Not Elon) https://t.co/zqtTQ8Lvuh via @YouTube",
+   "metrics": {
+    "bookmark_count": 0,
+    "impression_count": 216,
+    "like_count": 3,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 2
+   },
+   "images": [],
+   "image_source": null,
+   "link": null,
+   "has_video": false,
+   "hidden": false,
+   "hidden_reason": null
+  },
+  {
+   "id": "2110752112342671634",
+   "url": "https://x.com/zxnbluehandus/status/2110752112342671634",
+   "created_at": "2026-10-15T15:18:14.000Z",
+   "headline": "Snowman Inc",
+   "headline_source": "post",
+   "text": "Snowman Inc",
+   "original_text": "Snowman Inc https://t.co/Nvdie6ZxA2",
+   "metrics": {
+    "bookmark_count": 0,
+    "impression_count": 271,
+    "like_count": 5,
+    "quote_count": 1,
+    "reply_count": 0,
+    "retweet_count": 3
+   },
+   "images": [
+    {
+     "src": "images/2110752112342671634_0.jpg",
+     "type": "video",
+     "width": 1080,
+     "height": 1920
+    }
+   ],
+   "image_source": "post",
+   "link": null,
+   "has_video": true,
+   "hidden": false,
+   "hidden_reason": null
+  },
+  {
+   "id": "2110748295660499013",
+   "url": "https://x.com/zxnbluehandus/status/2110748295660499013",
+   "created_at": "2026-10-15T15:03:04.000Z",
+   "headline": "I’m going to @CHELLESHOCKEDTM’s upcoming Space. Will you join too?",
+   "headline_source": "post",
+   "text": "I’m going to @CHELLESHOCKEDTM’s upcoming Space. Will you join too?",
+   "original_text": "I’m going to @CHELLESHOCKEDTM’s upcoming Space. Will you join too? https://t.co/b1dvAhb7vp",
+   "metrics": {
+    "bookmark_count": 0,
+    "impression_count": 134,
+    "like_count": 7,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 6
+   },
+   "images": [],
+   "image_source": null,
+   "link": null,
+   "has_video": false,
+   "hidden": false,
+   "hidden_reason": null
+  },
+  {
+   "id": "2110741031763243513",
+   "url": "https://x.com/zxnbluehandus/status/2110741031763243513",
+   "created_at": "2026-10-15T14:34:12.000Z",
+   "headline": "I’m going to @apinionsvary’s upcoming Space. Will you join too?",
+   "headline_source": "post",
+   "text": "I’m going to @apinionsvary’s upcoming Space. Will you join too?",
+   "original_text": "I’m going to @apinionsvary’s upcoming Space. Will you join too? https://t.co/GisxasMdl3",
+   "metrics": {
+    "bookmark_count": 0,
+    "impression_count": 38,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 1
+   },
+   "images": [],
+   "image_source": null,
+   "link": null,
+   "has_video": false,
+   "hidden": false,
+   "hidden_reason": null
+  },
+  {
+   "id": "2110600950889025580",
+   "url": "https://x.com/zxnbluehandus/status/2110600950889025580",
+   "created_at": "2026-10-15T05:17:34.000Z",
+   "headline": "Day is truth, Thursday when we tell the truth on truth, Thursday on @RobManess @CHELLESHOCKEDTM…",
+   "headline_source": "post",
+   "text": "Day is truth, Thursday when we tell the truth on truth, Thursday on @RobManess @CHELLESHOCKEDTM @KatTheHammer1 @averageJohn911 @ali_hopper all the gang is ready to go for Truth Thursday 230 Eastern time p.m. 3 o’clock showtime. Be there be square. And no lead ups. And raise your",
+   "original_text": "Day is truth, Thursday when we tell the truth on truth, Thursday on @RobManess @CHELLESHOCKEDTM @KatTheHammer1 @averageJohn911 @ali_hopper all the gang is ready to go for Truth Thursday 230 Eastern time p.m. 3 o’clock showtime. Be there be square. And no lead ups. And raise your https://t.co/N5xXefOwFI",
+   "metrics": {
+    "bookmark_count": 0,
+    "impression_count": 165,
+    "like_count": 7,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 6
+   },
+   "images": [
+    {
+     "src": "images/2110600950889025580_0.jpg",
+     "type": "photo",
+     "width": 1672,
+     "height": 941
+    }
+   ],
+   "image_source": "post",
+   "link": null,
+   "has_video": false,
+   "hidden": false,
+   "hidden_reason": null
+  },
+  {
+   "id": "2110550839127310599",
+   "url": "https://x.com/zxnbluehandus/status/2110550839127310599",
+   "created_at": "2026-10-15T01:58:26.000Z",
+   "headline": "Starlink’s 1000 Mbps Upgrade Has A $2,000 Problem",
+   "headline_source": "post",
+   "text": "Starlink’s 1000 Mbps Upgrade Has A $2,000 Problem  via @YouTube",
+   "original_text": "Starlink’s 1000 Mbps Upgrade Has A $2,000 Problem https://t.co/D0wtVsQ0HP via @YouTube",
+   "metrics": {
+    "bookmark_count": 0,
+    "impression_count": 50,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 2
+   },
+   "images": [],
+   "image_source": null,
+   "link": null,
+   "has_video": false,
+   "hidden": false,
+   "hidden_reason": null
+  },
+  {
+   "id": "2110522227603202305",
+   "url": "https://x.com/zxnbluehandus/status/2110522227603202305",
+   "created_at": "2026-10-15T00:04:45.000Z",
+   "headline": "FULL EPISODE: Sol Ruca vs. Lyra Valkyria in debut on Rumble: WWE Main Event, Oct. 14, 2026",
+   "headline_source": "post",
+   "text": "FULL EPISODE: Sol Ruca vs. Lyra Valkyria in debut on Rumble: WWE Main Event, Oct. 14, 2026",
+   "original_text": "FULL EPISODE: Sol Ruca vs. Lyra Valkyria in debut on Rumble: WWE Main Event, Oct. 14, 2026 https://t.co/z5hPTTbDG9",
+   "metrics": {
+    "bookmark_count": 0,
+    "impression_count": 117,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 1
+   },
+   "images": [],
+   "image_source": null,
+   "link": null,
+   "has_video": false,
+   "hidden": false,
+   "hidden_reason": null
+  },
+  {
+   "id": "2110520836776169845",
+   "url": "https://x.com/zxnbluehandus/status/2110520836776169845",
+   "created_at": "2026-10-14T23:59:13.000Z",
+   "headline": "",
+   "headline_source": "post",
+   "text": "",
+   "original_text": "https://t.co/zigCALyhdg",
+   "metrics": {
+    "bookmark_count": 1,
+    "impression_count": 33,
+    "like_count": 2,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 1
+   },
+   "images": [],
+   "image_source": null,
+   "link": null,
+   "has_video": false,
+   "hidden": true,
+   "hidden_reason": "reply-style / too short"
+  },
+  {
+   "id": "2110512336138387733",
+   "url": "https://x.com/zxnbluehandus/status/2110512336138387733",
+   "created_at": "2026-10-14T23:25:27.000Z",
+   "headline": "Satday this come out on pc",
+   "headline_source": "post",
+   "text": "Satday this come out on pc",
+   "original_text": "Satday this come out on pc https://t.co/bEIBpoC5kE",
+   "metrics": {
+    "bookmark_count": 0,
+    "impression_count": 279,
+    "like_count": 5,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 6
+   },
+   "images": [
+    {
+     "src": "images/2110512336138387733_0.jpg",
+     "type": "photo",
+     "width": 4096,
+     "height": 3072
+    }
+   ],
+   "image_source": "post",
+   "link": null,
+   "has_video": false,
+   "hidden": false,
+   "hidden_reason": null
+  },
+  {
+   "id": "2110509086148006261",
+   "url": "https://x.com/zxnbluehandus/status/2110509086148006261",
+   "created_at": "2026-10-14T23:12:32.000Z",
+   "headline": "x soon satday",
+   "headline_source": "post",
+   "text": "x soon satday",
+   "original_text": "x soon satday  https://t.co/QKmtdC2XPB",
+   "metrics": {
+    "bookmark_count": 0,
+    "impression_count": 36,
+    "like_count": 2,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 1
+   },
+   "images": [],
+   "image_source": null,
+   "link": null,
+   "has_video": false,
+   "hidden": false,
+   "hidden_reason": null
+  },
+  {
+   "id": "2110508159676604822",
+   "url": "https://x.com/zxnbluehandus/status/2110508159676604822",
+   "created_at": "2026-10-14T23:08:51.000Z",
+   "headline": "New CG trailer \"The Duel\" | Sam Tinnesz - Legends Are Made | World of Wa...",
+   "headline_source": "post",
+   "text": "New CG trailer \"The Duel\" | Sam Tinnesz - Legends Are Made | World of Wa...  via @YouTube",
+   "original_text": "New CG trailer \"The Duel\" | Sam Tinnesz - Legends Are Made | World of Wa... https://t.co/QAcAxJ9lvX via @YouTube",
+   "metrics": {
+    "bookmark_count": 0,
+    "impression_count": 38,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 1
+   },
+   "images": [],
+   "image_source": null,
+   "link": null,
+   "has_video": false,
+   "hidden": false,
+   "hidden_reason": null
+  },
+  {
+   "id": "2110495635317105107",
+   "url": "https://x.com/zxnbluehandus/status/2110495635317105107",
+   "created_at": "2026-10-14T22:19:05.000Z",
+   "headline": "",
+   "headline_source": "post",
+   "text": "",
+   "original_text": "https://t.co/i8tLWcXAv7",
+   "metrics": {
+    "bookmark_count": 0,
+    "impression_count": 24,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 1
+   },
+   "images": [],
+   "image_source": null,
+   "link": null,
+   "has_video": false,
+   "hidden": true,
+   "hidden_reason": "reply-style / too short"
+  },
+  {
+   "id": "2110470484663869531",
+   "url": "https://x.com/zxnbluehandus/status/2110470484663869531",
+   "created_at": "2026-10-14T20:39:08.000Z",
+   "headline": "I’m going to @clifffulmer’s upcoming Space. Will you join too?",
+   "headline_source": "post",
+   "text": "I’m going to @clifffulmer’s upcoming Space. Will you join too?",
+   "original_text": "I’m going to @clifffulmer’s upcoming Space. Will you join too? https://t.co/JFHewHq7Qt",
+   "metrics": {
+    "bookmark_count": 0,
+    "impression_count": 49,
+    "like_count": 3,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 2
+   },
+   "images": [],
+   "image_source": null,
+   "link": null,
+   "has_video": false,
+   "hidden": false,
+   "hidden_reason": null
+  },
+  {
+   "id": "2110468336425279801",
+   "url": "https://x.com/zxnbluehandus/status/2110468336425279801",
+   "created_at": "2026-10-14T20:30:36.000Z",
+   "headline": "I’m going to @clifffulmer’s upcoming Space. Will you join too?",
+   "headline_source": "post",
+   "text": "I’m going to @clifffulmer’s upcoming Space. Will you join too?",
+   "original_text": "I’m going to @clifffulmer’s upcoming Space. Will you join too? https://t.co/JFHewHq7Qt",
+   "metrics": {
+    "bookmark_count": 0,
+    "impression_count": 96,
+    "like_count": 3,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 3
+   },
+   "images": [],
+   "image_source": null,
+   "link": null,
+   "has_video": false,
+   "hidden": true,
+   "hidden_reason": "duplicate"
+  },
+  {
+   "id": "2110397587295515015",
+   "url": "https://x.com/zxnbluehandus/status/2110397587295515015",
+   "created_at": "2026-10-14T15:49:28.000Z",
+   "headline": "I’m going to @CHELLESHOCKEDTM’s upcoming Space. Will you join too?",
+   "headline_source": "post",
+   "text": "I’m going to @CHELLESHOCKEDTM’s upcoming Space. Will you join too?",
+   "original_text": "I’m going to @CHELLESHOCKEDTM’s upcoming Space. Will you join too? https://t.co/MShSH3UkK8",
+   "metrics": {
+    "bookmark_count": 0,
+    "impression_count": 158,
+    "like_count": 7,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 6
+   },
+   "images": [],
+   "image_source": null,
+   "link": null,
+   "has_video": false,
+   "hidden": true,
+   "hidden_reason": "duplicate"
+  },
+  {
+   "id": "2110259468021973308",
+   "url": "https://x.com/zxnbluehandus/status/2110259468021973308",
+   "created_at": "2026-10-14T06:40:38.000Z",
+   "headline": "White Castle Recipe 🍔 @jennieryan82",
+   "headline_source": "post",
+   "text": "White Castle Recipe 🍔 @jennieryan82  via @YouTube",
+   "original_text": "White Castle Recipe 🍔 @jennieryan82 https://t.co/d9EBqxOCEp via @YouTube",
+   "metrics": {
+    "bookmark_count": 1,
+    "impression_count": 77,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 2
+   },
+   "images": [],
+   "image_source": null,
+   "link": null,
+   "has_video": false,
+   "hidden": false,
+   "hidden_reason": null
+  },
+  {
+   "id": "2110253688660836834",
+   "url": "https://x.com/zxnbluehandus/status/2110253688660836834",
+   "created_at": "2026-10-14T06:17:40.000Z",
+   "headline": "Garbage Trucks Are Grading Your House",
+   "headline_source": "post",
+   "text": "Garbage Trucks Are Grading Your House  via @YouTube",
+   "original_text": "Garbage Trucks Are Grading Your House https://t.co/dPN6ktKAZJ via @YouTube",
+   "metrics": {
+    "bookmark_count": 0,
+    "impression_count": 54,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "images": [],
+   "image_source": null,
+   "link": null,
+   "has_video": false,
+   "hidden": false,
+   "hidden_reason": null
+  },
+  {
+   "id": "2110079566773731437",
+   "url": "https://x.com/zxnbluehandus/status/2110079566773731437",
+   "created_at": "2026-10-13T18:45:46.000Z",
+   "headline": "I’m going to @apinionsvary’s upcoming Space. Will you join too?",
+   "headline_source": "post",
+   "text": "I’m going to @apinionsvary’s upcoming Space. Will you join too?",
+   "original_text": "I’m going to @apinionsvary’s upcoming Space. Will you join too? https://t.co/aUmkSYhuLN",
+   "metrics": {
+    "bookmark_count": 0,
+    "impression_count": 122,
+    "like_count": 2,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 1
+   },
+   "images": [],
+   "image_source": null,
+   "link": null,
+   "has_video": false,
+   "hidden": true,
+   "hidden_reason": "duplicate"
+  },
+  {
+   "id": "2110041889282105759",
+   "url": "https://x.com/zxnbluehandus/status/2110041889282105759",
+   "created_at": "2026-10-13T16:16:03.000Z",
+   "headline": "My X app is coming out Saturday with improvements you’ll be able to record the space by MP3",
+   "headline_source": "post",
+   "text": "My X app is coming out Saturday with improvements you’ll be able to record the space by MP3",
+   "original_text": "My X app is coming out Saturday with improvements you’ll be able to record the space by MP3",
+   "metrics": {
+    "bookmark_count": 0,
+    "impression_count": 263,
+    "like_count": 9,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 6
+   },
+   "images": [],
+   "image_source": null,
+   "link": null,
+   "has_video": false,
+   "hidden": false,
+   "hidden_reason": null
+  },
   {
    "id": "2109740877883068664",
    "url": "https://x.com/zxnbluehandus/status/2109740877883068664",

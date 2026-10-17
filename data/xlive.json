@@ -1,88 +1,88 @@
 {
- "built_at": "2026-10-13T03:14:49Z",
- "searched_at": "2026-10-13T03:14:49Z",
+ "built_at": "2026-10-17T00:01:45Z",
+ "searched_at": "2026-10-17T00:01:45Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
   {
-   "post_id": "2109843834935103913",
-   "post_url": "https://x.com/the_hindu/status/2109843834935103913",
-   "name": "The Hindu",
-   "username": "the_hindu",
+   "post_id": "2111208109217886230",
+   "post_url": "https://x.com/ScottJenningsKY/status/2111208109217886230",
+   "name": "Scott Jennings",
+   "username": "ScottJenningsKY",
    "verified_type": "blue",
-   "text": "U.S. President Donald Trump speaks to reporters as he departs the White House for Ohio https://t.co/TMt2H7CtdE",
-   "started_at": "2026-10-13T03:09:03.000Z",
-   "assumed_live_until": "2026-10-13T06:09:03Z"
+   "text": "BREAKING NEWS: Katie Zacharia Out as White House Press Secretary https://t.co/Oq54tGi4t7",
+   "started_at": "2026-10-16T21:30:12.000Z",
+   "assumed_live_until": "2026-10-17T00:30:12Z"
   },
   {
-   "post_id": "2109820023598621099",
-   "post_url": "https://x.com/_ARMedia/status/2109820023598621099",
-   "name": "America Rising Media",
-   "username": "_ARMedia",
+   "post_id": "2111204744601735613",
+   "post_url": "https://x.com/redicetv/status/2111204744601735613",
+   "name": "Red Ice TV ⨁",
+   "username": "redicetv",
    "verified_type": "blue",
-   "text": "America Rising News https://t.co/A6nhgN0BqG",
-   "started_at": "2026-10-13T01:34:26.000Z",
-   "assumed_live_until": "2026-10-13T04:34:26Z"
+   "text": "Rough Week At The White House - Flashback Friday Ep374 https://t.co/Ardddj8ZBd",
+   "started_at": "2026-10-16T21:16:50.000Z",
+   "assumed_live_until": "2026-10-17T00:16:50Z"
   },
   {
-   "post_id": "2109832009598263514",
-   "post_url": "https://x.com/magnonewslive/status/2109832009598263514",
-   "name": "MAGNO NEWS LIVE",
-   "username": "magnonewslive",
+   "post_id": "2111230814633836980",
+   "post_url": "https://x.com/SecretAmericaTV/status/2111230814633836980",
+   "name": "Secret America Live!",
+   "username": "SecretAmericaTV",
    "verified_type": "blue",
-   "text": "🇺🇸 President Trump Returns to the White House after MAGA Rally in Ohio [LIVE] https://t.co/b9wapiwiQv",
-   "started_at": "2026-10-13T02:22:04.000Z",
-   "assumed_live_until": "2026-10-13T05:22:04Z"
+   "text": "Secret America Live! - Episode 263 - Press Secretary Given The Boot https://t.co/ZSXLyVlHo3",
+   "started_at": "2026-10-16T23:00:25.000Z",
+   "assumed_live_until": "2026-10-17T02:00:25Z"
   },
   {
-   "post_id": "2109811295268794518",
-   "post_url": "https://x.com/GabrielTheValor/status/2109811295268794518",
-   "name": "Gabriel-Antonelli",
-   "username": "GabrielTheValor",
+   "post_id": "2111214902581084539",
+   "post_url": "https://x.com/DavidKrayden/status/2111214902581084539",
+   "name": "David Krayden",
+   "username": "DavidKrayden",
    "verified_type": "blue",
-   "text": "Talking Columbus Day, Stocks, Monero, Politics and More!  https://t.co/51uEhpaenA",
-   "started_at": "2026-10-13T00:59:45.000Z",
-   "assumed_live_until": "2026-10-13T03:59:45Z"
+   "text": "Dallas Brodie Has Become the Unquestioned Moral Leader in the BC Election Campaign https://t.co/uLarTdGdXM",
+   "started_at": "2026-10-16T21:57:11.000Z",
+   "assumed_live_until": "2026-10-17T00:57:11Z"
   },
   {
-   "post_id": "2109827616186257629",
-   "post_url": "https://x.com/AJPArmy/status/2109827616186257629",
-   "name": "Average Joe Patriot 1776",
-   "username": "AJPArmy",
+   "post_id": "2111220579361808557",
+   "post_url": "https://x.com/onpointpolitics/status/2111220579361808557",
+   "name": "‘On Point Politics’ - Lester Tellez",
+   "username": "onpointpolitics",
    "verified_type": "blue",
-   "text": "LIVE NOW \nRapid Fire News #1227 ~MAGA MONDAY~\nhttps://t.co/HfPKCeRXSx",
-   "started_at": "2026-10-13T02:04:37.000Z",
-   "assumed_live_until": "2026-10-13T05:04:37Z"
+   "text": "LIVE: POLLING THE STATE OF OHIO FOR SENATE & GOVERNOR (ACTUAL POLLG) https://t.co/K3apDvumqY",
+   "started_at": "2026-10-16T22:19:45.000Z",
+   "assumed_live_until": "2026-10-17T01:19:45Z"
   },
   {
-   "post_id": "2109833746149236892",
-   "post_url": "https://x.com/Diamondthedave/status/2109833746149236892",
-   "name": "Oppenheimer Ranch Project",
-   "username": "Diamondthedave",
+   "post_id": "2111207946931802427",
+   "post_url": "https://x.com/AmericaMission_/status/2111207946931802427",
+   "name": "🦺America Mission",
+   "username": "AmericaMission_",
    "verified_type": "blue",
-   "text": "Coast-to-coast cleanup after three storms batter North America - Geomagnetic Storm Ongoing https://t.co/ybpnTRZR47",
-   "started_at": "2026-10-13T02:28:58.000Z",
-   "assumed_live_until": "2026-10-13T05:28:58Z"
+   "text": "America Mission Chillin' with Some Tunes https://t.co/ELKgAJ1GRx",
+   "started_at": "2026-10-16T21:29:33.000Z",
+   "assumed_live_until": "2026-10-17T00:29:33Z"
   },
   {
-   "post_id": "2109828449489834416",
-   "post_url": "https://x.com/patriottvnet/status/2109828449489834416",
-   "name": "Patriot.TV",
-   "username": "patriottvnet",
+   "post_id": "2111207353186193685",
+   "post_url": "https://x.com/regeneration_in/status/2111207353186193685",
+   "name": "Regeneration International",
+   "username": "regeneration_in",
    "verified_type": "blue",
-   "text": "7 Ways to Fight Against Jihad in America, With Guest Thaïs d’Escufon https://t.co/sPERmarNva",
-   "started_at": "2026-10-13T02:07:55.000Z",
-   "assumed_live_until": "2026-10-13T05:07:55Z"
+   "text": "Welcome to Grassroots Rising, The People's Food Summit 2026: North America Pt2 https://t.co/wsHwDw2xnP",
+   "started_at": "2026-10-16T21:27:11.000Z",
+   "assumed_live_until": "2026-10-17T00:27:11Z"
   },
   {
-   "post_id": "2109844685716070892",
-   "post_url": "https://x.com/titovlogs77/status/2109844685716070892",
-   "name": "TitoVlogs.Crypto",
-   "username": "titovlogs77",
+   "post_id": "2111205109611045142",
+   "post_url": "https://x.com/TheBWSTimes/status/2111205109611045142",
+   "name": "The Black Wall Street Times",
+   "username": "TheBWSTimes",
    "verified_type": "blue",
-   "text": "Watch This Bitcoin RSI Level | Strategy Buys 250 BTC | CFTC Moves Without Congress https://t.co/et2Cfy6Jun",
-   "started_at": "2026-10-13T03:12:26.000Z",
-   "assumed_live_until": "2026-10-13T06:12:26Z"
+   "text": "18 Days Out: Black Voters Rise, White House Podium Falls https://t.co/emeBowOaew",
+   "started_at": "2026-10-16T21:18:17.000Z",
+   "assumed_live_until": "2026-10-17T00:18:17Z"
   }
  ]
 }

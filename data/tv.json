@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-10-13T01:58:51Z",
+ "checked_at": "2026-10-17T00:02:01Z",
  "channels": [
   {
    "key": "foxweather",
@@ -19,9 +19,9 @@
    "channel_id": "UCJg9wBPyKMNA5sRDnvzmkdg",
    "handle": "LiveNOWFOX",
    "watch_url": "https://www.youtube.com/@LiveNOWFOX/live",
-   "video_id": "PUfWupzOZxA",
+   "video_id": "kR2R2TJ98AE",
    "ok": true,
-   "title": "LIVE: Trump campaign rally, Russian diesel deal, Saudi Arabia latest, Midterm elections, top stories"
+   "title": "BREAKING: Norte Fire Burns Homes in San Clemente, California LIVE COVERAGE"
   },
   {
    "key": "cbs",
@@ -30,7 +30,7 @@
    "channel_id": "UC8p1vwvWtl6T73JiExfWs1g",
    "handle": "CBSNews",
    "watch_url": "https://www.youtube.com/@CBSNews/live",
-   "video_id": "CmR2-LqwYw4",
+   "video_id": "MMCqhcEgwLQ",
    "ok": true,
    "title": "LIVE: Breaking News and Top Stories on CBS News 24/7"
   },
@@ -41,9 +41,9 @@
    "channel_id": "UCBi2mrWuNuyYy4gbM6fU18Q",
    "handle": "ABCNews",
    "watch_url": "https://www.youtube.com/@ABCNews/live",
-   "video_id": "p2kCBRSS8Lc",
+   "video_id": "syqrmPSmptw",
    "ok": true,
-   "title": "LIVE: ABC News Live - Monday, October 12"
+   "title": "LIVE: ABC News Live - Friday, October 16"
   },
   {
    "key": "nbc",
@@ -52,9 +52,9 @@
    "channel_id": "UCeY0bbntWzzVIaj2z3QigXg",
    "handle": "NBCNews",
    "watch_url": "https://www.youtube.com/@NBCNews/live",
-   "video_id": "FXDEt2omKmA",
+   "video_id": "ar28mZkcPaE",
    "ok": true,
-   "title": "LIVE: NBC News NOW - Oct. 12"
+   "title": "Stay Tuned NOW Streaming Behind The Scenes! - Oct 16"
   },
   {
    "key": "bloomberg",
