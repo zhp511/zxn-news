@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-17T17:12:38Z",
- "searched_at": "2026-10-17T17:12:00Z",
+ "built_at": "2026-10-17T17:28:21Z",
+ "searched_at": "2026-10-17T17:28:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -25,14 +25,14 @@
    "assumed_live_until": "2026-10-17T19:48:43Z"
   },
   {
-   "post_id": "2111462338754970086",
-   "post_url": "https://x.com/rolandsmartin/status/2111462338754970086",
-   "name": "rolandsmartin",
-   "username": "rolandsmartin",
+   "post_id": "2111509356751503809",
+   "post_url": "https://x.com/AJNlive/status/2111509356751503809",
+   "name": "Alex Jones Network",
+   "username": "AJNlive",
    "verified_type": "blue",
-   "text": "Live from Indy: Steward Speakers Black In America: From Conversation To Action https://t.co/sKeB51ZbTQ",
-   "started_at": "2026-10-17T14:20:25.000Z",
-   "assumed_live_until": "2026-10-17T17:20:25Z"
+   "text": "BREAKING LIVE: Zelensky Threatens To Hold Europe & The Rest Of The World Hostage By Pouring 20 Million Ukrainian Refugees Into The West If Trump Is Successful In Ending The War With Russia! This Is Another Paper Tiger Threat From The Globalist Puppet!\n\nhttps://t.co/iHWHgwQOXs",
+   "started_at": "2026-10-17T17:27:15.000Z",
+   "assumed_live_until": "2026-10-17T20:27:15Z"
   },
   {
    "post_id": "2111502362523423024",
