@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-17T08:08:37Z",
- "searched_at": "2026-10-17T08:07:29Z",
+ "built_at": "2026-10-17T08:25:41Z",
+ "searched_at": "2026-10-17T08:25:40Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -13,6 +13,26 @@
    "text": "Channel One TV LIVE! Breakfast Daily Weekend | Latest News updates from Ghana | 17th October 2026 https://t.co/uaKK2M40Gz",
    "started_at": "2026-10-17T07:04:32.000Z",
    "assumed_live_until": "2026-10-17T10:04:32Z"
+  },
+  {
+   "post_id": "2111370223391854699",
+   "post_url": "https://x.com/thesavera_times/status/2111370223391854699",
+   "name": "The Savera Times",
+   "username": "thesavera_times",
+   "verified_type": "blue",
+   "text": "LIVE | Amritsar Police Holds Press Conference I Anti-Drug Activist Parvinder Jhota’s Mur*der case  \n#amritsar #punjab #antidrugs #news #live\n\nhttps://t.co/I8lLwQgWDM",
+   "started_at": "2026-10-17T08:14:23.000Z",
+   "assumed_live_until": "2026-10-17T11:14:23Z"
+  },
+  {
+   "post_id": "2111370608856780901",
+   "post_url": "https://x.com/RadioPakistan/status/2111370608856780901",
+   "name": "Radio Pakistan",
+   "username": "RadioPakistan",
+   "verified_type": "blue",
+   "text": "#Live: Minister of State for Interior Talal Chaudhry is addressing a news conference in Jaranwala\n@MOIofficialGoP #News #RadioPakistan \n https://t.co/4rKlag9Gxt",
+   "started_at": "2026-10-17T08:15:55.000Z",
+   "assumed_live_until": "2026-10-17T11:15:55Z"
   },
   {
    "post_id": "2111352887347687475",
