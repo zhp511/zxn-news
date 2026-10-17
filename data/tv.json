@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-10-17T09:10:22Z",
+ "checked_at": "2026-10-17T14:33:10Z",
  "channels": [
   {
    "key": "foxweather",
@@ -19,9 +19,9 @@
    "channel_id": "UCJg9wBPyKMNA5sRDnvzmkdg",
    "handle": "LiveNOWFOX",
    "watch_url": "https://www.youtube.com/@LiveNOWFOX/live",
-   "video_id": "kR2R2TJ98AE",
+   "video_id": "Z7lQMpZIKaE",
    "ok": true,
-   "title": "LIVE: Katie Zacharia out as White House press secretary, Oregon school shooting &amp; more"
+   "title": "LIVE NEWS: Trump waives Russia sanctions, US weighs strikes on Iran, Katie Zacharia out &amp; more"
   },
   {
    "key": "cbs",
@@ -41,9 +41,9 @@
    "channel_id": "UCBi2mrWuNuyYy4gbM6fU18Q",
    "handle": "ABCNews",
    "watch_url": "https://www.youtube.com/@ABCNews/live",
-   "video_id": "iipR5yUp36o",
+   "video_id": "zccuUPk7dO0",
    "ok": true,
-   "title": "LIVE: ABC News Live - 24/7 news, context and analysis"
+   "title": "LIVE: ABC News Live - Saturday, October 17"
   },
   {
    "key": "nbc",
@@ -74,9 +74,9 @@
    "channel_id": "UCoMdktPbSTixAyNGwb-UYkQ",
    "handle": "SkyNews",
    "watch_url": "https://www.youtube.com/@SkyNews/live",
-   "video_id": "xDWQ3LkccY8",
+   "video_id": "VHhaIjY7PNU",
    "ok": true,
-   "title": "Watch Sky News"
+   "title": "SNP leader gives keynote speech at party conference in Aberdeen"
   },
   {
    "key": "directv",
