@@ -1,19 +1,9 @@
 {
- "built_at": "2026-10-17T21:59:29Z",
- "searched_at": "2026-10-17T21:58:00Z",
+ "built_at": "2026-10-17T22:15:53Z",
+ "searched_at": "2026-10-17T22:15:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
-  {
-   "post_id": "2111532973501870160",
-   "post_url": "https://x.com/GuyLandau/status/2111532973501870160",
-   "name": "Guy Landau",
-   "username": "GuyLandau",
-   "verified_type": "blue",
-   "text": "Leftists Play Election Games As California BURNS https://t.co/2xUePmiewN",
-   "started_at": "2026-10-17T19:01:05.000Z",
-   "assumed_live_until": "2026-10-17T22:01:05Z"
-  },
   {
    "post_id": "2111539543987859594",
    "post_url": "https://x.com/Iamjstory/status/2111539543987859594",
@@ -23,6 +13,16 @@
    "text": "This man is America's greatest President to ever set foot in the @WhiteHouse \nhttps://t.co/YvFMsAvuH2",
    "started_at": "2026-10-17T19:27:12.000Z",
    "assumed_live_until": "2026-10-17T22:27:12Z"
+  },
+  {
+   "post_id": "2111577705212686567",
+   "post_url": "https://x.com/VickanFW/status/2111577705212686567",
+   "name": "Victoria 🍊 💃",
+   "username": "VickanFW",
+   "verified_type": "blue",
+   "text": ".\nIran Update 👇 Watch From The Start \n\n#FreeIran #IranMassacre‌2026 #LastBreath #Trump #FinishTheJob #Iran #TrumpMeetPahlavi #Freedom #JavidShah \n\nhttps://t.co/WTLRujdw16",
+   "started_at": "2026-10-17T21:58:50.000Z",
+   "assumed_live_until": "2026-10-18T00:58:50Z"
   },
   {
    "post_id": "2111563895303479738",
@@ -35,16 +35,6 @@
    "assumed_live_until": "2026-10-18T00:03:58Z"
   },
   {
-   "post_id": "2111547780988874877",
-   "post_url": "https://x.com/Channel1TVGHA/status/2111547780988874877",
-   "name": "ChannelOne TV",
-   "username": "Channel1TVGHA",
-   "verified_type": "blue",
-   "text": "Channel One Newsroom Live! | Latest News Updates From Ghana [17.10.2026] https://t.co/JqrhDOfufo",
-   "started_at": "2026-10-17T19:59:56.000Z",
-   "assumed_live_until": "2026-10-17T22:59:56Z"
-  },
-  {
    "post_id": "2111562639176597810",
    "post_url": "https://x.com/RedPill78/status/2111562639176597810",
    "name": "Zak Paine",
@@ -53,6 +43,16 @@
    "text": "The Omar Raid Is Just The Beginning: Her $30 Million Paper Trail Is Next on Red Pill News Live https://t.co/ZoJI5WK1tF",
    "started_at": "2026-10-17T20:58:58.000Z",
    "assumed_live_until": "2026-10-17T23:58:58Z"
+  },
+  {
+   "post_id": "2111547780988874877",
+   "post_url": "https://x.com/Channel1TVGHA/status/2111547780988874877",
+   "name": "ChannelOne TV",
+   "username": "Channel1TVGHA",
+   "verified_type": "blue",
+   "text": "Channel One Newsroom Live! | Latest News Updates From Ghana [17.10.2026] https://t.co/JqrhDOfufo",
+   "started_at": "2026-10-17T19:59:56.000Z",
+   "assumed_live_until": "2026-10-17T22:59:56Z"
   },
   {
    "post_id": "2111550373337145591",
@@ -75,14 +75,14 @@
    "assumed_live_until": "2026-10-17T23:38:26Z"
   },
   {
-   "post_id": "2111544652478484905",
-   "post_url": "https://x.com/NoticeNearYou/status/2111544652478484905",
-   "name": "Notice Nearby",
-   "username": "NoticeNearYou",
+   "post_id": "2111570952270360850",
+   "post_url": "https://x.com/Riley_Ikni/status/2111570952270360850",
+   "name": "Riley-Ghiles l The Amazigh* Startup Advisor",
+   "username": "Riley_Ikni",
    "verified_type": "blue",
-   "text": "Notice Nearby: Typhoon Champi, SoCal fires and today's news https://t.co/1PFSH2qtYx",
-   "started_at": "2026-10-17T19:47:30.000Z",
-   "assumed_live_until": "2026-10-17T22:47:30Z"
+   "text": "Big news of this week but is meta muse really useful for Startups and business?\nAnswer here 👇\nhttps://t.co/5Gr6cQl6dn",
+   "started_at": "2026-10-17T21:32:00.000Z",
+   "assumed_live_until": "2026-10-18T00:32:00Z"
   }
  ]
 }
