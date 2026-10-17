@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-17T03:31:29Z",
- "searched_at": "2026-10-17T03:31:29Z",
+ "built_at": "2026-10-17T03:47:39Z",
+ "searched_at": "2026-10-17T03:47:39Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -25,14 +25,14 @@
    "assumed_live_until": "2026-10-17T06:00:06Z"
   },
   {
-   "post_id": "2111255850887327960",
-   "post_url": "https://x.com/nauman_rustam/status/2111255850887327960",
-   "name": "Nauman Rustam Shaikh",
-   "username": "nauman_rustam",
+   "post_id": "2111292617984233497",
+   "post_url": "https://x.com/Yugi601/status/2111292617984233497",
+   "name": "Yugi601",
+   "username": "Yugi601",
    "verified_type": "blue",
-   "text": "Team Progressive SANA Election Campaign Launch Houston 2026 https://t.co/Bq6KfwT3T1",
-   "started_at": "2026-10-17T00:39:54.000Z",
-   "assumed_live_until": "2026-10-17T03:39:54Z"
+   "text": "LIVE Conversations! - Any Topic, Religion, Politics, Gaming, News, Life, Relationships etc! https://t.co/Kz1eTzRTz7",
+   "started_at": "2026-10-17T03:06:00.000Z",
+   "assumed_live_until": "2026-10-17T06:06:00Z"
   },
   {
    "post_id": "2111262724684697987",
@@ -45,16 +45,6 @@
    "assumed_live_until": "2026-10-17T04:07:13Z"
   },
   {
-   "post_id": "2111292617984233497",
-   "post_url": "https://x.com/Yugi601/status/2111292617984233497",
-   "name": "Yugi601",
-   "username": "Yugi601",
-   "verified_type": "blue",
-   "text": "LIVE Conversations! - Any Topic, Religion, Politics, Gaming, News, Life, Relationships etc! https://t.co/Kz1eTzRTz7",
-   "started_at": "2026-10-17T03:06:00.000Z",
-   "assumed_live_until": "2026-10-17T06:06:00Z"
-  },
-  {
    "post_id": "2111277116931309764",
    "post_url": "https://x.com/the_hindu/status/2111277116931309764",
    "name": "The Hindu",
@@ -65,16 +55,6 @@
    "assumed_live_until": "2026-10-17T05:04:24Z"
   },
   {
-   "post_id": "2111255161746407878",
-   "post_url": "https://x.com/robnoerr/status/2111255161746407878",
-   "name": "Rob Noerr",
-   "username": "robnoerr",
-   "verified_type": "blue",
-   "text": "Debate day wrap up! 10-16-26 https://t.co/NFlkX3hCoy",
-   "started_at": "2026-10-17T00:37:10.000Z",
-   "assumed_live_until": "2026-10-17T03:37:10Z"
-  },
-  {
    "post_id": "2111277551503175858",
    "post_url": "https://x.com/TheMarcJohnNFL/status/2111277551503175858",
    "name": "Marcus Johnson",
@@ -83,6 +63,26 @@
    "text": "TDL#Raiders  Show: Friday Night Live with latest Raiders News and Live Q&A https://t.co/Ga4B8GY6wU",
    "started_at": "2026-10-17T02:06:08.000Z",
    "assumed_live_until": "2026-10-17T05:06:08Z"
+  },
+  {
+   "post_id": "2111260989350084775",
+   "post_url": "https://x.com/dahboo7/status/2111260989350084775",
+   "name": "Dahboo7 🎙",
+   "username": "dahboo7",
+   "verified_type": "blue",
+   "text": "🔴UNDERGROUND WORLD NEWS LIVE 10/16/26 https://t.co/91akaAe6ia",
+   "started_at": "2026-10-17T01:00:19.000Z",
+   "assumed_live_until": "2026-10-17T04:00:19Z"
+  },
+  {
+   "post_id": "2111269323541221629",
+   "post_url": "https://x.com/JayViperTV/status/2111269323541221629",
+   "name": "JayViper",
+   "username": "JayViperTV",
+   "verified_type": "blue",
+   "text": "We will have FLYING CARS! Angry Joe CRASHES OUT on Asmongold! Yotei sales news! | The Viper Byte 152 https://t.co/M01r6rWOYq",
+   "started_at": "2026-10-17T01:33:26.000Z",
+   "assumed_live_until": "2026-10-17T04:33:26Z"
   }
  ]
 }
