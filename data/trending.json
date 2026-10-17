@@ -1,26 +1,36 @@
 {
- "built_at": "2026-10-17T15:42:33Z",
- "news_fetched_at": "2026-10-17T15:42:30Z",
- "trends_fetched_at": "2026-10-17T15:42:30Z",
+ "built_at": "2026-10-17T16:51:45Z",
+ "news_fetched_at": "2026-10-17T16:51:00Z",
+ "trends_fetched_at": "2026-10-17T16:51:00Z",
  "source": "X News (x.search_news) and US trends (x.get_trends_by_woeid 23424977). Story summaries are written by X/Grok from posts on X and may evolve.",
  "stories": [
   {
-   "id": "2111479305222181033",
-   "headline": "Progressives Clash Over Party Loyalty and 2028 Voting Strategy",
-   "hook": "A political commentator's video urging Democrats to stick together despite flaws drew sharp pushback from leftists frustrated with the two-party system.",
-   "summary": "Winter's October 15 clip, pushing acceptance of Democratic choices, prompted accusations of 'blue no matter who' thinking and claims she's more liberal than leftist. Critics highlighted her past wealth from MAGA audiences and warned against strategic voting that could enable a Trump third term or a Newsom nomination. Supporters see it as pragmatic in a flawed system, while detractors argue it erodes principles and blocks building stronger alternatives like European Greens.",
-   "updated_at": "2026-10-17T15:36:28.000Z",
-   "url": "https://x.com/i/trending/2111479305222181033",
+   "id": "2110822122213773594",
+   "headline": "Midterm Voters Rally Behind Republicans to Oppose Democrats",
+   "hook": "With November 3 midterms just weeks away, posts like Steven Ertelt's declaration—'I'm voting Red because Democrats are evil'—are drawing massive likes and shares from those framing the choice as a stark necessity.",
+   "summary": "Social media is filled with calls to vote Republican in the 2026 midterms, not for GOP perfection, but as urgent opposition to Democrats on issues like the economy, borders, and culture. Voices like Julie Borowski's 'I'm not suicidally principled' and Mike Engleman's echo that friends back red because Democrats seem 'evil and insane,' amid elections deciding all 435 House seats and 35 Senate seats where Republicans hold slim majorities. Critics call the rhetoric unprincipled or silly, as early voting begins and Trump rallies turnout in key areas, with inflation and foreign policy on voters' minds.",
+   "updated_at": "2026-10-17T16:43:41.000Z",
+   "url": "https://x.com/i/trending/2110822122213773594",
    "topics": [],
    "post_urls": []
   },
   {
-   "id": "2111473628412076358",
-   "headline": "Republican Supporters Push Vote Red Ahead of 2026 Midterms",
-   "hook": "With November 3 approaching, Republican backers are flooding feeds with bold calls to vote red, tying it to a booming economy under Trump's second term.",
-   "summary": "All 435 House seats and 35 Senate seats are up for grabs as supporters aim to protect Republican majorities. They highlight Democratic shortcomings, like a lack of strong candidates and enthusiasm, while pointing to the S&P 500's 30% rise from late 2024 to September 2026. Eye-catching visuals—from red hot air balloons to neon signs—urge high turnout to keep the wins coming, even as analysts note the usual midterm hurdles for the president's party.",
-   "updated_at": "2026-10-17T15:14:02.000Z",
-   "url": "https://x.com/i/trending/2111473628412076358",
+   "id": "2111131893630702023",
+   "headline": "State Department Pushes America First Policy Under Rubio",
+   "hook": "Secretary Marco Rubio stands firm in a dark suit and sunglasses, declaring foreign policy will always put America first—no exceptions.",
+   "summary": "The U.S. Department of State has rolled out bold America First messaging, featuring graphics of Rubio against the department seal with captions like 'America First. Always.' and promises to use all elements of American power for U.S. interests. Early actions include cutting foreign aid that doesn't align with national priorities, freeing detained Americans, and countering China's influence in the Western Hemisphere. While supporters see it as common sense that boosts leverage, critics edit graphics to claim favoritism toward Israel and question consistency in Middle East policy.",
+   "updated_at": "2026-10-17T15:48:16.000Z",
+   "url": "https://x.com/i/trending/2111131893630702023",
+   "topics": [],
+   "post_urls": []
+  },
+  {
+   "id": "2111321144070422879",
+   "headline": "Partisan Clash Intensifies Over Election Security Measures",
+   "hook": "House Speaker Mike Johnson drew a clear line: 'Only Americans should be deciding American elections.' His words captured the heated divide as midterms loom just weeks away.",
+   "summary": "Johnson pointed out that 213 House Democrats voted against bills to secure elections, including the SAVE America Act passed in February 2026 on a 218-213 vote, which requires proof of citizenship to register and photo ID to vote. Republicans cite DOJ cases of non-citizen voting as reason for these safeguards, while critics argue they create unnecessary barriers since federal law already mandates citizenship and such incidents are rare. Pressure builds on Senate Majority Leader John Thune to advance the measures amid GOP tensions, all against voter data showing Democrats leading in registrations and polls favoring their House gains on November 3.",
+   "updated_at": "2026-10-17T05:04:43.000Z",
+   "url": "https://x.com/i/trending/2111321144070422879",
    "topics": [],
    "post_urls": []
   },
@@ -73,34 +83,36 @@
    "url": "https://x.com/i/trending/2110536840919069134",
    "topics": [],
    "post_urls": []
-  },
-  {
-   "id": "2110822122213773594",
-   "headline": "Midterm Voters Back Republicans as Lesser Evil Ahead of November 3",
-   "hook": "With Election Day just weeks away, many online voices are rallying for Republican votes, admitting the party's flaws but seeing Democrats as far worse.",
-   "summary": "Posts from figures like Steven Ertelt of LifeNews.com declare support for Republicans 'not because they are perfect' but because 'Democrats are evil,' a view echoed by Julie Borowski's line about not being 'suicidally principled.' Graphics urge 'VOTE RED ALL THE WAY DOWN THE TICKET' with eagles, flags, and Trump calling to 'save America' on November 3, 2026, when all 435 House seats and 35 Senate seats are up for grabs. Yet polls show Democrats leading the generic ballot by six points amid a Republican enthusiasm gap, as the 'lesser of two evils' talk reveals sharp partisan lines.",
-   "updated_at": "2026-10-16T17:00:24.000Z",
-   "url": "https://x.com/i/trending/2110822122213773594",
-   "topics": [],
-   "post_urls": []
   }
  ],
  "trends": [
   {
-   "name": "Good Saturday",
-   "url": "https://x.com/search?q=Good%20Saturday"
+   "name": "Lamine",
+   "url": "https://x.com/search?q=Lamine"
   },
   {
-   "name": "Munoz",
-   "url": "https://x.com/search?q=Munoz"
+   "name": "Hoover",
+   "url": "https://x.com/search?q=Hoover"
   },
   {
-   "name": "Isak",
-   "url": "https://x.com/search?q=Isak"
+   "name": "Ohio State",
+   "url": "https://x.com/search?q=Ohio%20State"
   },
   {
-   "name": "Everton",
-   "url": "https://x.com/search?q=Everton"
+   "name": "Ohio State",
+   "url": "https://x.com/search?q=Ohio%20State"
+  },
+  {
+   "name": "Julian Sayin",
+   "url": "https://x.com/search?q=Julian%20Sayin"
+  },
+  {
+   "name": "No Kings",
+   "url": "https://x.com/search?q=No%20Kings"
+  },
+  {
+   "name": "Barcola",
+   "url": "https://x.com/search?q=Barcola"
   },
   {
    "name": "Brentford",
@@ -111,40 +123,28 @@
    "url": "https://x.com/search?q=Foster"
   },
   {
-   "name": "Gameday",
-   "url": "https://x.com/search?q=Gameday"
+   "name": "Isak",
+   "url": "https://x.com/search?q=Isak"
   },
   {
-   "name": "No Kings",
-   "url": "https://x.com/search?q=No%20Kings"
+   "name": "#GoBucks",
+   "url": "https://x.com/search?q=%23GoBucks"
   },
   {
-   "name": "#Caturday",
-   "url": "https://x.com/search?q=%23Caturday"
+   "name": "Gus Johnson",
+   "url": "https://x.com/search?q=Gus%20Johnson"
   },
   {
-   "name": "Buckeyes",
-   "url": "https://x.com/search?q=Buckeyes"
+   "name": "Munoz",
+   "url": "https://x.com/search?q=Munoz"
   },
   {
-   "name": "#SaturdayVibes",
-   "url": "https://x.com/search?q=%23SaturdayVibes"
+   "name": "Haaland",
+   "url": "https://x.com/search?q=Haaland"
   },
   {
-   "name": "Pedro Neto",
-   "url": "https://x.com/search?q=Pedro%20Neto"
-  },
-  {
-   "name": "Jacquet",
-   "url": "https://x.com/search?q=Jacquet"
-  },
-  {
-   "name": "#BRELIV",
-   "url": "https://x.com/search?q=%23BRELIV"
-  },
-  {
-   "name": "Barcola",
-   "url": "https://x.com/search?q=Barcola"
+   "name": "Good Saturday",
+   "url": "https://x.com/search?q=Good%20Saturday"
   }
  ]
 }

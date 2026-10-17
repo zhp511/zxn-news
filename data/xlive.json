@@ -1,9 +1,19 @@
 {
- "built_at": "2026-10-17T16:28:36Z",
- "searched_at": "2026-10-17T16:28:00Z",
+ "built_at": "2026-10-17T16:51:45Z",
+ "searched_at": "2026-10-17T16:51:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
+  {
+   "post_id": "2111499662352072782",
+   "post_url": "https://x.com/Republicans/status/2111499662352072782",
+   "name": "Republicans",
+   "username": "Republicans",
+   "verified_type": "blue",
+   "text": "Midterm Rally in Highland Heights, Kentucky featuring President Donald J. Trump https://t.co/OijhqmqP5a",
+   "started_at": "2026-10-17T16:48:43.000Z",
+   "assumed_live_until": "2026-10-17T19:48:43Z"
+  },
   {
    "post_id": "2111462338754970086",
    "post_url": "https://x.com/rolandsmartin/status/2111462338754970086",
@@ -35,6 +45,16 @@
    "assumed_live_until": "2026-10-17T17:02:21Z"
   },
   {
+   "post_id": "2111496031565500625",
+   "post_url": "https://x.com/magnonewslive/status/2111496031565500625",
+   "name": "MAGNO NEWS LIVE",
+   "username": "magnonewslive",
+   "verified_type": "blue",
+   "text": "🇺🇸 President Trump Delivers Remarks in Kentucky at Midterms MAGA Rally in Highland Heights [LIVE] https://t.co/n8fEgMzQAA",
+   "started_at": "2026-10-17T16:34:18.000Z",
+   "assumed_live_until": "2026-10-17T19:34:18Z"
+  },
+  {
    "post_id": "2111460117820399954",
    "post_url": "https://x.com/realjamesrossi/status/2111460117820399954",
    "name": "James Rossi 🇺🇸",
@@ -43,26 +63,6 @@
    "text": "🚨LIVE: President Trump Holds a Rally in Highland Heights, KY - 10/17/26 https://t.co/IXcq4uE0Nd",
    "started_at": "2026-10-17T14:11:35.000Z",
    "assumed_live_until": "2026-10-17T17:11:35Z"
-  },
-  {
-   "post_id": "2111483954440355951",
-   "post_url": "https://x.com/TheMcFiles45/status/2111483954440355951",
-   "name": "The McFiles Faith And News Network/Christopher Mc",
-   "username": "TheMcFiles45",
-   "verified_type": "blue",
-   "text": "Tulsa Gathering - Broken Arrow The Warfare In The Heavenlies - Israel, Church, America https://t.co/1KLcpnB4mK",
-   "started_at": "2026-10-17T15:46:18.000Z",
-   "assumed_live_until": "2026-10-17T18:46:18Z"
-  },
-  {
-   "post_id": "2111463384680169833",
-   "post_url": "https://x.com/afshanhashmi/status/2111463384680169833",
-   "name": "Dr. Afshan Hashmi",
-   "username": "afshanhashmi",
-   "verified_type": "blue",
-   "text": "Dr Afshan Hashmi announces President Trump as modern Day Sir Syed Ahmad Khan-by Dr.Afshan  Hashmi https://t.co/RJuFWHC6nj",
-   "started_at": "2026-10-17T14:24:34.000Z",
-   "assumed_live_until": "2026-10-17T17:24:34Z"
   },
   {
    "post_id": "2111487426623623515",
@@ -75,14 +75,14 @@
    "assumed_live_until": "2026-10-17T19:00:06Z"
   },
   {
-   "post_id": "2111487691581976775",
-   "post_url": "https://x.com/Scramblepad/status/2111487691581976775",
-   "name": "\" SCRAMBLEPAD \"",
-   "username": "Scramblepad",
-   "verified_type": "none",
-   "text": "LIVE: President Trump Holds a Rally in Highland Heights, KY -   10/17/26 SATURDAY  \n\nhttps://t.co/haenIWhmwy\\ \n\nhttps://t.co/f9IEj8DDLf https://t.co/JccifLAZkp",
-   "started_at": "2026-10-17T16:01:09.000Z",
-   "assumed_live_until": "2026-10-17T19:01:09Z"
+   "post_id": "2111463384680169833",
+   "post_url": "https://x.com/afshanhashmi/status/2111463384680169833",
+   "name": "Dr. Afshan Hashmi",
+   "username": "afshanhashmi",
+   "verified_type": "blue",
+   "text": "Dr Afshan Hashmi announces President Trump as modern Day Sir Syed Ahmad Khan-by Dr.Afshan  Hashmi https://t.co/RJuFWHC6nj",
+   "started_at": "2026-10-17T14:24:34.000Z",
+   "assumed_live_until": "2026-10-17T17:24:34Z"
   }
  ]
 }
