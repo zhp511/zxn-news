@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-17T14:41:46Z",
- "searched_at": "2026-10-17T14:41:30Z",
+ "built_at": "2026-10-17T15:02:17Z",
+ "searched_at": "2026-10-17T15:02:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -35,16 +35,6 @@
    "assumed_live_until": "2026-10-17T16:07:27Z"
   },
   {
-   "post_id": "2111426170646638922",
-   "post_url": "https://x.com/teslamillion/status/2111426170646638922",
-   "name": "Cool X Media Group",
-   "username": "teslamillion",
-   "verified_type": "blue",
-   "text": "ELECTION 2026 WATCH https://t.co/xSlR35zyCH",
-   "started_at": "2026-10-17T11:56:42.000Z",
-   "assumed_live_until": "2026-10-17T14:56:42Z"
-  },
-  {
    "post_id": "2111460117820399954",
    "post_url": "https://x.com/realjamesrossi/status/2111460117820399954",
    "name": "James Rossi 🇺🇸",
@@ -65,6 +55,26 @@
    "assumed_live_until": "2026-10-17T17:24:34Z"
   },
   {
+   "post_id": "2111469468362617311",
+   "post_url": "https://x.com/Scramblepad/status/2111469468362617311",
+   "name": "\" SCRAMBLEPAD \"",
+   "username": "Scramblepad",
+   "verified_type": "none",
+   "text": "LIVE: President Trump Holds a Rally in Highland Heights, KY - \n\n10/17/26 SATURDAY\n\nhttps://t.co/haenIWgOH0\n\\\nhttps://t.co/f9IEj8D5VH https://t.co/5NRR0Tiv4U",
+   "started_at": "2026-10-17T14:48:45.000Z",
+   "assumed_live_until": "2026-10-17T17:48:45Z"
+  },
+  {
+   "post_id": "2111472770584551912",
+   "post_url": "https://x.com/ArminNavabi/status/2111472770584551912",
+   "name": "Armin Navabi",
+   "username": "ArminNavabi",
+   "verified_type": "blue",
+   "text": "Rubio Defends Trump As Vance BACKS Tucker America First Doctrine https://t.co/aJRdsXsfdK",
+   "started_at": "2026-10-17T15:01:52.000Z",
+   "assumed_live_until": "2026-10-17T18:01:52Z"
+  },
+  {
    "post_id": "2111452429321474438",
    "post_url": "https://x.com/MFnn_Official/status/2111452429321474438",
    "name": "General Mike Flynn 45 Achieved 🇺🇸",
@@ -73,16 +83,6 @@
    "text": "https://t.co/6JfvEOZmX1\nLo-fi beats & billion-dollar investments to build America's Golden Age. 💸🎶\n\nSit back, relax & enjoy the soothing sound of trillions pouring into America this Friday.",
    "started_at": "2026-10-17T13:41:02.000Z",
    "assumed_live_until": "2026-10-17T16:41:02Z"
-  },
-  {
-   "post_id": "2111426994626060791",
-   "post_url": "https://x.com/GBNEWS/status/2111426994626060791",
-   "name": "GB News",
-   "username": "GBNEWS",
-   "verified_type": "business",
-   "text": "GB News https://t.co/qNWy2mkdAB",
-   "started_at": "2026-10-17T11:59:58.000Z",
-   "assumed_live_until": "2026-10-17T14:59:58Z"
   }
  ]
 }
