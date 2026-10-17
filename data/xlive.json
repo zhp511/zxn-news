@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-17T02:18:41Z",
- "searched_at": "2026-10-17T02:18:30Z",
+ "built_at": "2026-10-17T02:37:24Z",
+ "searched_at": "2026-10-17T02:37:24Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -23,16 +23,6 @@
    "text": "🚨LIVE: Is America Facing Problems Because It's a Christian Nation or Non-Christian Nation? https://t.co/GMqvp1TN2f",
    "started_at": "2026-10-17T01:48:45.000Z",
    "assumed_live_until": "2026-10-17T04:48:45Z"
-  },
-  {
-   "post_id": "2111239488978722849",
-   "post_url": "https://x.com/magnonewslive/status/2111239488978722849",
-   "name": "MAGNO NEWS LIVE",
-   "username": "magnonewslive",
-   "verified_type": "blue",
-   "text": "🇺🇸 President Donald Trump briefs press at the White House before MAGA rally in Dalton, Georgia https://t.co/NVIAIjTnv8",
-   "started_at": "2026-10-16T23:34:53.000Z",
-   "assumed_live_until": "2026-10-17T02:34:53Z"
   },
   {
    "post_id": "2111245833144533204",
@@ -83,6 +73,16 @@
    "text": "THIS IS GENNNYYYY white house is live posting about investements sending fees to the white house for there dept https://t.co/o8gJ35ON4Y",
    "started_at": "2026-10-17T00:30:40.000Z",
    "assumed_live_until": "2026-10-17T03:30:40Z"
+  },
+  {
+   "post_id": "2111277116931309764",
+   "post_url": "https://x.com/the_hindu/status/2111277116931309764",
+   "name": "The Hindu",
+   "username": "the_hindu",
+   "verified_type": "blue",
+   "text": "AISA president Neha Bora reacts after release from detention by Delhi Police https://t.co/aVh91vQ3Wt",
+   "started_at": "2026-10-17T02:04:24.000Z",
+   "assumed_live_until": "2026-10-17T05:04:24Z"
   }
  ]
 }
