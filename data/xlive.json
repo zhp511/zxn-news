@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-17T18:26:00Z",
- "searched_at": "2026-10-17T18:25:00Z",
+ "built_at": "2026-10-17T18:41:14Z",
+ "searched_at": "2026-10-17T18:41:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -15,14 +15,14 @@
    "assumed_live_until": "2026-10-17T20:05:19Z"
   },
   {
-   "post_id": "2111521318952976810",
-   "post_url": "https://x.com/FoxNews/status/2111521318952976810",
+   "post_id": "2111526798819491982",
+   "post_url": "https://x.com/FoxNews/status/2111526798819491982",
    "name": "Fox News",
    "username": "FoxNews",
    "verified_type": "blue",
-   "text": "WATCH LIVE: Kansas GOP bus tour hits final leg in tight Senate battle https://t.co/F0I43raJyR",
-   "started_at": "2026-10-17T18:14:47.000Z",
-   "assumed_live_until": "2026-10-17T21:14:47Z"
+   "text": "WATCH LIVE: Dem Senate nominee Abdul El-Sayed rallies voters at Michigan town hall https://t.co/B4ew6rnnvf",
+   "started_at": "2026-10-17T18:36:33.000Z",
+   "assumed_live_until": "2026-10-17T21:36:33Z"
   },
   {
    "post_id": "2111499662352072782",
