@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-17T22:33:05Z",
- "searched_at": "2026-10-17T22:32:00Z",
+ "built_at": "2026-10-17T22:49:13Z",
+ "searched_at": "2026-10-17T22:48:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -65,6 +65,16 @@
    "assumed_live_until": "2026-10-17T23:10:14Z"
   },
   {
+   "post_id": "2111585623853400101",
+   "post_url": "https://x.com/ScarvesNSpikes/status/2111585623853400101",
+   "name": "Scarves and Spikes",
+   "username": "ScarvesNSpikes",
+   "verified_type": "blue",
+   "text": "LIVE: Atlanta United vs. Inter Miami Prematch Show: Lineups, Injury News & Predictions https://t.co/0HRPy7mwS2",
+   "started_at": "2026-10-17T22:30:18.000Z",
+   "assumed_live_until": "2026-10-18T01:30:18Z"
+  },
+  {
    "post_id": "2111557472712278343",
    "post_url": "https://x.com/bostonbroadside/status/2111557472712278343",
    "name": "Boston_Broadside",
@@ -73,16 +83,6 @@
    "text": "https://t.co/gRkAltUetu \nMike Walsh for AG vs Andrea Campbell AG in the Oppscore Debate, with or without the candidate.",
    "started_at": "2026-10-17T20:38:26.000Z",
    "assumed_live_until": "2026-10-17T23:38:26Z"
-  },
-  {
-   "post_id": "2111570952270360850",
-   "post_url": "https://x.com/Riley_Ikni/status/2111570952270360850",
-   "name": "Riley-Ghiles l The Amazigh* Startup Advisor",
-   "username": "Riley_Ikni",
-   "verified_type": "blue",
-   "text": "Big news of this week but is meta muse really useful for Startups and business?\nAnswer here 👇\nhttps://t.co/5Gr6cQl6dn",
-   "started_at": "2026-10-17T21:32:00.000Z",
-   "assumed_live_until": "2026-10-18T00:32:00Z"
   }
  ]
 }
