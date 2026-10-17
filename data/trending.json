@@ -1,9 +1,25 @@
 {
- "built_at": "2026-10-17T19:57:56Z",
- "news_fetched_at": "2026-10-17T19:57:56Z",
- "trends_fetched_at": "2026-10-17T19:57:56Z",
+ "built_at": "2026-10-17T21:00:44Z",
+ "news_fetched_at": "2026-10-17T21:00:44Z",
+ "trends_fetched_at": "2026-10-17T21:00:44Z",
  "source": "X News (x.search_news) and US trends (x.get_trends_by_woeid 23424977). Story summaries are written by X/Grok from posts on X and may evolve.",
  "stories": [
+  {
+   "id": "2111500794893893811",
+   "headline": "Republicans Rally Voters with Urgent 'Vote Red' Calls Ahead of 2026 Midterms",
+   "hook": "With Election Day on November 3 just around the corner, Republican supporters are flooding X with bold messages and memes to fire up turnout for GOP candidates across the board.",
+   "summary": "Users like Jamie Bonkiewicz are blunt: 'I don’t give a flying fuck if the polls say Democrats are winning by a landslide. Your ass better still get out and vote.' Posts feature American flags, yard signs, and creative images like Santa facing a turkey, all pushing a straight red ballot to protect core values and counter past low midterm turnout. Cynical Publius boils it down: 'All we have to do is turnout. That’s it.' Meanwhile, progressives hold 'No Kings' events to boost Democratic early voting, as both sides eye control of all 435 House seats and 35 Senate seats in the high-stakes contests.",
+   "updated_at": "2026-10-17T20:27:51.000Z",
+   "url": "https://x.com/i/trending/2111500794893893811",
+   "topics": [
+    "Elections"
+   ],
+   "post_urls": [
+    "https://x.com/i/status/2111451388081287286",
+    "https://x.com/i/status/2111497173368225793",
+    "https://x.com/i/status/2111432089132511300"
+   ]
+  },
   {
    "id": "2111542496685658372",
    "headline": "Stripe CEO Highlights Mutual Pity Across Atlantic",
@@ -11,18 +27,30 @@
    "summary": "On October 17, Stripe CEO Patrick Collison posted about cross-Atlantic pity—Europe viewing the U.S. as sliding into autocracy, and America seeing Europe as weak amid lagging growth and U.S. security pullbacks. Replies ranged from critiques of his framing to warnings that infighting aids rivals like Russia and China, with some noting everyday folks ignore the other's debates. The exchange underscores hardening perceptions even as cooperation stays vital for shared global challenges.",
    "updated_at": "2026-10-17T19:48:54.000Z",
    "url": "https://x.com/i/trending/2111542496685658372",
-   "topics": [],
-   "post_urls": []
+   "topics": [
+    "Politics"
+   ],
+   "post_urls": [
+    "https://x.com/i/status/2111487279349022762",
+    "https://x.com/i/status/2111473606320685472",
+    "https://x.com/i/status/2111511750558548216"
+   ]
   },
   {
-   "id": "2111542493833482285",
-   "headline": "Online Calls Urge Voter Turnout Despite Democratic Poll Leads for 2026 Midterms",
-   "hook": "Polls show Democrats ahead by about 8 points on the generic ballot, yet voices across the spectrum are stressing one simple truth: elections hinge on who actually shows up to vote.",
-   "summary": "With two weeks until November 3, 2026, discussions highlight strong Democratic advantages in House and Senate forecasts, but users from conservatives like Jamie Bonkiewicz—who bluntly warned 'Your ass better still get out and vote'—to left-leaning posters are pushing turnout over poll predictions. Early voting is underway in several states, with events like 'No Kings: Vote Early' on October 17 encouraging absentee requests and in-person plans. The shared message cuts through frustration: participation decides close races, no matter the surveys.",
-   "updated_at": "2026-10-17T19:48:08.000Z",
-   "url": "https://x.com/i/trending/2111542493833482285",
-   "topics": [],
-   "post_urls": []
+   "id": "2111350502780739951",
+   "headline": "Winter's Video Urges Backing Democrats Like Newsom Sparks Leftist Divide",
+   "hook": "Political commentator Winter made a passionate plea in a 59-second clip: hold your nose and vote for Democrats like Gavin Newsom to make any real progress.",
+   "summary": "Posted around mid-October 2026, the video drew sharp backlash from leftists who called it liberal thinking, not true revolution, and rejected supporting figures like Newsom over his Israel stance and other issues. Critics argued that pledging early loyalty two years before 2028 kills leverage for change, while defenders stressed pragmatic voting in a two-party system to avoid handing wins to Republicans. Comedian Jimmy Dore countered by citing historical third-party successes like Abraham Lincoln's run, highlighting fractures in progressive strategy talks.",
+   "updated_at": "2026-10-17T19:35:29.000Z",
+   "url": "https://x.com/i/trending/2111350502780739951",
+   "topics": [
+    "Politics"
+   ],
+   "post_urls": [
+    "https://x.com/i/status/2110840543899156482",
+    "https://x.com/i/status/2111428579666108800",
+    "https://x.com/i/status/2111319182331584631"
+   ]
   },
   {
    "id": "2111535571424420060",
@@ -31,8 +59,30 @@
    "summary": "Social media posts capture voters choosing Republicans to block Democrats they call 'evil and insane,' while others reject Republicans as 'fascist.' Vice President JD Vance drives the message, urging crowds not to vote for those who 'caused these problems' like inflation. The exchange highlights deep polarization ahead of the November 3 midterms, where polls show Democrats leading but early voting hints at tight races in states like North Carolina and Iowa.",
    "updated_at": "2026-10-17T19:21:32.000Z",
    "url": "https://x.com/i/trending/2111535571424420060",
-   "topics": [],
-   "post_urls": []
+   "topics": [
+    "Politics"
+   ],
+   "post_urls": [
+    "https://x.com/i/status/2111224450108547305",
+    "https://x.com/i/status/2111440753809375315",
+    "https://x.com/i/status/2111474674135654662"
+   ]
+  },
+  {
+   "id": "2110934285473448071",
+   "headline": "Partisan Debate Heats Up Over High Gas Prices After Iran Strikes",
+   "hook": "With gas at $4.31 a gallon, drivers feel the pinch from U.S. strikes on Iran that disrupted global oil supplies back in late February.",
+   "summary": "Posts highlight early Biden administration decisions like canceling the Keystone XL pipeline and halting new oil leases, with Rep. Brandon Gill and others blaming those moves for today's costs. Counterarguments note record U.S. crude production of 13.6 million barrels per day in 2025 and fewer refinery closures than claimed. Discussions also tie state gas prices to governors' parties, as voters weigh policy records against geopolitical fallout from the Iran conflict.",
+   "updated_at": "2026-10-17T19:08:43.000Z",
+   "url": "https://x.com/i/trending/2110934285473448071",
+   "topics": [
+    "Politics"
+   ],
+   "post_urls": [
+    "https://x.com/i/status/2111225035738485215",
+    "https://x.com/i/status/2111431344051954169",
+    "https://x.com/i/status/2111482423162904969"
+   ]
   },
   {
    "id": "2111131893630702023",
@@ -41,8 +91,14 @@
    "summary": "The U.S. State Department's social media posts feature Rubio emphasizing 'America First is common sense,' using American power to advance U.S. interests over global institutions. This aligns with actions like cutting $80 billion in foreign aid, slashing USAID programs by 85%, and freeing detained Americans from Russia and Venezuela. Edited images by critics swap 'America' for 'Russia' or 'Israel,' while supporters praise the shift from past multilateral approaches.",
    "updated_at": "2026-10-17T18:55:05.000Z",
    "url": "https://x.com/i/trending/2111131893630702023",
-   "topics": [],
-   "post_urls": []
+   "topics": [
+    "Politics"
+   ],
+   "post_urls": [
+    "https://x.com/i/status/2111159152777085340",
+    "https://x.com/i/status/2111092256514195891",
+    "https://x.com/i/status/2111215870844526804"
+   ]
   },
   {
    "id": "2111504424199770125",
@@ -51,18 +107,14 @@
    "summary": "In January 2026, Cornyn said he saw no benefit in debating before the March 3 Republican primary, dismissing Rep. Wesley Hunt and expecting a contest with Ken Paxton. The primary led to a May 26 runoff, where Paxton won 64% to Cornyn's 36%, ending his Senate bid. On October 17, Cornyn posted that avoiding debates leaves voters uninformed, drawing replies quoting his past stance, criticizing his voting record like a 54% Conservative Review Liberty Score, and celebrating his primary loss with memes labeling him a RINO.",
    "updated_at": "2026-10-17T17:16:59.000Z",
    "url": "https://x.com/i/trending/2111504424199770125",
-   "topics": [],
-   "post_urls": []
-  },
-  {
-   "id": "2111500794893893811",
-   "headline": "Conservatives Rally Online for Red Votes Ahead of 2026 Midterms",
-   "hook": "With November 3 just over two weeks away, voices like Jamie Bonkiewicz's cut through: 'I don’t give a flying fuck if the polls say Democrats are winning by a landslide. Your ass better still get out and vote.'",
-   "summary": "Conservative users are sharing urgent 'Vote Red' messages, patriotic graphics, and calls for straight-ticket Republican support across all 435 House seats, 35 Senate seats, and 39 governorships. Posts from S. Carlin, Emma, KatieBeGoo, and Ben Owen emphasize high turnout and love of country, dismissing polls in favor of personal voting plans. Accompanied by American flag memes, neon signs, and hot air balloons, the activity underscores turnout as key, amid voter priorities like the economy, immigration, and healthcare.",
-   "updated_at": "2026-10-17T17:06:06.000Z",
-   "url": "https://x.com/i/trending/2111500794893893811",
-   "topics": [],
-   "post_urls": []
+   "topics": [
+    "Politics"
+   ],
+   "post_urls": [
+    "https://x.com/i/status/2111448653714145527",
+    "https://x.com/i/status/2111453667102536052",
+    "https://x.com/i/status/2111485760779985239"
+   ]
   },
   {
    "id": "2111500793300087041",
@@ -71,24 +123,24 @@
    "summary": "Sponsored by Rep. Jeff Crank, the nonbinding H. Res. 1490 opposes socialism in all forms, including the Democratic Socialists of America, and reaffirms support for free elections. All 212 Republicans voted yes, while just eight Democrats—Reps. Kathy Castor, Vicente Gonzalez, Henry Cuellar, Darren Soto, Jared Golden, Marie Gluesenkamp Perez, Don Davis, and Gabe Vasquez—joined them, with 192 voting no. The vote ties into election integrity debates via endorsement of the SAVE America Act, and online discussions highlight the numbers as a stark indicator of party stances ahead of future elections.",
    "updated_at": "2026-10-17T17:05:33.000Z",
    "url": "https://x.com/i/trending/2111500793300087041",
-   "topics": [],
-   "post_urls": []
-  },
-  {
-   "id": "2110822122213773594",
-   "headline": "Midterm Voters Rally Behind Republicans to Oppose Democrats",
-   "hook": "With November 3 midterms just weeks away, posts like Steven Ertelt's declaration—'I'm voting Red because Democrats are evil'—are drawing massive likes and shares from those framing the choice as a stark necessity.",
-   "summary": "Social media is filled with calls to vote Republican in the 2026 midterms, not for GOP perfection, but as urgent opposition to Democrats on issues like the economy, borders, and culture. Voices like Julie Borowski's 'I'm not suicidally principled' and Mike Engleman's echo that friends back red because Democrats seem 'evil and insane,' amid elections deciding all 435 House seats and 35 Senate seats where Republicans hold slim majorities. Critics call the rhetoric unprincipled or silly, as early voting begins and Trump rallies turnout in key areas, with inflation and foreign policy on voters' minds.",
-   "updated_at": "2026-10-17T16:43:41.000Z",
-   "url": "https://x.com/i/trending/2110822122213773594",
-   "topics": [],
-   "post_urls": []
+   "topics": [
+    "Politics"
+   ],
+   "post_urls": [
+    "https://x.com/i/status/2111426498204713298",
+    "https://x.com/i/status/2111447783647641629",
+    "https://x.com/i/status/2111472090566045857"
+   ]
   }
  ],
  "trends": [
   {
-   "name": "Arch Manning",
-   "url": "https://x.com/search?q=Arch%20Manning"
+   "name": "Arch",
+   "url": "https://x.com/search?q=Arch"
+  },
+  {
+   "name": "Arch",
+   "url": "https://x.com/search?q=Arch"
   },
   {
    "name": "Indiana",
@@ -103,6 +155,14 @@
    "url": "https://x.com/search?q=Sayin"
   },
   {
+   "name": "Hoover",
+   "url": "https://x.com/search?q=Hoover"
+  },
+  {
+   "name": "Marsh",
+   "url": "https://x.com/search?q=Marsh"
+  },
+  {
    "name": "Jeremiah Smith",
    "url": "https://x.com/search?q=Jeremiah%20Smith"
   },
@@ -111,40 +171,28 @@
    "url": "https://x.com/search?q=Gators"
   },
   {
-   "name": "Nick Marsh",
-   "url": "https://x.com/search?q=Nick%20Marsh"
-  },
-  {
    "name": "Texas",
    "url": "https://x.com/search?q=Texas"
-  },
-  {
-   "name": "Hoover",
-   "url": "https://x.com/search?q=Hoover"
-  },
-  {
-   "name": "Ryan Day",
-   "url": "https://x.com/search?q=Ryan%20Day"
-  },
-  {
-   "name": "Fahey",
-   "url": "https://x.com/search?q=Fahey"
-  },
-  {
-   "name": "Charlie Becker",
-   "url": "https://x.com/search?q=Charlie%20Becker"
   },
   {
    "name": "Macron",
    "url": "https://x.com/search?q=Macron"
   },
   {
-   "name": "#GoBucks",
-   "url": "https://x.com/search?q=%23GoBucks"
+   "name": "Fahey",
+   "url": "https://x.com/search?q=Fahey"
   },
   {
-   "name": "Gus Johnson",
-   "url": "https://x.com/search?q=Gus%20Johnson"
+   "name": "Ryan Day",
+   "url": "https://x.com/search?q=Ryan%20Day"
+  },
+  {
+   "name": "Gabby Williams",
+   "url": "https://x.com/search?q=Gabby%20Williams"
+  },
+  {
+   "name": "Paris",
+   "url": "https://x.com/search?q=Paris"
   }
  ]
 }
