@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-17T08:56:36Z",
- "searched_at": "2026-10-17T08:56:40Z",
+ "built_at": "2026-10-17T09:16:57Z",
+ "searched_at": "2026-10-17T09:17:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -15,6 +15,16 @@
    "assumed_live_until": "2026-10-17T11:28:36Z"
   },
   {
+   "post_id": "2111383139235049895",
+   "post_url": "https://x.com/PoliticalCow/status/2111383139235049895",
+   "name": "Political Cow",
+   "username": "PoliticalCow",
+   "verified_type": "blue",
+   "text": "LIVE: White House View - Security Incident Unfolding https://t.co/vZPkfIIFAe",
+   "started_at": "2026-10-17T09:05:42.000Z",
+   "assumed_live_until": "2026-10-17T12:05:42Z"
+  },
+  {
    "post_id": "2111352644908593187",
    "post_url": "https://x.com/Channel1TVGHA/status/2111352644908593187",
    "name": "ChannelOne TV",
@@ -23,6 +33,16 @@
    "text": "Channel One TV LIVE! Breakfast Daily Weekend | Latest News updates from Ghana | 17th October 2026 https://t.co/uaKK2M40Gz",
    "started_at": "2026-10-17T07:04:32.000Z",
    "assumed_live_until": "2026-10-17T10:04:32Z"
+  },
+  {
+   "post_id": "2111381868721684944",
+   "post_url": "https://x.com/TrophyFpl/status/2111381868721684944",
+   "name": "FPL Mo",
+   "username": "TrophyFpl",
+   "verified_type": "blue",
+   "text": "FPL GW7 DEADLINE STREAM ✅ DOES CHERKI START ❓EARLY TEAM NEWS 🤩 https://t.co/JcS79Aufba",
+   "started_at": "2026-10-17T09:00:39.000Z",
+   "assumed_live_until": "2026-10-17T12:00:39Z"
   },
   {
    "post_id": "2111377488882647381",
@@ -43,6 +63,16 @@
    "text": "#Live: Minister of State for Interior Talal Chaudhry is addressing a news conference in Jaranwala\n@MOIofficialGoP #News #RadioPakistan \n https://t.co/4rKlag9Gxt",
    "started_at": "2026-10-17T08:15:55.000Z",
    "assumed_live_until": "2026-10-17T11:15:55Z"
+  },
+  {
+   "post_id": "2111382224335765581",
+   "post_url": "https://x.com/TheLeedsLens/status/2111382224335765581",
+   "name": "TheLeedsLens",
+   "username": "TheLeedsLens",
+   "verified_type": "blue",
+   "text": "LIVE ON Youtube! | Leeds HUGE Injury News! | Farke On Poor Subs & Leeds vs Man Utd Prediction! | #LUFC News https://t.co/ynn8OOM78z",
+   "started_at": "2026-10-17T09:02:04.000Z",
+   "assumed_live_until": "2026-10-17T12:02:04Z"
   },
   {
    "post_id": "2111352887347687475",
