@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-17T21:39:40Z",
- "searched_at": "2026-10-17T21:39:00Z",
+ "built_at": "2026-10-17T21:59:29Z",
+ "searched_at": "2026-10-17T21:58:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -13,16 +13,6 @@
    "text": "Leftists Play Election Games As California BURNS https://t.co/2xUePmiewN",
    "started_at": "2026-10-17T19:01:05.000Z",
    "assumed_live_until": "2026-10-17T22:01:05Z"
-  },
-  {
-   "post_id": "2111527610341884077",
-   "post_url": "https://x.com/Southern_Sense/status/2111527610341884077",
-   "name": "Annie Ubelis",
-   "username": "Southern_Sense",
-   "verified_type": "blue",
-   "text": "Spotlight on America: Hollywood, Faith and fighting the Red/Green Axis https://t.co/5BfFXsTiK1",
-   "started_at": "2026-10-17T18:39:47.000Z",
-   "assumed_live_until": "2026-10-17T21:39:47Z"
   },
   {
    "post_id": "2111539543987859594",
@@ -83,6 +73,16 @@
    "text": "https://t.co/gRkAltUetu \nMike Walsh for AG vs Andrea Campbell AG in the Oppscore Debate, with or without the candidate.",
    "started_at": "2026-10-17T20:38:26.000Z",
    "assumed_live_until": "2026-10-17T23:38:26Z"
+  },
+  {
+   "post_id": "2111544652478484905",
+   "post_url": "https://x.com/NoticeNearYou/status/2111544652478484905",
+   "name": "Notice Nearby",
+   "username": "NoticeNearYou",
+   "verified_type": "blue",
+   "text": "Notice Nearby: Typhoon Champi, SoCal fires and today's news https://t.co/1PFSH2qtYx",
+   "started_at": "2026-10-17T19:47:30.000Z",
+   "assumed_live_until": "2026-10-17T22:47:30Z"
   }
  ]
 }
