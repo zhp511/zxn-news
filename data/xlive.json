@@ -1,18 +1,18 @@
 {
- "built_at": "2026-10-17T10:27:34Z",
- "searched_at": "2026-10-17T10:27:34Z",
+ "built_at": "2026-10-17T10:44:35Z",
+ "searched_at": "2026-10-17T10:44:30Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
   {
-   "post_id": "2111388167827824782",
-   "post_url": "https://x.com/Fasoladaserver/status/2111388167827824782",
-   "name": "ΦΑΣΟΛΑΔΑ😎",
-   "username": "Fasoladaserver",
+   "post_id": "2111403207851458816",
+   "post_url": "https://x.com/hanz333_/status/2111403207851458816",
+   "name": "Hanz",
+   "username": "hanz333_",
    "verified_type": "blue",
-   "text": "Iraklio web radio.Only 80s. Classic rock radio !!! ❤️https://t.co/pym8uGZMEv #iran #trump #paobc",
-   "started_at": "2026-10-17T09:25:41.000Z",
-   "assumed_live_until": "2026-10-17T12:25:41Z"
+   "text": "Hurricane Pro chillin https://t.co/t1jBtqPUvV",
+   "started_at": "2026-10-17T10:25:27.000Z",
+   "assumed_live_until": "2026-10-17T13:25:27Z"
   },
   {
    "post_id": "2111383139235049895",
@@ -25,16 +25,6 @@
    "assumed_live_until": "2026-10-17T12:05:42Z"
   },
   {
-   "post_id": "2111403207851458816",
-   "post_url": "https://x.com/hanz333_/status/2111403207851458816",
-   "name": "Hanz",
-   "username": "hanz333_",
-   "verified_type": "blue",
-   "text": "Hurricane Pro chillin https://t.co/t1jBtqPUvV",
-   "started_at": "2026-10-17T10:25:27.000Z",
-   "assumed_live_until": "2026-10-17T13:25:27Z"
-  },
-  {
    "post_id": "2111390689112285313",
    "post_url": "https://x.com/LeftysFear/status/2111390689112285313",
    "name": "The Ratio Show: The Working Man's Politics!",
@@ -45,14 +35,14 @@
    "assumed_live_until": "2026-10-17T12:35:42Z"
   },
   {
-   "post_id": "2111397222227247367",
-   "post_url": "https://x.com/IndiaToday/status/2111397222227247367",
-   "name": "IndiaToday",
-   "username": "IndiaToday",
+   "post_id": "2111406323103625572",
+   "post_url": "https://x.com/ANI/status/2111406323103625572",
+   "name": "ANI",
+   "username": "ANI",
    "verified_type": "business",
-   "text": "#Live: Watch #PostMortem with @PoojaShali  as she unfolds the latest crime news #ITLivestream https://t.co/ZCFpXQgpWS",
-   "started_at": "2026-10-17T10:01:40.000Z",
-   "assumed_live_until": "2026-10-17T13:01:40Z"
+   "text": "LIVE: BJP Press Conference by Rajya Sabha MP Tarun Chugh I Bhagwant Mann I Rahul Gandhi \n\n#tarunchugh #aap #bjp #punjab #bhagwantmann #rahulgandhi #news #live https://t.co/bkG4WfPG4T",
+   "started_at": "2026-10-17T10:37:50.000Z",
+   "assumed_live_until": "2026-10-17T13:37:50Z"
   },
   {
    "post_id": "2111390147384385746",
@@ -63,6 +53,16 @@
    "text": "France Protests - LIVE Breaking News Coverage (including Paris) #France #Paris #Protests https://t.co/e5K8sAuvmU",
    "started_at": "2026-10-17T09:33:33.000Z",
    "assumed_live_until": "2026-10-17T12:33:33Z"
+  },
+  {
+   "post_id": "2111397222227247367",
+   "post_url": "https://x.com/IndiaToday/status/2111397222227247367",
+   "name": "IndiaToday",
+   "username": "IndiaToday",
+   "verified_type": "business",
+   "text": "#Live: Watch #PostMortem with @PoojaShali  as she unfolds the latest crime news #ITLivestream https://t.co/ZCFpXQgpWS",
+   "started_at": "2026-10-17T10:01:40.000Z",
+   "assumed_live_until": "2026-10-17T13:01:40Z"
   },
   {
    "post_id": "2111381868721684944",
