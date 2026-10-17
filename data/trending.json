@@ -1,19 +1,9 @@
 {
- "built_at": "2026-10-17T12:30:36Z",
- "news_fetched_at": "2026-10-17T12:30:36Z",
- "trends_fetched_at": "2026-10-17T12:30:36Z",
+ "built_at": "2026-10-17T13:36:01Z",
+ "news_fetched_at": "2026-10-17T13:35:30Z",
+ "trends_fetched_at": "2026-10-17T13:35:30Z",
  "source": "X News (x.search_news) and US trends (x.get_trends_by_woeid 23424977). Story summaries are written by X/Grok from posts on X and may evolve.",
  "stories": [
-  {
-   "id": "2111430831386263911",
-   "headline": "Federal Reserve Data Shows 25% Drop in Black Household Wealth",
-   "hook": "New numbers reveal Black American families saw their median net worth fall from $49,100 in 2022 to $36,800 in 2025, while other groups gained ground.",
-   "summary": "The Center for Economic and Policy Research analyzed the latest Federal Reserve Survey of Consumer Finances, linking the decline to lower home, vehicle, and retirement values, with fewer Black households holding nonfinancial assets. This pullback follows a 60% wealth rise from 2019 to 2022. The data has fueled sharp exchanges over Democratic loyalty among Black voters, with some pointing to urban challenges in cities like Baltimore, Chicago, and Detroit, while others cite historical context and broader economic pressures.",
-   "updated_at": "2026-10-17T12:25:31.000Z",
-   "url": "https://x.com/i/trending/2111430831386263911",
-   "topics": [],
-   "post_urls": []
-  },
   {
    "id": "2111384182597587282",
    "headline": "JD Vance on Presidential Power: 'Who's Gonna Stop Him?'",
@@ -21,6 +11,16 @@
    "summary": "Vance explained that much of U.S. government power flows from the president, who 'just has a lot of authority' because 'the reality is, who's gonna stop him?' He contrasted this with more bureaucratic systems in China or Russia, highlighting how an active president can drive quick change. The comments, amid the Trump administration's push to 'move fast' on policies before courts intervene, split viewers: supporters saw realism in cutting through gridlock, while critics worried about downplaying checks from Congress and courts. Vance also touched on the economy, 2026 midterms, and his undecided 2028 plans.",
    "updated_at": "2026-10-17T09:18:22.000Z",
    "url": "https://x.com/i/trending/2111384182597587282",
+   "topics": [],
+   "post_urls": []
+  },
+  {
+   "id": "2111250225440432153",
+   "headline": "JD Vance Interview Clips Fuel Midterm Messaging Battle",
+   "hook": "JD Vance urged voters to back Republicans fixing economic woes, but critics flipped the clip to rally for Democrats. Another snippet on presidential power stirred fresh worries about limits on authority.",
+   "summary": "In his October 16 interview on The Sean Spicer Show, Vice President Vance touted administration gains on affordability and said Republicans solve problems daily. Detractors shared short excerpts to argue for Democratic votes, while a remark on unchecked presidential authority prompted concerns over checks and balances. The White House countered by directing viewers to the full YouTube interview, which covers economic nationalism and active leadership. This clip war highlights how snippets shape narratives ahead of the November 3 midterms, amid early voting like North Carolina's Democrat lead.",
+   "updated_at": "2026-10-17T06:22:47.000Z",
+   "url": "https://x.com/i/trending/2111250225440432153",
    "topics": [],
    "post_urls": []
   },
@@ -87,64 +87,64 @@
  ],
  "trends": [
   {
-   "name": "Good Saturday",
-   "url": "https://x.com/search?q=Good%20Saturday"
-  },
-  {
-   "name": "IDEA BANK",
-   "url": "https://x.com/search?q=IDEA%20BANK"
-  },
-  {
-   "name": "JAMES THE ULTIMATE PHENOMENON",
-   "url": "https://x.com/search?q=JAMES%20THE%20ULTIMATE%20PHENOMENON"
-  },
-  {
-   "name": "#CORTIS_NOLFest2026",
-   "url": "https://x.com/search?q=%23CORTIS_NOLFest2026"
-  },
-  {
-   "name": "#JAMESUnparalleled",
-   "url": "https://x.com/search?q=%23JAMESUnparalleled"
-  },
-  {
    "name": "Everton",
    "url": "https://x.com/search?q=Everton"
   },
   {
-   "name": "CHAOWESOME",
-   "url": "https://x.com/search?q=CHAOWESOME"
+   "name": "Good Saturday",
+   "url": "https://x.com/search?q=Good%20Saturday"
   },
   {
-   "name": "NOL Festival",
-   "url": "https://x.com/search?q=NOL%20Festival"
+   "name": "Pedro Neto",
+   "url": "https://x.com/search?q=Pedro%20Neto"
+  },
+  {
+   "name": "Emi Martinez",
+   "url": "https://x.com/search?q=Emi%20Martinez"
+  },
+  {
+   "name": "chaowesome",
+   "url": "https://x.com/search?q=chaowesome"
   },
   {
    "name": "#EVECHE",
    "url": "https://x.com/search?q=%23EVECHE"
   },
   {
-   "name": "THE WORLD BETWEEN LINGORM D1",
-   "url": "https://x.com/search?q=THE%20WORLD%20BETWEEN%20LINGORM%20D1"
-  },
-  {
-   "name": "#LingOrmBetweenUsConcertD1",
-   "url": "https://x.com/search?q=%23LingOrmBetweenUsConcertD1"
+   "name": "NOL Festival",
+   "url": "https://x.com/search?q=NOL%20Festival"
   },
   {
    "name": "#SaturdayVibes",
    "url": "https://x.com/search?q=%23SaturdayVibes"
   },
   {
-   "name": "Caicedo",
-   "url": "https://x.com/search?q=Caicedo"
+   "name": "IDEA BANK",
+   "url": "https://x.com/search?q=IDEA%20BANK"
   },
   {
-   "name": "KEEP GOING AMAZING FOURTH",
-   "url": "https://x.com/search?q=KEEP%20GOING%20AMAZING%20FOURTH"
+   "name": "#CORTIS_NOLFest2026",
+   "url": "https://x.com/search?q=%23CORTIS_NOLFest2026"
   },
   {
-   "name": "ACEKEON MAKNAE",
-   "url": "https://x.com/search?q=ACEKEON%20MAKNAE"
+   "name": "JAMES THE ULTIMATE PHENOMENON",
+   "url": "https://x.com/search?q=JAMES%20THE%20ULTIMATE%20PHENOMENON"
+  },
+  {
+   "name": "#LingOrmBetweenUsConcertD1",
+   "url": "https://x.com/search?q=%23LingOrmBetweenUsConcertD1"
+  },
+  {
+   "name": "GAME DAY",
+   "url": "https://x.com/search?q=GAME%20DAY"
+  },
+  {
+   "name": "#Caturday",
+   "url": "https://x.com/search?q=%23Caturday"
+  },
+  {
+   "name": "THE WORLD BETWEEN LINGORM D1",
+   "url": "https://x.com/search?q=THE%20WORLD%20BETWEEN%20LINGORM%20D1"
   }
  ]
 }
