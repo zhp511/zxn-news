@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-17T18:41:14Z",
- "searched_at": "2026-10-17T18:41:00Z",
+ "built_at": "2026-10-17T18:57:49Z",
+ "searched_at": "2026-10-17T18:57:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -75,14 +75,14 @@
    "assumed_live_until": "2026-10-17T21:05:53Z"
   },
   {
-   "post_id": "2111517860199890987",
-   "post_url": "https://x.com/BadlandsMedia_/status/2111517860199890987",
-   "name": "Badlands Media",
-   "username": "BadlandsMedia_",
+   "post_id": "2111517577952579672",
+   "post_url": "https://x.com/magnonewslive/status/2111517577952579672",
+   "name": "MAGNO NEWS LIVE",
+   "username": "magnonewslive",
    "verified_type": "blue",
-   "text": "Badlands Media Special Coverage: President Trump Delivers Remarks from Highland Heights, KY https://t.co/cVhltbTzAV",
-   "started_at": "2026-10-17T18:01:02.000Z",
-   "assumed_live_until": "2026-10-17T21:01:02Z"
+   "text": "🇺🇸 MAGA Majority Force Rally with President Trump in Highland Heights, Kentucky [LIVE] https://t.co/2JehGbiAop",
+   "started_at": "2026-10-17T17:59:55.000Z",
+   "assumed_live_until": "2026-10-17T20:59:55Z"
   }
  ]
 }
