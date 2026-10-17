@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-17T12:35:36Z",
- "searched_at": "2026-10-17T12:36:00Z",
+ "built_at": "2026-10-17T12:52:41Z",
+ "searched_at": "2026-10-17T12:52:30Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -75,14 +75,14 @@
    "assumed_live_until": "2026-10-17T15:02:25Z"
   },
   {
-   "post_id": "2111402939340492835",
-   "post_url": "https://x.com/sandeshnews/status/2111402939340492835",
-   "name": "Sandesh",
-   "username": "sandeshnews",
+   "post_id": "2111437837132603420",
+   "post_url": "https://x.com/pinkun/status/2111437837132603420",
+   "name": "The Pink Un",
+   "username": "pinkun",
    "verified_type": "blue",
-   "text": "Sandesh News https://t.co/fDuWitXR1y",
-   "started_at": "2026-10-17T10:24:23.000Z",
-   "assumed_live_until": "2026-10-17T13:24:23Z"
+   "text": "TEAM NEWS LIVE: Norwich City v Portsmouth https://t.co/LLvUNNc3D9",
+   "started_at": "2026-10-17T12:43:03.000Z",
+   "assumed_live_until": "2026-10-17T15:43:03Z"
   }
  ]
 }
