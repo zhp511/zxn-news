@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-17T23:26:29Z",
- "searched_at": "2026-10-17T23:26:00Z",
+ "built_at": "2026-10-17T23:45:23Z",
+ "searched_at": "2026-10-17T23:45:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -75,14 +75,14 @@
    "assumed_live_until": "2026-10-18T01:24:33Z"
   },
   {
-   "post_id": "2111557472712278343",
-   "post_url": "https://x.com/bostonbroadside/status/2111557472712278343",
-   "name": "Boston_Broadside",
-   "username": "bostonbroadside",
+   "post_id": "2111570952270360850",
+   "post_url": "https://x.com/Riley_Ikni/status/2111570952270360850",
+   "name": "Riley-Ghiles l The Amazigh* Startup Advisor",
+   "username": "Riley_Ikni",
    "verified_type": "blue",
-   "text": "https://t.co/gRkAltUetu \nMike Walsh for AG vs Andrea Campbell AG in the Oppscore Debate, with or without the candidate.",
-   "started_at": "2026-10-17T20:38:26.000Z",
-   "assumed_live_until": "2026-10-17T23:38:26Z"
+   "text": "Big news of this week but is meta muse really useful for Startups and business?\nAnswer here 👇\nhttps://t.co/5Gr6cQl6dn",
+   "started_at": "2026-10-17T21:32:00.000Z",
+   "assumed_live_until": "2026-10-18T00:32:00Z"
   }
  ]
 }
