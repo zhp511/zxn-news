@@ -1,19 +1,9 @@
 {
- "built_at": "2026-10-17T08:22:13Z",
- "news_fetched_at": "2026-10-17T08:22:13Z",
- "trends_fetched_at": "2026-10-17T08:22:13Z",
+ "built_at": "2026-10-17T09:23:25Z",
+ "news_fetched_at": "2026-10-17T09:23:25Z",
+ "trends_fetched_at": "2026-10-17T09:23:25Z",
  "source": "X News (x.search_news) and US trends (x.get_trends_by_woeid 23424977). Story summaries are written by X/Grok from posts on X and may evolve.",
  "stories": [
-  {
-   "id": "2111344437427339335",
-   "headline": "Rubio Defends America First Policy Amid Online Divisions",
-   "hook": "Marco Rubio calls America First policy plain common sense for U.S. interests. Online, supporters cheer while critics spot contradictions in aid and alliances.",
-   "summary": "Secretary of State Marco Rubio told Breitbart News that foreign policy must prioritize what's good for America, strengthening the nation's position. The State Department echoed this with 'America First. Always.' Supporters see it as focusing on U.S. security and citizens over global commitments, but critics label it inconsistent, citing $2.8 billion in aid to Israel for bombs funded by taxpayers and accusations of favoring allies over domestic needs. The split highlights tensions in balancing national priorities with alliances during Trump's second term.",
-   "updated_at": "2026-10-17T06:37:39.000Z",
-   "url": "https://x.com/i/trending/2111344437427339335",
-   "topics": [],
-   "post_urls": []
-  },
   {
    "id": "2111250225440432153",
    "headline": "JD Vance Interview Clips Fuel Midterm Messaging Battle",
@@ -55,6 +45,16 @@
    "post_urls": []
   },
   {
+   "id": "2111107704634716271",
+   "headline": "CNN Polling Analysis Signals Tight Senate Battle for Republicans",
+   "hook": "With Election Day 18 days away, a CNN data dive shows Democrats holding slim leads in key Senate races—but a typical polling error could hand Republicans control.",
+   "summary": "CNN analyst Harry Enten highlighted narrow Democratic edges in battlegrounds like Kansas (tie), Iowa (+1), Maine (+2), Texas (+3), Michigan (+3), and Ohio (+3), noting Democrats need at least three flips for Senate control. Republicans point out that outperforming polls by the historical 3.7-point error flips the map to a 52-48 GOP majority, including wins in Michigan, Texas, and Maine. While forecast models give Democrats a 61% Senate chance and a House edge from a 4-point generic ballot lead, both sides stress turnout amid the razor-thin margins.",
+   "updated_at": "2026-10-16T20:41:39.000Z",
+   "url": "https://x.com/i/trending/2111107704634716271",
+   "topics": [],
+   "post_urls": []
+  },
+  {
    "id": "2110536840919069134",
    "headline": "Harris Calls for Supreme Court Expansion and Electoral College Changes",
    "hook": "On Keke Palmer's podcast, Kamala Harris laid out bold plans for reshaping key U.S. institutions if Democrats take Congress.",
@@ -87,6 +87,14 @@
  ],
  "trends": [
   {
+   "name": "#LingOrmBetweenUsConcertD1",
+   "url": "https://x.com/search?q=%23LingOrmBetweenUsConcertD1"
+  },
+  {
+   "name": "THE WORLD BETWEEN LINGORM D1",
+   "url": "https://x.com/search?q=THE%20WORLD%20BETWEEN%20LINGORM%20D1"
+  },
+  {
    "name": "#PerthSantaFMinMacau",
    "url": "https://x.com/search?q=%23PerthSantaFMinMacau"
   },
@@ -99,20 +107,28 @@
    "url": "https://x.com/search?q=M%C3%B3nica"
   },
   {
-   "name": "You Can See Everything",
-   "url": "https://x.com/search?q=You%20Can%20See%20Everything"
-  },
-  {
    "name": "Johnny Carson",
    "url": "https://x.com/search?q=Johnny%20Carson"
   },
   {
-   "name": "Kimmel",
-   "url": "https://x.com/search?q=Kimmel"
+   "name": "$NUBI",
+   "url": "https://x.com/search?q=%24NUBI"
+  },
+  {
+   "name": "Violet",
+   "url": "https://x.com/search?q=Violet"
   },
   {
    "name": "Heartbeat",
    "url": "https://x.com/search?q=Heartbeat"
+  },
+  {
+   "name": "You Can See Everything",
+   "url": "https://x.com/search?q=You%20Can%20See%20Everything"
+  },
+  {
+   "name": "Kimmel",
+   "url": "https://x.com/search?q=Kimmel"
   },
   {
    "name": "#LaGranjaTraicion",
@@ -123,28 +139,12 @@
    "url": "https://x.com/search?q=Nathan%20Fielder"
   },
   {
+   "name": "Steve Kerr",
+   "url": "https://x.com/search?q=Steve%20Kerr"
+  },
+  {
    "name": "#PFLChicago",
    "url": "https://x.com/search?q=%23PFLChicago"
-  },
-  {
-   "name": "Violet",
-   "url": "https://x.com/search?q=Violet"
-  },
-  {
-   "name": "Kessler",
-   "url": "https://x.com/search?q=Kessler"
-  },
-  {
-   "name": "Purdue",
-   "url": "https://x.com/search?q=Purdue"
-  },
-  {
-   "name": "Jena Bishop",
-   "url": "https://x.com/search?q=Jena%20Bishop"
-  },
-  {
-   "name": "Mamu",
-   "url": "https://x.com/search?q=Mamu"
   }
  ]
 }
