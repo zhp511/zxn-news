@@ -1,7 +1,7 @@
 {
- "built_at": "2026-10-17T23:07:26Z",
- "news_fetched_at": "2026-10-17T23:07:00Z",
- "trends_fetched_at": "2026-10-17T23:07:00Z",
+ "built_at": "2026-10-18T00:07:53Z",
+ "news_fetched_at": "2026-10-18T00:07:30Z",
+ "trends_fetched_at": "2026-10-18T00:07:30Z",
  "source": "X News (x.search_news) and US trends (x.get_trends_by_woeid 23424977). Story summaries are written by X/Grok from posts on X and may evolve.",
  "stories": [
   {
@@ -31,6 +31,16 @@
    "summary": "CNN highlighted narrow Democratic leads or ties in key races like Kansas, Iowa, Maine, Texas, Michigan, and Ohio, where the party needs three net gains for control. Analysts called it a 'siren warning' due to past polling misses that underestimated Republican turnout by about 3.7 points on average. For the House, Democrats hold a 4-point national lead in one poll, with independent models giving them over 80 percent odds of control, though small shifts could change everything. Both sides emphasize turnout as crucial with time running short.",
    "updated_at": "2026-10-17T22:31:19.000Z",
    "url": "https://x.com/i/trending/2111107704634716271",
+   "topics": [],
+   "post_urls": []
+  },
+  {
+   "id": "2111384182597587282",
+   "headline": "JD Vance Defends Presidential Power in White House Interview",
+   "hook": "In a candid White House chat, JD Vance explained how presidents wield broad authority, asking plainly, 'who’s gonna stop him, right?' The line drew quick online pushback.",
+   "summary": "During an interview with Sean Spicer, Vice President Vance highlighted the practical reach of presidential power, contrasting it with bureaucratic systems in China and Russia, and noting how courts didn't always block actions when Republicans held minority status. Critics called the remarks dismissive of constitutional checks, with one saying no one who speaks this way should be president, while supporters see it as backing for decisive leadership from the nation's top elected official. Vance tied the discussion to his midterm campaigning in Michigan, where he attacked Democratic Senate candidate Abdul El-Sayed as a 'little weasel' who lacks gratitude, prompting a defense from El-Sayed about his inclusive vision for America.",
+   "updated_at": "2026-10-17T21:31:20.000Z",
+   "url": "https://x.com/i/trending/2111384182597587282",
    "topics": [],
    "post_urls": []
   },
@@ -73,16 +83,6 @@
    "url": "https://x.com/i/trending/2111504424199770125",
    "topics": [],
    "post_urls": []
-  },
-  {
-   "id": "2111500793300087041",
-   "headline": "House Passes Resolution Condemning Socialism with Sharp Party Divide",
-   "hook": "On September 1, 2026, the U.S. House voted 220-192 to denounce socialism, revealing a clear partisan split that has people poring over the vote tallies.",
-   "summary": "Sponsored by Rep. Jeff Crank, the nonbinding H. Res. 1490 opposes socialism in all forms, including the Democratic Socialists of America, and reaffirms support for free elections. All 212 Republicans voted yes, while just eight Democrats—Reps. Kathy Castor, Vicente Gonzalez, Henry Cuellar, Darren Soto, Jared Golden, Marie Gluesenkamp Perez, Don Davis, and Gabe Vasquez—joined them, with 192 voting no. The vote ties into election integrity debates via endorsement of the SAVE America Act, and online discussions highlight the numbers as a stark indicator of party stances ahead of future elections.",
-   "updated_at": "2026-10-17T17:05:33.000Z",
-   "url": "https://x.com/i/trending/2111500793300087041",
-   "topics": [],
-   "post_urls": []
   }
  ],
  "trends": [
@@ -95,6 +95,14 @@
    "url": "https://x.com/search?q=Georgia"
   },
   {
+   "name": "Tennessee",
+   "url": "https://x.com/search?q=Tennessee"
+  },
+  {
+   "name": "Macron",
+   "url": "https://x.com/search?q=Macron"
+  },
+  {
    "name": "Tommy Carr",
    "url": "https://x.com/search?q=Tommy%20Carr"
   },
@@ -103,40 +111,20 @@
    "url": "https://x.com/search?q=Gunner"
   },
   {
-   "name": "Macron",
-   "url": "https://x.com/search?q=Macron"
-  },
-  {
-   "name": "Bryce Underwood",
-   "url": "https://x.com/search?q=Bryce%20Underwood"
-  },
-  {
-   "name": "Tennessee",
-   "url": "https://x.com/search?q=Tennessee"
-  },
-  {
-   "name": "Rocco Becht",
-   "url": "https://x.com/search?q=Rocco%20Becht"
-  },
-  {
-   "name": "Arch",
-   "url": "https://x.com/search?q=Arch"
-  },
-  {
-   "name": "Michigan",
-   "url": "https://x.com/search?q=Michigan"
+   "name": "WAR DAMN EAGLE",
+   "url": "https://x.com/search?q=WAR%20DAMN%20EAGLE"
   },
   {
    "name": "The French",
    "url": "https://x.com/search?q=The%20French"
   },
   {
-   "name": "Grubb",
-   "url": "https://x.com/search?q=Grubb"
+   "name": "War Eagle",
+   "url": "https://x.com/search?q=War%20Eagle"
   },
   {
-   "name": "Rhyne",
-   "url": "https://x.com/search?q=Rhyne"
+   "name": "Grubb",
+   "url": "https://x.com/search?q=Grubb"
   },
   {
    "name": "#UFCEdmonton",
@@ -145,6 +133,18 @@
   {
    "name": "Paris",
    "url": "https://x.com/search?q=Paris"
+  },
+  {
+   "name": "Bryce",
+   "url": "https://x.com/search?q=Bryce"
+  },
+  {
+   "name": "Texas",
+   "url": "https://x.com/search?q=Texas"
+  },
+  {
+   "name": "Rocco Becht",
+   "url": "https://x.com/search?q=Rocco%20Becht"
   }
  ]
 }
