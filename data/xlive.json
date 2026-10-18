@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-18T00:03:26Z",
- "searched_at": "2026-10-18T00:02:30Z",
+ "built_at": "2026-10-18T00:21:40Z",
+ "searched_at": "2026-10-18T00:21:30Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -13,6 +13,16 @@
    "text": "Marched this morning. Now let’s vote. 🗳️ 4 candidates in 4 states Trump thought he had: @SherrodBrown in Ohio, @hallieshoffner in Arkansas, @ERodforCongress in Florida and @Justinjpearson in Tennessee. Trump country is up for grabs. 17 days, folks. 👇 https://t.co/hEcvSS2KXP",
    "started_at": "2026-10-17T22:27:09.000Z",
    "assumed_live_until": "2026-10-18T01:27:09Z"
+  },
+  {
+   "post_id": "2111609071535321315",
+   "post_url": "https://x.com/ShaykhSulaiman/status/2111609071535321315",
+   "name": "Sulaiman Ahmed",
+   "username": "ShaykhSulaiman",
+   "verified_type": "none",
+   "text": "BLACK HAWK DOWN & SAUDI DRONES DOWN, TRUMP WANTS TO HIT PICKAXE MOUNTAIN w/ CIA Larry Johnson https://t.co/be8WquqAW2",
+   "started_at": "2026-10-18T00:03:29.000Z",
+   "assumed_live_until": "2026-10-18T03:03:29Z"
   },
   {
    "post_id": "2111596897534365824",
@@ -45,16 +55,6 @@
    "assumed_live_until": "2026-10-18T02:13:08Z"
   },
   {
-   "post_id": "2111563895303479738",
-   "post_url": "https://x.com/channelstv/status/2111563895303479738",
-   "name": "Channels Television",
-   "username": "channelstv",
-   "verified_type": "blue",
-   "text": "News At 10 https://t.co/67xmRWZVlG",
-   "started_at": "2026-10-17T21:03:58.000Z",
-   "assumed_live_until": "2026-10-18T00:03:58Z"
-  },
-  {
    "post_id": "2111584173979017237",
    "post_url": "https://x.com/Naded/status/2111584173979017237",
    "name": "Brett Leonard",
@@ -75,14 +75,14 @@
    "assumed_live_until": "2026-10-18T00:32:00Z"
   },
   {
-   "post_id": "2111590600814604767",
-   "post_url": "https://x.com/Forsaken111CJM/status/2111590600814604767",
-   "name": "H.E. Right Hon 2nd PM Christopher J Maffenbeier",
-   "username": "Forsaken111CJM",
+   "post_id": "2111611975319060882",
+   "post_url": "https://x.com/seankelly25/status/2111611975319060882",
+   "name": "Sean Mike Kelly",
+   "username": "seankelly25",
    "verified_type": "blue",
-   "text": "Divina Lex 5, 0036 [October 17, 2026] | QRTRV World News Daily @ 5:00 P.M. CST https://t.co/PKIyCtMhcE",
-   "started_at": "2026-10-17T22:50:05.000Z",
-   "assumed_live_until": "2026-10-18T01:50:05Z"
+   "text": "Farha Khalidi vs Pearl Davis: Is Jane Doe Telling the Truth? | Cornell 7 Debate https://t.co/XQ9fexzRz1",
+   "started_at": "2026-10-18T00:15:01.000Z",
+   "assumed_live_until": "2026-10-18T03:15:01Z"
   }
  ]
 }
